@@ -96,17 +96,33 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604084397332	Marionette	INFO	Listening on port 54201
 1604084397557	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604084464467	geckodriver	INFO	Listening on 127.0.0.1:54265
-1604084467539	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileaRnYGP"
+1604084890478	Marionette	INFO	Stopped listening on port 54201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofileaRnYGP"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604084472992	Marionette	INFO	Listening on port 54273
 1604084473403	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604084499008	geckodriver	INFO	Listening on 127.0.0.1:54333
-1604084502054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilevBWTqU"
+1604084893511	Marionette	INFO	Stopped listening on port 54273
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+l\\Temp\\rust_mozprofilevBWTqU"
 Can't find symbol 'eglSwapBuffersWithDamageEXT'.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604084507513	Marionette	INFO	Listening on port 54341
 1604084507916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604084895206	Marionette	INFO	Stopped listening on port 54341
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

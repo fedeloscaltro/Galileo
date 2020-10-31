@@ -66,6 +66,7 @@ def main():
     """Main function to start the whole scraping action"""
     links_articles = []
 
+    # TODO togliere il "-1" len(page_links) quando si sistema la questione NASA
     for i in range(len(page_links)-1):
         scraper(page_links[i], i, links_articles)
 

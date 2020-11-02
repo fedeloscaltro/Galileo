@@ -1,57 +1,50 @@
 from selenium import webdriver as wd
+from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup as bs
 
 
-driver = wd.Firefox()  # configure webdriver to use Firefox browser
+options = Options()
+options.headless = True # set the option "headless" for the web driver
+driver = wd.Firefox(options=options)  # configure webdriver to use Firefox browser
 
-page_links = []
-
-for k in range(5):
-    page_links.append("https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/(archive)/"+str(k*50))
-
-page_links.append("https://www.blueorigin.com/news/")
-page_links.append("https://www.nasa.gov/topics/humans-in-space")
-
-
-def scraper(p, j, links_articles):
-    """ Function used to scrape and find the right articles that will be indexed
-    @:param p the page to scrape
-    @:param j the index of the list of initial pages
-    @:param links_articles the list of articles to index; initially empty"""
+def esa_scraper(p):
+    """ Function used to scrape and find the right articles that will be indexed in the esa page
+    @:param p the page to scrape"""
 
     driver.get(p)  # to obtain a specified web page
     content = driver.page_source  # get the page content
     soup = bs(content, "html.parser")
-    tmpArticles = []
+    tmpArticles = []    # list of articles links for this site 
 
-    if j < 5:  # if the page refers to one of the ESA website's pages
-        for a in soup.find_all(class_="story", href=True):  # obtain <a> class for the articles
+    for a in soup.find_all(class_="story", href=True):  # obtain <a> class for the articles
             if a.text:
                 tmpArticles.append(a['href'])  # to get the "href" value
 
-        tmpArticles = [p[:19] + i for i in tmpArticles]
+    tmpArticles = [p[:19] + i for i in tmpArticles] # list of links retrieved from esa web page
 
-    elif j == 5:  # if the page refers to the Blue Origin's page
-        for a in soup.find_all(class_="NewsArchive__postTitleLink", href=True):  # obtain <a> class for the articles
-            if a.text:
-                tmpArticles.append(a['href'])  # to get the "href" value
+    return tmpArticles
 
-        tmpArticles = [p + i[8:] for i in tmpArticles]
 
-    '''else:  # if the page refers to the NASA's page
-        # print(soup.find_all(class_="card", href=True))
-        for a in soup.find_all(class_="card", href=True):  # obtain <a> class for the articles
-            if a.text:
-                tmpArticles.append(a['href'])  # to get the "href" value
+def bo_scraper(p):
+    """ Function used to scrape and find the right articles that will be indexed in the blue origin page
+    @:param p the page to scrape"""
 
-        tmpArticles = [p[:20] + i for i in tmpArticles] '''
+    driver.get(p)  # to obtain a specified web page
+    content = driver.page_source  # get the page content
+    soup = bs(content, "html.parser")
+    tmpArticles = []    # list of articles links for this site 
 
-    links_articles.extend(tmpArticles)
-    # print(links_articles)
+    for a in soup.find_all(class_="NewsArchive__postTitleLink", href=True):  # obtain <a> class for the articles
+        if a.text:
+            tmpArticles.append(a['href'])  # to get the "href" value
+
+    tmpArticles = [p + i[8:] for i in tmpArticles] # list of links retrieved from blue origin web page
+
+    return tmpArticles
 
 
 def write_to_file(links_articles):
-    """Function used to write down to one file all the links got from the scraper
+    """Function used to write down to one file all the links got from the scrapers
     @:param links_articles list of the articles to index"""
     file = open("links.txt", "w")
 
@@ -64,10 +57,19 @@ def write_to_file(links_articles):
 
 def main():
     """Main function to start the whole scraping action"""
-    links_articles = []
 
-    for i in range(len(page_links)-1):
-        scraper(page_links[i], i, links_articles)
+    root_esa = "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/(archive)/"   # root of esa site
+    root_bo = "https://www.blueorigin.com/news/"    # root page of blue origin site
+    root_nasa = "https://www.nasa.gov/topics/humans-in-space"   # root page of nasa site
+
+    links_articles = [] # list of all articles links
+
+    i = 5   # index used to set the max page of esa articles
+
+    for k in range(i):
+        links_articles.extend(esa_scraper(root_esa+str(k*50)))  # adding the links retrived from the first "i" esa pages
+    
+    links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the blue origin page
 
     write_to_file(links_articles)
 

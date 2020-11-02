@@ -1,5 +1,6 @@
 from selenium import webdriver as wd
 from selenium.webdriver.firefox.options import Options
+from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup as bs
 
 
@@ -43,6 +44,18 @@ def bo_scraper(p):
     return tmpArticles
 
 
+def nasa_scraper(p):
+
+    driver.get(p)
+
+    for i in range(3):
+        WebDriverWait(driver, timeout=30).until(lambda d: d.find_element_by_id("trending")).click()
+        print(i)
+
+    content = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)
+    print(len(content))
+
+
 def write_to_file(links_articles):
     """Function used to write down to one file all the links got from the scrapers
     @:param links_articles list of the articles to index"""
@@ -66,13 +79,14 @@ def main():
 
     i = 5   # index used to set the max page of esa articles
 
-    for k in range(i):
-        links_articles.extend(esa_scraper(root_esa+str(k*50)))  # adding the links retrived from the first "i" esa pages
+    #for k in range(i):
+    #    links_articles.extend(esa_scraper(root_esa+str(k*50)))  # adding the links retrived from the first "i" esa pages
     
-    links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the blue origin page
+    #links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the blue origin page
 
-    write_to_file(links_articles)
+    #write_to_file(links_articles)
 
+    nasa_scraper(root_nasa)
 
 if __name__ == "__main__":
     main()

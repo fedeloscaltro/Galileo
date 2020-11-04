@@ -10,7 +10,8 @@ driver = wd.Firefox(options=options)  # configure webdriver to use Firefox brows
 
 def esa_scraper(p):
     """Function used to scrape and find the articles indexed in the ESA web pages
-        @:param p the page to scrape"""
+        @:param p the page to scrape
+        @:return tmpArticles temporary list of ESA articles"""
 
     driver.get(p)  # to obtain a specified web page
     content = driver.page_source  # get the page content
@@ -28,7 +29,8 @@ def esa_scraper(p):
 
 def bo_scraper(p):
     """Function used to scrape and find the articles indexed in the Blue Origin web page
-        @:param p the page to scrape"""
+        @:param p the page to scrape
+        @:return tmpArticles temporary list of Blue Origin articles"""
 
     driver.get(p)  # to obtain a specified web page
     content = driver.page_source  # get the page content
@@ -46,7 +48,8 @@ def bo_scraper(p):
 
 def nasa_scraper(p):
     """Function used to scrape and find the articles indexed in the NASA web page
-        @:param p NASA's root page """
+        @:param p NASA's root page
+        @:return tmpArticles temporary list of NASA articles"""
     driver.get(p)
 
     for i in range(11):

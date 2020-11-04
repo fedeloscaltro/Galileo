@@ -448,3 +448,469 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 *** You are running in headless mode.
 1604314998611	Marionette	INFO	Listening on port 43755
 1604314998658	Marionette	WARN	TLS certificate errors will be ignored for this session
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1604487600615	geckodriver	INFO	Listening on 127.0.0.1:61715
+1604487603724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile7J2K68"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604487608663	Marionette	INFO	Listening on port 61724
+1604487609401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604487628142	geckodriver	INFO	Listening on 127.0.0.1:61759
+1604487631215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilePPOdO9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604487636916	Marionette	INFO	Listening on port 61767
+1604487637161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604488196351	geckodriver	INFO	Listening on 127.0.0.1:62012
+1604488199463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileFI6yua"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604488206820	Marionette	INFO	Listening on port 62022
+1604488207315	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604488230093	geckodriver	INFO	Listening on 127.0.0.1:62061
+1604488233170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileFeNoPt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604488242400	Marionette	INFO	Listening on port 62070
+1604488244745	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 80112, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604488882212	geckodriver	INFO	Listening on 127.0.0.1:62269
+1604488885305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileO305c9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604488889370	Marionette	INFO	Listening on port 62278
+1604488889508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489347696	geckodriver	INFO	Listening on 127.0.0.1:62410
+1604489350775	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile4QGf3Y"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489355456	Marionette	INFO	Listening on port 62419
+1604489355604	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489364768	geckodriver	INFO	Listening on 127.0.0.1:62453
+1604489367892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilemGEpF3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489372251	Marionette	INFO	Listening on port 62461
+1604489372720	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489393906	geckodriver	INFO	Listening on 127.0.0.1:62500
+1604489397004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile0bTFaS"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489401842	Marionette	INFO	Listening on port 62510
+1604489402333	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:62550
+1604489425153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCVH15A"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489430134	Marionette	INFO	Listening on port 62558
+1604489430641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489514083	geckodriver	INFO	Listening on 127.0.0.1:62619
+1604489517179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileD2Z1kl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489522837	Marionette	INFO	Listening on port 62630
+1604489523313	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489556687	geckodriver	INFO	Listening on 127.0.0.1:62667
+1604489559753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileNFyp8S"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489565138	Marionette	INFO	Listening on port 62675
+1604489565614	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489573379	geckodriver	INFO	Listening on 127.0.0.1:62714
+1604489576424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileG8CgPm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489580866	Marionette	INFO	Listening on port 62722
+1604489581266	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489688607	geckodriver	INFO	Listening on 127.0.0.1:62802
+1604489691712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileQ4CUYR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489696676	Marionette	INFO	Listening on port 62810
+1604489697076	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489881955	geckodriver	INFO	Listening on 127.0.0.1:62881
+1604489885047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileYJ43Ht"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489890072	Marionette	INFO	Listening on port 62889
+1604489890365	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604489923715	geckodriver	INFO	Listening on 127.0.0.1:62929
+1604489926854	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileMlPcOH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604489931216	Marionette	INFO	Listening on port 62938
+1604489931672	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604490090320	geckodriver	INFO	Listening on 127.0.0.1:63018
+1604490098938	geckodriver	INFO	Listening on 127.0.0.1:63028
+1604490102021	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile0avqM9"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490106316	Marionette	INFO	Listening on port 63036
+1604490106825	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+04490130849	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileeUYDvj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490135766	Marionette	INFO	Listening on port 63083
+1604490136179	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:63132
+1604490195104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilezFZDKC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490200277	Marionette	INFO	Listening on port 63142
+1604490200464	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604490333963	geckodriver	INFO	Listening on 127.0.0.1:63207
+1604490337063	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilekMcjjm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490342137	Marionette	INFO	Listening on port 63215
+1604490342405	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:63263
+1604490400370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileXNXaWc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490404760	Marionette	INFO	Listening on port 63273
+1604490405233	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604490539016	geckodriver	INFO	Listening on 127.0.0.1:63359
+1604490542110	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileUO213x"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490546867	Marionette	INFO	Listening on port 63368
+1604490546932	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604490573250	geckodriver	INFO	Listening on 127.0.0.1:63411
+1604490576323	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilebwI7X4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490581711	Marionette	INFO	Listening on port 63420
+1604490582170	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:63472
+1604490645509	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJYOxzM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490650484	Marionette	INFO	Listening on port 63481
+1604490650868	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604490693935	geckodriver	INFO	Listening on 127.0.0.1:63525
+1604490697010	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileNWawYI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604490702478	Marionette	INFO	Listening on port 63533
+1604490702842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604491201598	geckodriver	INFO	Listening on 127.0.0.1:63748
+1604491204713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileEBJkyY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604491209091	Marionette	INFO	Listening on port 63756
+1604491209603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604491273213	geckodriver	INFO	Listening on 127.0.0.1:63810
+1604491276522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilemOlvaN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604491282872	Marionette	INFO	Listening on port 63818
+1604491283293	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: out of memory
+JavaScript error: resource://services-settings/Database.jsm, line 44: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileaz09AR"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 93308, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604491349868	Marionette	INFO	Listening on port 63881
+1604491350116	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604491358263	geckodriver	INFO	Listening on 127.0.0.1:63919
+1604491361328	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofiledyRD1I"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604491365948	Marionette	INFO	Listening on port 63927
+1604491366175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604491484713	geckodriver	INFO	Listening on 127.0.0.1:63985
+1604491487808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile2MCW7P"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604491492008	Marionette	INFO	Listening on port 63993
+1604491492093	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+04491648978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileepj5Tk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604491654305	Marionette	INFO	Listening on port 64080
+1604491654394	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604491711412	geckodriver	INFO	Listening on 127.0.0.1:64124
+1604491714618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileKzdm08"
+*** You are running in headless mode.
+1604491741573	geckodriver	INFO	Listening on 127.0.0.1:64149
+1604491744808	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileivFf22"
+*** You are running in headless mode.
+out of memory: 0x0000000000000080 bytes requested
+1604492075882	geckodriver	INFO	Listening on 127.0.0.1:64251
+1604492078957	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileKSxhNp"
+*** You are running in headless mode.
+Hit MOZ_CRASH([unhandlable oom] Failed not allocate new chunk during GC) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1198
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+[GFX1-]: Failed buffer for 0, 0, 1366, 768
+[GFX1-]: Failed buffer for 220, 31, 919, 66
+1604492892317	geckodriver	INFO	Listening on 127.0.0.1:51629
+1604492895473	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile1XVLgk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604492900090	Marionette	INFO	Listening on port 51637
+1604492900303	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604496117717	geckodriver	INFO	Listening on 127.0.0.1:55129
+1604496120797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileX5ILX5"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604496124230	Marionette	INFO	Listening on port 55137
+1604496124484	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497187143	geckodriver	INFO	Listening on 127.0.0.1:55261
+1604497190216	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilehsM4mf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497193800	Marionette	INFO	Listening on port 55269
+1604497193939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497268155	geckodriver	INFO	Listening on 127.0.0.1:55312
+1604497271266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileruCB74"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497274994	Marionette	INFO	Listening on port 55320
+1604497275473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497410965	geckodriver	INFO	Listening on 127.0.0.1:55487
+1604497414034	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile9vHJ1a"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497418077	Marionette	INFO	Listening on port 55495
+1604497418288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497544999	geckodriver	INFO	Listening on 127.0.0.1:55571
+1604497548094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilepPZrSN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497551743	Marionette	INFO	Listening on port 55579
+1604497551857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497567044	geckodriver	INFO	Listening on 127.0.0.1:55613
+1604497570124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileYeYSm4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497573823	Marionette	INFO	Listening on port 55621
+1604497574336	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497696014	geckodriver	INFO	Listening on 127.0.0.1:55671
+1604497699094	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileTzA09M"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497703092	Marionette	INFO	Listening on port 55679
+1604497703395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604497723454	geckodriver	INFO	Listening on 127.0.0.1:55723
+1604497726554	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileRTAZBd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604497730303	Marionette	INFO	Listening on port 55731
+1604497730796	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498303202	geckodriver	INFO	Listening on 127.0.0.1:55869
+1604498306316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilejlcmqa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498311930	Marionette	INFO	Listening on port 55877
+1604498312194	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498336757	geckodriver	INFO	Listening on 127.0.0.1:55942
+1604498339851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileFLSDOo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498344908	Marionette	INFO	Listening on port 55950
+1604498345211	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498464092	geckodriver	INFO	Listening on 127.0.0.1:56000
+1604498467176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileHg9QIM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498472174	Marionette	INFO	Listening on port 56008
+1604498472534	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498769336	geckodriver	INFO	Listening on 127.0.0.1:56061
+1604498772469	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilesAB6Ew"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498777124	Marionette	INFO	Listening on port 56069
+1604498777352	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498835497	geckodriver	INFO	Listening on 127.0.0.1:56121
+1604498838595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilejAvAzd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498842995	Marionette	INFO	Listening on port 56129
+1604498843453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604498893109	geckodriver	INFO	Listening on 127.0.0.1:56176
+1604498896190	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileqAFsvH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604498901040	Marionette	INFO	Listening on port 56184
+1604498901547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604509942322	geckodriver	INFO	Listening on 127.0.0.1:56934
+1604509945411	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileSQMAML"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604509948749	Marionette	INFO	Listening on port 56942
+1604509949155	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604516105673	geckodriver	INFO	Listening on 127.0.0.1:58466
+1604516108781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileQa4TiG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604516114029	Marionette	INFO	Listening on port 58474
+1604516114137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604516464406	geckodriver	INFO	Listening on 127.0.0.1:58568
+1604516467486	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCdF6YA"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604516471647	Marionette	INFO	Listening on port 58577
+1604516471728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517142048	geckodriver	INFO	Listening on 127.0.0.1:58744
+1604517145233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilefiaqdc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517150245	Marionette	INFO	Listening on port 58752
+1604517150646	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517165200	geckodriver	INFO	Listening on 127.0.0.1:58813
+1604517168280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile1HIArX"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517173081	Marionette	INFO	Listening on port 58821
+1604517173159	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517198940	geckodriver	INFO	Listening on 127.0.0.1:58881
+1604517202068	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileoqs4F6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517206257	Marionette	INFO	Listening on port 58889
+1604517206353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517258880	geckodriver	INFO	Listening on 127.0.0.1:58958
+1604517262013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileqYZUyk"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517265953	Marionette	INFO	Listening on port 58966
+1604517266282	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517317220	geckodriver	INFO	Listening on 127.0.0.1:59031
+1604517320312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilew8xjYl"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517325485	Marionette	INFO	Listening on port 59039
+1604517325725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517517610	geckodriver	INFO	Listening on 127.0.0.1:59141
+1604517520830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileIdAWWa"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517525332	Marionette	INFO	Listening on port 59149
+1604517525709	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517620333	geckodriver	INFO	Listening on 127.0.0.1:59222
+1604517623420	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileHzsKDn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517628106	Marionette	INFO	Listening on port 59230
+1604517628308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517703440	geckodriver	INFO	Listening on 127.0.0.1:59415
+1604517706650	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilehhyN9f"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517712773	Marionette	INFO	Listening on port 59423
+1604517712835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604517760610	geckodriver	INFO	Listening on 127.0.0.1:59520
+1604517763718	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile77SUyG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604517768796	Marionette	INFO	Listening on port 59529
+1604517769136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604518063827	geckodriver	INFO	Listening on 127.0.0.1:59865
+1604518066920	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileC9KFtB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604518070615	Marionette	INFO	Listening on port 59874
+1604518071166	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604518178830	geckodriver	INFO	Listening on 127.0.0.1:59993
+1604518181901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilekcclFf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604518185241	Marionette	INFO	Listening on port 60016
+1604518185650	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -52,7 +52,7 @@ def nasa_scraper(p):
         @:return tmpArticles temporary list of NASA articles"""
     driver.get(p)
 
-    for i in range(11):
+    for i in range(1):
         WebDriverWait(driver, timeout=30).until(lambda d: d.find_element_by_id("trending")).click()  # wait 'til the whole page is loaded and click the desired button
 
     content = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)  # to get the content of the NASA's page

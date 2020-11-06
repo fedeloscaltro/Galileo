@@ -48,9 +48,7 @@ def esa_extract(soup):
 
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def bo_extract(soup):
@@ -71,55 +69,49 @@ def bo_extract(soup):
 
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def nasa_extract(soup):
     """Function used to extract the text from NASA's articles
     @:param soup the HTML parser"""
 
-    for script in soup(["script", "style"]):  # kill all script and style elements
+    for script in soup(["script", "style", "button", "img"]):  # kill all script and style elements
         script.extract()  # rip it out
 
     for id in soup.findAll('div', attrs={'id': ['ember192', 'footer']}):
         id.extract()
 
-    for cls in soup.findAll('div', attrs={'class': 'editor-info'}):
-        cls.extract()
+    for div in soup.findAll('div', attrs={'class': ['editor-info', 'collapse navbar-collapse ']}):
+        div.extract()
 
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def main():
     """Function called to start the text-extraction procedure"""
 
-    url1 = "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/First_European_Service_Module_for_Orion_finished_assembly"
-    url2 = "https://www.blueorigin.com/news/blue-origin-s-original-charon-flying-vehicle-goes-on-display-at-the-museum-of-flight"
-    url3 = "https://www.nasa.gov/press-release/nasa-names-robyn-gatens-acting-director-for-international-space-station"
-
-    soup = soup_init(url3)
-
     file = open("links.txt", "r")
 
     lines = file.readlines()
 
-    """for url in lines:
-        if url.find("esa.int") != -1:
-            print("ESA")
-        elif url.find("blueorigin.com") != -1:
-            print("BO")
-        else:
-            print("NASA")"""
+    for url in lines:   # dispatcher for the links
+        soup = soup_init(url)   # initialize soup with the url
 
-    esa_extract(soup)
-    bo_extract(soup)
-    nasa_extract(soup)
+        if url.find("https://www.esa.int/") != -1:
+            text = esa_extract(soup)    # extract the text from an esa article
+
+        elif url.find("https://www.blueorigin.com/") != -1:
+            text = bo_extract(soup) # extract the text from a blue origin article
+
+        else:
+            text = nasa_extract(soup)   # extract the text from a nasa article
+
+        text = text_formatting(text)    # formatting the text
+        #print(text)
+        #break
 
 if __name__ == "__main__":
     main()

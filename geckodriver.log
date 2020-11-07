@@ -1285,122 +1285,963 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612006856	Marionette	INFO	Listening on port 62118
 1604612007176	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612165572	geckodriver	INFO	Listening on 127.0.0.1:62156
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62156
 1604612168677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileAKd75i"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612172169	Marionette	INFO	Listening on port 62164
 1604612172444	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612213147	geckodriver	INFO	Listening on 127.0.0.1:62199
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62199
 1604612216257	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileg7JdIV"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612219864	Marionette	INFO	Listening on port 62207
 1604612220028	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612316147	geckodriver	INFO	Listening on 127.0.0.1:62438
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62438
 1604612319232	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileQmnMA0"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612325367	Marionette	INFO	Listening on port 62448
 1604612325868	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612376182	geckodriver	INFO	Listening on 127.0.0.1:62483
-1604612379282	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileWvsHbo"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileWvsHbo"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612384617	Marionette	INFO	Listening on port 62492
 1604612384703	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612427547	geckodriver	INFO	Listening on 127.0.0.1:62527
-1604612430642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileWfABHh"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileWfABHh"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612435342	Marionette	INFO	Listening on port 62535
 1604612435477	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612487782	geckodriver	INFO	Listening on 127.0.0.1:62570
-1604612490927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileLjqfdY"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileLjqfdY"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612495048	Marionette	INFO	Listening on port 62578
 1604612495204	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612530882	geckodriver	INFO	Listening on 127.0.0.1:62621
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62621
 1604612533982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileF3rCCa"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612539111	Marionette	INFO	Listening on port 62629
 1604612539361	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612598107	geckodriver	INFO	Listening on 127.0.0.1:62667
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62667
 1604612601212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileiCS07A"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612605461	Marionette	INFO	Listening on port 62675
 1604612605595	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612623927	geckodriver	INFO	Listening on 127.0.0.1:62709
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62709
 1604612627022	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilek1hCUU"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612631188	Marionette	INFO	Listening on port 62717
 1604612631247	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612647962	geckodriver	INFO	Listening on 127.0.0.1:62752
-1604612651052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileKiBvvZ"
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileKiBvvZ"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612655209	Marionette	INFO	Listening on port 62760
 1604612655296	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612701377	geckodriver	INFO	Listening on 127.0.0.1:62801
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62801
 1604612704497	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileIwnirt"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612708774	Marionette	INFO	Listening on port 62809
 1604612708833	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612725371	geckodriver	INFO	Listening on 127.0.0.1:62842
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62842
 1604612728432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileolrDgY"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612733806	Marionette	INFO	Listening on port 62852
 1604612733908	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612764181	geckodriver	INFO	Listening on 127.0.0.1:62887
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62887
 1604612767230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilehvbVxi"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612772532	Marionette	INFO	Listening on port 62897
 1604612772620	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612796277	geckodriver	INFO	Listening on 127.0.0.1:62933
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62933
 1604612799367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileL3jkTr"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612804142	Marionette	INFO	Listening on port 62942
 1604612804237	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612818632	geckodriver	INFO	Listening on 127.0.0.1:62978
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:62978
 1604612821726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileb86V8B"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612826369	Marionette	INFO	Listening on port 62986
 1604612826574	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612949456	geckodriver	INFO	Listening on 127.0.0.1:63081
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63081
 1604612952592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile1AygCS"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612956645	Marionette	INFO	Listening on port 63091
 1604612956813	Marionette	WARN	TLS certificate errors will be ignored for this session
-1604612976226	geckodriver	INFO	Listening on 127.0.0.1:63122
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:63122
 1604612979307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofiledqrgCf"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1604612983579	Marionette	INFO	Listening on port 63130
 1604612983660	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1604755454747	geckodriver	INFO	Listening on 127.0.0.1:55374
+1604755457917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileH22EmB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755461541	Marionette	INFO	Listening on port 55382
+1604755461647	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604755727567	geckodriver	INFO	Listening on 127.0.0.1:55496
+1604755730722	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile5RygXC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755754266	geckodriver	INFO	Listening on 127.0.0.1:55524
+1604755757355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileb19fWr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755765752	geckodriver	INFO	Listening on 127.0.0.1:55552
+1604755768870	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilextrPho"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755772898	Marionette	INFO	Listening on port 55560
+1604755773110	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604755816234	geckodriver	INFO	Listening on 127.0.0.1:55598
+1604755819330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilew1TtQt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755823630	Marionette	INFO	Listening on port 55608
+1604755823698	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604755834108	geckodriver	INFO	Listening on 127.0.0.1:55643
+1604755837249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCzr3lw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604755840959	Marionette	INFO	Listening on port 55651
+1604755841487	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+ULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756035430	Marionette	INFO	Listening on port 55805
+1604756035933	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+er	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile0QDZMt"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756070626	Marionette	INFO	Listening on port 55860
+1604756071095	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604756111312	geckodriver	INFO	Listening on 127.0.0.1:55912
+1604756114400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilemwDfBq"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756120698	Marionette	INFO	Listening on port 55920
+1604756121080	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+ "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileb0u1G4"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756517374	Marionette	INFO	Listening on port 56024
+1604756518013	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+[GFX1]: ValidateTile failed
+Exiting due to channel error.
+* You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756588896	Marionette	INFO	Listening on port 56092
+1604756589216	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604756704573	geckodriver	INFO	Listening on 127.0.0.1:56165
+1604756707752	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileOlAIii"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756717479	Marionette	INFO	Listening on port 56174
+1604756717820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604756791651	geckodriver	INFO	Listening on 127.0.0.1:56229
+1604756794764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilenM1Peo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756805963	Marionette	INFO	Listening on port 56237
+1604756806794	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604756885449	geckodriver	INFO	Listening on 127.0.0.1:56287
+1604756888579	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilee45vTv"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604756907979	geckodriver	INFO	Listening on 127.0.0.1:56309
+1604756911069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCQbaNr"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756928178	Marionette	INFO	Listening on port 56318
+1604756928496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 18860, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+1604756978524	geckodriver	INFO	Listening on 127.0.0.1:56373
+1604756981635	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilee7dAif"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604756996154	Marionette	INFO	Listening on port 56383
+1604756996697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757167282	geckodriver	INFO	Listening on 127.0.0.1:56491
+1604757170445	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileQeJGuf"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757189713	Marionette	INFO	Listening on port 56499
+1604757190071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757351746	geckodriver	INFO	Listening on 127.0.0.1:56627
+1604757354872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile9b8WVY"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 78124, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604757372246	Marionette	INFO	Listening on port 56636
+1604757372566	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757520986	geckodriver	INFO	Listening on 127.0.0.1:56729
+1604757524269	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileZVfLj7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757537553	Marionette	INFO	Listening on port 56737
+1604757538433	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757578407	geckodriver	INFO	Listening on 127.0.0.1:56824
+1604757581487	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile07INuH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757593566	Marionette	INFO	Listening on port 56833
+1604757594383	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757819883	geckodriver	INFO	Listening on 127.0.0.1:56922
+1604757823053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilei8ntAy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757834469	Marionette	INFO	Listening on port 56930
+1604757834827	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604757850286	geckodriver	INFO	Listening on 127.0.0.1:56997
+1604757853276	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileDH9oXO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757865584	Marionette	INFO	Listening on port 57006
+1604757866269	Marionette	WARN	TLS certificate errors will be ignored for this session
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1604757900822	Marionette	INFO	Stopped listening on port 57001604757903471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileTUT2en"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604757912884	Marionette	INFO	Listening on port 57094
+1604757913375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758048578	geckodriver	INFO	Listening on 127.0.0.1:57174
+1604758051711	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileDqWlv0"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758067291	Marionette	INFO	Listening on port 57184
+1604758067978	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758089102	geckodriver	INFO	Listening on 127.0.0.1:57254
+1604758092076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilexzufE3"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758110075	Marionette	INFO	Listening on port 57263
+1604758110683	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1604758132835	geckodriver	INFO	Listening on 127.0.0.1:57345
+1604758136054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileRcIqXB"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758153559	Marionette	INFO	Listening on port 57353
+1604758154049	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758234214	geckodriver	INFO	Listening on 127.0.0.1:57430
+1604758237217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilekhDLA1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758254804	Marionette	INFO	Listening on port 57438
+1604758255473	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758282204	geckodriver	INFO	Listening on 127.0.0.1:57506
+1604758285290	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJdx1Kc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758301830	Marionette	INFO	Listening on port 57514
+1604758303518	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758438918	geckodriver	INFO	Listening on 127.0.0.1:64288
+1604758442198	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile7hnHZZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758452653	Marionette	INFO	Listening on port 64296
+1604758453237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758571656	geckodriver	INFO	Listening on 127.0.0.1:64381
+1604758574855	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilemTkdAO"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758588016	Marionette	INFO	Listening on port 64389
+1604758589917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758616870	geckodriver	INFO	Listening on 127.0.0.1:64465
+1604758619923	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileyAL0D6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758638901	Marionette	INFO	Listening on port 64475
+1604758639267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604758669125	geckodriver	INFO	Listening on 127.0.0.1:64555
+1604758672279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileet4wPs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604758689355	Marionette	INFO	Listening on port 64563
+1604758689931	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1604758738002	geckodriver	INFO	Listening on 127.0.0.1:64658
+1604758742201	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilehC7xKT"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604758760568	Marionette	INFO	Listening on port 64668
+1604758761155	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 77040, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 545
+Exiting due to channel error.
+s" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileTQ2gad"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759000661	Marionette	INFO	Listening on port 64796
+1604759001090	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:64899
+1604759170778	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileih6jS8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759189963	Marionette	INFO	Listening on port 64907
+1604759190297	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:64970
+1604759237130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile4cJGZH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759252010	Marionette	INFO	Listening on port 64978
+1604759252571	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604759294496	geckodriver	INFO	Listening on 127.0.0.1:65040
+1604759297779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilehybHyd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759319663	Marionette	INFO	Listening on port 65048
+1604759319982	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+1604759532034	geckodriver	INFO	Listening on 127.0.0.1:65176
+1604759535320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileN7Xlzc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759552315	Marionette	INFO	Listening on port 65185
+1604759552625	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Listening on 127.0.0.1:65253
+1604759586344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileU8goQ1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759604203	Marionette	INFO	Listening on port 65261
+1604759604722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604759636951	geckodriver	INFO	Listening on 127.0.0.1:65340
+1604759639996	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileA97J14"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604759656427	Marionette	INFO	Listening on port 65348
+1604759656843	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+04760990057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileyPaN0e"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761004531	Marionette	INFO	Listening on port 49464
+1604761004806	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+04761121451	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileM4EJuH"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761140007	Marionette	INFO	Listening on port 49532
+1604761140410	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604761197295	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604761203134	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604761231997	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1604761577184	geckodriver	INFO	Listening on 127.0.0.1:49696
+1604761580438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilepq6lpK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604761604156	Marionette	INFO	Listening on port 49706
+1604761604362	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604761681901	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: "RemoteSettingsWorker error: out of memory"
+console.error: services.settings: 
+  Message: UnknownError: IndexedDB: security-state/onecrl list() IndexedDB:  execute() The operation failed for reasons unrelated to the database itself and not covered by any other error code.
+DhvoK"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762091240	Marionette	INFO	Listening on port 49894
+1604762091756	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1]: [Tiling:Client] Failed to allocate a TextureClient
+out of memory: 0x0000000000002000 bytes requested
+1604762178026	geckodriver	INFO	Listening on 127.0.0.1:49973
+1604762181098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileScp2WE"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604762193374	Marionette	INFO	Listening on port 49981
+1604762194326	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1604762252041	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+Listening on 127.0.0.1:50193
+1604763193937	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCwiFwx"
+*** You are running in headless mode.
+1604763232295	geckodriver	INFO	Listening on 127.0.0.1:50208
+1604763235400	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileCdpLeZ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763245826	Marionette	INFO	Listening on port 50216
+1604763246442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604763396119	geckodriver	INFO	Listening on 127.0.0.1:50296
+1604763399357	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile2tnue6"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763412544	Marionette	INFO	Listening on port 50304
+1604763413202	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604763449714	geckodriver	INFO	Listening on 127.0.0.1:50354
+1604763452910	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilePT6dm8"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604763468355	Marionette	INFO	Listening on port 50363
+1604763468631	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604763502517	geckodriver	INFO	Listening on 127.0.0.1:50412
+1604763505601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileGMIiOb"
+*** You are running in headless mode.
+[GFX1-]: Failed buffer for 0, 0, 1366, 768JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+out of memory: 0x0000000000000080 bytes requested
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380039,name=PContent::Msg_UpdateSharedData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380027,name=PContent::Msg_PreferenceUpdate) Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x21004D,name=PBrowser::Msg_FlushTabState) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x210001,name=PBrowser::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x38001E,name=PContent::Msg_RegisterChromeItem) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x380146,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x38004D,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2274: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 50104, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+[Parent 50104, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.jsm", 680))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: "Could not load engine google@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine amazon@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ddg@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine bing@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine wikipedia@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.error: "Could not load engine ebay@search.mozilla.org: [Exception... \"AddonManager is not initialized\"  nsresult: \"0xc1f30001 (NS_ERROR_NOT_INITIALIZED)\"  location: \"JS frame :: resource://gre/modules/AddonManager.jsm :: installBuiltinAddon :: line 2550\"  data: no]"
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 554: uncaught exception: 2147500036
+1604765444414	geckodriver	INFO	Listening on 127.0.0.1:60077
+1604765447594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileaFhGDn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765451822	Marionette	INFO	Listening on port 60085
+1604765451996	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604765531814	geckodriver	INFO	Listening on 127.0.0.1:60137
+1604765534908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJCOnzd"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765541325	Marionette	INFO	Listening on port 60146
+1604765541521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604765678654	geckodriver	INFO	Listening on 127.0.0.1:60215
+1604765681729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileyfQNnN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765686011	Marionette	INFO	Listening on port 60223
+1604765686127	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.podbean.com/media/player/abyhy-bfae33?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1 line 1 > injectedScript, line 57: ReferenceError: init is not defined
+1604765962253	geckodriver	INFO	Listening on 127.0.0.1:60343
+1604765965303	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilep5I5rP"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604765971362	Marionette	INFO	Listening on port 60353
+1604765971977	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+1604766403473	geckodriver	INFO	Listening on 127.0.0.1:60464
+1604766406538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileiwhwXy"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766412737	Marionette	INFO	Listening on port 60473
+1604766413267	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.podbean.com/media/player/hp7uv-c3574c?from=usersite&skin=1&share=1&fonts=Helvetica&auto=0&download=1&version=1 line 1 > injectedScript, line 57: ReferenceError: init is not defined
+1604766797473	geckodriver	INFO	Listening on 127.0.0.1:60611
+1604766800568	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileD4XYPg"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604766805364	Marionette	INFO	Listening on port 60620
+1604766805418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://cdn.livestream.com/deploy/apps/production/events/5.2.37/javascripts/require.js, line 1: Error: Script error for "event_embed"
+https://requirejs.org/docs/errors.html#scripterror
+Unable to read VR Path Registry from C:\Users\Federico\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://cdn.livestream.com/deploy/apps/production/events/5.2.37/javascripts/require.js, line 1: Error: Script error for "event_embed"
+https://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.youtube.com/s/player/16e41f55/www-embed-player.vflset/www-embed-player.js, line 815: TypeError: this.f.isExternalMethodAvailable is not a function
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 9487: Error: The adapter operation was aborted
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 4999: uncaught exception: [object Object]
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error
+JavaScript error: https://www.nasa.gov/sites/all/themes/custom/nasatwo/js/vendor.js?, line 5280: Error: More context objects were passed than there are dynamic segments for the route: error

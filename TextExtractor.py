@@ -1,6 +1,7 @@
 from selenium import webdriver as wd
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup as bs
+from selenium.webdriver.support.wait import WebDriverWait
 
 options = Options()
 options.headless = True  # set the option "headless" for the web driver
@@ -13,7 +14,7 @@ def soup_init(url):
     @:return soup the BeautifulSoup object """
 
     driver.get(url)  # to obtain a specified web page
-    html = driver.page_source  # get the page content
+    html = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)  # get the page content
 
     soup = bs(html, features="html.parser")
 
@@ -37,7 +38,7 @@ def esa_extract(soup):
     """Function used to extract the text from ESA's articles
         @:param soup the HTML parser"""
 
-    for script in soup(["script", "style", "section"]):  # kill all script and style elements
+    for script in soup(["script", "style", "section", "figcaption", "ol"]):  # kill all noising elements
         script.extract()    # rip it out
 
     for div in soup.findAll('div', attrs={'class': ['article__video', 'meta article__item', 'share']}):
@@ -46,18 +47,19 @@ def esa_extract(soup):
     for div in soup.findAll('div', attrs={'id': ['cookie_loc']}):
         div.extract()
 
+    for a in soup.findAll('a', attrs={'class': ['flex-prev', 'flex-next', 'flex-active']}):
+        a.extract()
+
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def bo_extract(soup):
     """Function used to extract the text from Blue Origin's articles
         @:param soup the HTML parser"""
 
-    for script in soup(["script", "style", "noscript", "footer"]):  # kill all script and style elements
+    for script in soup(["script", "style", "noscript", "footer"]):  # kill all noising elements
         script.extract()  # rip it out
 
     for a in soup.findAll('a', attrs={'class': 'Btn_skipToContent Cta__Dark'}):
@@ -71,55 +73,56 @@ def bo_extract(soup):
 
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def nasa_extract(soup):
     """Function used to extract the text from NASA's articles
     @:param soup the HTML parser"""
 
-    for script in soup(["script", "style"]):  # kill all script and style elements
+    for script in soup(["script", "style", "button", "img", "form", "aside"]):  # kill all noising elements
         script.extract()  # rip it out
 
-    for id in soup.findAll('div', attrs={'id': ['ember192', 'footer']}):
+    for id in soup.findAll('div', attrs={'id': ['ember192', 'footer', 'navbar']}):
         id.extract()
 
-    for cls in soup.findAll('div', attrs={'class': 'editor-info'}):
-        cls.extract()
+    for div in soup.findAll('div', attrs={'class': ['editor-info', 'collapse navbar-collapse ', 'pr-contacts',
+                                                    'addthis-wrap pull-right', 'pr-promo-release-type-id']}):
+        div.extract()
 
     text = soup.get_text()  # get text
 
-    text = text_formatting(text)
-
-    print(text)
+    return text
 
 
 def main():
     """Function called to start the text-extraction procedure"""
 
-    url1 = "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/First_European_Service_Module_for_Orion_finished_assembly"
-    url2 = "https://www.blueorigin.com/news/blue-origin-s-original-charon-flying-vehicle-goes-on-display-at-the-museum-of-flight"
-    url3 = "https://www.nasa.gov/press-release/nasa-names-robyn-gatens-acting-director-for-international-space-station"
+    with open("links.txt", "r") as file:    # opening the file with all the links
+        lines = file.readlines()
 
-    soup = soup_init(url3)
+    i = 0
 
-    file = open("links.txt", "r")
+    for url in lines:   # dispatcher for the links
+        soup = soup_init(url)   # initialize soup with the url
+        i += 1
 
-    lines = file.readlines()
+        with open("C:/Users/Federico/PycharmProjects/TerzoAnno/GestInfo/Progetto/Articles_Index/article"+str(i)+".txt",
+                  "w", encoding='utf-8') as f_articles:  # creating 1 article per link
 
-    """for url in lines:
-        if url.find("esa.int") != -1:
-            print("ESA")
-        elif url.find("blueorigin.com") != -1:
-            print("BO")
-        else:
-            print("NASA")"""
+            if url.find("https://www.esa.int/") != -1:
+                text = esa_extract(soup)    # extract the text from an ESA article
 
-    esa_extract(soup)
-    bo_extract(soup)
-    nasa_extract(soup)
+            elif url.find("https://www.blueorigin.com/") != -1:
+                text = bo_extract(soup)  # extract the text from a Blue Origin article
+
+            else:
+                text = nasa_extract(soup)   # extract the text from a NASA article
+
+            text = text_formatting(text)    # formatting the text
+
+            f_articles.write(text)  # writing the text down to the file
+
 
 if __name__ == "__main__":
     main()

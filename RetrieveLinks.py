@@ -52,8 +52,9 @@ def nasa_scraper(p):
         @:return tmpArticles temporary list of NASA articles"""
     driver.get(p)
 
-    for i in range(11):
-        WebDriverWait(driver, timeout=30).until(lambda d: d.find_element_by_id("trending")).click()  # wait 'til the whole page is loaded and click the desired button
+    for i in range(12):
+        # wait 'til the whole page is loaded and click the desired button
+        WebDriverWait(driver, timeout=30).until(lambda d: d.find_element_by_id("trending")).click()
 
     content = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)  # to get the content of the NASA's page
     soup = bs(content, "html.parser")
@@ -71,13 +72,11 @@ def nasa_scraper(p):
 def write_to_file(links_articles):
     """Function used to write down to one file all the links got from the scrapers
         @:param links_articles list of the articles to index"""
-    file = open("links.txt", "w")
+    with open("links.txt", "w") as file:
 
-    for link in links_articles:
-        file.write(link)
-        file.write("\n")
-
-    file.close()
+        for link in links_articles:
+            file.write(link)
+            file.write("\n")
 
 
 def main():

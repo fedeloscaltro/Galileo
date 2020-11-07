@@ -1,0 +1,20 @@
+ESA - Project Pextex: materials for lunar spacesuits
+Science & Exploration
+Project Pextex: materials for lunar spacesuits
+ESA /			Science & Exploration /			Human and Robotic Exploration /			Exploration
+On 17 January 2019 ESA signed a study contract with Comex and its partners DITF and OeWF. Pextex is a two-year project to identify materials and textiles that could be used for future lunar mission space suits.The project aims to develop solutions that could be based on existing space suit materials, but also identify novel types of textiles with self-healing functions or repulsing lunar dust and smart textiles for example.
+The identification and test of such materials could serve the development of future European space suits for spacewalks on the Moon and is in line with ESA’s exploration strategy to return to the Moon in the coming decades, including proposed missions such as Heracles.
+Future missions will aim to establish a permanent presence on the Moon and new space suits need to be made that can be used for longer and more frequently than in previous mission to the Moon.A new era of human space exploration is about to begin: 50 years after the first landing of astronauts on the Moon, ESA and its international partners are working on a return of humans to the Moon with the development of the next space station Gateway in a lunar orbit. This station will serve as base camp for robotic and human missions to the surface.
+The materials that will be identified in the frame of the Pextex project will be tested in test facilities with the partner organizations in France, Germany and Austria.The project starts with a workshop in May for partners to discuss potential materials.
+Harsh requirements for lunar spacesuits
+The screened materials for a lunar suit need to meet at least the following preliminary requirements:
+Withstand lunar temperature range (+120 °C in sunlight, –170 °C in darkness) and lunar vacuum  for at least 2500 hours.
+Provide thermal insulation (targeted maximum temperature inside the suit is 25° C inside with a minimum temperature of 17°C).
+Resist lunar radiation (annual exposure of around 380 mSv at solar minimum and 110 mSv at solar maximum).
+Resistance to wear by abrasive lunar soil; should last for at least 2500 hours of use.
+Compatible with vacuum and pressure cycles (maximum pressure up to 420 hPa over 312 pressurisation cycles).
+Electrical discharge and electromagnetic protection (targeted for at least 8 hours).
+Material must be non-toxic and non-flammable (targeted compliance with standards ECSS-Q-ST-70-29C and ECSS-Q-ST-70-21C).
+Impermeable to water and fluids.
+Must be able to bend 180°.
+Contact the project coordinator at Comex if you are interested in proposing materials that could be of interest for this study.

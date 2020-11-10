@@ -69,14 +69,27 @@ def nasa_scraper(p):
     return tmpArticles
 
 
-def write_to_file(links_articles):
+def write_to_file(links_articles, file_name):
     """Function used to write down to one file all the links got from the scrapers
-        @:param links_articles list of the articles to index"""
-    with open("links.txt", "w") as file:
+        @:param links_articles list of the articles to index
+        @:param file_name name of links file"""
 
-        for link in links_articles:
-            file.write(link)
-            file.write("\n")
+    try:
+        with open(file_name, "r+") as file:     # try to open the file to update it
+            for link in links_articles:     # search in the file if the link is present
+                for line in file:
+                    if link in line:
+                        break
+
+                else:   # not found, we are at the eof
+                    file.write(link)    # append missing link
+                    file.write("\n")
+
+                file.seek(0)
+
+    except FileNotFoundError:   # if the file doesn't exists it will be created
+        open(file_name, "w")
+        write_to_file(links_articles, file_name)    # recall the function to write for the first time the file
 
 
 def main():
@@ -88,6 +101,8 @@ def main():
 
     links_articles = []  # list of all articles links
 
+    links_file = "links1.txt"   # name of the links file
+
     i = 5  # index used to set the max page of ESA articles
 
     for k in range(i):
@@ -98,7 +113,7 @@ def main():
 
     links_articles.extend(nasa_scraper(root_nasa))  # adding the links retrieved from the NASA page
 
-    write_to_file(links_articles)
+    write_to_file(links_articles, links_file)   # create or update links file
 
 
 if __name__ == "__main__":

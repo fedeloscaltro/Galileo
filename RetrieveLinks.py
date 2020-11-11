@@ -75,6 +75,14 @@ def write_to_file(links_articles, file_name):
         @:param file_name name of links file"""
 
     try:
+        with open(file_name, "r") as file:
+            lines = file.readlines()
+            n_links = len(lines)  # number of links
+            lines[0] = str(n_links)+"\n"  # add the number of previous links at the beginning of the file
+
+        with open(file_name, "w") as file:
+            file.writelines(lines)  # write all the previous links
+
         with open(file_name, "r+") as file:     # try to open the file to update it
             for link in links_articles:     # search in the file if the link is present
                 for line in file:
@@ -85,7 +93,7 @@ def write_to_file(links_articles, file_name):
                     file.write(link)    # append missing link
                     file.write("\n")
 
-                file.seek(0)
+                file.seek(0)    # return the pointer at the beginning of the file
 
     except FileNotFoundError:   # if the file doesn't exists it will be created
         open(file_name, "w")

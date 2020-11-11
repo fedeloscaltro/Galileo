@@ -98,16 +98,16 @@ def nasa_extract(soup):
 def main():
     """Function called to start the text-extraction procedure"""
 
-    with open("links.txt", "r") as file:    # opening the file with all the links
-        lines = file.readlines()
+    file_name = "links1.txt"
 
-    i = 0
+    with open(file_name, "r") as file:    # opening the file with all the links
+        n_links = int(file.readline())   # from which line start to read the file
+        lines = file.readlines()[n_links:]
 
     for url in lines:   # dispatcher for the links
         soup = soup_init(url)   # initialize soup with the url
-        i += 1
 
-        with open("C:/Users/Federico/PycharmProjects/TerzoAnno/GestInfo/Progetto/Articles_Index/article"+str(i)+".txt",
+        with open("Articles_Index/article"+str(n_links)+".txt",
                   "w", encoding='utf-8') as f_articles:  # creating 1 article per link
 
             if url.find("https://www.esa.int/") != -1:
@@ -122,6 +122,8 @@ def main():
             text = text_formatting(text)    # formatting the text
 
             f_articles.write(text)  # writing the text down to the file
+
+        n_links += 1
 
 
 if __name__ == "__main__":

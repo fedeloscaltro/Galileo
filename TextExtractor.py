@@ -146,8 +146,4 @@ def main():
             n_links += 1
 
 if __name__ == "__main__":
-    import datetime
-    x = datetime.datetime.now()
     main()
-    y = datetime.datetime.now()
-    print("Elapsed time: ", y-x)

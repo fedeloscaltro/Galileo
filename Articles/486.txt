@@ -1,0 +1,16 @@
+'Self-eating rocket' tech snags funding from UK government
+By
+Mike Wall
+October 06, 2020
+October 06, 2020
+The autophage engine is a good fit for small rockets, its developers say.
+The U.K. government aims to spur the development of rockets that gobble themselves up on the way to orbit.
+The Ministry of Defence's Defence & Security Accelerator (DASA) has pledged £90,000 — about $117,000 USD at current exchange rates — for the continued development of the "autophage" rocket engine, which is being built by researchers at the University of Glasgow in Scotland.
+The tech is a great fit for small rockets "because scaling down a rocket reduces the mass of the propellant more than it reduces the mass of all the other components, including the tanks that hold the propellant itself," Patrick Harkness, of the University of Glasgow's James Watt School of Engineering, said in a statement.
+"The autophage concept is simple: burn the tanks as well," Harkess said. "That saves the excess mass, and it means that we can miniaturize the vehicle without hitting this wall."
+Related: The history of rockets
+The Glasgow team has already test-fired a version of the autophage engine that burns all-solid propellant. The DASA money will help fund research into the use of a more energy-rich hybrid propellant, team members said.
+"The body of a hybrid autophage rocket will be a tube of solid fuel, containing a liquid oxidizer," Harkess said. "The entire assembly will be consumed, from the bottom up, by an engine which will vaporize the fuel tube, add the oxidizer and burn the mixture to create thrust. The engine will have consumed the entire body of the rocket by the time the assembly reaches orbit, and only the payload will be left. It is a much more mass-efficient process."
+The hybrid engine will be test-fired next year, at Kingston University in London, if all goes according to plan.
+Over the longer term, the new engine tech could help the United Kingdom claim a sizeable chunk of the growing small-satellite launch market, team members said in the statement. Two of the biggest players in this space at the moment are American companies — Rocket Lab, which provides dedicated rides to orbit with its Electron booster, and SpaceX, which increasingly hosts small payloads as "rideshares" on its workhorse Falcon 9 rocket.
+"The U.K. has a strategic aim to secure 10% of the worldwide space industry by 2030, and we believe that our autophage engine is uniquely well-placed to help deliver on that ambition," Harkness said. "We’re looking forward to continuing our work to develop the engine and help the U.K. find its place in space."

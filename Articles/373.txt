@@ -1,0 +1,19 @@
+Rocket Lab will try to recover an Electron booster during Nov. 15 launch
+By
+Mike Wall
+16 days ago
+16 days ago
+The 'Return to Sender' mission will feature a parachute-aided rocket splashdown.
+Rocket Lab plans to take a big step toward booster reuse this month.
+The California-based company aims to recover the first stage of its two-stage Electron rocket during its next mission, which is scheduled to lift off from New Zealand during a window that opens on Nov. 15.
+After helping launch 30 small satellites on the mission, which is called "Return to Sender," the first stage will return to Earth for a soft, parachute-aided ocean splashdown. Rocket Lab personnel will then fish the booster out of the Pacific Ocean and haul it to shore for a thorough inspection.
+Related: Rocket Lab and its Electron booster (photos)
+"Once we get it back into the factory, it's like a CSI [crime scene investigation], really," Rocket Lab founder and CEO Peter Beck told reporters during a teleconference on Wednesday (Nov. 4). "We'll pull it all apart and really, really dig into how well each of the components in the subassemblies have performed."
+These analyses will inform Rocket Lab's effort to make the 57-foot-tall (17 meters) Electron's first stage reusable. Eventually, the company plans to pluck falling first stages out of the sky with a helicopter and get them back on the launch pad relatively quickly after performing whatever refurbishment may be necessary. (Electron is too small to make vertical, powered landings like the first stages of SpaceX's big Falcon 9 rockets do; it cannot carry enough fuel to have the required amount left over for the touchdown process, Beck has said.)
+Pulling off this vision could lower costs significantly for Rocket Lab and its customers, but the company is pursuing reuse primarily to increase its rocket production rate and potential launch frequency, Beck said.
+"Even if it's economically neutral, the fact that we don't have to build more vehicles in the same factory is a really big advantage," he said.
+Rocket Lab first announced its reusability ambitions in August 2019, and the company has made considerable progress since then. For example, Rocket Lab has successfully guided Electron first stages back toward Earth twice without parachutes, after launches in December 2019 and January 2020, gathering lots of data in the process. The company also has conducted parachute-deployment tests with mock boosters, and it caught a simulated booster with a helicopter during a drop test this past March.
+But Rocket Lab is not yet ready to try the chopper snag during a bona fide launch, Beck said, stressing that the company wants to gather more data about the re-entry environment and the condition an Electron booster is in after experiencing it. In addition, Rocket Lab wants to make sure it knows how to "passivate" a falling first stage before getting a helicopter, and a pilot, anywhere close to one. So we're likely to see a few more guided splashdowns like the one featured on "Return to Sender" before a helicopter gets involved, Beck said.
+"Return to Sender" will be the 16th Electron mission. Rocket Lab had been planning to conduct the soft splashdown during flight number 17, but company personnel got everything ready to go in time for "Return to Sender," so the timeline shifted to the left, Beck said.
+Electron is designed to give small satellites dedicated rides to orbit. The rocket can loft about 660 lbs. (300 kilograms) of payload to low Earth orbit on each roughly $7 million liftoff.
+"Return to Sender" will be Electron's most diverse mission yet. The 30 satellites involved will conduct a wide range of operations, from surveilling (often misbehaving) fishing fleets to testing out a tether system that's designed to expedite satellite re-entry and thereby ease the growing space-junk problem. You can learn more about the mission and its payloads via Rocket Lab here.

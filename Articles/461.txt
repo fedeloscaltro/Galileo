@@ -1,0 +1,20 @@
+Russia planning to go reusable in 2026 with new Amur rocket
+By
+Mike Wall
+October 14, 2020
+October 14, 2020
+The Amur looks a lot like a SpaceX Falcon 9.
+Подписан контракт на разработку эскизного проекта космического ракетного комплекса с новой ракетой-носителем #Амур — https://t.co/iBMsh6Wmsk🚀🌍Первый пуск нашей многоразовой ракеты намечен на 2026 год🚀🌊 Площадки для приземления ракеты поставят на берегу Охотского моря pic.twitter.com/RqUtT56JujOctober 5, 2020
+Russia is getting into the reusable rocket game.
+The nation's space agency, Roscosmos, announced last week that it aims to develop a two-stage rocket called the Amur, whose first stage will return to Earth for vertical, powered landings like those performed by SpaceX's Falcon 9 boosters.
+Indeed, the Amur bears a remarkable resemblance to the Falcon 9, down to the stabilizing grid fins on the rocket's first stage and the desire to launch each booster up to 100 times eventually.
+Related: The history of rockets
+There are differences, however. For example, the Amur will be considerably smaller and less powerful than the Falcon 9, standing just 180 feet (55 meters) tall with the ability to loft 11.6 tons (10.5 metric tons) of payload to low-Earth orbit (LEO). The Falcon 9 is 230 feet (70 m) tall and can deliver 25.1 tons (22.8 metric tons) to LEO, according to the rocket's SpaceX spec sheet.
+The Amur's first stage will feature five engines, according to the Roscosmos announcement, compared to the Falcon 9's nine. And whereas the Falcon 9's Merlin engines are powered by liquid oxygen and kerosene, those of the Amur — which have yet to be built — will swap kerosene out for methane. (There are yet more SpaceX parallels here, though: SpaceX's next-generation Raptor engine, which will power the company's Starship vehicle, is methane-fueled.)
+The Amur will launch from Vostochny Cosmodrome in Russia's Amur region (hence its name). Landings of the reusable first stage will take place at several sites, which are still being determined, Roscosmos officials said. The agency is currently not planning to conduct any touchdowns on floating platforms, as SpaceX does with its two "drone ships," because the neighboring Sea of Okhotsk is notoriously rough. But that option will remain open going forward.
+A post shared by Роскосмос // Roscosmos (@roscosmosofficial)
+A photo posted by on on Oct 6, 2020 at 4:19am PDT
+The plan calls for the Amur to be developed for no more than 70 billion rubles (about $900 million US at current exchange rates), fly for the first time in 2026 and feature a per-launch cost of $22 million, Roscosmos officials said. For comparison, a Falcon 9 mission with a completely new rocket currently goes for about $60 million, and one with a used first stage is about $50 million.
+"If all the key indicators of the Amur program are implemented, we plan to provide the majority of commercial launches in the light and medium class with our new rocket," Alexander Bloshenko, Roscosmos executive director for long-term programs and science, said in the statement.
+The Amur's development timeline may make it tough to accomplish this goal, however, even if everything goes according to plan. SpaceX is already test-flying early prototypes of Starship, a huge, fully reusable vehicle that company founder and CEO Elon Musk believes has the potential to revolutionize spaceflight via ultralow launch costs.
+"It's a step in the right direction, but they should really aim for full reusability by 2026. Larger rocket would also make sense for literal economies of scale. Goal should be to minimize cost per useful ton to orbit or it will at best serve a niche market," Musk said via Twitter last week, referring to the Amur plan (and in response to a tweet by Ars Technica's Eric Berger.)

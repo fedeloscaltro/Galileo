@@ -1,0 +1,21 @@
+Cosmonauts prep space station for module removal on spacewalk out of new airlock
+By
+Robert Z. Pearlman
+2 days ago
+2 days ago
+Wednesday's EVA inaugurated the use of the space station's Poisk module as an airlock.
+Two cosmonauts opened a new door to the outside of the International Space Station while preparing for the replacement of a two-decade-old Russian docking compartment.
+Sergey Ryzhikov, commander of the space station's Expedition 64 crew, and flight engineer Sergey Kud-Sverchkov, both of the Russian federal space agency Roscosmos, began a 6-hour, 48-minute spacewalk on Wednesday (Nov. 18), by inaugurating the use of the Poisk module as an airlock. Previously, Poisk (Russian for "Search") — also referred to as the Mini Research Module-2 or MRM-2 — had been used only as a port for crewed Soyuz and robotic Progress cargo spacecraft to dock at the space station.
+The spacewalk (extravehicular activity, or EVA) began at 10:12 a.m. EST (1512 GMT) with the first opening of Poisk's airlock hatch. The spacesuited cosmonauts, still inside the module, then closed the hatch and partially repressurized Poisk to verify that the seals on the never-before-used doorway were airtight.
+Related: The International Space Station: Inside and out (infographic)
+With that confirmed, Ryzhikov and Kud-Sverchkov then returned Poisk back down to a vacuum and opened its hatch again, this time to work outside of the station.
+"Well, congratulations, you are out!" Ryzhikov told Kud-Sverchkov, who was the first to exit Poisk about an hour after the spacewalk began. Both cosmonauts were making their first EVA.
+The spacewalk's primary focus was the relocation of a telemetry cable from the adjacent Pirs docking compartment to Poisk. Launched in 2001, the Pirs (Russian for "Pier") module is due to be separated from the station and deorbited by a Progress cargo vehicle in 2021, clearing the way for the addition of the "Nauka" (in Russian "Science") Multipurpose Laboratory Module (MLM) soon thereafter.
+The Pirs compartment was previously used by 44 pairs of spacewalkers as the primary airlock on the Russian segment of the space station prior to the transition to using Poisk on Wednesday.
+The relocated cable, which supports the Transit-B radio telemetry system used to relay communications during spacewalks, was first installed by cosmonauts Vladimir Dezhurov and Mikhail Tyurin during the first EVA to use Pirs on Oct. 8, 2001. It was moved on Wednesday from the interface between the Zvezda service module and the Pirs docking compartment to the interface between the Zvezda and the Poisk MRM-2.
+In addition to moving the cable, Ryzhikov and Kud-Sverchkov also attempted to replace a fluid regulator on the outside of the Zarya service module. The device had been in place since the module was launched 22 years and two days ago on Nov. 20, 1998.
+The new regulator, which would have improved the flow of fluids through the plumbing system of the module, was brought outside the station in a pressurized container, and the cosmonauts were unable to free a bolt to get it open. After an hour of trying, they were instructed by mission control to abandon the installation.
+Ryzhikov and Kud-Sverchkov were successful in retrieving and installing hardware used to measure space debris impacts, and they repositioned an instrument that is used to measure the residue from thruster firings.
+The spacewalk ended with Ryzhikov and Kud-Sverchkov re-entering Poisk and closing its hatch at 5:00 p.m. EST (2200 GMT). NASA astronaut Kate Rubins, an Expedition 64 flight engineer, helped the cosmonauts get ready for and wrap up the EVA from inside the station.
+Ryzhikov, as extravehicular crew member 1 (EV1) for the EVA, wore a Russian Orlan spacesuit with red stripes. Kud-Sverchkov, as EV2, wore a suit with blue stripes. Although the first for both men, this spacewalk was the 47th Russian EVA in support of the assembly and upkeep of the International Space Station since 2001.
+Overall, it was the 232nd spacewalk in support of the space station and the eighth completed this year.

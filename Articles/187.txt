@@ -1,0 +1,17 @@
+23/01/2019
+Moving on the Moon
+Europe is preparing to go forward to the Moon, but how will astronauts move once they get there? Despite the Apollo missions, little is known about what lunar gravity may mean for our bodies. ESA’s space medicine team is working to find out through a series of studies.
+The level of gravity on the Moon is about one sixth of Earth’s so while Apollo astronauts did not float as astronauts do on the International Space Station, they tended to hop rather than walk.
+Education coordinator at ESA’s astronaut centre in Cologne, Germany, David Green is leading this research alongside science operations engineer Tobias Weber. He says, though much research has been carried out into the impacts of microgravity as experienced on the International Space Station, the physiological impact of working in lunar gravity remains unknown.
+Studying the effects of lunar gravity will help identify potential risks and create measures to keep astronauts fit and healthy.
+“How microgravity influences our bodies is also investigated through bedrest studies that recreate some of the changes we associate with living in space by putting people in bed with their head below horizontal,” David explains.
+“These studies show the way in which the body adapts to life in weightlessness, resulting in bone weakness and muscle loss, and it is why astronauts are prescribed daily exercise when in orbit.”
+Do we need a gym on the Moon?
+To help answer some of their questions such as how lunar gravity might impact the biomechanics of walking, running and hopping, the team – in collaboration with German Aerospace Center DLR and academic partners – conducted the first “Movement in low gravity study” in 2017. This study used a vertical treadmill to simulate various levels of reduced gravity.
+During the study, researchers looked at movement patterns, muscle activity, ground reaction forces and aspects of Achilles tendon function.
+While the initial study showed that jumping may be the best way to prevent muscle and bone loss, the vertical treadmill did not allow subjects to jump as high as they would be able to on the Moon.
+“We believe jumping and hopping on the Moon may provide forces similar to walking and running on Earth. This would allow astronauts to maintain their bone and muscle condition through everyday movement,” Tobias says. “This may reduce the need for training equipment such as on the Space Station and it is something we hope to explore further.”
+The second phase of the study will be conducted using NASA’s Active Response Gravity Offload System (ARGOS) at the Johnson Space Center in Houston, Texas, which allows a greater range of vertical movement.
+This will enable researchers to determine maximum jump heights, alongside what forces and strains will be placed on an astronaut’s muscles and bones.
+Simulating Moon, Mars and asteroids
+A similar system to ARGOS will form part of a new facility at ESA’s astronaut centre known as Luna 2. Research into movement in low gravity will be used to build expertise and prepare for surface operations on the Moon, Mars, asteroids and beyond.

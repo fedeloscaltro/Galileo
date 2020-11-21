@@ -1,0 +1,20 @@
+2 big pieces of space junk could collide Thursday night
+By
+Mike Wall
+October 14, 2020
+October 14, 2020
+The chance of a collision is higher than 10%.
+Update for Oct. 16: LeoLabs has reported no apparent collision between the dead Chinese and Russian spacecraft in orbit. Read our full story here.
+Original story:
+Earth orbit could get a lot more crowded, and a lot more dangerous, on Thursday night (Oct. 15).
+Two big pieces of space junk are zooming toward a close approach that will occur Thursday at 8:56 p.m. EDT (0056 GMT on Oct. 16), according to California-based tracking company LeoLabs.
+The encounter will take place 616 miles (991 kilometers) above the South Atlantic Ocean, just off the coast of Antarctica. LeoLabs' latest calculations peg the probability of a collision at more than 10% — a scarily high number, considering that the combined mass of the objects is about 6,170 lbs. (2,800 kilograms) and they'll be barreling toward each other at a relatively velocity of 32,900 mph (52,950 km/h).
+Space junk explained: The orbital debris threat (infographic)
+2/ Current risk metrics from our most recent CDMs:Miss distance: 12 meters (+18/-12 meters)Probability of Collision: >10%, scaled to account for large object sizesRelative velocity: 14.7 km/s pic.twitter.com/y44QXyhHJKOctober 14, 2020
+"This event continues to be very high risk and will likely stay this way through the time of closest approach," LeoLabs tweeted today (Oct. 14).
+Also on Twitter, Jonathan McDowell, an astronomer and satellite tracker based at the Harvard-Smithsonian Center for Astrophysics, identified the two objects as a defunct Soviet navigation satellite called Parus (or Kosmos 2004) and a Chinese rocket stage.
+A "search-mode scan" scheduled for shortly after the close approach should reveal if a collision did in fact occur, LeoLabs said in another tweet. And we should all keep our fingers crossed for a near miss; a smashup would likely result in a "significant (10 to 20 percent) increase in the LEO debris environment," McDowell said in another tweet. ("LEO" stands for "low Earth orbit.")
+Such a debris superspreader event would not be unprecedented. In February 2009, for example, the operational Iridium 33 communications satellite collided with the defunct Russian military satellite Kosmos 2251. The smashup generated 1,800 pieces of trackable debris by the following October, as well as many others too small to detect.
+Humanity has also twice spawned big debris clouds on purpose — during anti-satellite tests in 2007 and 2019 conducted by China and India, respectively.
+Such events, and Thursday night's potential collision, highlight the growing threat that orbital debris poses to spaceflight and exploration. The International Space Station has had to maneuver itself away from potential collisions three times in 2020 alone, for example. And as the costs of launch and satellite development both continue to fall, Earth orbit will get more and more crowded, often with craft operated by relative neophytes.
+The spaceflight community therefore needs to come up with debris-minimizing guidelines, and soon, many experts say. Such guidelines could include a requirement that spent rocket bodies be deorbited shortly after launch, so they can't be involved in close encounters like the one that will occur Thursday night over the South Atlantic.

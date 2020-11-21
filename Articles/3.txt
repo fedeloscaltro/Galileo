@@ -1,0 +1,29 @@
+19/11/2020
+ESA ground stations support Moon missions
+Today, ESA’s ground stations are helping fetch rocks from the lunar surface; tomorrow, they will enable new missions that will make the Moon a routine destination.
+ESA's Estrack network is a global system of ground stations providing communication between spacecraft and ESA’s ESOC mission control centre in Darmstadt, Germany.
+Mission controllers use the large antennas to control their spacecraft and receive the data they send back, whether from Earth orbit, on the way to the Moon or the Sun, or further out in the Solar System.
+“Our network of tracking stations has the capability to communicate with any type of mission in the Solar System,” says Simon Plum, the Head of Mission Operations at ESOC. “In the future, it will increasingly support the lunar missions of ESA and its partners.”
+In November and December 2020, they will provide communication support to the Chinese Chang’e-5 lunar sample return mission.
+Chang’e: A Moon goddess and a jade rabbit
+The Chang’e-5 mission is named after the Chinese Moon goddess, traditionally accompanied by a white or jade rabbit, and comprises a lunar orbiter, a lander and an ascent probe that will lift surface samples back into orbit for a return flight to Earth.
+It will collect approximately two kilograms of lunar samples – the first to be returned in 44 years. ESA will support the mission by tracking the spacecraft during two of the mission’s most critical phases, as well as provide on-call back-up for China’s own ground stations.
+On 23 November, ESA’s Kourou station, located in French Guiana, will track Chang’e-5 for several hours shortly after it launches. During this early phase, it is important to determine exactly where the spacecraft is in order to establish a communication link and verify the health of the newly launched craft. Kourou station will provide a way for the Chinese mission control team at the Beijing Aerospace Control Centre to acquire data from the spacecraft and confirm the status of the mission and its orbit.
+“Every time one of our stations supports a mission, it increases our own experience and knowledge,” says Gerhard Billig, manager for the Agency’s support to Chang’e-5. “Everything we learn then makes us more capable for future ESA and partner missions.”
+Around 15 December, as the spacecraft returns to Earth, ESA will catch signals from the spacecraft using Maspalomas station, operated by the Instituto Nacional de Tecnica Aerospacial (INTA) in Spain.
+The data will help confirm the spacecraft’s trajectory during the critical hours just before it enters Earth’s atmosphere. Knowing exactly where, when and how the spacecraft enters the atmosphere is important for determining where on Earth it, and its precious cargo, will later land.
+Supporting future lunar missions
+The number, scope and complexity of lunar missions will only increase in the coming years. Ground stations must be up-to-date with the latest technologies and systems in order to ensure reliability and safety, particularly for missions involving human spaceflight. ESA is upgrading its ground stations to meet these evolving demands.
+“Kourou station may soon become well known for supporting lunar missions,” says Pier Bargellini, responsible for ground facility operations at ESA.
+“The 15m antenna at Kourou uses state-of-the-art technology developed in Europe and its location near the equator makes it well-suited for tracking lunar missions. It is designed to provide high-performance services to ESA and partner missions and we are continuing to upgrade it in view of the upcoming lunar missions. It is completely unique for an antenna of its size.”
+Supporting commercial activity at the Moon
+To send lunar data back to Earth, you need high-performance ground stations, and constructing new stations is very expensive.
+Right now, companies and start-ups planning to fly orbiters or landers to the Moon plan to use existing networks operated by space agencies such as ESA to communicate with their spacecraft after they leave Earth.
+However, commercial operators – some with assistance from ESA – will also soon establish themselves as an option for lunar communications.
+For example, ESA has partnered with Surrey Satellite Technology Limited for the development of Lunar Pathfinder, a commercial lunar orbiter that will communicate with spacecraft or landers at the Moon and relay their data back to ground stations on Earth. These stations will include ESA’s own network, which will complement new commercial deep-space ground stations.
+The Moon across ESA
+Lunar exploration relies on the extensive expertise that is on hand across ESA. As a new lunar economy emerges, it will create new opportunities involving robots, habitats and transportation, and proposed missions to the Moon share similar communication and navigation needs that could be satisfied using a constellation of lunar satellites.
+Under the Agency’s ‘Moonlight’ initiative, ESA is exploring with industry the necessary technical solutions along with delivery models for the provision of lunar communication and navigation services.
+Learn more about the Moonlight initiative from Elodie Viau, ESA's Director of Telecommunications and Integrated Applications:
+Together with international and commercial partners, ESA’s ground station network and space communication expertise will be crucial elements in the future of lunar exploration.
+Next week and in December, follow updates on ESA’s ground station support to Chang’e-5 via @esaoperations on Twitter.

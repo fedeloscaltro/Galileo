@@ -1,0 +1,19 @@
+08/08/2019
+Bubbles in space
+Bubbles are soon to be made in space as part of an experiment that combines scientific insight with an objectively cool process on International Space Station.
+The Multiscale Boiling experiment, known affectionately as Rubi, aims to expand our knowledge of the boiling process.
+Understanding how boiling behaves in weightlessness is imperative because gravity plays an important role in this process.
+Without gravity, boiling takes place in slow motion and produces larger bubbles. This will allow scientists to observe and measure effects that are too fast and too small on Earth. With this insight and more accurate calculations of the boiling process, products such as laptops can be improved and made more compact.
+Plug and boil
+A lot of science will take place in a container the size of a large shoebox. Built by Airbus for ESA and housed in the Fluid Science Laboratory in the Columbus module, Rubi will generate bubbles under controlled conditions using a special heater.
+A high-speed camera will record how the bubbles behave, while an infrared camera measures the temperature of the heated region.
+It sounds simple enough, but what makes Rubi complex is that scientists are eager to observe and quantify the effect of external forces.
+Rubi is installed with an electrode to observe the effect of an electric field on the bubbles.
+The experiment container also contains a small pump that, when activated, will get the liquid moving to evaluate the effect on the boiling process.
+Why space bubbles
+"Making sure equipment and computer chips stay at the right temperature is of vital importance, otherwise their lifetime, as well as their performance, could decrease abruptly," says ESA project scientist Daniele Mangini.
+“Boiling is an extremely efficient way of getting rid of excess heat. This research could therefore provide very valuable information for improving the thermal management systems in space as well as in terrestrial applications,” continues Daniele.
+Back on Earth, better heat transfer technology means a lower impact on nature, as products such as laptops can cool down more efficiently.
+ESA astronaut Luca Parmitano will install Rubi on 9 August and the experiment will run for five months on the International Space Station, during which time more than 600 test runs are planned.
+Follow the Rubi experiment on social media for the latest #SpaceBubbles news and developments.
+Institutions of the Multiscale Boiling Science Team:

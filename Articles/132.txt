@@ -1,0 +1,14 @@
+16/07/2019
+ESA identifies demand for satellites around the Moon
+Dozens of very different commercial and institutional missions to the Moon are planned for the coming decades.
+These encompass everything from NASA’s manned Lunar Gateway research station and cubesats from start-ups and universities to commercial landers carrying rovers.
+The heightened interest in going to the Moon shows that there could be a market in providing satellite communications beyond Earth.
+All the proposed missions share similar communications and navigation needs that could be satisfied by a commercial service provider.
+A supporting lunar communications and navigation infrastructure would enable these missions to be designed more cost-effectively.
+Furthermore, such an infrastructure would have an enabling role as it would stimulate more research and commercial private ventures on the Moon.
+ESA is assessing a related commercial partnership and running several studies together with industrial partners to evaluate how such a lunar communications and navigation infrastructure could be setup and benefit lunar exploration and exploitation.
+The agency is also planning to contribute communication capabilities to the Lunar Gateway, which is due to be deployed in the 2020s.
+“Satellite communications can play an important role in supporting space exploration beyond Earth, building on over 50 years of experience in commercial telecommunications around the globe, both from the technological and from the financial and business viewpoint,” says David Gomez Otero who works on ESA’s programme of Advanced Research in Telecommunications Systems (ARTES).
+Bernhard Hufenbach, who leads the strategy and innovation team in ESA’s human and robotic exploration programme, said: “Communication and navigations is a critical and strategic capability for sustained lunar exploration.
+“Demand for communication services will not only be driven by the mission critical functions, but also to engage the public in future missions and deliver a virtual lunar experience.
+“As the anticipated demand for lunar communication and navigation services is growing, new business models may become viable allowing private investments in the establishment and operations of the infrastructure.”

@@ -1,0 +1,16 @@
+19/05/2020
+Ultra-thin sail could speed journey to other star systems
+A tiny sail made of the thinnest material known – one carbon-atom-thick graphene – has passed initial tests designed to show that it could be a viable material to make solar sails for spacecraft.
+Light sails are one of the most promising existing space propulsion technologies that could enable us to reach other star systems within many decades.
+Traditional spacecraft carry fuel to power their journeys and use complex orbital manoeuvres around other planets. But the weight of the fuel makes them difficult to launch and intricate flyby manoeuvres considerably lengthen the journey.
+Solar sails need no fuel. Spacecraft equipped with them are thus much lighter and easier to launch.
+Two spacecraft flown over the past decade have already demonstrated the technology, but they used sails made of polyimide and of mylar, a polyester film.
+Graphene is much lighter. To test whether it could be used as a sail, researchers used a scrap just 3 millimetres across.
+They dropped it from a 100-m tall tower in Bremen, Germany, to test whether it worked under vacuum and in microgravity.
+Once the sail was in free-fall – effectively eliminating the effects of gravity – they shone a series of laser lights onto it, to see whether it would act as a solar sail.
+Shining a 1 watt laser made the sail accelerate by up to 1 m/s2, similar to the acceleration of an office lift, but for solar sails the acceleration continues as long as sunlight keeps hitting the sails, taking spacecraft to higher and higher speeds.
+“Making graphene is relatively simple and could be easily scaled up to kilometre-wide sails, though the deployment of a giant sail will be a serious challenge,” says Santiago Cartamil-Bueno, leader of the GrapheneSail team and director of SCALE Nanotech, a research start-up company operating in Estonia and Germany.
+SCALE Nanotech is now looking for strategic partners to scale up the technology for an eventual test in space. The product development of the sail technology is currently accelerated through ESA’s Business Incubator Centre in Hessen and Baden-Württemberg, Germany.
+Astrid Orr of ESA’s human spaceflight research programme oversees physical science experiments in weightlessness for human and robotic exploration.
+She says: “This project is a wonderful example of scientific research that can be performed in weightlessness without leaving Earth.
+“Dropping graphene and shooting it with lasers is fascinating. To think that this research could help scientists to send instruments through the solar system and, if one dares to dream, to distant star systems in years to come is the icing on the cake.”

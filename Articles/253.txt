@@ -1,0 +1,20 @@
+21/02/2018
+Waterbeds simulate weightlessness to help Skinsuits combat back pain in space
+Astronauts tend to become taller in weightlessness – causing back pain and making it difficult to fit into spacesuits. Astronauts may be more likely to suffer from ‘slipped discs’ after landing.
+Researchers at King’s College London, UK, have been testing a Skinsuit to combat these problems, using a novel simulation of microgravity: adding magnesium salts to a half-filled waterbed. They were inspired by the Dead Sea, where swimmers float on the surface because of the high salt content.
+“The high salt content provides additional buoyancy,” explains study leader David A Green. “Our test subjects don’t just sink to the bottom but float on the surface even though the bed is only half full.
+“Furthermore, as heavier body segments such as hips sink into the bed in proportion to their mass, overall the body lies close to being horizontal in an entirely relaxed state.”
+“During our longer trials we’ve seen similar increases in stature to those experienced in orbit, which suggests it is a valid representation of microgravity in terms of the effects on the spine,” explains researcher Philip Carvil.
+“On Earth your spine is compressed by gravity as you’re on your feet, then you go to bed at night and your spine unloads – it’s a normal cyclic process.
+“Being supine is thought to help water and other molecules move into the discs between the bony spinal vertebrae, then in the morning you’ll be at your tallest: around 1.5 cm than later in the day, when gravity squashes the discs, leading to a loss of fluid.
+“In space there’s no gravitational loading. Thus the discs in your spine may continue to swell, the natural curves of the spine may be reduced and the supporting ligaments and muscles — no longer required to resist gravity – may become loose and weak.”
+The university and the Space Medicine Office of ESA’s European Astronaut Centre have worked together to develop the Skinsuit, a spandex-based garment designed to squeeze the body from the shoulders to the feet like gravity.
+It is based on a garment conceived at the US Massachusetts Institute of Technology but with a number of design changes to improve wearability. These improvements led to ESA astronauts Andreas Mogensen and Thomas Pesquet testing Skinsuits during their missions to the International Space Station.
+“The first concepts were really uncomfortable, providing some 80% equivalent gravity loading, and so could only be worn for a couple of hours,” notes Philip.
+“The Mark VI Skinsuit is extremely comfortable, to the point where it can worn unobtrusively for long periods of normal activity or while sleeping.
+“The Mk VI provides around 20% loading – slightly more than lunar gravity, which is enough to bring back forces similar to those that the spine is used to having.”
+Studies on Earth involving students lying on the waterbed have used MRI scans to compare the effect on the spine, with and without Skinsuit loading.
+“The results have yet to be published, but it does look like the Mk VI Skinsuit is effective in mitigating spine lengthening,” says Philip.
+“In, addition we’re learning more about the fundamental physiological processes involved, and the importance of reloading the spine for everyone.”
+Networking/Partnering Initiative
+Philip’s work has been supported through ESA’s Networking/Partnering Initiative, which supports work carried out by universities and research institutes on advanced technologies with potential space applications, with the aim of fostering increased interaction between ESA, European universities, research institutes and industry.

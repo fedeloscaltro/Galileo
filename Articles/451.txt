@@ -1,0 +1,23 @@
+Phew! 2 big hunks of space junk zoom safely past each other in near-miss
+By
+Mike Wall
+October 16, 2020
+October 16, 2020
+The chance of a collision was higher than 10%, according to LeoLabs.
+It looks like humanity just dodged a pretty big space-junk bullet.
+Two large pieces of orbital debris — a defunct Soviet navigation satellite and a spent Chinese rocket body — apparently whizzed safely past each other high over the South Atlantic Ocean on Thursday evening (Oct. 15).
+The California-based space tracking company LeoLabs alerted the world ahead of time to the close approach, which occurred at 8:56 p.m. EDT (1256 GMT on Oct. 16) as the two craft flew 616 miles (991 kilometers) above Earth just off the coast of Antarctica.
+LeoLabs' pre-encounter analyses suggested that the two objects would miss each other by just 82 feet (25 meters), plus or minus 59 feet (18 m) — numbers that left a collision very much in play. Indeed, LeoLabs calculated the odds of a smashup at higher than 10%.
+Space junk explained: The orbital debris threat (infographic)
+No indication of collision. 👍CZ-4C R/B passed over LeoLabs Kiwi Space Radar 10 minutes after TCA. Our data shows only a single object as we'd hoped, with no signs of debris.We will follow up in the coming days on Medium with a full in-depth risk assessment of this event!October 16, 2020
+But the company's post-encounter scans suggest that the nightmare scenario didn't come to pass.
+"No indication of collision. CZ-4C R/B passed over LeoLabs Kiwi Space Radar 10 minutes after TCA. Our data shows only a single object as we'd hoped, with no signs of debris. We will follow up in the coming days on Medium with a full in-depth risk assessment of this event!" LeoLabs tweeted on Thursday evening. (CZ-4C R/B is the Chinese rocket body, Kiwi Space Radar is the company's New Zealand tracking array and TCA stands for "time of closest approach.")
+"Nightmare scenario" is not really an exaggeration. The dead Russian satellite and Chinese rocket body have a combined mass of about 6,170 lbs. (2,800 kilograms), LeoLabs said in a tweet on Tuesday (Oct. 13). The two bodies were hurtling toward each other with a relative velocity of 32,900 mph (52,950 kph), so a collision would have been incredibly destructive, spawning a huge cloud of debris.
+A smashup would likely have led to a "significant (10 to 20 percent) increase in the LEO [low Earth orbit] debris environment," astronomer and satellite tracker Jonathan McDowell, who's based at the Harvard-Smithsonian Center for Astrophysics, said via Twitter on Wednesday.
+That debris environment is already substantial. Scientists estimate that about 34,000 objects more than 4 inches (10 centimeters) wide are whizzing around Earth at the moment, according to the European Space Agency. And the numbers get scarier the smaller you go. There are probably 900,000 or so orbital objects between 0.4 inches and 4 inches wide (1 to 10 cm) in orbit and 128 million in the 0.04-inch to 0.4-inch (1 mm to 1 cm) range.
+Even those tiny flecks can do considerable damage to a satellite, thanks to the great velocities involved. For example, at 250 miles (400 km) up — the altitude of the International Space Station, which has had to maneuver away from three potential space-junk collisions in 2020 alone — objects barrel along at a blistering 17,500 mph (28,160 kph).
+Per @Leolabs_space, bullet dodged. But space debris is still a big problem.October 16, 2020
+Orbital collisions are not just the stuff of science-fiction films like 2013's "Gravity." In 2009, for instance, a defunct Russian military satellite called Kosmos 2251 slammed into the operational communications satellite Iridium 33, generating 1,800 pieces of trackable debris by the following October (and many others too small to monitor).
+And, crazily enough, humanity has spawned debris clouds intentionally on two separate occasions — during destructive tests of anti-satellite technology conducted in 2007 and 2019 by China and India, respectively.
+The debris problem will continue to grow as more and more satellites launch to space — a trend that's accelerating, thanks to continuing decreases in the costs of both launch and satellite development. And the problem could get out of hand,  seriously threatening spaceflight and exploration activities, if we don't start tackling it now, many experts say
+"Per @Leolabs_space, bullet dodged. But space debris is still a big problem," McDowell said in another tweet on Thursday night.

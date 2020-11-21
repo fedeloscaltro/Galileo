@@ -1,0 +1,20 @@
+China launches 13 satellites on a single Long March 6 rocket
+By
+Andrew Jones
+15 days ago
+15 days ago
+China launched a Long March 6 rocket early Friday (Nov. 6), successfully sending 13 satellites into orbit.
+The Long March 6 lifted off from the Taiyuan Satellite Launch Center at 11:19 a.m. local time Friday (0319 GMT; 10:19 p.m. EDT on Nov. 5) carrying 10 remote sensing satellites for Satellogic, an Argentine imagery company.
+Each 90-lb. (41 kilograms) satellite carries multispectral and hyperspectral imaging payloads. They have been designed to operate in orbit for at least three years.
+Satellogic signed a contractwith China Great Wall Industry Corporation, an arm of China's main space contractor, in January 2019 for launches to deploy 90 satellites. Satellogic has previously received funding from Chinese tech giant Tencent.
+Video: China launches 13 satellites atop Long March 6 rocket
+Related: China launches 9 satellites into space from ocean platform
+It's launch week!!! 🚀🔝Ten NewSats are ready to launch next Nov 6 at 3:18:50am UTC on our first dedicated rocket. #satellogic #ourfirstdedicatedlaunch #dedicatedrocket pic.twitter.com/1eOUTiAHZvNovember 2, 2020
+The mission also carried and launched three additional satellites. One was the UESTC (also known as Tianyan-05) remote sensing satellite jointly developed by new Chinese commercial satellite companies ADAspace and MinoSpace. Its imagery will be used mainly for smart cities, agriculture, forestry and disaster monitoring. The satellite platform will also test communication payloads operating in the terahertz range, a potential successor to 5G communications.
+Another payload, Beihang SAT-1 was developed by Spacety, a commercial satellite maker based in Changsha, central China, in collaboration with Beihang University, an aerospace university in Beijing. The satellite will carry out in-orbit experiments including receiving and retransmitting ADS-B signals from aircraft, and exploring laser data transmission technologies.
+Beihang SAT-1 also carries a NPT30-I2 electric propulsion system developed by French startup ThrustMe. The innovative system uses iodine propellant which can be stored as a solid, reducing cost and complexity compared to gas in-space propulsion. The system can help control the spacecraft and speed up its deorbiting after the end of the satellite's mission, reducing space debris.
+The test is a follow-up to a previous collaboration between Thrustme and Spacety on the Xiaoxiang-1(08) satellite launched in late 2019.
+The final satellite, named Bayi-03, involved students from the Jinshan Middle School in Taiyuan. Carrying an ultraviolet telescope developed by Origin Space, a Chinese asteroid mining company, the satellite will be used to target celestial bodies, as well as an imager for carrying out Earth observation and education-related activities.
+Unlike many of China's older Long March rockets, the new generation Long March 6 uses highly refined kerosene and liquid oxygen for propellant. The launch was the rocket's fourth since its inaugural mission in 2015.
+China has carried out 32 launches so far in 2020, and could hit around 40 by the end of the year. China led the world in the number of launches per year in 2018 and 2019 and could again beat the United States and Russia to that title.
+China's Tianwen-1 probe is currently on the way to Mars and the country is expected to launch Chang'e-5, a lunar sample return mission, late this month.

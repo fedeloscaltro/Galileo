@@ -1,0 +1,20 @@
+SpaceX's Starship SN8 prototype fires engines for 3rd time, encounters problem
+By
+Mike Wall
+8 days ago
+8 days ago
+But SN8 is still standing.
+SpaceX fired the engines on its latest Starship prototype for the third time Thursday night (Nov. 12), but the test was a bumpy one.
+The Starship SN8 vehicle performed its third brief "static fire" — a test in which engines are ignited while a rocket remains tethered to the ground — at SpaceX's South Texas facility on Thursday, near the village of Boca Chica.
+Shortly after the test, which several outside organizations webcast live, material could be seen apparently dripping from SN8's base. This looked odd, and SpaceX founder and CEO Elon Musk soon confirmed that something off-nominal had happened.
+Related: Starship and Super Heavy: SpaceX's Mars-colonizing vehicles in images
+"We lost vehicle pneumatics. Reason unknown at present. Liquid oxygen header tank pressure is rising. Hopefully triggers burst disk to relieve pressure, otherwise it’s going to pop the cork," Musk said via Twitter on Thursday night. (Burst disks are single-use devices that, like valves, seal off different sections or systems of a vehicle. They relieve pressure when they open, as Musk noted.)
+The cause of the problem is unknown at the moment, Musk said in another Thursday tweet: "Maybe melted an engine preburner or fuel hot gas manifold. Whatever it is caused pneumatics loss. We need to design out this problem."
+That's the bad news. The good news is that the burst disk did its job, and SN8 is still in one piece.
+"Burst disk worked, so vehicle appears to be ok. We’ll have to swap out at least one of the engines," Musk said in another tweet.
+Burst disk worked, so vehicle appears to be ok. We’ll have to swap out at least one of the engines.November 13, 2020
+The SN8 ("Serial No. 8") has three Raptors, SpaceX's powerful next-generation engine that runs on liquid methane and liquid oxygen. No previous Starship prototype had more than one Raptor.
+SN8's static fires — the first two occurred on Oct. 20 and Nov. 10 — are intended to pave the way for a 9-mile-high (15 kilometers) test flight in the near future. That would be far higher than any of its predecessors have gone. The stubby Starhopper craft and the SN5 and SN6 prototypes reached maximum altitudes of about 500 feet (150 meters) during their flights, which occurred in the summer of 2019 and this past August and September, respectively. (SN8 also sports a nose cone and stabilizing flaps to help it handle the more ambitious coming flight.)
+Thursday night's setback will delay SN8's big leap, but by how much we'll have to wait and see.
+The Starship system consists of a 165-foot-tall (50 m) vehicle called Starship and a huge rocket known as Super Heavy, both of which will be fully and rapidly reusable. The final Starship craft will have six Raptors, and Super Heavy will be powered by about 30 of the engines.
+SpaceX sees Starship as the pioneering transportation system that will make Mars colonization — Musk's long-held ambition — economically feasible. If all goes according to plan, Starship will also handle all of SpaceX's other flight needs, from launching satellites to cleaning up space junk to carrying passengers on superfast "point to point" trips around the globe.

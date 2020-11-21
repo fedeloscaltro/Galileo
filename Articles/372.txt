@@ -1,0 +1,19 @@
+SpaceX opens Starlink satellite internet to public beta testers: report
+By
+Samantha Mathewson
+16 days ago
+16 days ago
+Testers will pay $499 for the Starlink ground equipment, then $99 per month for service.
+SpaceX is now sending out email invitations for public beta testing of Starlink, the company’s upcoming satellite internet service.
+Last week, people who had registered interest in the service on the Starlink website began receiving emails from SpaceX to join the beta test, called "Better Than Nothing Beta," Ars Technica reported. To participate, users must purchase the Starlink ground equipment for $499 and then pay a $99 monthly fee for active service, according to Ars Technica.
+Since May 2019, SpaceX has been launching Starlink internet satellites in batches of about 60, with the goal of creating a megaconstellation consisting of thousands of small, broadband-beaming satellites. The network will provide global internet coverage from space, SpaceX representatives have said.
+Related: SpaceX's Starlink satellite megaconstellation launches in photos
+“Expect to see data speeds vary from 50Mbps [megabits per second] to 150Mbps and latency from 20ms [milliseconds] to 40ms over the next several months as we enhance the Starlink system. There will also be brief periods of no connectivity at all,” thel invite said, according to Ars Technica, which cited an email that a user in Washington state posted on Reddit and one forwarded along by a user in Wisconsin.
+Currently, SpaceX has close to 900 Starlink satellites in orbit. The company plans to continue launching satellites and installing ground stations to receive their signals, which will improve latency, data speeds and uptime. SpaceX expects latency, the amount of time it takes a signal to travel from a satellite to a user, to decrease to between 16ms and 19ms by summer 2021, according to the email.
+SpaceX has also released a Starlink mobile app for Apple and Android devices to help beta users set up and manage the service. The Starlink ground equipment that users must purchase includes a phased-array user terminal, or small satellite dish, a mounting tripod for the user terminal and a Wi-Fi router. However, the company has not confirmed when the user terminals will be delivered to people’s homes, Ars Technica wrote.
+SpaceX is currently targeting users who are based in the northern U.S. and southern Canada, where the Starlink system has better satellite coverage. Starlink subscribers in Washington state and Wisconsin have posted to Reddit about receiving an email already.
+“Got the email at 7:38 p.m. I'm in Eastern WA. Placed my order that came to nearly $600 after shipping ($50) and tax. Then I had to place a second order for the ridgeline mount for another $100,” one Reddit user wrote. “Worth it!”
+Starlink unboxing video ... Speed offerings up to 100Mbps and a latency of ~20ms, and all that for $99 monthly subscription is a pretty great deal. If you're living in the middle of nowhere — $3.3 Internet/day is a sweet deal 🤯 pic.twitter.com/JqL6XKVuZ1November 3, 2020
+The standard startup kit comes with a tripod mount for the user terminal. However, SpaceX is also selling two types of roof mounts, called the ridgeline mount or the volcano mount, for an additional cost, according to Ars Technica. The Starlink terminal has motors to self-orient for the optimal view angle, meaning that the satellite dish can be installed anywhere with a clear view of the sky.
+SpaceX has not confirmed how many initial invites were sent out, nor whether the beta pricing is the same as what SpaceX will charge during general availability, Ars Technica noted. You can read more details in the Ars Technica story here.
+If you’re interested in the space-based internet service, you can register for SpaceX’s email newsletter at Starlink.com.

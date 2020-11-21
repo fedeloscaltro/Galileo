@@ -1,0 +1,20 @@
+24/09/2019
+Follow live: Magically exploring ‘the Moon’ from afar
+As Europe sleeps, in the early hours of Wednesday 25 September, a small rover in Canada will explore a mock lunar surface, controlled from ESA’s ESOC operations centre in Germany.
+The live experiment will test the technologies required to operate a rover from far away distances, a vital step in the human exploration of the Solar System.
+Before people step onto unexplored planets and moons, they will orbit above them, remotely controlling rovers and robots on the surface to first explore these alien landscapes.
+Controllers at the SMILE control room at ESOC will simulate a tele-robotic control experiment called MAGIC, in which the operators will explore the faux-lunar terrain.
+From Europe, they will carry out science activities such as imaging rocks, performing scans of crater rims and if time permits it will collect a regolith sample.
+During the experiment, the Canadian Space Agency’s “Juno” rover in Montreal will be under night-time conditions when operated from Darmstadt, Germany.
+An expert at ESA’s technical centre ESTEC in The Netherlands will provide scientific expertise throughout the simulated mission.
+Follow LIVE
+Operations will start at 02:00 CEST and finish at 06:00 CEST on Wednesday 23 September. Get live updates straight from ESA’s SMILE control room as the magical mission takes place, via @ESAoperations and @ESAspaceflight on Twitter.
+Preparing for human arrival
+MAGIC is part of a series of tests ESA has planned with international partners in the frame of the HERACLES sample return mission. In the mid-twenties, using the space Gateway as a relay and halfway point, the HERACLES robotic rover will scout out the terrain in preparation for the future arrival of astronauts.
+Such exciting future missions are being made possible by this and many other experiments that make up ESA's METERON project – the Multi-Purpose End-To-End Robotic Operation Network.
+METERON consists of a whole suite of experiments testing the technologies needed to operate robots on the surface of the Moon, or Mars, from an orbiting Lunar or Martian station.
+In particular the goals of METERON are:
+In November, METERON will culminate with another simulation except this time using ESA astronaut Luca Parmitano controlling a robot in The Netherlands from the Space Station.
+Luca will command the rover to multiple sites and take samples for scientific analysis, much as an astronaut would do orbiting the Moon in the Lunar Gateway.
+Europe’s operations expertise
+As experiments like this and others show, ESA’s expertise in mission operations centred at its operations centre in Germany in becoming increasingly important, and is extending to remote surface operations one day at the Moon and Mars.

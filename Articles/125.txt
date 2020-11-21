@@ -1,0 +1,23 @@
+22/07/2019
+SpaceX to deliver Space Station science
+Three exciting ESA experiments are soon headed to the International Space Station on board a Dragon resupply mission. The SpaceX cargo vehicle is slated for launch 24 July from Kennedy Space Center in Florida. The experiments will investigate a range of phenomena that could lead to novel space and Earth applications.
+From slimy rocks to bubbles in a box, the science soon to begin in the European Columbus module spans microbe growth, disease pathology, and heat transfer processes in the unique weightless environment of the Space Station.
+Rocky microbe
+The Biorock experiment, run by the University of Edinburgh, will unleash a microbe on a basalt rock and assess the biofilm that forms over the rock as the organism grows.
+Microbes ‘feed’ on rocks by extracting ions, a natural process that enables biomining, in which useful metals are extracted from rock ores.
+Biomining on Earth is common but as space agencies target the Moon, Mars and asteroids, researchers must understand how altered states of gravity affect the rock and microbe system as a whole.
+Of course, any data gleaned from space will help increase efficiency of the process on Earth and could eventually reduce our reliance on precious Earth resources.
+Extra and terrestrial disease
+Furthering our understanding of the toll space takes on the human body is the Amyloid Aggregation experiment.
+Studies have confirmed that time spent in space weakens an astronaut’s bones and muscles. But little is known about the neurodegenerative effects of spaceflight, despite the fact that astronauts’ post flight brain scans show changes similar to those of elderly patients suffering from Alzheimer’s.
+In both cases, proteins break down and clump together, forming amyloids that disrupt normal cell function and lead to disease. But how and under what conditions these amyloids aggregate is still poorly understood.
+In space, researchers can deliver two insights with one experiment: how degenerative diseases like Alzheimer’s are triggered and the potential risks of aging diseases for crews on longer duration missions in space.
+Boiling bubbles
+While bubbles of boiling water on Earth grow (and rise) quickly, it can be a much slower process in weightlessness, making it an ideal environment to study the phase change involved in a liquid turning into vapour.
+The Multiscale Boiling experiment will heat a refrigerant liquid in space to better understand this seemingly simple, but rather complex process.
+The shoebox-sized experiment includes a laser that will heat a surface to trigger a vapour bubble, while a thermal and a greyscale camera track the bubble’s formation and growth to reveal processes at work.
+Studying the importance of different scales during phase change means researchers can develop more accurate models for the heat transfer process, leading to optimised products with better heat exchange distribution and a more compact design. This could improve the thermal control systems of satellites and other space vehicles as well as habitats on the Moon and on other planetary bodies.
+On Earth, better heat transfer technology means a lower impact on nature, as products like laptops can cool down more efficiently.
+Science in Columbus
+Dragon will arrive at the International Space Station just under a week after ESA astronaut Luca Parmitano and fellow Expedition 60/61 crew NASA astronaut Drew Morgan and Roscosmos cosmonaut Alexander Skvortsov were welcomed aboard. The trio docked with the Space Station in the early hours of Sunday 21 July after a six-hour journey from the Baikonur cosmodrome.
+Using Canadarm2, NASA astronaut Nick Hague will capture and berth Dragon to the Harmony module with the assistance of fellow NASA astronauts Christina Koch and Drew Morgan. The experiments are expected to begin in a few weeks’ time.

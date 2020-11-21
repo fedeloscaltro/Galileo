@@ -1,0 +1,18 @@
+11/06/2018
+Plants on a gravity rollercoaster
+Plants are quicker to react and more sensitive than you might think – they can detect light changes in a fraction of a second and can bend towards light sources within minutes – and they respond equally fast to gravity. For the first time last week, European scientists filmed roots growing in real-time on a plane that recreates different gravity levels.
+Guided by gravity on Earth, roots find their way down into the soil, but how do plants keep their ‘feet’ on the ground when in space?
+“Altered gravity has a big impact on plant growth. We do not fully understand how their cells cope,” says lead scientist Franck Ditengou from the University of Freiburg in Germany. His research team involves five universities across Europe.
+Seven-day-old roots were put through repeated shots of microgravity – from a quarter to three quarter g – during the first partial-gravity international life sciences parabolic flight campaign held in Bordeaux, France.
+Baby-plant monitor
+Charting the very first reactions of young plants down to the millisecond in partial gravity was a new feat for the team.
+Baby roots were germinated in a Petri dish and transferred to the gravity-aircraft in a microfluidic chip where they continued to receive nutrients.
+Scientists then used a high-resolution microscope to monitor up to eight plants each flight. The device was equipped with lasers and a spinning disc that scanned each root in great detail.
+Fluorescent markers tracked the cellular changes happening at the root tips in real time.
+“This experiment is unique because it allows us to see how different g forces affect the gravity perception machinery,” explains Ditengou.
+Mutants in the spotlight
+Arabidopsis thaliana is a well-known plant for biologists. Its rapid growth and concentric cells make it easy to work with. “They offer good views through the microscope and they are easy to genetically modify,” adds Ditengou.
+The team used transgenic plants that were modified to have problems in perceiving gravity. These mutants are key to find out exactly how and where plants lose their ability feel gravity.
+Previous experiments on sounding rockets, long-arm centrifuges and zero-g parabolic campaigns showed huge changes in gene expression and some deformation in the roots structure. Results are soon to be published.
+The long journey of the roots is not over. Understanding plant growth is the first step to adapting crops for more productive agriculture.
+Growing plants for food in space and on other planets will be necessary for exploration of our Universe.

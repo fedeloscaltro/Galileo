@@ -1,0 +1,23 @@
+22/02/2018
+Goonhilly goes deep space
+Until now, if you’re an entrepreneur planning future missions beyond Earth, you’d have to ask a big space agency to borrow their deep-space antennas. Now, thanks to the UK’s county of Cornwall and ESA, you’ll have a commercial option, too.
+If you’re planning on flying a robotic or even human mission in the near future to the Moon, an asteroid or even Mars, one indispensable requirement you’ll face is the need for at least one deep-space tracking dish to communicate with your craft.
+Today, however, there’s no commercial deep-space service available to rent – and building a new station from scratch all on your own is rather pricey, although would be justified for a spacecraft travelling to exotic locations like Jupiter.
+Exploration mission needs growing
+ESA has three deep-space dishes, in Australia, Spain and Argentina, that provide leading-edge performance and full-sky coverage for tracking and communicating with missions like Mars Express, Gaia and ExoMars.
+Later this year, they will add the new BepiColombo mission to Mercury and, in the near future, ESA’s Solar Orbiter, Euclid and Cheops.
+“The amount of science data flowing in from ESA’s current missions, not to mention from future missions with improved instruments, is growing strongly,” says ESA’s Pier Bargellini, responsible for network operations.
+“By the middle of the next decade, ESA’s deep-space communication needs for supporting today’s missions, like ExoMars, and upcoming spacecraft, like Juice, is expected to exceed our present capacity by around half.
+“We are considering urgently how to bridge this gap.”
+Developing commercial capacity
+This is why ESA engineering teams are excited by a new initiative aimed at redeveloping part of Goonhilly Earth Station, an existing commercial station in Cornwall, UK, to enable it to provide Europe’s first deep-space tracking services on a commercial basis.
+Under the project, a 32 m-diameter dish built in 1985 will be upgraded to provide fast data links for missions far beyond Earth – typically exceeding 2 million km.
+In future, once commercial capacity is available, ESA’s deep-space antenna network will focus on supporting sophisticated missions demanding high-performance systems.
+Linking up
+Test links will be made with ESA missions such as Mars Express, one of the first times an Agency mission communicates with a non-ESA, non-NASA station from another planet.
+The project will be initially funded through a €9.5 million investment from the UK’s Cornwall & Isles of Scilly Local Enterprise Partnership, a public­–private regional economic development body, and will later include a smaller investment from ESA.
+“Once the station upgrade work is complete, in about 24 months, Goonhilly will be able to complement ESA’s own stations, and provide deep-space tracking for the Agency’s missions as well as those of other space agencies or from private space start-ups aiming to exploit the Moon or mine asteroids,” notes Klaus-Jürgen Schulz, responsible of ESA ground station engineering.
+Goonhilly, established in 1962 and at one time the largest satellite station in the world, with over 60 dishes of varying size, is well known in the UK. Its antennas have brought iconic images to UK TV viewers, including Muhammad Ali fights, the Olympic Games, the Apollo 11 Moon landing and 1985’s Live Aid concert.
+With the growing demand for deep-space tracking for both space agencies and new commercial space companies, the Goonhilly upgrade is an excellent example of how ESA can foster new business for European industry through engineering contracts to transform existing antennas into state-of-the art deep-space ground stations.
+“Upgrading Goonhilly and building up a commercial capability to support future exploration missions is good for ESA and good for European science and industry,” says Rolf Densing, ESA’s Director of Operations.
+“It’s also excellent value for European taxpayers.”

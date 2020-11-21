@@ -1,0 +1,18 @@
+Rocket Lab launches 10 Earth-observation satellites into orbit
+By
+Mike Wall
+24 days ago
+24 days ago
+Nine of them are "SuperDoves" built by San Francisco company Planet.
+Ten new Earth-observation satellites have made it to orbit.
+The satellites lifted off today (Oct. 28) atop a Rocket Lab Electron booster, which launched from the company's New Zealand pad at 5:21 p.m. EDT (2121 GMT; 10:21 a.m. on Oct. 29 local New Zealand time).
+Nine of the 10 payloads are "SuperDoves," shoebox-sized cubesats built by San Francisco-based imaging company Planet, which operates the world's largest Earth-observation constellation. More than 350 Planet satellites have reached orbit to date, about 150 of which are currently operational.
+Related: Rocket Lab and its Electron booster (photos)
+The vast majority of these satellites are cubesats in the Dove family, which can resolve features as small as 10 feet (3 meters) across on Earth's surface. These craft keep tabs on our changing planet in many different ways, providing data to a variety of customers.
+Planet also commonly releases, free of charge, imagery that's particularly important. For instance, the company has released orbital photos showing the aftermath of Iranian missile attacks on Iraqi military bases and images capturing damage from earthquakes and other natural disasters.
+The 10th payload that rode to space today is CE-SAT-IIB, a 78.3-lb. (35.5 kilograms) microsatellite built by Japanese giant Canon Electronics, Inc. CE-SAT-IIB is a demonstration craft that features "a middle-size telescope equipped with an ultra-high sensitivity camera to take night images of the Earth and small-size telescopes which are suitable for cubesat use," Rocket Lab representatives wrote in a description of today's mission, which the company dubbed "In Focus."
+All 10 satellites are bound for a sun-synchronous orbit (SSO) at an altitude of 310 miles (500 kilometers), a perch that will allow them to view Earth's surface with consistent solar illumination. The payloads were deployed as scheduled about an hour after launch, Rocket Lab representatives said.
+"In Focus" continues Rocket Lab's recovery from a July 4 launch failure, which resulted in the loss of five SuperDoves and Canon's CE-SAT-IB microsatellite. That failure was caused by a single faulty electrical connection in the upper stage of the two-stage Electron, Rocket Lab investigators determined. The booster returned to flight in August.
+Today's launch was the fifth of 2020 for Electron and the 15th overall for the booster, which stands 57 feet (17 meters) tall. Rocket Lab plans to start recovering and reusing Electron first stages relatively soon, a change that will allow higher launch frequencies, company founder and CEO Peter Beck has said.
+Rocket Lab has been testing reusability tech on recent Electron flights but is not doing so today, according to the "In Focus" press kit, which you can find here.
+Today's launch was originally scheduled to occur on Oct. 21, but Rocket Lab nixed that attempt after noticing an issue with an oxygen sensor.

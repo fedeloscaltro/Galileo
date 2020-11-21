@@ -1,0 +1,23 @@
+Rocket Lab launches 30 satellites, recovers booster in reusability milestone
+By
+Mike Wall
+a day ago
+a day ago
+The "Return to Sender" mission broke new ground for Rocket Lab.
+Rocket Lab just delivered a passel of satellites to orbit and took a big step toward booster reusability.
+Rocket Lab's two-stage Electron booster lifted off from the company's New Zealand launch site today (Nov. 19) at 9:20 p.m. EST (0220 GMT on Nov. 20), carrying 30 spacecraft to low Earth orbit on a mission called "Return to Sender."
+About that name: After its part of the flight wrapped up, the Electron's first stage came back down for a guided, parachute-aided splashdown in the Pacific Ocean, about 400 miles (650 kilometers) off the New Zealand coast.
+Then, about two hours after liftoff, Rocket Lab personnel fished the booster out of the drink with a recovery ship. The company will haul it to shore for analyses that will inform its quest to make Electron's first stage reusable.
+Related: Rocket Lab and its Electron booster (photos)
+Welcome back to Earth Electron! pic.twitter.com/lI39kLAS4ZNovember 20, 2020
+"Once we get it back into the factory, it's like a CSI [crime scene investigation], really," Rocket Lab founder and CEO Peter Beck told reporters during a teleconference on Nov. 4. "We'll pull it all apart and really, really dig into how well each of the components in the subassemblies have performed."
+Achieving the reusability goal will likely make Electron missions significantly cheaper for Rocket Lab and its customers, Beck has said. But the main envisioned benefit is a boost in rocket production rates and launch frequencies.
+"Even if it's economically neutral, the fact that we don't have to build more vehicles in the same factory is a really big advantage," Beck said during the Nov. 4 call.
+Rocket Lab eventually plans to snag falling Electrons out of the sky using helicopters, a technique it demonstrated this past March during a drop test with a dummy booster. The 59-foot-tall (18 meters) Electron is too small to make powered touchdowns à la the first stages of SpaceX Falcon 9 rockets; Electron cannot feasibly carry enough fuel to have the required amount left over for landing, Beck has said.
+Rocket Lab has guided Electron first stages back to Earth in a controlled fashion during operational launches before. But "Return to Sender" — the 16th Electron flight — marks the first time the company has done so with a parachute, and the first time a booster was recovered post-flight.
+As exciting as the splashdown and recovery were, the chief aim of "Return to Sender" was to get the 30 payloads aloft. And that did happen: The satellites were all deployed into a circular orbit about 310 miles (500 km) above Earth by an hour after liftoff, Beck said via Twitter on Thursday night.
+Twenty-four of the satellites that went up today are tiny "SpaceBees" that will be operated by California company Swarm Technologies. Swarm is assembling a constellation of 150 SpaceBees that will provide communications services to "Internet of Things" devices around the world.
+Also aboard "Return to Sender" were two satellites for Virginia-based TriSept Corp.'s Drag Racer mission. Drag Racer will test the ability of long tethers to de-orbit satellites efficiently, potentially demonstrating technology that could alleviate Earth's growing space-junk problem.
+Unseenlabs also had two small spacecraft on "Return to Sender," the second and third members of the French company's planned 20-satellite maritime-surveillance constellation. Unseenlabs' network will enable "improved monitoring of activities at sea, such as illegal fishing and anti-environmental behavior," Rocket Lab wrote in a "Return to Sender" mission description.
+Another satellite, called Waka Āmiorangi Aotearoa APSS-1, was built by students in the Auckland Programme for Space Systems at the University of Auckland in New Zealand. The spacecraft will investigate a possible link between earthquakes and disturbances in Earth's upper atmosphere, Rocket Lab representatives wrote.
+Finally, "Return to Sender" also lofted a 3D-printed depiction of Gnome Chompski, a garden gnome from the Half-Life video game series. The 6-inch-tall (15 centimeters) titanium gnome won't stay up long, however: Throughout the mission, it will stay attached to Electron's kick stage, which delivers satellites to precise orbits and then performs a suicide dive into Earth's atmosphere to avoid becoming a piece of space junk.

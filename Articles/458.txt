@@ -1,0 +1,49 @@
+NASA awards $370 million to private companies to aid moon exploration push
+By
+Mike Wall
+October 14, 2020
+October 14, 2020
+SpaceX will test in-orbit refueling in one of the 'Tipping Point' contracts.
+NASA has awarded $370 million in "Tipping Point" contracts designed to aid its push to get astronauts back to the moon and then on to Mars, agency officials announced today (Oct. 14).
+The funding is spread across 15 contracts to 14 different companies, including SpaceX, Astrobotic, Lockheed Martin, United Launch Alliance and Intuitive Machines.
+Nearly 70% of the money is earmarked for the management of cryogenic fluids such as liquid hydrogen and liquid oxygen. SpaceX, for example, will get $53 million for an in-space demonstration that will transfer 11 tons (10 metric tons) of liquid oxygen between tanks on one of its next-gen Starship vehicles.
+Related: The 21 most marvelous moon missions of all time
+Such work could allow rockets and spacecraft to fill their fuel tanks in orbit and other off-Earth locales, NASA officials said. This capability, in turn, is necessary for the establishment of a long-term, sustainable human presence on and around the moon, a key goal of the agency's Artemis program of crewed lunar exploration.
+Not all of the big-ticket contracts are geared toward propellant storage and handling. For example, Intuitive Machines, which will fly a robotic mission to the lunar surface for NASA next year, snagged nearly $42 million to develop a deployable hopping lander capable of carrying a small payload at least 1.5 miles (2.5 kilometers) on the moon.
+The Tipping Point contracts aim to spur potentially transformative technologies "and really get them over the edge," NASA Administrator Jim Bridenstine said today during a presentation at the Lunar Surface Innovation Consortium conference.
+The $370 million is an expected total. NASA's Space Technology Mission Directorate will negotiate with all of the awardees and come up with firm, fixed-price contracts that cover work lasting up to five years, agency officials said.
+Here's a complete list of the selected companies and a description of the awarded work, as provided by NASA:
+NASA and industry partners have developed and tested numerous technologies to enable long-term cryogenic fluid management, which is essential for establishing a sustainable presence on the Moon and enabling crewed missions to Mars. Implementation of the technologies in operational missions requires further maturation through in-space demonstrations.
+Eta Space of Merritt Island, Florida, $27 million
+Small-scale flight demonstration of a complete cryogenic oxygen fluid management system. As proposed, the system will be the primary payload on a Rocket Lab Photon satellite and collect critical cryogenic fluid management data in orbit for nine months. The small business will collaborate with NASA’s Marshall Space Flight Center in Huntsville, Alabama, NASA’s Glenn Research Center in Cleveland, and NASA’s Kennedy Space Center in Florida.
+Lockheed Martin of Littleton, Colorado, $89.7 million
+In-space demonstration mission using liquid hydrogen – the most challenging of the cryogenic propellants – to test more than a dozen cryogenic fluid management technologies, positioning them for infusion into future space systems. Lockheed Martin will collaborate with Marshall and Glenn.
+SpaceX of Hawthorne, California, $53.2 million
+Large-scale flight demonstration to transfer 10 metric tons of cryogenic propellant, specifically liquid oxygen, between tanks on a Starship vehicle. SpaceX will collaborate with Glenn and Marshall.
+United Launch Alliance (ULA) of Centennial, Colorado, $86.2 million
+Demonstration of a smart propulsion cryogenic system, using liquid oxygen and hydrogen, on a Vulcan Centaur upper stage. The system will test precise tank pressure control, tank-to-tank transfer, and multi-week propellant storage. ULA will collaborate with Marshall, Kennedy, and Glenn.
+As part of NASA’s Lunar Surface Innovation Initiative, the agency invests in technologies needed to advance in-situ resource utilization, surface power generation and energy storage, communications, and more. These capabilities will help humans and robots explore more of the Moon.
+Alpha Space Test and Research Alliance of Houston, $22.1 million
+The space science and technology evaluation facility will give small experiments access to the lunar environment to collect data and experience exposure to the ultraviolet and charged particle radiation.
+Astrobotic Technology of Pittsburgh, $5.8 million
+Mature and demonstrate a fast, wireless charging system that addresses challenges associated with using the technology on the Moon. The effort will build and deliver flight units for potential use on commercial robotic landers. Astrobotic will collaborate with Glenn.
+Intuitive Machines of Houston, $41.6 million
+Develop a small, deployable hopper lander capable of carrying a 2.2-pound (1-kilogram) payload more than 1.5 miles (2.5 kilometers). This hopper could access lunar craters and enable high-resolution surveying of the lunar surface over a short distance.
+Masten Space Systems of Mojave, California, $2.8 million
+Build and demonstrate a universal chemical heat and electrical power source attachment that lets payloads survive the extreme environments encountered during the lunar night and in craters.
+Nokia of America Corporation of Sunnyvale, California, $14.1 million
+Inspired by terrestrial technology, Nokia proposes to deploy the first LTE/4G communications system in space. The system could support lunar surface communications at greater distances, increased speeds, and provide more reliability than current standards.
+pH Matter of Columbus, Ohio, $3.4 million
+Develop and demonstrate a reversible, regenerative fuel cell capable of producing power and storing energy on the lunar surface. The technology could run the future infrastructure that processes water harvested on the Moon and creates propellant and other mission consumables. The small business will collaborate with Glenn.
+Precision Combustion Inc. of North Haven, Connecticut, $2.4 million
+Advance a cost-effective power solution for space, military, and everyday applications on Earth. The solid oxide fuel cell stack will generate power directly from methane and oxygen propellants and other in-situ resources.
+Sierra Nevada Corporation of Madison, Wisconsin, $2.4 million
+Develop demonstration-scale hardware that uses methane and concentrated solar energy to extract oxygen from lunar regolith. The hardware could be tested on a commercial lunar lander to prove a full-scale production plant's viability using this process.
+SSL Robotics of Pasadena, California, $8.7 million
+Develop a lighter and less expensive robotic arm for lunar surface applications, in-orbit servicing, and terrestrial defense applications.
+Teledyne Energy Systems of Hunt Valley, Maryland, $2.8 million
+Advance a hydrogen electrical power system to enable a fuel cell with an operating lifetime of 10,000 hours. Teledyne will fly a test article of the water separator on a parabolic aircraft to characterize the effect of various gravities.
+Closed-Loop Descent and Landing Capability Demonstration
+Suborbital platforms can enable testing of integrated precision landing and hazard avoidance technologies, using lunar trajectories during descent and landing. NASA’s current investments in precision landing and hazard avoidance will benefit from analyzing flight data acquired through tests and missions in relevant environments, including those experienced during suborbital flights.
+Masten, $10 million
+Masten will demonstrate precision landing and hazard avoidance testing capabilities across relevant lunar trajectories. Masten will mature its Xogdor vehicle to provide researchers from government, academia, and industry with a new platform for testing space technologies.

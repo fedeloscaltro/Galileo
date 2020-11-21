@@ -1,0 +1,152 @@
+NASA's Mars 2020 Perseverance rover mission: Live updates
+By
+Chelsea Gohd
+18 days ago
+18 days ago
+NASA’s Mars 2020 Perseverance rover lifted off successfully July 30, at 7:50 a.m. EDT (1150 GMT) aboard a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida.
+The rover will take about seven months to travel to the Red Planet and, on Feb. 18, 2021, will land in Mars' Jezero Crater to search for signs of life, explore the planet's geology and much more.
+21:09:32 CET - November 03, 2020
+NASA's Mars rover Perseverance has passed the halfway mark on its road to the Red Planet.
+The rover, which launched July 30, passed the midpoint of its Martian voyage on Oct. 27 after traveling about 146 million miles (235 million kilometers). Perseverance is scheduled to reach Mars on Feb. 18, where it will land on in a region called Jezero Crater.
+You can read our full report on Perseverance's midpoint to Mars here.
+20:36:05 CEST - October 02, 2020
+After blasting off on July 30, NASA's Mars 2020 Perseverance rover is on its way to Jezero Crater on the Red Planet where it's scheduled to land Feb. 18, 2021. Now, thanks to a new, interactive NASA web application called Eyes on the Solar System, you can follow the industrious spacecraft on its interplanetary journey.
+"Eyes on the Solar System visualizes the same trajectory data that the navigation team uses to plot Perseverance's course to Mars," Fernando Abilleira, the Mars 2020 mission design and navigation manager at NASA's Jet Propulsion Laboratory (JPL) in Southern California, said in a statement. "If you want to follow along with us on our journey, that's the place to be."
+You can check out the app here and follow "Percy" on its incredible voyage.
+20:39:47 CEST - August 06, 2020
+15:31:21 CEST - August 06, 2020
+July 30, NASA's Mars 2020 Perseverance rover successfully lifted off from Earth, bound for the Red Planet, where it is set to land Feb. 18, 2021. Of the many people excited to see the rover lift off, two teenagers watching the launch in Florida had a special connection. These two teens actually named the rover and its onboard helicopter.
+Alex Mather, a 7th-grade student from Virginia, and Vaneeza Rupani, a high-school senior from Alabama, named the Perseverance rover and the helicopter Ingenuity, respectively.
+Learn more about the teens and their work here.
+One of the best parts of watching @NASAPersevere launch to Mars was sharing this moment with Alex Mather and Vaneeza Rupani. More about these incredible students: https://t.co/4OoA83hHDp pic.twitter.com/2aAP9IsdBbAugust 6, 2020
+21:41:22 CEST - August 05, 2020
+Since NASA's Mars 2020 Perseverance rover launched to the Red Planet July 30, both a weather satellite and a robotic telescope have spotted the craft on its way to its dusty destination.
+The weather satellite GOES-16 spotted the smoke plume coming from the Florida launch and The Virtual Telescope Project spied the booster from the Atlas V rocket which launched the rover-holding spacecraft.
+Learn more about the Percy sighting here.
+19:32:33 CEST - July 31, 2020
+NASA's Mars rover Perseverance, which went into a protective "safe mode" shortly after its launch yesterday, is back to normal operations and cruising toward the Red Planet.
+In an announcement today, July 31, NASA officials reported that Perseverance is healthy and out of "safe mode" following a temperature variance that prompted the rover's onboard computer to enter the protective state. The spacecraft got a bit colder than expected when it zoomed through Earth's shadow.
+"With safe mode exit, the team is getting down to the business of interplanetary cruise," Mars 2020 deputy project manager Matt Wallace, of NASA's Jet Propulsion Laboratory in Pasadena, California, said in an update. "Next stop, Jezero Crater."
+You can read our full story here.
+Here is full explanation of the issue by Wallace in a previous NASA update on July 30:
+“First, the proximity of the spacecraft to Earth immediately after launch was saturating the ground station receivers of NASA’s Deep Space Network. This is a known issue that we have encountered on other planetary missions, including during the launch of NASA’s Curiosity rover in 2011. The Perseverance team worked through prepared mitigation strategies that included detuning the receivers and pointing the antennas slightly off-target from the spacecraft to bring the signal within an acceptable range. We are now in lock on telemetry after taking these actions.
+“The second issue was a transient event involving temperature on the spacecraft. The mission uses a liquid freon loop to bring heat from the center of the spacecraft to radiators on the cruise stage (the part that helps fly the rover to Mars), which have a view to space. We monitor the difference in temperature between the warm inlet to the radiators and the cooler outlet from the radiators. As the spacecraft entered into Earth’s shadow, the Sun was temporary blocked by Earth, and the outlet temperature dropped. This caused the difference between the warm inlet and cooler outlet to increase. This transient differential tripped an alarm and caused the spacecraft to transition into the standby mode known as ‘safe mode.’
+“Modeling by the team predicted something like this could happen during eclipse – the time when the spacecraft is in Earth’s shadow – but we could not create this exact environment for tests prior to launch. Nor did we have flight data from Curiosity, because its trajectory had no eclipse. We set the limits for the temperature differential conservatively tight for triggering a safe mode. The philosophy is that it is far better to trigger a safe mode event when not required, than miss one that is. Safe mode is a stable and acceptable mode for the spacecraft, and triggering safe mode during this transitional phase is not problematic for Mars 2020.
+“With the understanding of the causes of these issues, we are conducting the operations necessary to move the spacecraft back out of safe mode and into normal cruise mode.”
+16:35:29 CEST - July 31, 2020
+Today (July 31), NASA's Mars 2020 Perseverance rover begins its first full day in its roughly seven-month trip to the Red Planet. Perseverance, or "Percy," is now one of three craft traveling to Mars and slated to arrive in February 2021.
+The first to launch was the United Arab Emirates' "Hope" orbiter, the second was China's Tianwen-1 orbiter/lander/rover combined mission and now, Percy is well on its way to Mars where it will land in an ancient Martian Lake — Jezero Crater.
+However, is this a space race to Mars? Not quite — here’s why.
+While Hope will orbit Mars and Tianwen-1 will attempt to orbit around, land on the planet and explore, Percy will study Mars in a number of unique ways. One of the things Percy will do that has never been done before is the rover will cache samples of Martian material that will be picked up and transported to Earth with a future mission. Learn all about Percy's sample-return efforts here.
+00:04:57 CEST - July 31, 2020
+Space.com has new details on the Perseverance Mars rover's "safe mode" event that occurred shortly after launch.
+Matt Wallace, deputy project manager for Mars 2020 with NASA's Jet Propulsion Laboratory, told Space.com contributor Amy Thompson at the Kennedy Space Center in Cape Canaveral, Florida, that Perseverance's safe mode condition has been traced to temperature fluctuations in the cooling system for its nuclear battery. Here's her report:
+The rover's power source is a nuclear powered generator known as an MMRTG. It's attached to the rover, which is cocooned inside the entry capsule of the vehicle. When the rover is out in the breeze on the Martian surface, it's fine. However, when it's in the entry capsule (which will protect Perseverance during entry, descent and landing on Mars), things can get a bit warm.
+To help mitigate this issue, the vehicle relies on a cooling system that pumps freon from the MMRTG to a set of radiators. While this process is cycling, computers monitor the temperature differences to make sure the rover stays within preset parameters.
+As the spacecraft transitioned into its brief eclipse period — a part of its flight when the sun is being blocked by the Earth — that temperature difference increased rapidly, triggering the craft to enter safe mode.
+Wallace explained that since engineers cannot duplicate the space environment here on Earth, they estimate what the temperatures should be and set very conservative parameters.
+"Unfortunately, our analysis is never really perfect," he told Space.com. "Curiosity didn't have an eclipse in its flight trajectory so we didn't have flight data to know what was going to happen."
+"The spacecraft was never in jeopardy," he added. "Our philosophy is to be overly conservative on the parameters because we’d much rather trigger a safing event we didn’t need, than miss a safing event we do need."
+The team will continue to analyze the telemetry data that the vehicle has sent so far and double check that this is indeed the hiccup. Once that is complete, the team can put the rover back in an operational status.
+Wallace says he expects for the spacecraft to return to normal operations mode tomorrow (July 31). But the team is not in any rush and are taking their time to carefully review all the data. Wallace says there's plenty of time before the next big phase of the mission.
+20:51:45 CEST - July 30, 2020
+NASA officials just confirmed that the Mars 2020 Perseverance rover entered a protective "safe mode" after its launch today due to an unexpected temperature condition on the spacecraft.
+The rover's launch was successful, with Perseverance on the right path to Mars. But shortly after liftoff, telemetry indicated the rover entered a "safe mode" due to unexpectedly cold temperatures, NASA officials said.
+"Data indicate the spacecraft had entered a state known as safe mode, likely because a part of the spacecraft was a little colder than expected while Mars 2020 was in Earth's shadow," NASA officials said in a statement. "All temperatures are now nominal and the spacecraft is out of Earth's shadow."
+"Safe mode" is a protective state for spacecraft and rovers in which they shut down non-essential systems until receiving new commands from Earth.
+"An interplanetary launch is fast-paced and dynamic, so a spacecraft is designed to put itself in safe mode if its onboard computer perceives conditions are not within its preset parameters," NASA officials wrote in the statement. "Right now, the Mars 2020 mission is completing a full health assessment on the spacecraft and is working to return the spacecraft to a nominal configuration for its journey to Mars."
+19:07:42 CEST - July 30, 2020
+NASA's Mars rover Perseverance post-launch briefing has ended. The rover is in good shape after launch, even as flight controllers work on a minor communications issue related to the rover's stronger-than-expected signal strength, NASA officials said.
+Read our launch wrap story here!
+Thomas Zurbuchen, NASA associate administrator for science missions, said he's thrilled with the launch.
+"I'm relieved. It's a space mission now," Zurbuchen said. The communications glitch is something the rover team is working on, but that's part of the job when it comes to space missions, he added.
+Here's some more amazing launch photos.
+Matt Wallace, NASA's deputy project manager for Perseverance, said Perseverance may have experienced a  "temperature transient" event after launch that could have placed its computer in a protective safe mode, but more time is needed to confirm the telemetry. It should take about an hour to wrap that up, he said.
+In the meantime, Perseverance has now begun a 6.5-month cruise to Mars. This concludes on launch coverage, but updates will be posted as news on Perseverance is available throughout the mission.
+Thanks for joining us!
+17:57:18 CEST - July 30, 2020
+NASA's post-launch press conference for the Perseverance rover is under way.
+Matt Wallace, NASA's deputy project manager for Perseverance, reports that the Deep Space Network has established a telemetry lock with the rover. As of 11:50 a.m. EDT (1550 GMT), it should take about 30 to 60 minutes to verify the rover's condition, but all signs point to good health, Wallace said.
+Perseverance's signal is extremely strong, and a bit overwhelming for the Deep Space Network's sensitive receiver. A similar issue occurred after the Curiosity rover launch in 2011, he said. The signal is being modulated so the DSN can process it, he added.
+16:52:47 CEST - July 30, 2020
+Shortly after signal acquisition, NASA teams had an issue with matching signal strengths between the spacecraft and ground stations. However, this is seen as a temporary issue and one that is not only easily solvable, but that has been solved before, NASA Administrator Jim Bridenstine shared on Twitter.
+"We had a good launch this morning, we’re right on course for Mars and signal from @NASAPersevere is strong. We are working to configure the ground stations to match the strength of the spacecraft signal. This scenario is one we’ve worked through in the past with other missions," Bridenstine tweeted.
+Read our launch wrap details all of the amazing moments from this mission here.
+We had a good launch this morning, we’re right on course for Mars and signal from @NASAPersevere is strong. We are working to configure the ground stations to match the strength of the spacecraft signal. This scenario is one we’ve worked through in the past with other missions.July 30, 2020
+I am healthy and on my way to Mars, but may be too loud for the antennas on Earth while I'm so close. Ground stations are working to match my signal strength so that I can communicate clearly with my team. https://t.co/vLaRxcKomRJuly 30, 2020
+15:17:38 CEST - July 30, 2020
+Following successful spacecraft separation, NASA has reported that the mission "phoned home."
+The mission has officially made contact with ground controllers back on Earth. These signals were received by ground controllers through a NASA tracking station located in Canberra, Australia.
+Read our launch wrap details all of the amazing moments from this mission here.
+14:48:10 CEST - July 30, 2020
+Huzzah! NASA's Mars 2020 spacecraft, which contains the agency's Mars 2020 Perseverance rover, has officially deployed from the Centaur upper stage as scheduled. In about 20 minutes, we can expect the first signals coming from that spacecraft to reach ground controllers on Earth at NASA.
+It's official: NASA's Mars 2020 Perseverance rover is on its way to Mars.
+Read our launch wrap details all of the amazing moments from this mission here.
+At 11:30, you can tune back into NASA TV to watch the Mars 2020 Perseverance post-launch news conference.
+14:43:48 CEST - July 30, 2020
+ULA's Atlas V rocket has successfully completed an "escape burn," or its second and final engine firing, as scheduled. This burn is what pushes the vehicle out and towards the Red Planet, where it is set to arrive Feb. 18, 2021, nearly seven months from now.
+You can watch the mission unfold live here and on Space.com's homepage, courtesy of NASA.
+14:04:34 CEST - July 30, 2020
+The Atlas V's first Centaur burn is complete, as scheduled for NASA's Mars 2020 mission to the Red Planet.
+You can watch the mission unfold live here and on Space.com's homepage, courtesy of NASA.
+NASA's Mars 2020 Perseverance rover is officially on its way to Mars, with a successful launch earlier this morning atop a United Launch Alliance Atlas V rocket. Check out this sweet photo of the mission making its way in space!
+13:55:04 CEST - July 30, 2020
+Atlas V's Common Core Booster, the first stage of the Atlas 5 rocket separates from Centaur, the upper stage of Atlas V, as scheduled.
+13:54:01 CEST - July 30, 2020
+PLF (Payload Fairing Separation): The Atlas V rocket's payload fairing, or nose cone, which was made in Switzerland by Ruag Space and helped to protect the Atlas V rocket during launch, has separated from the vehicle as scheduled.
+13:52:24 CEST - July 30, 2020
+SRB (Solid Rocket Booster) jettison: The solid rocket booster helping Atlas V launch the Mars rover Perseverance has separated from the booster as planned.
+13:50:31 CEST - July 30, 2020
+Go Percy! Go Atlas V! Go Mars 2020! Go Centaur!
+NASA's Mars 2020 Perseverance rover has officially lifted off for Mars from Florida in the United States.
+The rover successfully launched aboard a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida. The car-sized rover is officially on its way to Jezero Crater on Mars, where it is set to arrive in about seven months on Feb. 18, 2021.
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA.
+13:41:11 CEST - July 30, 2020
+We are 10 minutes from launch! Make sure to tune in to watch history being made.
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA.
+13:27:28 CEST - July 30, 2020
+The weather in Florida is beautiful and perfect for today's launch. According to weather officer Jessica Williams, weather is observed and forecast GO for liftoff in just about half an hour.
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA.
+13:21:19 CEST - July 30, 2020
+All tanks on United Launch Alliance's Atlas V rocket are fully fueled, conditions are nominal and we are still on track for a 7:50 a.m. EDT (1150 GMT) launch.
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA.
+13:00:04 CEST - July 30, 2020
+It is officially 7 a.m. EDT (1100 GMT), which means that you can now follow along with the launch live online. You can watch the launch live here and on Space.com's homepage, courtesy of NASA, beginning now (7 a.m. EDT (1100 GMT))!
+12:50:07 CEST - July 30, 2020
+We are officially one hour out from today's launch! The mission is still set to liftoff at 7:50 a.m. EDT (1150 GMT) with NASA's Mars 2020 Perseverance rover aboard a United Launch Alliance Atlas V rocket.
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA, beginning at 7 a.m. EDT (1100 GMT).
+12:42:02 CEST - July 30, 2020
+LOX, or liquid oxygen, loading has been officially completed for United Launch Alliance's Atlas V rocket's first stage. The rocket will consume LOX alongside RP-1, a refined kerosene.
+The launch is on track and liftoff for the mission remains set for 7:50 a.m. EDT (1150 GMT.)
+You can watch the launch live here and on Space.com's homepage, courtesy of NASA, beginning at 7 a.m. EDT (1100 GMT).
+11:51:00 CEST - July 30, 2020
+It is officially two hours until NASA's Mars 2020 Perseverance rover lifts off (at 7:50 a.m. EDT (1150 GMT)) atop a United Launch Alliance Atlas V rocket from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida.
+The weather looks good and "Percy" is poised for Mars!
+How to watch live: here.
+03:19:02 CEST - July 30, 2020
+The clock is ticking down toward the launch of NASA's Mars rover Perseverance. Here's how you can watch the launch live at 7:50 a.m. EDT (1150 GMT) from Space Launch Complex 41 at the Cape Canaveral Air Force Station.
+NASA's webcast begins at 7 a.m. EDT (1100 GMT). The United Launch Alliance will begin its countdown coverage at 12:15 a.m. EDT (0415 GMT) with live updates appearing here.
+Space.com contributor Amy Thompson is in Cape Canaveral for the Perseverance launch. Check out her preview of the mission and its launch day.
+00:50:27 CEST - July 30, 2020
+NASA is having some fun with less than a day remaining until the Mars 2020 Perseverance rover launches toward the Red Planet. In the photo above, you can see NASA Administrator Jim Bridenstine (right) and United Launch Alliance CEO Tory Bruno appear to "balance" the Atlas V carrying Perseverance at Space Launch Complex 41 of the Cape Canaveral Air Force Station.
+NASA has even started streaming live views from the launch pad ahead of tomorrow's live launch webcast, which will begin at 7 a.m. EDT (1100 GMT). Check it out here.
+But there's some serious science still at work for the rover mission.
+Did you know there are microphones on Perseverance to bring us the sounds of Mars? You can read all about here from Space.com contributor Elizabeth Howell.
+Perseverance is also carrying a meteorite from Mars
+as part of an experiment, according to collectSPACE.com editor Robert Pearlman. Pearlman also brings us this story about a piece of spacesuit material on Perseverance, which NASA  will use to test spacesuit technology for future astronaut missions.
+Space.com's Chelsea Gohd took a look at how Perseverance will help the search for life on Mars. Check it out here.
+Meanwhile, our senior writer Meghan Bartels dives in to the history of nuclear power on Mars and across the solar system. You can read that powerful story (see what we did there) here.
+Finally, if you missed Space.com's Summer of Mars panel today, don't fret. You can catch the replay with Jim Watzin, director of NASA's Mars Exploration Program, and Jim Bell, President of the Planetary Society. Check that out here.
+23:11:14 CEST - July 29, 2020
+We caught up with Dr. Thomas Zurbuchen, the Associate Administrator for the Science Mission Directorate at NASA, one day before NASA's Mars 2020 Perseverance rover takes off for the Red Planet.
+In the video chat (check it out above!) he detailed the incredibly innovative tools that Perseverence, nicknamed "Percy," will carry to Mars and what makes the rover and mission so unique and important. He also highlighted some of his favorite aspects of the mission, which will collect and cache samples that researchers hope will be carried to Earth with a future mission.
+17:33:52 CEST - July 29, 2020
+We are less than 24 hours away from the launch of NASA's Mars 2020 Perseverance rover! The rover will scour Mars for signs of ancient, microbial life.
+Tomorrow at 7:50 a.m. EDT (1150 GMT), Percy will begin its journey to the Red Planet aboard a United Launch Alliance Atlas V rocket which will launch from Space Launch Complex 41 at Cape Canaveral Air Force Station in Florida.
+It's time to get excited and prepare yourself to watch and enjoy the historic launch.
+Today, you can hear NASA Administrator Jim Bridenstine's thoughts about the Mars-bound mission in a live-streamed video on NASA Live, which will begin at noon EST (1600 GMT.)
+Also today, beginning at the same time, you can join Space.com for our "Summer of Mars" webinar, in which you'll be able to connect with the Space.com community to discuss and learn about Perseverance, Mars, the search for life and so much more.
+Go here for up-to-date information on how to watch the launch tomorrow live.
+23:01:40 CEST - July 27, 2020
+Perseverance, formerly known as the Mars 2020 rover, passed its launch readiness review, NASA officials announced today (July 27.) This was the last major hurdle before the rover is launched on Thursday (July 30) and so, with a pretty good weather forecast and this major obstacle behind it, the mission is making serious progress towards the Red Planet.
+Get breaking space news and the latest updates on rocket launches, skywatching events and more!

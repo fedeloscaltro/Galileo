@@ -1,0 +1,27 @@
+Can the EmDrive actually work for space travel?
+By
+Paul Sutter
+10 days ago
+10 days ago
+Don't get your hopes up.
+The "EmDrive" claims to make the impossible possible: a method of pushing spacecraft around without the need for — well, pushing. No propulsion. No exhaust. Just plug it in, fire it up and you can cruise to the destination of your dreams.
+But the EmDrive doesn't just violate our fundamental understanding of the universe; the experiments that claim to measure an effect haven't been replicated. When it comes to the EmDrive, keep dreaming.
+Related: Superfast spacecraft propulsion concepts (images)
+It goes by various names — the EmDrive, the Q-Drive, the RF Resonant Cavity, the Impossible Drive — but all the incarnations of the device claim to do the same thing: bounce some radiation around inside a closed chamber, and presto-chango you can get propulsion.
+This is a big deal, because all forms of rocketry (and indeed, all forms of motion across the entire universe) require conservation of momentum. In order to set yourself in motion, you have to push off of something. Your feet push off of the ground, airplanes push themselves off of the air, and rockets push parts of themselves (e.g., an exhaust gas) out the back end to make them go forward.
+But the EmDrive doesn't. It's just a box with microwaves inside it, bouncing around. And supposedly it is able to move itself.
+Explanations for how the EmDrive could possibly work go past the boundaries of known physics. Perhaps it's somehow interacting with the quantum vacuum energy of space-time (even though the quantum vacuum energy of space-time doesn't allow anything to push off of it). Perhaps our understanding of momentum is broken (even though there are no other examples in our entire history of experiment). Perhaps it's some brand-new physics, heralded by the EmDrive experiments.
+Let's talk about the momentum part. Conservation of momentum is pretty straightforward: in a closed system, you can add up the momenta of all the objects in that system. Then they interact. Then you add up the momenta of all the objects again. The total momentum at the beginning must equal the total momentum at the end: momentum is conserved.
+The idea of the conservation of momentum has been with us for centuries (it's even implied by Newton's famous second law), but in the early 1900s it gained a new status. The brilliant mathematician Emmy Noether proved that conservation of momentum (along with other conservation laws, like conservation of energy) are a reflection of the fact that our universe has certain symmetries.
+For example, you can choose a suitable location to perform a physics experiment. You can then pick up your physics experiment, transport it to anywhere in the universe and repeat it. As long as you account for environmental differences (say, different air pressures or gravitational fields), your results will be identical.
+This is a symmetry of nature: physics doesn't care about where experiments take place. Noether realized that this symmetry of space directly leads to conservation of momentum. You can't have one without the other.
+So, if the EmDrive demonstrates a violation of momentum conservation (which it claims to do), then this fundamental symmetry of nature must be broken.
+But almost every single physical theory, from Newton's laws to quantum field theory, expresses space symmetry (and momentum conservation) in their base equations. Indeed, most modern theories of physics are simply complicated restatements of momentum conservation. To find a breaking in this symmetry wouldn't just be an extension of known physics — it would completely upend centuries of understanding of how the universe works.
+The universe: Big Bang to now in 10 easy steps
+That's certainly not impossible (scientific revolutions have happened before), but it's going to take a lot of convincing to make that happen.
+And the experiments so far have not been all that satisfying.
+Ever since the introduction of the EmDrive concept in 2001, every few years a group claims to have measured a net force coming from its device. But these researchers are measuring an incredibly tiny effect: a force so small it couldn't even budge a piece of paper. This leads to significant statistical uncertainty and measurement error.
+Indeed, of all the published results, none have produced a measurement beyond "barely qualifying for publication," let alone anything significant.
+Still, other groups have developed their own EmDrives, attempting to replicate the results, like good scientists should. Those replication attempts either fail to measure anything at all, or found some confounding variable that can easily explain the measured meager results, like the interaction of the cabling in the device with the Earth's magnetic field.
+So that's what we have, nearly 20 years after the initial EmDrive proposal: a bunch of experiments that haven't really delivered, and no explanation (besides "let's just go ahead and break all of physics, violating every other experiment of the past 100 years") of how they could work.
+Groundbreaking, physics-defying revolution in space travel or a pipe dream? It's pretty clear which side Nature is on.

@@ -1,0 +1,21 @@
+25/01/2019
+Radiation for dummies
+Meet Helga and Zohar, the dummies destined for a pioneering lunar flyby to help protect space travelers from cosmic rays and energetic solar storms.
+These two female phantoms will occupy the passenger seats during Orion’s first mission around the Moon, going further than any human has flown before.
+Fitted with more than 5600 sensors, the pair will measure the amount of radiation astronauts could be exposed to in future missions with unprecedented precision.
+The flight test will take place during NASA’s Exploration Mission-1, an uncrewed trip to the vicinity of the Moon and back to Earth.
+Radiation poses a major health risk to people in space. Astronauts on the International Space Station receive doses 250 higher than on Earth. Away from Earth’s magnetic field and into interplanetary space, the impact on the human body could be much higher – up to 700 times more.
+Two sources of radiation are of concern: galactic cosmic radiation and virulent solar particle events. This radiation could increase the crew’s risk of cancer and become a limiting factor in missions to the Moon and Mars.
+Helga and Zohar
+The two phantoms simulate adult female torsos. Both Helga and Zohar are made up of 38 slices of tissue-equivalent plastics that mimic the varying density of bones, soft tissue and lungs. Similar dummies are used in hospitals to quantify the right dose of radiation for cancer therapies.
+“We chose female phantoms because the number of women astronauts is increasing, and also because the female body is typically more vulnerable to radiation,” explains Thomas Berger, lead scientist of the Matroshka AstroRad Radiation Experiment (MARE) at the German Aerospace Center, DLR.
+Sensors have been fitted in the most radiation-sensitive areas of the body – lungs, stomach, uterus and bone marrow. While thousands of passive dosimeters will record the radiation dose from launch until return to Earth, a set of 16 active detectors will map the radiation dose both on the phantoms’ skin and internal organs during flight.
+An astronaut’s shield
+The only difference between the twin dummies is that Zohar will be wearing a radiation protection vest, while Helga will travel unprotected from spaceborne radiation.
+This vest is called AstroRad, and has been developed by a start-up company sponsored by the Israel Space Agency. “We are relying on our expertise in protecting personnel in nuclear plants and emergency workers exposed to high levels of radiation or terrorist radiological threats,” explains StemRad company director Oren Milstein.
+Made of polyethylene to better block harmful protons, AstroRad will cover Zohar’s upper body and uterus. Comparing the radiation dose she receives with that of Helga, scientists aim to understand how to better protect future crews.
+There are precedents to Helga and Zohar. The Matroshka phantom inhabited the International Space Station from 2004 to 2011 to measure the radiation dose astronauts experience during their missions onboard and outside during spacewalks.
+From Earth to the Moon – together
+Helga and Zohar are currently in Cologne, Germany, where DLR teams are working on a prototype to safely attach them to the passenger seats of the Orion capsule, and preparing the radiation detectors for flight. Teams in the United States are also preparing for the safety review with NASA this Spring.
+“The international collaboration greatly increases the value of MARE. It provides diverse perspectives and complementary resources,” says Razvan Gaza, project manager at Lockheed Martin, the company building NASA’s Orion vehicle.
+Another autonomous unit the size of a matchbox will also travel on Orion to record radiation inside the crew capsule in real time. The ESA Active Dosimeter Mobile Unit Radiation Detector was previously tested on the International Space Station.

@@ -1,0 +1,25 @@
+European Vega rocket suffers major launch failure, satellites for Spain and France lost
+By
+Tariq Malik
+4 days ago
+4 days ago
+'We can now confirm the mission is lost."
+An Arianespace Vega rocket suffered a major failure shortly after launch on Monday (Nov. 16), leading to loss of satellites for Spain and France.
+The four-stage Vega rocket lifted off from the Guiana Space Center in Kourou, French Guiana at 8:52 p.m. EST (0152 Nov. 17 GMT) and appeared to fly smoothly during the early mission phases. But eight minutes into flight, something went wrong.
+"We can now confirm that the mission is lost," Arianespace CEO Stéphane Israël said during a launch webcast.
+Related: Europe's Vega rocket in photos
+Just after Vega ignited its upper stage, called Avum, it veered off course on a degraded trajectory, according to Arianespace. The rocket never made its next expected contact with ground stations.
+"Eight minutes after the liftoff, and immediately after the ignition of the engine of the fourth stage of Vega, the Avum stage, we have observed the degradation of the trajectory," Israël said. "It means that the speed was not nominal anymore."
+Arianespace officials said that "a problem related to the integration of the fourth-stage AVUM nozzle activation system is the most likely cause of the loss of control of the launcher," according to a statement released Tuesday (Nov. 17).
+The Vega rocket was carrying two payloads when it lifted off: an Earth-watching satellite for Spain called SEOSAT-Ingenio and the TARANIS satellite for France's space Agency CNES. The launch failure is the second major malfunction of the Vega rocket in two years.
+In July 2019, a Vega rocket failed during the launch of a satellite for the United Arab Emirates. A subsequent investigation found that a faulty motor on the booster was to blame.
+The Vega rocket returned to flight this year on Sept. 2, when one of the rockets was used to launch 53 small satellites for 21 different customers. That mission was a complete success.
+The same cannot be said for Vega's follow-up mission.
+"I want to present my deepest apologies to my customers for this mission," Israël said. "Arianespace is presenting its apologies and we have now to analyze and to understand."
+An investigation into the cause of the launch anomaly is ongoing.
+SEOSAT-Ingenio is Spain's first Earth observation satellite for a European Space Agency program to study our planet. The satellite carries a high-resolution dual camera that can image Earth with a resolution of 2.5 meters (8.2 feet) and look sideways as well as down, allowing it to observe any point on Earth over three days.
+The TARANIS satellite (the name is short for Tool for the Analysis of RAdiation from lightNIng and Sprites) is a science satellite designed to observe extremely bright electrical phenomena in Earth's upper atmosphere. The satellite was expected to study brilliant visible-light flashes known as sprites, blue jets and elves, as well as gamma-ray flashes, for a period of four years.
+Arianespace's Vega rocket is stands nearly 100 feet (30 meters) tall and features three solid-fueled stages topped by a liquid-fueled fourth stage, called the attitude and vernier upper module, or Avum. It was after the Avum stage had ignited that Arianespace announced the launch trajectory anomaly.
+Vega rockets can carry payloads of up 3,300 lbs. (1,500 kilograms) to polar orbits just over 400 miles (700 km) above Earth. The rocket has launched 17 times since it entered service in 2012, with two failures.
+Arianespace and the European Space Agency are developing upgraded version of Vega, called the Vega C, designed to carry payloads up to 5,070 lbs. (2,300 kg), 60% more than the current model.
+Editor's note: This story was updated on Nov. 18 to include an Arianespace statement on the cause of the Vega launch failure.

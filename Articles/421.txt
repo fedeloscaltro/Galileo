@@ -1,0 +1,14 @@
+SpaceX postpones next Starlink satellite fleet launch due to rocket camera issue
+By
+Tariq Malik
+a month ago
+a month ago
+The issue involves a camera on the Falcon 9 rocket's upper stage.
+SpaceX called off the launch of a Falcon 9 rocket carrying 60 new Starlink internet satellites Thursday (Oct. 22) due to mission assurance concerns.
+The Falcon 9 rocket was less than 15 minutes from liftoff when flight controllers scrubbed the flight. The launch was scheduled for 12:14 p.m. EDT (1614 GMT) from Space Launch Complex 40 of Cape Canaveral Air Force Station in Florida.
+"Standing down from today's launch of Starlink to allow additional time for mission assurance work: will announce next launch opportunity once confirmed on the Range," SpaceX representatives wrote in a Twitter update.
+"Just a small-seeming issue with loss of upper stage camera," SpaceX founder and CEO Elon Musk explained in a follow-up tweet today. "Probably nothing serious, but standing down to re-examine whole vehicle just in case."
+That Range is the Eastern Range along Florida's Space Coast used for launches from the Cape Canaveral Air Force Station and NASA's nearby Kennedy Space Center.
+Today's planned Starlink launch was to be SpaceX's second flight this week and the 15th mission for the company's growing constellation of internet satellites. Another Falcon 9 rocket launched 60 Starlink satellites on Sunday (Oct. 18) from Pad 39A of the Kennedy Space Center.
+The Falcon 9 first stage for today's launch attempt is a veteran booster that has flown twice before. In September, it launched a previous Starlink mission and lofted the GPS III SV03 mission for the U.S. Space Force in June.
+SpaceX has launched more than 800 Starlink satellites since 2019 as the company builds a megaconstellation that may eventually number about 14,000 satellites to provide global broadband internet coverage.

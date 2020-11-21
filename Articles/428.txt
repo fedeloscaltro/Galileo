@@ -1,0 +1,14 @@
+Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier
+By
+Chelsea Gohd
+October 21, 2020
+October 21, 2020
+Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space
+Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud computing data centers that can deploy anywhere. For the emerging business, Microsoft has called upon SpaceX's  Starlink internet satellites and expanded its agreement with satellite company SES for Azure Space.
+Microsoft will have access to theStarlink broadband network (SpaceX has launched over 800 of the satellites so far) for the company's new "Azure Modular Datacenter" (MDC), which is a datacenter, a contained unit that can be deployed anywhere, even "off the grid," creating remote connectivity access or supporting existing access.
+"Space has been powering the world for a long time and together with our partners at Microsoft were excited to democratize space for all industries to enable new options for enterprises around connectivity and compute," Tom Keane, corporate vice president for Azure Global said in a video released by Microsoft..
+"At Microsoft, our approach to space is different … with the enormous challenges that space presents, there also comes great opportunity. The space community is growing rapidly and innovation is lowering the barriers of access for public and private sector organizations," Keane added. "We intend to make Azure the platform and ecosystem of choice for the mission needs of the space community."
+This collaboration comes hot on the heels of Azure Orbital, a ground station service that Microsoft rolled out last month. Azure Orbital is being expanded to connect with satellites in low, medium and geosynchronous orbits, which plays fittingly into the company's new arrangement with SpaceX's Starlink satellites.
+"You don't need fiber, you basically talk to the satellites that we have in orbit, the satellites will talk to each other and get that data to the other point on Earth where it’s needed,” Gwynne Shotwell, SpaceX president and chief of operating officer, said in the video interview with Keane.
+"Over the last few years we have been building out a giant constellation of satellites to deliver internet across the globe," Shotwell said, adding that this collaboration "will allow us to deliver new offerings for both the public and the private sector to deliver connectivity through Starlink for use on Azure."
+In addition to the Azure Space announcement, Microsoft revealed today the Azure Orbital Emulator, which creates a simulated environment in which satellites and satellite constellations can be tested. This will allow public or private enterprises to more thoroughly test their satellite constellations on the ground before launching to orbit.

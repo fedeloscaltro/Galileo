@@ -1,0 +1,24 @@
+Microbe 'biominers' could help humanity build settlements on other worlds
+By
+Mike Wall
+11 days ago
+11 days ago
+Microgravity didn't deter one species of tiny biominer.
+Microbes could be a key partner in humanity's quest to extend its footprint beyond Earth.
+Bacteria successfully extracted resources from rocks in microgravity and at simulated Mars gravity, suggesting that "biomining" has real potential to aid off-Earth settlement, a new study reports.
+Biomining is an established practice here on Earth; microbes help catalyze the extraction of copper and gold from rocks, for example. But it has remained unclear how well such organisms could work on Mars, the moon or an asteroid, given these cosmic locales' very different gravity conditions.
+Home on the moon: How to build a lunar colony (infographic)
+The new study shines some light on the matter. It reports the results of BioRock, a European Space Agency experiment that operated for three weeks on the International Space Station in the summer of 2019.
+BioRock tested the ability of three bacterial species — ,
+and — to leach rare earth elements (REEs) out of rocks in microgravity and Mars-gravity conditions.
+REEs (which initially seemed to be scarce here on Earth, hence the misleading name) are a set of 17 elements that are key components in many electronics and important in the manufacturing of a variety of metal alloys, thanks to their unique catalytic and magnetic properties.
+In the BioRock experiment, which flew to the space station aboard a SpaceX Dragon cargo capsule, researchers measured how efficiently the three bacterial species leached 14 different REEs out of basaltic rock inside small, custom-built "bioreactors." This type of rock was chosen advisedly; basalt, which forms from cooled lava, is common on the moon and Mars as well as Earth.
+(a hardy species commonly used in space experiments) showed a reduced ability to bioleach in low-gravity conditions, and did no better than nonbiological ground-based controls. But was able to extract REEs well in all three gravity conditions, the scientists found.
+"We were surprised that there was no significant effect of the different gravities on the biomining, given that microgravity is known to influence the behavior of fluids," study co-lead author Charles Cockell, of the UK Centre for Astrobiology at the University of Edinburgh in Scotland, told Space.com via email.
+"However, we think that could be because the microbes had long enough to interact with the rocks," Cockell said. "It also shows that biomining can be done in different gravities, such as on asteroids, the moon or Mars."
+And meaningful, operational biomining could likely be done in space with a scaled-up version of the reactor the BioRock team used, he added.
+"You would probably want to modify it — for example, by stirring the fluid and crushing the rock to improve its accessibility to the microbes, but the basic idea would be the same," Cockell said.
+Establishing permanent, sustainable human settlements on the moon, Mars and beyond will require "living off the land" to the greatest extent possible, experts stress. The new study suggests that microbes could help make that vision a reality — but not quite yet, as there's still work to be done.
+"I think we should continue exploring the types of microbes that would give us the best results in extracting useful elements from materials to be found in space, such as on asteroids, the moon and Mars, and we should continue to develop the technology for optimizing these sorts of biologically enhanced industrial processes in space," Cockell said.
+The potential applications of the new results aren't restricted to space settlement, either.
+After all, strutted its stuff in simulated Mars gravity, "indicating the production of a potential biosignature under altered gravity, with implications, for example, for additional methods to test the hypothesis of life on Mars," Cockell, co-lead author Rosa Santomartino (also of the UK Centre for Astrobiology) and their colleagues wrote in the new study, which was published online today (Nov. 10) in the journal Nature Communications.

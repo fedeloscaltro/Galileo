@@ -1,0 +1,13 @@
+05/12/2018
+Worms in space to understand muscle loss
+Keeping fit and maintaining muscle strength is hard enough on Earth, but for astronauts in space it is even more important. As they float around the International Space Station working on experiments, their muscles and bones get less of a work-out than if they were walking and lifting objects on Earth.
+The Molecular Muscle Experiment is set to investigate on a molecular level how muscles react to spaceflight in the C. Elegans worm. Thousands of worms will be sent into space in special bags placed in an incubator that allow them to grow and reproduce. In less than a week, the worms will have grown to maturity. They will then be frozen in the Space Station’s freezers for analysis in laboratories once they return to Earth.
+Loss of muscle mass and function is one of the most pronounced and consistently observed adaptations to spaceflight. Previous studies on the International Space Station with Caenorhabditis elegans showed that these worms express genes and structural changes similar to the way in which astronauts’ muscular strength and energy metabolism are disrupted in space. Researchers want to know more and a follow-up study is being launched today inside the Dragon cargo spacecraft.
+Tim Etheridge, senior lecturer at the University of Exeter explains “Worms are, perhaps surprisingly, a good model for human muscles. At the molecular level they are similar to humans and offer advantages for spaceflight research – they are very small, quick to grow as well as cheap and easy to maintain!"
+This experiment will focus on the most observed muscular changes in space, insulin signalling (that causes diabetes on Earth) and cell attachment (that causes muscular dystrophy) and target these to develop countermeasures.
+Finding out more about why muscles change in space and how to counteract these effects will help not only future astronauts, but also people on Earth who suffer from muscular disease.
+Getting ready for launch
+As this experiment involves living organisms, preparation is key and the team behind the Molecular Muscle Experiment have been nurturing the flight larvae for weeks before putting them into their ‘flight suits’.
+Loading in the Dragon spacecraft is done as late as possible as, once they leave the laboratory, they need to be in the Space Station’s European Kubik incubator within 160 hours or the worms will die prematurely and the experiment results will be skewed.
+Meanwhile two other sets of worms will be grown in similar conditions on Earth as a reference to compare data.
+One batch is a control group and one batch of worms will be grown in the exact same conditions their astronaut-brethren experienced – minus the microgravity.

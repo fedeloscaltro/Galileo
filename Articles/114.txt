@@ -1,0 +1,20 @@
+16/09/2019
+Space Station science: learning from Luca
+There is plenty of science on the boil at the International Space Station – including an experiment literally designed to expand our knowledge of the boiling process.
+Get a glimpse into the experiments ESA astronaut Luca Parmitano has been working on over the past two weeks in this fortnightly spotlight on Space Station science.
+Easy as Astro Pi
+The European Astro Pi Challenge is a school project run by ESA in collaboration with the Raspberry Pi Foundation. It gives young people the opportunity to write code that runs on mini-computers on board the International Space Station. This year, Luca is the European Astro Pi challenge ambassador and on 12 September he launched the challenge with a video outlining the details and calling for submissions.
+Keeping it fluid
+As mentioned in a previous Space Station science update, there is new research bubbling up in Europe’s Columbus laboratory. Luca installed the Multiscale Boiling experiment (affectionately known as Rubi) in the Fluid Science Laboratory last month. This is now in full swing and generated its first bubble under controlled conditions.
+While the bubbles form, a temperature sensor measures bubble temperature while a high-speed camera records how the bubbles behave and an infrared camera tracks the temperature of the heated region. Scientists will observe and quantify the effect of external forces on the boiling process.
+In the weightlessness of space, boiling takes place in slow motion and produces larger bubbles. This allows scientists to observe and measure effects that are too fast and too small on Earth. With this insight and more accurate calculations of the boiling process, industry can produce better and more compact products such as laptops on Earth.
+Rubi will run more than 600 tests during its five-month stay on the Space Station.
+Astronauts as test subjects
+When it comes to a space mission, astronauts truly do give it their all – that includes participating in experiments where they are the guinea pig for space research. Of the more than 50 European experiments Luca is involved in, 12 are classed as human research.
+Two of these are new experiments from the Italian space agency ASI: Acoustic Diagnostics and NutrISS. Recently Luca carried out his second in-space sessions of both.
+NASA astronaut Andrew Morgan is also lending his ears to the Acoustic Diagnostics experiment, which aims to understand how life in microgravity and on the International Space Station impacts an astronaut’s hearing. In order to do this, the experiment monitors what are known as optoacoustic emissions (OAEs).
+OAEs are caused by the motion of inner ear hairs in response to auditory stimulation. That means the measurement is passive. Astronauts put on headphones with a special inner-ear tip that simultaneously plays sound and measures their ears’ reactions.
+In the next episode of ESA Explores, we will focus on the different sounds of life on Station. This includes a special snippet of the sounds Luca hears during the Acoustic Diagnostics experiment so make sure you tune in via your favourite podcast platform.
+Looking ahead
+With the next Soyuz launch scheduled for 25 September, it is not long before Luca and his crewmates will welcome three new arrivals to their orbital outpost.
+Russian cosmonaut Oleg Skripochka, NASA astronaut Jessica Meir and United Arab Emirates (UAE) astronaut Hazza Al Mansouri will launch from the Baikonur Cosmodrome in Kazahkstan and are currently in quarantine in Star City, Russia as they prepare for the mission ahead.

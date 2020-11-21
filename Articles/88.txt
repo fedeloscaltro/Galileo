@@ -1,0 +1,27 @@
+13/11/2019
+Behind the scenes – space-age physics
+Quietly and steadily, fundamental science for better materials on Earth runs on the International Space Station. While European commander Luca Parmitano is busy preparing for a series of complex spacewalks that take several hours of his working day in orbit, science hums in the background.
+On Earth, gravity often leads to unwanted effects when processing materials. Buoyancy, convection and sedimentation can hamper creating an optimal compound.
+In weightlessness, researchers can experiment in carefully-controlled environments on metals, plasma and fluids to improve the quality of materials produced on our planet, improve heat transfer and understand planet formation.
+Levitating spheres
+Part of the science is taking place inside the Electromagnetic Levitator. This metallurgy lab in space allows the melting and solidifying of metallic samples suspended in a magnetic field with no need for a container.
+In the past weeks a tiny spherical sample of an iron-cobalt alloy underwent around thirty melt cycles in helium. European operators worked in shifts for three nights to monitor the performance of the space furnace that can heat metals up to 2100°C.
+Scientists are looking at the behaviour of this metal – from surface tension to solidification – to perfect its performance on Earth.
+Numerous industrial applications can benefit from metal alloys research with the Electromagnetic Levitator: from medical implants to jet engines and domestic appliances.
+Space bubbles
+Two months ago the first space bubble marked the beginning of the Multiscale Boiling experiment, known affectionately as Rubi. Since then over 200 science runs on bubble formation and growth with shear flow and electric field experiments continued.
+Rubi generates bubbles using a special heater to expand our knowledge of the boiling process in microgravity. Boiling is relevant for many industrial applications, such as energy conversion, food and chemical processes.
+Larger and slower bubbles will allow scientists to observe and measure effects that are too fast and too small on Earth. Results could be key to design cryogenic fuel storage, more compact laptops and cooling electronics in space.
+Plasma out-of-this-world
+Cosmonaut Alexander Skvortsov started a new science campaign on Monday with the Plasma Kristall experiment, or PK-4.
+This experiment uses plasma – an electrically charged gas that rarely occurs naturally on Earth. It is considered to be the fourth state of matter, and the PK-4 experiment uses neon or argon gas in tubes that make dust particles electrically charged that are used as a model to understand how atoms behave.
+Researchers have been studying micron-sized plastic particles in weightlessness in the Columbus module since 2014.
+Plasma researchers are already developing two novel plasma chambers for yet more science and applications of complex plasmas.
+Time, microbes and radiation in space
+November 2020 marks the beginning of 20 years of uninterrupted human presence on the International Space Station. To date, 239 people have inhabited the human outpost.
+One of the more than 2700 experiments conducted onboard is precisely about the passing of time. Scientists speculate that, for astronauts, time flies in space.
+Luca and NASA’s Andrew Morgan ran the fourth session of the Time experiment by recording their speed, attention and reaction times.
+The continuously inhabited modules of the Space Station also host a wealth of bacteria.
+Andrew installed two new sample holders for the Matiss-2 experiment that aims to keep germs at bay. These samples will remain exposed inside the Columbus module for six months, letting the air flow through and collecting bacteria floating past.
+Scientists on Earth will assess the antibacterial properties of the samples. Could these materials stop bacteria from growing on their surface?
+Without need of support from the crew, the last two weeks saw the smooth operations of three other European experiments: the Dosis-3D radiation monitor, the Ice Cubes commercial service and the Atmosphere-Space Interactions monitor.

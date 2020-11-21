@@ -1,0 +1,20 @@
+Hello again, Voyager 2! NASA beams 1st call to probe in interstellar space since March
+By
+Mike Wall
+17 days ago
+17 days ago
+And Voyager 2 got the message.
+NASA just hailed its Voyager 2 probe in interstellar space for the first time in more than seven months.
+Voyager 2's handlers beamed a set of test commands to the spacecraft on Thursday (Oct. 29) using the Deep Space Station 43 (DSS43) radio antenna in Canberra, Australia. Voyager 2 confirmed that it registered the instructions and executed them without incident, NASA officials said in an update on Monday (Nov. 2).
+The commands were the first NASA had relayed to Voyager 2 since mid-March, when the 230-foot-wide (70 meters) DSS43 went offline for repairs and upgrades. This ongoing maintenance work is extensive, involving, among other things, the addition of two new radio transmitters, including one that is used to communicate with Voyager 2.
+Voyager at 40: 40 photos from NASA's epic 'grand tour' mission
+That particular transmitter hadn't been replaced in more than 47 years, NASA officials said.
+"What makes this task unique is that we're doing work at all levels of the antenna, from the pedestal at ground level all the way up to the feedcones at the center of the dish that extend above the rim," Brad Arnold, of NASA's Jet Propulsion Lab in Southern California, said in Monday's update.
+"This test communication with Voyager 2 definitely tells us that things are on track with the work we're doing," said Arnold, the project manager for NASA's Deep Space Network (DSN).
+That work, which will benefit communications with a wide range of NASA spacecraft, is scheduled to wrap up in February 2021, agency officials said.
+The DSN is a network of radio dishes in three different, roughly equidistant locales — Canberra; Madrid, Spain; and Goldstone, California — that NASA uses to communicate with its farflung spacecraft. The Canberra site includes three smaller dishes that together can receive spacecraft relays, so the Voyager 2 team has been able to keep tabs on the distant probe even while the DSS43 work prevented them from sending commands.
+And Voyager 2 cannot be hailed using DSN gear in Spain and California: The spacecraft is moving downward relative to Earth's orbital plane and can be reached only from the Southern Hemisphere.
+Voyager 2 and its twin, Voyager 1, launched a few weeks apart in 1977 to conduct an epic "grand tour" of the solar system's giant planets. The two probes accomplished this unprecedented task; Voyager 1 flew by Jupiter and Saturn, and Voyager 2 had close encounters with Jupiter, Saturn, Uranus and Neptune. (The Neptune flyby, which included an up-close look at the planet's largest moon, Triton, is what sent Voyager heading "south," by the way.)
+And then the Voyagers kept on flying. Voyager 1 entered interstellar space in August 2012, becoming the first human-made object ever to do so. Voyager 2 followed suit in late 2018.
+Both spacecraft are still going strong, giving scientists their first up-close looks at the interstellar medium, the huge expanse of deep space beyond the sun's sphere of influence. The nuclear-powered Voyagers are running low on juice, however, so mission team members have turned off several instruments on the probes over the past few years to maximize their operational lives. Both spacecraft should have enough power to keep gathering data through 2024, mission team members have said.
+Voyager 1 is currently about 14.1 billion miles (22.7 billion kilometers) from Earth, and Voyager 2 is 11.7 billion miles (18.8 billion km) from us. It therefore takes a command from mission control about 21 hours to get to Voyager 1 and nearly 17.5 hours to reach Voyager 2.

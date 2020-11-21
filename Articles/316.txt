@@ -1,0 +1,16 @@
+Rocket Lab will launch 30 satellites and attempt a booster recovery today: Watch live
+By
+Mike Wall
+2 days ago
+2 days ago
+The launch window opens at 9:20 p.m. EST on Thursday.
+Rocket Lab will launch an ambitious mission today (Nov. 19), and you can watch the action live.
+The California-based company's Electron booster is scheduled to lift off Thursday from Rocket Lab's New Zealand launch site during a nearly three-hour window that opens at 9:20 p.m. EST (0220 GMT on Nov. 20). You can watch it live here at Space.com, courtesy of Rocket Lab, or directly via the company.
+The two-stage Electron will carry 30 satellites to orbit for a wide range of customers — and the booster's first stage will come back down to Earth for a controlled, parachute-aided ocean splashdown when its work in the upward direction is done.
+Related: Rocket Lab and its Electron booster (photos)
+Rocket Lab personnel will then fish the booster out of the sea and haul it back to shore for inspection.
+"It will be the first time Rocket Lab has attempted to recover a stage after launch and is a major milestone in Rocket Lab’s pursuit to make Electron a reusable rocket to support an increased launch cadence for small satellites," company representatives wrote in a description of Thursday's mission, which is called "Return to Sender."
+Thursday's launch won't be Rocket Lab's first test of reusability-enabling tech. The company has already guided parachute-less first stages back down in a controlled fashion during operational missions and plucked a falling dummy first stage out of the sky with a helicopter — the ultimate planned booster-recovery strategy — during a drop test.
+The 57-foot-tall (17 meters) Electron gives small satellites dedicated rides to orbit. Making the currently expendable rocket's first stage reusable would allow Rocket Lab to boost its launch frequency and likely also reduce costs significantly, company founder and CEO Peter Beck has said.
+"Return to Sender" will be the 16th Electron mission. The 30 satellites will be deployed into a circular orbit about 310 miles (500 kilometers) above Earth, if all goes according to plan.
+Those payloads include two satellites for the company TriSept's Drag Racer mission, which will test the effectiveness of long tethers as a way to help deorbit satellites; two maritime surveillance spacecraft for the French company Unseenlabs, which aims to help expose illegal fishing; 24 of Swarm Technologies' SpaceBee satellites, which are designed to provide communication services to "Internet of Things" devices around the world; a satellite built by students at New Zealand's University of Auckland that will test a possible connection between earthquakes and atmospheric disturbances; and a 3D-printed mass simulator shaped like Gnome Chompski from the Half-Life video game series (which won't actually be deployed but will rather come back down to Earth with the Electron's "kick stage.")

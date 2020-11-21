@@ -1,0 +1,20 @@
+China unveils ambitious moon mission plans for 2024 and beyond
+By
+Andrew Jones
+October 19, 2020
+October 19, 2020
+China doesn't plan to rest on its lunar laurels.
+China has a mission operating on the far side of the moon and is preparing to launch another this year to collect lunar samples. And the country plans to add to its impressive lunar resume, with a new set of missions to explore the moon's south pole.
+Chang'e 6, a backup mission for this year's sample-return launch, is scheduled to head to the moon in 2023 or 2024; Chang'e 7 is planned to launch around 2024 with the dual aims of landing on the south pole of the moon and closely studying the region from orbit. An eighth mission is also in the works for later this decade.
+The China National Space Administration's (CNSA) Lunar Exploration and Space Engineering Center last month opened a competitive call to relevant institutes to develop payloads for the five different spacecraft involved in the Chang'e 7 mission. (You can read it here, in Chinese.)
+Related: The latest news about China's space program
+Attached documents show that the complex mission will consist of an orbiter, a relay satellite, a lander, a rover and a "mini flying craft." A Long March 5 rocket will be required to launch the 18,000 lbs. (8,200 kilograms) mission.
+China intends for the orbiter to carry a high-resolution stereo mapping camera and synthetic aperture radar, a wide-band infrared spectrum mineral imager, a neutron- and gamma-ray spectrometer and a magnetometer. Together, these payloads will provide new data on the moon's topography, mineralogical composition, radiation environment and magnetosphere.
+The relay satellite — a spacecraft similar to the Queqiao communications satellite facilitating the Chang'e 4 mission — will carry a Very Long Baseline Interferometry (VLBI) system for Earth-moon VLBI measurements. This technique involves partnering with a ground-based telescope to effectively create a telescope with the diameter of the distance between the two detectors and thus make detailed radio astronomy observations. Another instrument will study neutral atoms in the Earth's magnetosphere, the tail of which extends well beyond the orbit of the moon.
+The mission's lander will carry landing and topography cameras, instruments that are also present on China's Chang'e 3 and 4 landers. Additional payloads will study volatiles and isotopes and measure heat flow through the lunar soil. The lander will also include an extreme ultraviolet camera, a thermometer and a seismograph.
+The rover will carry four science payloads. Teams will compete to provide a lunar penetrating radar, a magnetometer, a Raman spectrometer for accurate analysis of mineral composition and a panoramic camera for the vehicle.
+Finally, the "mini flying craft" will carry a water-molecule analyzer to take measurements in permanently shadowed areas at the lunar south pole, where the sun's very low elevation angle means the surface inside craters never receives direct sunlight. Scientists propose that water ice in such areas could remain there for a long time, and if such ice is present, it could provide resources for future crewed missions.
+Chang'e 7 is part of a new phase of Chinese moon missions that officials announced after Chang'e 4 successfully landed on the far side of the moon in early 2019.
+Chang'e 7 will also pave the way for Chang'e 8, another lunar south pole landing mission planned for the late 2020s. That mission will include test technology for using local resources and manufacturing with 3D printing, according to Chinese press statements.
+Chang'e 6, a backup to this year's Chang'e 5 lunar sample-return mission, will also launch around 2023 or 2024. If Chang'e 5 is successful, it will be redirected to the south pole.
+Together, the missions will form part of a planned International Lunar Research Station, a major project concept that China has proposed to other nations. The U.S., the European Space Agency, Russia, India and Japan are also planning missions to the moon this decade.

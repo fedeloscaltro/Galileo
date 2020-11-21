@@ -46,10 +46,29 @@ def bo_scraper(p):
     return tmpArticles
 
 
-def nasa_scraper(p):
-    """Function used to scrape and find the articles indexed in the NASA web page
+def space_com_scraper(p):
+    """Function used to scrape and find the articles indexed in the Space.com web pages
+        @:param p the page to scrape
+        @:return tmpArticles temporary list of Space.com articles"""
+
+    driver.get(p)  # to obtain a specified web page
+    content = driver.page_source  # get the page content
+    soup = bs(content, "html.parser")
+    tmpArticles = []  # list of articles links for this site
+
+    for a in soup.find_all(class_="article-link", href=True):  # obtain <a> class for the articles
+        if a.text:
+            tmpArticles.append(a['href'])  # to get the "href" value
+
+    # tmpArticles = [i for i in tmpArticles]  # list of links retrieved from esa web page
+
+    return tmpArticles
+
+
+"""def nasa_scraper(p):
+    Function used to scrape and find the articles indexed in the NASA web page
         @:param p NASA's root page
-        @:return tmpArticles temporary list of NASA articles"""
+        @:return tmpArticles temporary list of NASA articles
     driver.get(p)
 
     for i in range(12):
@@ -66,7 +85,7 @@ def nasa_scraper(p):
 
     tmpArticles = [p[:20] + i for i in tmpArticles]  # list of links retrieved from NASA web page
 
-    return tmpArticles
+    return tmpArticles"""
 
 
 def write_to_file(links_articles, file_name):
@@ -96,7 +115,9 @@ def write_to_file(links_articles, file_name):
                 file.seek(0)    # return the pointer at the beginning of the file
 
     except FileNotFoundError:   # if the file doesn't exists it will be created
-        open(file_name, "w")
+        with open(file_name, "w") as file:
+            file.write("0\n")
+
         write_to_file(links_articles, file_name)    # recall the function to write for the first time the file
 
 
@@ -105,21 +126,24 @@ def main():
 
     root_esa = "https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/(archive)/"  # root of ESA website
     root_bo = "https://www.blueorigin.com/news/"  # root page of Blue Origin website
-    root_nasa = "https://www.nasa.gov/topics/humans-in-space"  # root page of NASA website
+    root_space_com = "https://www.space.com/spaceflight/"  # root page of Space.com website
 
     links_articles = []  # list of all articles links
 
-    links_file = "links1.txt"   # name of the links file
+    links_file = "links.txt"   # name of the links file
 
-    i = 5  # index used to set the max page of ESA articles
+    esa_counter = 5  # index used to set the max page of ESA articles
+    space_com_counter = 9  # index used to set the max page of Space.com articles
 
-    for k in range(i):
+    for k in range(esa_counter):
         links_articles.extend(
-            esa_scraper(root_esa + str(k * 50)))  # adding the links retrived from the first "i" ESA pages
+            esa_scraper(root_esa + str(k * 50)))  # adding the links retrieved from the first "i" ESA pages
 
     links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the Blue Origin page
 
-    links_articles.extend(nasa_scraper(root_nasa))  # adding the links retrieved from the NASA page
+    for k in range(1, space_com_counter+1):
+        links_articles.extend(
+            space_com_scraper(root_space_com + str(k)))  # adding the links retrieved from the first "i" Space.com pages
 
     write_to_file(links_articles, links_file)   # create or update links file
 

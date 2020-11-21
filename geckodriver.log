@@ -1695,3 +1695,45 @@ JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't fin
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1605094984213	Marionette	INFO	Listening on port 52744
 1605094984398	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605958637838	geckodriver	INFO	Listening on 127.0.0.1:56153
+1605958640933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilebqboYZ"
+*** You are running in headless mode.
+1605958666614	geckodriver	INFO	Listening on 127.0.0.1:56230
+1605958669673	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile5HzXee"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605958674923	Marionette	INFO	Listening on port 56239
+1605958675348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605958896615	geckodriver	INFO	Listening on 127.0.0.1:56844
+1605958899698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilelcST3P"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605958903234	Marionette	INFO	Listening on port 56852
+1605958903435	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605959018270	geckodriver	INFO	Listening on 127.0.0.1:56990
+1605959021339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile0KtfNN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605959025143	Marionette	INFO	Listening on port 56998
+1605959025592	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605959206461	geckodriver	INFO	Listening on 127.0.0.1:57138
+1605959209542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileZbbGWz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605959213833	Marionette	INFO	Listening on port 57147
+1605959213968	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 70 failed.
+(https://widgets.future-fie.co.uk/css/14.31.9-aef919f708bdef246a75e8fa66ad2f1af9261458/promotion.min.css)
+1605959322838	geckodriver	INFO	Listening on 127.0.0.1:57283
+1605959325924	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilerZFRDo"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1605959329624	Marionette	INFO	Listening on port 57292
+1605959329704	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 33 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.31.9-aef919f708bdef246a75e8fa66ad2f1af9261458/hawk.js)

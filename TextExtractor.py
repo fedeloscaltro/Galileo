@@ -76,9 +76,14 @@ def bo_extract(soup):
     return text
 
 
-def nasa_extract(soup):
+def space_com_extract(soup):
     """Function used to extract the text from NASA's articles
     @:param soup the HTML parser"""
+
+
+"""def nasa_extract(soup):
+    Function used to extract the text from NASA's articles
+    @:param soup the HTML parser
 
     for script in soup(["script", "style", "button", "img", "form", "aside"]):  # kill all noising elements
         script.extract()  # rip it out
@@ -93,6 +98,7 @@ def nasa_extract(soup):
     text = soup.get_text()  # get text
 
     return text
+"""
 
 
 def main():
@@ -117,7 +123,7 @@ def main():
                 text = bo_extract(soup)  # extract the text from a Blue Origin article
 
             else:
-                text = nasa_extract(soup)   # extract the text from a NASA article
+                text = space_com_extract(soup)   # extract the text from a NASA article
 
             text = text_formatting(text)    # formatting the text
 

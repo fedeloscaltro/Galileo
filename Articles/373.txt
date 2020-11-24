@@ -1,9 +1,5 @@
+05/11/2020
 Rocket Lab will try to recover an Electron booster during Nov. 15 launch
-By
-Mike Wall
-16 days ago
-16 days ago
-The 'Return to Sender' mission will feature a parachute-aided rocket splashdown.
 Rocket Lab plans to take a big step toward booster reuse this month.
 The California-based company aims to recover the first stage of its two-stage Electron rocket during its next mission, which is scheduled to lift off from New Zealand during a window that opens on Nov. 15.
 After helping launch 30 small satellites on the mission, which is called "Return to Sender," the first stage will return to Earth for a soft, parachute-aided ocean splashdown. Rocket Lab personnel will then fish the booster out of the Pacific Ocean and haul it to shore for a thorough inspection.

@@ -1,9 +1,5 @@
+16/10/2020
 Without gravity, the fluid around an astronaut's brain moves in weird ways
-By
-Doris Elin Urrutia
-October 16, 2020
-October 16, 2020
-The brain is surrounded by craniospinal fluid, which has several functions.
 Fluid around the brain redistributes in the skull during spaceflight, scientists found in a new study of 11 cosmonauts who visited the International Space Station (ISS).
 The study, which confirms previous findings about the effects of microgravity on the human brain, was led by Steven Jillings, a doctoral student at the Lab for Equilibrium Investigations and Aerospace (LEIA) at the University of Antwerp in Belgium. Previously, Jillings co-authored two studies that examined the effect of spaceflight on the brains of Russian cosmonauts, and recently Jillings took the analytical helm to further explore the topic.
 Jillings and the team studied the brains of 11 cosmonauts before their spaceflights, then again nine days after landing, and then again six to seven months after their return to Earth. Jillings participated in previous work on spaceflyer brains that used a standard type of magnetic resonance imaging (MRI), and this new work used a particular type of MRI scan that involved a series of diffusion MRI (dMRI) images. This allowed for a more in-depth look at the brain landscape to see how spaceflight has changed it.

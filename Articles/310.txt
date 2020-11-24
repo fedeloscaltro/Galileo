@@ -1,23 +1,14 @@
-Watch live today: SpaceX launching Sentinel-6 ocean-mapping satellite for NASA, ESA
-By
-Space.com Staff
-3 hours ago
-3 hours ago
-Liftoff is set for 12:17 p.m. EST (1717 GMT)!
-NASA and the European Space Agency will launch a new oceanography satellite called Sentinel-6 Michael Freilich on a SpaceX Falcon 9 rocket from Vandenberg Air Force Base in California on Saturday, Nov. 21, at 12:17 p.m. EST (1717 GMT).
-In preparation for launch, NASA is airing two prelaunch briefings on Friday, Nov. 20, at 3:30 EST (2030 GMT) and 5 p.m. EST (2300 GMT). These briefing will discuss the science that Sentinel-6 Michael Freilich will conduct and review the status of launch.
-You can watch both briefings in the window above, courtesy of NASA, or directly through the agency's YouTube channel.
-NASA is targeting 12:17 p.m. EST (9:17 a.m. PST) Saturday, Nov. 21, for the launch of the Sentinel-6 Michael Freilich satellite, the first of two identical satellites to head into Earth orbit five years apart to continue sea level observations for at least the next decade.
-Live launch coverage will begin at 11:45 a.m. EST (8:45 a.m. PST), on NASA Television and the agency’s website, with prelaunch and science briefings the day before on Nov. 20.
-Sentinel-6 Michael Freilich will head into orbit on a SpaceX Falcon 9 rocket from Space Launch Complex 4 at Vandenberg Air Force Base (VAFB) in California. The launch is managed by NASA’s Launch Services Program, based at the agency’s Kennedy Space Center in Florida. NASA's Jet Propulsion Laboratory in Southern California manages the agency's contribution to the mission.
-The Sentinel-6 Michael Freilich satellite is named in honor of the former director of NASA's Earth Science Division, who was instrumental in advancing space-based ocean measurements. It follows the most recent U.S.-European sea level observation satellite, Jason-3, which launched in 2016, and is currently providing high-precision and timely observations of the topography of the global ocean.
-The Sentinel-6/Jason-CS (Continuity of Service) mission, consisting of the Sentinel-6 Michael Freilich and Sentinel-6B satellites, is being jointly developed by ESA (European Space Agency), the European Organisation for the Exploitation of Meteorological Satellites (EUMETSAT), NASA, and the National Oceanic and Atmospheric Administration (NOAA), with funding support from the European Commission and support from France's National Centre for Space Studies (CNES).
-The Sentinel-6/Jason-CS mission is part of Copernicus, the European Union’s Earth observation program, managed by the European Commission. Continuing the legacy of the Jason series missions, Sentinel-6/Jason-CS will extend the records of sea level into their fourth decade, collecting accurate measurements of sea surface height for more than 90% of the world’s oceans, and providing crucial information for operational oceanography, marine meteorology, and climate studies. Sentinel-6 Michael Freilich's twin, Sentinel-6B, is scheduled to launch in 2025.
-NASA's contributions to the Sentinel-6/Jason-CS mission are three science instruments for each of the two satellites: the Advanced Microwave Radiometer, the Global Navigation Satellite System – Radio Occultation, and the Laser Retroreflector Array. NASA is also contributing launch services, ground systems supporting operation of the NASA science instruments, the science data processors for two of these instruments, and support for the U.S. members of the international Ocean Surface Topography Science Team.
-Full mission coverage is as follows (all times eastern):
-Friday, Nov. 20
-3:30 p.m. – Sentinel-6 Michael Freilich Science Briefing with the following participants:
-5:00 p.m. – Sentinel-6 Michael Freilich Prelaunch News Conference with the following participants:
+23/11/2020
+UPDATE: SpaceX delays launch of 60 Starlink internet satellites
+UPDATE for 9:39 pm ET: SpaceX has scrubbed tonight's launch of a Falcon 9 rocket carrying 60 Starlink internet satellites due to the need for "additional mission assurance." The next launch opportunity will be Monday, Nov. 23, at 9:34 p.m. EST (0234 GMT).
+SpaceX will launch 60 new Starlink internet satellites into orbit on a used Falcon 9 rocket Monday night (Nov. 23) and you can watch it live online here, courtesy of SpaceX. Liftoff is set for 9:34 p.m. EST (0234 Nov. 23 GMT) from Space Launch Complex 40 (SLC-40) at Cape Canaveral Air Force Station in Florida.
+The Falcon 9 rocket on this flight is making its seventh flight to space in a milestone for SpaceX's reusability effort. It launched the Telstar 18 VANTAGE satellite in September 2018, the Iridium-8 mission in January 2019 and four Starlink missions in May 2019, January of this, June and August.
+This mission will be SpaceX's 16th batch of Starlink satellites to fly in orbit. SpaceX's webcast for the launch will begin about 15 minutes before liftoff (about 9:41 p.m. EST/0242 GMT). You can watch the launch in the window above or directly from SpaceX via its YouTube channel and launch website.
+SpaceX is targeting Sunday, November 22 for launch of its sixteenth Starlink mission, which will launch 60 Starlink satellites from Space Launch Complex 40 (SLC-40) at Cape Canaveral Air Force Station. The instantaneous launch window is at 9:56 p.m. EST, 02:56 UTC on Monday, November 23.
+The Falcon 9 first stage rocket booster supporting this mission previously flew on six other missions: the Telstar 18 VANTAGE mission in September 2018, the Iridium-8 mission in January 2019, and four Starlink missions in May 2019, January 2020, June 2020, and August 2020. Following stage separation, SpaceX will land Falcon 9’s first stage on the “Of Course I Still Love You” droneship, which will be located in the Atlantic Ocean. One half of Falcon 9’s fairing previously supported a mission, and the other half previously two.
+You can watch a live webcast of this mission, which will begin about 15 minutes prior to liftoff, by clicking the image above.
+Last month, SpaceX launched its “Better Than Nothing Beta” test program. Service invites were sent to a portion of those who requested availability updates on Starlink.com and who live in serviceable areas. A couple weeks ago, Canada granted Starlink regulatory approval and last week SpaceX rolled out the service to parts of parts of southern Canada.
+If you would like to learn more about the service, please visit the Reddit AMA SpaceX engineers recently participated in.
 A United Launch Alliance Delta IV Heavy rocket will launch a classified spy satellite for the U.S. National Reconnaissance Office Wednesday night (Sept. 30).
 The mission, titled NROL-44, will lift off from Cape Canaveral Air Force Station in Florida, at 11:54 p.m. EDT (0354 GMT on Oct. 1). Watch it live in the window above, courtesy of ULA.
 Rocket: Delta IV Heavy

@@ -1,9 +1,5 @@
+06/10/2020
 'Self-eating rocket' tech snags funding from UK government
-By
-Mike Wall
-October 06, 2020
-October 06, 2020
-The autophage engine is a good fit for small rockets, its developers say.
 The U.K. government aims to spur the development of rockets that gobble themselves up on the way to orbit.
 The Ministry of Defence's Defence & Security Accelerator (DASA) has pledged £90,000 — about $117,000 USD at current exchange rates — for the continued development of the "autophage" rocket engine, which is being built by researchers at the University of Glasgow in Scotland.
 The tech is a great fit for small rockets "because scaling down a rocket reduces the mass of the propellant more than it reduces the mass of all the other components, including the tanks that hold the propellant itself," Patrick Harkness, of the University of Glasgow's James Watt School of Engineering, said in a statement.

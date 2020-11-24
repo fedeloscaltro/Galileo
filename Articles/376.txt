@@ -1,9 +1,5 @@
+04/11/2020
 Hello again, Voyager 2! NASA beams 1st call to probe in interstellar space since March
-By
-Mike Wall
-17 days ago
-17 days ago
-And Voyager 2 got the message.
 NASA just hailed its Voyager 2 probe in interstellar space for the first time in more than seven months.
 Voyager 2's handlers beamed a set of test commands to the spacecraft on Thursday (Oct. 29) using the Deep Space Station 43 (DSS43) radio antenna in Canberra, Australia. Voyager 2 confirmed that it registered the instructions and executed them without incident, NASA officials said in an update on Monday (Nov. 2).
 The commands were the first NASA had relayed to Voyager 2 since mid-March, when the 230-foot-wide (70 meters) DSS43 went offline for repairs and upgrades. This ongoing maintenance work is extensive, involving, among other things, the addition of two new radio transmitters, including one that is used to communicate with Voyager 2.

@@ -1,9 +1,5 @@
+28/10/2020
 Rocket Lab launches 10 Earth-observation satellites into orbit
-By
-Mike Wall
-24 days ago
-24 days ago
-Nine of them are "SuperDoves" built by San Francisco company Planet.
 Ten new Earth-observation satellites have made it to orbit.
 The satellites lifted off today (Oct. 28) atop a Rocket Lab Electron booster, which launched from the company's New Zealand pad at 5:21 p.m. EDT (2121 GMT; 10:21 a.m. on Oct. 29 local New Zealand time).
 Nine of the 10 payloads are "SuperDoves," shoebox-sized cubesats built by San Francisco-based imaging company Planet, which operates the world's largest Earth-observation constellation. More than 350 Planet satellites have reached orbit to date, about 150 of which are currently operational.

@@ -1,8 +1,5 @@
+21/10/2020
 Microsoft teams up with SpaceX to launch Azure Space to bring cloud computing into the final frontier
-By
-Chelsea Gohd
-October 21, 2020
-October 21, 2020
 Microsoft has teamed up with SpaceX and SES to launch the tech giant's new cloud computing business for space
 Azure Space, Microsoft's cloud computing platform Azure, aims to offer mobile cloud computing data centers that can deploy anywhere. For the emerging business, Microsoft has called upon SpaceX's  Starlink internet satellites and expanded its agreement with satellite company SES for Azure Space.
 Microsoft will have access to theStarlink broadband network (SpaceX has launched over 800 of the satellites so far) for the company's new "Azure Modular Datacenter" (MDC), which is a datacenter, a contained unit that can be deployed anywhere, even "off the grid," creating remote connectivity access or supporting existing access.

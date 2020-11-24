@@ -1,9 +1,5 @@
+26/10/2020
 NASA SLS megarocket shortage causes tug-of-war between moon missions, Europa exploration
-By
-Meghan Bartels
-a month ago
-a month ago
-You can't send a spacecraft to the outer solar system with no rocket.
 NASA is choosing between human missions to the moon and a robotic mission to Jupiter's icy moon Europa as the agency manages its limited supply of megarockets in the coming years.
 The agency began developing its Space Launch System (SLS) in 2010, intending for the rocket to be the agency's primary vehicle for crewed and deep-space missions. But work has been slow, and NASA and Boeing, which builds the vehicles' two main stages, are only now testing the core stage of the first SLS. It won't fly until late next year, when it makes the first flight of NASA's Artemis lunar-exploration program — an uncrewed trip around the moon known as Artemis 1. The schedule will therefore be tight for the third Artemis launch, which aims to land two astronauts near the moon's south pole in 2024.
 Meanwhile, engineers are building the Europa Clipper spacecraft, designed to learn enough about the moon's ice shell, subsurface ocean and geology to help scientists determine whether the hidden ocean may suit the needs of life as we know it. And Congress has mandated the agency also use an SLS rocket to launch Europa Clipper — without consideration for whether one may be available.

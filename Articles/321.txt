@@ -1,8 +1,5 @@
+17/11/2020
 China notches 34th launch of the year with communications satellite
-By
-Andrew Jones
-4 days ago
-4 days ago
 China conducted its 34th launch of the year on Nov. 12, sending the Tiantong-1 (02) mobile communications satellite into an orbit high above Earth.
 A Long March 3B rocket lifted off from the Xichang Satellite Launch Center in southwest China at 11:59 p.m. local time on Nov. 12 (1559 GMT; 10:59 a.m. EST) carrying the Tiantong-1 (02) into a geostationary transfer orbit.
 Tiantong-1 (02) is the second satellite for China's mobile communication system. It will orbit at an altitude of around 22,236 miles (35,786 kilometers). Here, the speed of the spacecraft's orbit matches the rotation of the Earth, meaning the satellite effectively stays fixed over a point on Earth, which is very useful for communications. The satellite will take around a week to reach its designated point within this particular orbit.

@@ -1,9 +1,5 @@
+07/11/2020
 Planned satellite constellation poses a collision threat, NASA says: reports
-By
-Mike Wall
-14 days ago
-14 days ago
-AST & Science's planned SpaceMobile network could threaten the "A-Train" group of Earth-observing satellites, according to NASA.
 NASA has voiced "substantial concerns" about a planned constellation of broadband satellites, saying the commercial spacecraft would increase the risk of collisions in an important slice of Earth orbit.
 On Oct. 30, NASA submitted an official comment letter to the U.S. Federal Communications Commission (FCC) regarding a request by Texas-based company AST & Science to operate a network of up to 243 satellites about 450 miles (720 kilometers) above Earth's surface, as Ars Technica's Eric Berger reported earlier this week.
 This constellation, called SpaceMobile, will provide broadband service directly to cell phones, if all goes according to the company's plan. To pull this off, the SpaceMobile satellites will sport very large antennas — gear that covers an area of about 9,700 square feet (900 square meters), Berger wrote.

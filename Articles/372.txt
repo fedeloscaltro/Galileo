@@ -1,9 +1,5 @@
+05/11/2020
 SpaceX opens Starlink satellite internet to public beta testers: report
-By
-Samantha Mathewson
-16 days ago
-16 days ago
-Testers will pay $499 for the Starlink ground equipment, then $99 per month for service.
 SpaceX is now sending out email invitations for public beta testing of Starlink, the company’s upcoming satellite internet service.
 Last week, people who had registered interest in the service on the Starlink website began receiving emails from SpaceX to join the beta test, called "Better Than Nothing Beta," Ars Technica reported. To participate, users must purchase the Starlink ground equipment for $499 and then pay a $99 monthly fee for active service, according to Ars Technica.
 Since May 2019, SpaceX has been launching Starlink internet satellites in batches of about 60, with the goal of creating a megaconstellation consisting of thousands of small, broadband-beaming satellites. The network will provide global internet coverage from space, SpaceX representatives have said.

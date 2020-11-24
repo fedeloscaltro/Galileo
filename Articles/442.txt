@@ -1,9 +1,5 @@
+19/10/2020
 'Lunar ExoCam' project aims to film spacecraft touchdowns on the moon
-By
-Mike Wall
-October 19, 2020
-October 19, 2020
-The project just got NASA funding to take its testing to another level.
 We could end up getting an amazing ground-level view of the first crewed moon landing since 1972.
 NASA's Flight Opportunities program has just awarded a $650,000 grant to the team behind Lunar ExoCam, an imaging system designed to eject from moon landers during descent and record video of their touchdowns from the otherworldly gray ground.
 If development continues to go well, Lunar ExoCam could be ready to fly on some of the private robotic landers that are scheduled to launch toward the moon in the next few years, said the project's principal investigator, Jason Achilles Mezilis. And he'd love to get the camera system aboard NASA's Artemis 3 mission, which aims to land two astronauts near the lunar south pole in 2024.

@@ -1,4 +1,5 @@
-03/04/2020
+2020-04-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Smart_surfaces_for_space_hygiene
 Smart surfaces for space hygiene
 While efforts continue to contain the spread of the novel coronavirus on Earth, a space-based experiment called Matiss has been investigating how ‘smart surfaces’ on the International Space Station could stop pathogens in their tracks.
 The experiment examines the performance of five advanced materials in preventing illness-causing microorganisms from settling and growing in microgravity. Matiss (Microbial Aerosol Tethering on Innovative Surfaces in the international Space Station) is driven by the French space agency (CNES) and was commissioned in 2016 during ESA astronaut Thomas Pesquet’s Proxima mission.

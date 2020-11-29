@@ -1,4 +1,5 @@
-24/09/2019
+2019-09-24
+https://www.esa.int/Enabling_Support/Operations/Follow_live_Magically_exploring_the_Moon_from_afar
 Follow live: Magically exploring ‘the Moon’ from afar
 As Europe sleeps, in the early hours of Wednesday 25 September, a small rover in Canada will explore a mock lunar surface, controlled from ESA’s ESOC operations centre in Germany.
 The live experiment will test the technologies required to operate a rover from far away distances, a vital step in the human exploration of the Solar System.

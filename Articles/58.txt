@@ -1,4 +1,5 @@
-07/02/2020
+2020-02-07
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Space_station_to_forge_ultra-fast_connections
 Space station to forge ultra-fast connections
 Astronauts aboard the International Space Station plan to install a high-speed radio link to enable almost real-time connections with Earth.
 The upgrade to the ESA Columbus laboratory will relay data from experiments on the Station back to Earth almost instantaneously.

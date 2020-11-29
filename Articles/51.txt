@@ -1,4 +1,5 @@
-27/03/2020
+2020-03-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/Last_stop_before_launch_Orion_passes_tests_and_returns_to_Kennedy_Space_Center
 Last stop before launch: Orion passes tests and returns to Kennedy Space Center
 The Orion spacecraft that will fly on the Artemis 1 mission around the Moon has returned to NASA’s Kennedy Space Center in Florida, USA, after finishing space environment tests. The spacecraft, including ESA’s European Service Module, is now at its final destination before launch.
 Orion spent four months at NASA’s Plum Brook station where it was subjected to the vacuum and temperatures of –175°C to 75°C it will experience on its flight to the Moon. After proving its space-worthiness, the electronics ­– including the thousands of parameters and functions of the European Service Module that control the engines, electrical power and steering the solar panels to face the Sun – were checked for electromagnetic interference.

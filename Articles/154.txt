@@ -1,4 +1,5 @@
-08/05/2019
+2019-05-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Starting_up_a_new_cooperation_for_the_Moon
 Starting up a new cooperation for the Moon
 European start-up PTScientists and ArianeGroup agreed today on a far-reaching cooperation for future lunar missions, in line with ESA’s goal of working with partners to return to the Moon in a sustainable way.
 PTScientists will provide the autonomous landing and navigation module ALINA, a spacecraft with a payload capacity of up to 300 kg, while ArianeGroup will contribute its new high-performance launch vehicle Ariane 64 and its many years of expertise in the field of propulsion systems.

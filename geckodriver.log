@@ -2059,7 +2059,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606235874888	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: uncaught exception: Object
-mand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileIniSdP"
+Exiting due to channel error.
+la Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileIniSdP"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -2084,7 +2085,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606236179084	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: uncaught exception: Object
-mand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileG23tgp"
+Exiting due to channel error.
+Exiting due to channel error.
+ionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileG23tgp"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -2092,7 +2095,9 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606236249698	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: uncaught exception: Object
-mand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilexhJ3rp"
+Exiting due to channel error.
+Exiting due to channel error.
+ionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilexhJ3rp"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -2100,7 +2105,8 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606236268073	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
 JavaScript error: , line 0: uncaught exception: Object
-mand: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile80ZY1Z"
+Exiting due to channel error.
+la Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile80ZY1Z"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -2115,176 +2121,191 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 1606236708266	Marionette	INFO	Listening on port 49893
 1606236708518	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:49991
-1606236773159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilePOi312"
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilePOi312"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606236776083	Marionette	INFO	Listening on port 50060
 1606236776303	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50190
-1606236819694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileOMFtIw"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileOMFtIw"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606236822428	Marionette	INFO	Listening on port 50198
 1606236822834	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50326
-1606236999369	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilefASPqr"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilefASPqr"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237002184	Marionette	INFO	Listening on port 50334
 1606237002509	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50504
-1606237108130	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileWhoaji"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileWhoaji"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237111493	Marionette	INFO	Listening on port 50512
 1606237111777	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50643
-1606237139563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileB0ccsb"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileB0ccsb"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237142355	Marionette	INFO	Listening on port 50651
 1606237142705	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50783
-1606237231613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileV0DpUh"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileV0DpUh"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237234429	Marionette	INFO	Listening on port 50791
 1606237234754	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:50889
-1606237333196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile1TqfPC"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile1TqfPC"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237336567	Marionette	INFO	Listening on port 50904
 1606237336842	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51353
-1606237723396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileTTrdba"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileTTrdba"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606237726719	Marionette	INFO	Listening on port 51366
 1606237727069	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51607
-1606238194540	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileqDbS8M"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileqDbS8M"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238197805	Marionette	INFO	Listening on port 51615
 1606238198190	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51751
-1606238453447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileZvb4td"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileZvb4td"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238456364	Marionette	INFO	Listening on port 51759
 1606238456588	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51853
-1606238540601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilePpE12q"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+efox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilePpE12q"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238543549	Marionette	INFO	Listening on port 51861
 1606238543751	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:51935
-1606238574422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile4AD6gJ"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile4AD6gJ"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238577671	Marionette	INFO	Listening on port 51944
 1606238578068	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52030
-1606238612189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileNIfsxR"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileNIfsxR"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238617317	Marionette	INFO	Listening on port 52038
 1606238617443	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52129
-1606238701589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileTqTMAC"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileTqTMAC"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238704521	Marionette	INFO	Listening on port 52138
 1606238704731	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52225
-1606238745039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilebMlSck"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilebMlSck"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238747941	Marionette	INFO	Listening on port 52233
 1606238748178	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:52323
-1606238883405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileRQ6gX9"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileRQ6gX9"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606238886688	Marionette	INFO	Listening on port 52331
 1606238887055	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56517
-1606239203719	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile337ABT"
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+d" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile337ABT"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606239206735	Marionette	INFO	Listening on port 56525
 1606239206878	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56628
-1606239285875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileMu2GBq"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileMu2GBq"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606239288908	Marionette	INFO	Listening on port 56636
 1606239289028	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56700
-1606239327004	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileBRp9dM"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileBRp9dM"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606239329949	Marionette	INFO	Listening on port 56708
 1606239330154	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:56791
-1606239374032	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileC1po4g"
+Exiting due to channel error.
+Exiting due to channel error.
+"C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileC1po4g"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606239377426	Marionette	INFO	Listening on port 56799
 1606239377682	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:65335
-1606239789963	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilemzkKLJ"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilemzkKLJ"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
 1606239794393	Marionette	INFO	Listening on port 65343
 1606239794732	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1:65425
-1606239854629	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofiledMTvkm"
+Exiting due to channel error.
+::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofiledMTvkm"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
@@ -2338,20 +2359,193 @@ JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: T
 JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 70 failed.
 (https://widgets.future-fie.co.uk/css/14.32.2-0910ee90e926be1830d3456ffd63868869d5dfdb/promotion.min.css)
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
-1606661681895	geckodriver	INFO	Listening on 127.0.0.1:49931
-1606661685039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilevMawxs"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1606662487056	geckodriver	INFO	Listening on 127.0.0.1:60319
+1606662490105	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofileo9cbcA"
 *** You are running in headless mode.
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1606661690638	Marionette	INFO	Listening on port 49940
-1606661691040	Marionette	WARN	TLS certificate errors will be ignored for this session
-1606661694034	Marionette	INFO	Stopped listening on port 49940
-1606661969912	geckodriver	INFO	Listening on 127.0.0.1:50111
-1606661973051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJmLIWN"
-*** You are running in headless mode.
-JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
-1606661976732	Marionette	INFO	Listening on port 50119
-1606661976847	Marionette	WARN	TLS certificate errors will be ignored for this session
-1606661979389	Marionette	INFO	Stopped listening on port 50119
-JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1606662495073	Marionette	INFO	Listening on port 60327
+1606662495358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.youtube-nocookie.com/s/player/77da52cd/player_ias.vflset/it_IT/base.js, line 1028: NS_ERROR_FAILURE
+JavaScript error: https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/2.1.1/videojs-contrib-hls.min.js?version=20201127, line 8: TypeError: f.default is undefined
+JavaScript error: https://d8g345wuhgd7e.cloudfront.net/site/player/videojs/pbplayer.js?version=20201127, line 1: ReferenceError: videojs is not defined
+JavaScript error: https://s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5146bea7215915ab, line 70: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js, line 1: NS_ERROR_NOT_INITIALIZED: 
+Unable to read VR Path Registry from C:\Users\fj\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://www.space.com/news/live/spacex-crew-1-mission-updates, line 464: TypeError: window.ffte is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://www.space.com/news/live/hi-seas-sensoria-mars-analog-mission-2020, line 464: TypeError: window.ffte is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 74 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.33.3-ee28d6bd43c1b963218fe7a408f66b31b2f8c0c0/seasonal.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 70 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.33.3-ee28d6bd43c1b963218fe7a408f66b31b2f8c0c0/promotion.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://www.space.com/news/live/mars-perseverance-rover-updates, line 464: TypeError: window.ffte is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
+1606663161819	Marionette	INFO	Stopped listening on port 60327

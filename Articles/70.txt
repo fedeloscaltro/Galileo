@@ -1,4 +1,5 @@
-19/12/2019
+2019-12-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station_computer_gets_a_heart_transplant
 International Space Station computer gets a heart transplant
 The Space Station has grown to the size of a football field and space agencies are looking to extend its lifetime until 2030. European-built computers have quietly been keeping this orbital outpost on track and in the right position, running in the background since 2000.
 The Data Management System (DMS) computers in the Russian Zvezda module were built over 20 years ago by what is now Airbus. Two fault-tolerant computers collect data and provide navigation, communications and operations for the Russian segment.

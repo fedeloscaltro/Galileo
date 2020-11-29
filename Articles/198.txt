@@ -1,4 +1,5 @@
-19/11/2018
+2018-11-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/CAVES_and_Pangaea/Exploration_makes_perfect
 Exploration makes perfect
 Testing the technology to explore other planets starts on Earth. While robots scout uncharted terrains, moonwalkers analyse rocks and send detailed geological descriptions to mission control. Artificial intelligence gets better with human interaction and the Moon is front of mind.
 This is all part of Pangaea-X, an extension of ESA’s Pangaea geology training that puts technology through its paces in scenarios that mimic human and robotic operations away from our planet.

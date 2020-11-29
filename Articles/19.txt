@@ -1,4 +1,5 @@
-01/10/2020
+2020-10-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/The_way_forward_to_Mars
 The way forward to Mars
 The path that ExoMars 2022 will follow to reach the Red Planet is set. The trajectory that will take the spacecraft from Earth to Mars in 264 days foresees a touchdown on the martian surface on 10 June 2023, at around 17:30 CEST (15:30 UTC).
 The weather at Mars, the type of launcher and the laws of physics governing the planets determined a 12-day launch window starting on 20 September 2022.

@@ -1,4 +1,5 @@
-17/01/2019
+2019-01-17
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ExoMars_software_passes_ESA_Mars_Yard_driving_test
 ExoMars software passes ESA Mars Yard driving test
 Navigation software destined for the ExoMars 2020 mission to the Red Planet has passed a rover-based driving test at ESA’s ‘Mars Yard’.
 ESA’s ExoMars rover will drive to multiple locations and drill down to two metres below the surface of Mars in search of clues for past life preserved underground.

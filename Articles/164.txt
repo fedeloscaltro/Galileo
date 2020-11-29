@@ -1,4 +1,5 @@
-25/03/2019
+2019-03-25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/ESA-FAIR_s_first_ever_Radiation_Summer_School
 ESA-FAIR’s first ever Radiation Summer School
 ESA in partnership with the international accelerator center FAIR (Facility for Antiproton and Ion Research), currently being built at GSI, the Helmholtz Center for Heavy Ion Research, is excited to announce the first ever Radiation Summer School to tackle the problem of space radiation for future long duration missions.
 Living in space is no easy task, and one of the largest concerns for mission planners cannot even be seen.

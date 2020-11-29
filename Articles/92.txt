@@ -1,4 +1,5 @@
-06/11/2019
+2019-11-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Growing_tissues_in_space
 Growing tissues in space
 Tissue engineering is a fast-developing field reaching new heights thanks to space research. An experiment on the International Space Station is opening up possibilities to grow artificial blood vessels for surgery on humans.
 Most of the techniques to grow three-dimensional structures from human cells on Earth involve biocompatible scaffolds. In the lab, scientists use them to define the shape of the tissue and help cells stick to each other. A European experiment showed how cell cultures in microgravity do not need external support and could form rudimentary blood vessels naturally.

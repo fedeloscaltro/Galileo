@@ -1,4 +1,5 @@
-28/02/2019
+2019-02-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Fit_for_Mars
 Fit for Mars
 Rovers are versatile explorers on the surface of other planets, but they do need some training before setting off. A model of Rosalind Franklin rover that will be sent to Mars in 2021 is scouting the Atacama Desert, in Chile, following commands from mission control in the United Kingdom, over 11 000 km away.
 The ExoFiT field campaign simulates ExoMars operations in every key aspect. During the trial, the rover drove from its landing platform and targets sites of interest to sample rocks in the Mars-like landscapes of the Chilean desert.

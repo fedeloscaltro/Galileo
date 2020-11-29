@@ -1,4 +1,5 @@
-05/04/2018
+2018-04-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_chemistry_of_lightning
 The chemistry of lightning
 Every second, around 45 lightning strikes jolt our atmosphere, where powerful reactions in thunderstorm clouds alter the chemical composition of the air inside and around them. A suite of European instruments will soon be studying these powerful discharges from space and give us clues on their role in the climate.
 The Atmosphere-Space Interactions Monitor arrived yesterday at the International Space Station to peek inside the physics of high-energy phenomena at the edge of space.

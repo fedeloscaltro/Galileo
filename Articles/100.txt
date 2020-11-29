@@ -1,4 +1,5 @@
-15/10/2019
+2019-10-15
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Nobel-winning_lithium-ion_batteries_powering_space
 Nobel-winning lithium-ion batteries powering space
 ESA’s space power experts congratulate the winners of this year’s Nobel Prize for Chemistry, for their invention of lithium-ion batteries. These energy-dense, long-lasting and rechargeable batteries have revolutionised the modern world, found in everything from smartphones to laptops to cars. They have had the same revolutionary effect in space.
 Necessity is the mother of invention: as the Nobel Prize committee notes, lithium-ion battery development began in the 1970s, in response to the oil crisis. Because the batteries are based on lithium ions moving between anodes and cathodes, rather than chemical reactions, they can be charged hundreds of times before degrading.

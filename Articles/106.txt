@@ -1,4 +1,5 @@
-02/10/2019
+2019-10-02
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Controlling_robots_across_oceans_and_space_no_magic_required
 Controlling robots across oceans and space – no magic required
 This Autumn is seeing a number of experiments controlling robots from afar, with ESA astronaut Luca Parmitano directing a robot in The Netherlands and engineers in Germany controlling a rover in Canada.
 Imagine looking down at the Moon from the Gateway as you prepare to land near a lunar base to run experiments, but you know the base needs maintenance work on the life-support system that will take days. It would be better to maintain the base from orbit so the astronauts can get straight to work once on the Moon.

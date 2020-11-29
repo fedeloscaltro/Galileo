@@ -1,4 +1,5 @@
-01/07/2019
+2019-07-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Radiation_sensitive
 Radiation sensitive
 There is little known about the effects of space radiation on the human body. Astronauts cannot see or feel it, yet the high doses they are exposed to outside Earth’s cocoon pose health hazards for trips to the Moon and Mars. To help investigate and find out more, European scientists can now accelerate atoms at close to the speed of light to learn how to protect astronauts.
 Space radiation passes through matter and penetrates the human body. Energetic particles impact living tissues, impairing normal function of cells and even killing them. An astronaut on a mission to Mars could receive radiation doses up to 700 times higher than on our planet.

@@ -1,4 +1,5 @@
-21/02/2018
+2018-02-21
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Waterbeds_simulate_weightlessness_to_help_Skinsuits_combat_back_pain_in_space
 Waterbeds simulate weightlessness to help Skinsuits combat back pain in space
 Astronauts tend to become taller in weightlessness – causing back pain and making it difficult to fit into spacesuits. Astronauts may be more likely to suffer from ‘slipped discs’ after landing.
 Researchers at King’s College London, UK, have been testing a Skinsuit to combat these problems, using a novel simulation of microgravity: adding magnesium salts to a half-filled waterbed. They were inspired by the Dead Sea, where swimmers float on the surface because of the high salt content.

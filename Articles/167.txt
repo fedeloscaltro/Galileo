@@ -1,4 +1,5 @@
-21/03/2019
+2019-03-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Testing_the_value_of_artificial_gravity_for_astronaut_health
 Testing the value of artificial gravity for astronaut health
 Test subjects in Cologne, Germany will take to their beds for 60 days from 25 March as part of a groundbreaking study, funded by European Space Agency ESA and US space agency NASA, into how artificial gravity could help astronauts stay healthy in space.
 Carried out at the German Aerospace Center’s (DLR) :envihab facility, the long-term bedrest study is the first of its kind to be conducted in partnership between the two agencies. It is also the first to employ DLR’s short-arm centrifuge as a way of recreating gravity for participants.

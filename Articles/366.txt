@@ -1,4 +1,5 @@
-07/11/2020
+2020-11-07
+https://www.space.com/ast-science-satellite-constellation-collision-threat-nasa-warning
 Planned satellite constellation poses a collision threat, NASA says: reports
 NASA has voiced "substantial concerns" about a planned constellation of broadband satellites, saying the commercial spacecraft would increase the risk of collisions in an important slice of Earth orbit.
 On Oct. 30, NASA submitted an official comment letter to the U.S. Federal Communications Commission (FCC) regarding a request by Texas-based company AST & Science to operate a network of up to 243 satellites about 450 miles (720 kilometers) above Earth's surface, as Ars Technica's Eric Berger reported earlier this week.

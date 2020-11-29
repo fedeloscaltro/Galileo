@@ -1,4 +1,5 @@
-20/03/2018
+2018-03-20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Earth_s_atmosphere_new_results_from_the_International_Space_Station
 Earth’s atmosphere: new results from the International Space Station
 With ESA’s help, the latest atmosphere monitor on the International Space Station is delivering results on our planet’s ozone, aerosol and nitrogen trioxide levels. Installed last year on the orbital outpost, NASA’s sensor tracks the Sun and Moon to probe the constituents of our atmosphere.
 The Station takes only 90 minutes for a complete circuit of our planet, experiencing 16 sunrises, 16 sunsets, and sometimes moonrises or moonsets, every day. By observing the Sun or Moon through the atmosphere, the Stratospheric Aerosol and Gas Experiment – SAGE – measures the quantity of ozone, aerosols and other gases.

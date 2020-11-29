@@ -1,4 +1,5 @@
-08/10/2018
+2018-10-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/A_new_dimension_in_robotics
 A new dimension in robotics
 Replicating space conditions on Earth is a challenge, but ESA’s Astronaut Centre (EAC) in Cologne, Germany is bringing them one step closer with a virtual reality application to shape robotic exploration.
 Stéphane Ghiste and Lionel Ferra at the astronaut training division began exploring the potential of virtual reality for astronaut training and operations in 2016 and say finding the right balance between functionality and form was vital.

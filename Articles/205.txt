@@ -1,4 +1,5 @@
-17/10/2018
+2018-10-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Installing_life_support_the_hands-free_way
 Installing life support the hands-free way
 Last week saw the installation of ESA’s next-generation life-support system on the International Space Station. The new facility recycles carbon dioxide in the air into water that can then be converted into oxygen reducing supplies sent from Earth by half.
 Installing the life support rack in NASA’s Destiny laboratory is no easy task as the facility is larger than a human being and weighs over 650 kg on Earth. In addition many cables and pipes need to be connected to the Station’s infrastructure – including a pipe that vents waste methane from the recycling process directly into space.

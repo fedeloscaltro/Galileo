@@ -155,7 +155,7 @@ def space_com_extract(soup):
 def main():
     """Function called to start the text-extraction procedure"""
 
-    """file_name = "links.txt"
+    file_name = "links.txt"
 
     with open(file_name, "r") as file:    # opening the file with all the links
         n_links = int(file.readline())   # from which line start to read the file
@@ -180,10 +180,8 @@ def main():
 
             f_articles.write(text)  # writing the text down to the file
 
-            n_links += 1"""
+            n_links += 1
 
-    soup = soup_init("https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_in_position_for_liftoff")
-    text = esa_extract(soup)
     driver.quit()
 
 if __name__ == "__main__":

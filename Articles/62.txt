@@ -1,4 +1,5 @@
-30/01/2020
+2020-01-30
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/One_step_closer_to_prospecting_the_Moon
 One step closer to prospecting the Moon
 The first European device to land on the Moon this decade will be a drill and sample analysis package, and the teams behind it are one step closer to flight as part of Russia’s Luna-27 mission.
 The main goal of the Luna-27 lander is to study the composition of the soil near the lunar south pole. Water is a key target: there may be concentrations of frozen water at or below the surface.

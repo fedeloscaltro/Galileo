@@ -1,4 +1,5 @@
-30/04/2020
+2020-04-30
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Telemedicine_on_the_frontline_in_Spain
 Telemedicine on the frontline in Spain
 Space technology is in action in Barcelona, Spain, as emergency responders employ two ESA-supplied telemedicine devices to triage and treat urgent patients.
 Offering ultrasound, laryngoscopy and electrocardiogram among other features, the Tempus Pro devices allow operators to quickly check a patient’s vital parameters such as heartrate, blood pressure, respiration rate and temperature, before transmitting these to medical colleagues elsewhere. This can be done via a secure satellite link or phone network such as 4G.

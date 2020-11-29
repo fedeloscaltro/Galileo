@@ -1,4 +1,5 @@
-30/05/2019
+2019-05-30
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/A_European_mission_control_for_the_martian_rover
 A European mission control for the martian rover
 The ExoMars rover has a brand new control centre in one of Europe’s largest Mars yards. The Rover Operations Control Centre (ROCC) was inaugurated today in Turin, Italy, ahead of the rover’s exploration adventure on the Red Planet in 2021.
 The control centre will be the operational hub that orchestrates the roaming of the European-built laboratory on wheels, named after Rosalind Franklin, upon arrival to the martian surface on Kazachok, the Russian surface platform.

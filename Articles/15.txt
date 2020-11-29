@@ -1,4 +1,5 @@
-12/10/2020
+2020-10-12
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_s_force-feedback_rover_controlled_from_a_nation_away
 ESA’s force-feedback rover controlled from a nation away
 A controller in Germany operated ESA’s gripper-equipped Interact rover around a simulated moonscape at the Agency’s technical heart in the Netherlands, to practice retrieving geological samples. At the same time a smaller Germany-based rover interacted with ESA’s rover as if together at the same site – in a dress rehearsal for a robotic test campaign to the Moon-like volcanic slopes of Mount Etna, scheduled for next year.
 The scenario behind this week’s testing is that in the future, astronauts aboard the Lunar Gateway in space will be able to operate rovers on the surface of the Moon, using force-feedback controls – like a high-end gaming joystick that pushes back on its user – to experience a realistic sense of touch comparable to actually being there.

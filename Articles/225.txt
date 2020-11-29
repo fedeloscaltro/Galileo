@@ -1,4 +1,5 @@
-02/07/2018
+2018-07-02
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Combined_orbital_Galileo-GPS_position_fix_achieved_aboard_ISS
 Combined orbital Galileo-GPS position fix achieved aboard ISS
 Europe’s satellite navigation system Galileo is already in use worldwide, usable by itself or in combination with the US Global Positioning System (GPS). Now a combined Galileo–GPS positioning fix has been achieved in space – aboard the International Space Station – through an ESA–NASA collaboration.
 Low-Earth orbiting satellites routinely make use of satellite navigation signals to pinpoint their position in space and allow their paths through space to be fixed with extremely high accuracy, known as ‘precise orbit determination’.

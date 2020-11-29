@@ -1,4 +1,5 @@
-16/06/2020
+2020-06-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Martian_rover_motors_ahead
 Martian rover motors ahead
 European engineers, together with Canada, are working on the technologies needed to find and retrieve samples from Mars, as part of ESA’s plans to send material from the Red Planet to Earth.
 The Sample Fetch Rover will need to navigate autonomously, detect tubes of samples collected and packed by an earlier NASA rover, pick them up and return them to Earth.

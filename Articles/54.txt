@@ -1,4 +1,5 @@
-09/03/2020
+2020-03-09
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Lunar_Gateway_Earth_s_guard_post_against_asteroids
 Lunar Gateway: Earth’s guard post against asteroids?
 Humankind’s next space outpost, the lunar Gateway, will serve as a staging point to reach the surface of the Moon. A new ESA-backed study is considering whether it could also be used as a deployment point for planetary defence missions, to intercept asteroids approaching dangerously close to Earth.
 Set for assembly over the course of this decade, the Gateway will be placed in a highly elongated, or ‘eccentric’ week-long orbit around the Moon, passing a minimum 3000 km from the lunar surface and 70 000 km at its furthest away. Crewed missions will require much less energy to rendezvous with the Gateway than to fly direct to the surface of the Moon, and could then venture down using Gateway-based landers.

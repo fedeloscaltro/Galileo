@@ -1,4 +1,5 @@
-18/12/2018
+2018-12-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Fake_plastic_atoms
 Fake plastic atoms
 Our world is made of atoms and molecules, but even with the most powerful microscopes we can only see snapshots, never how they move and interact with each other. To model how atoms behave, researchers have been using plastic particles in weightlessness and the latest batch of results are returning to Earth with ESA astronaut Alexander Gerst in a Soyuz spacecraft on Thursday.
 The Plasma Kristall experiments have been slow-cooking since 1998 using the same recipe: mix electrically charged gas in a sealed container with particles so small they would pass through a coffee filter. Perform the experiment in ‘weightlessness’ to keep the particles suspended. Apply electrical current in a plasma-filled tube to coax the particles to behave like atoms and form three-dimensional crystal structures.

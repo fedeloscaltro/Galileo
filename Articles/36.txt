@@ -1,4 +1,5 @@
-04/06/2020
+2020-06-04
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Orbital_space_ageing_tests_offered_for_space_age_materials
 Orbital space ageing tests offered for space age materials
 Exposure to space can be bad for the health of many materials. ESA and French space agency CNES are offering European researchers the chance to study the harmful effects of space directly, by flying material samples on Bartolomeo, Europe’s new ‘front porch’ aboard the International Space Station.
 Named after the younger brother of Christopher Columbus, Bartolomeo is a commercial platform now mounted onto the exterior of the International Space Station’s Columbus module.

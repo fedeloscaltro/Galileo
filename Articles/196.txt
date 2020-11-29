@@ -1,4 +1,5 @@
-05/12/2018
+2018-12-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Worms_in_space_to_understand_muscle_loss
 Worms in space to understand muscle loss
 Keeping fit and maintaining muscle strength is hard enough on Earth, but for astronauts in space it is even more important. As they float around the International Space Station working on experiments, their muscles and bones get less of a work-out than if they were walking and lifting objects on Earth.
 The Molecular Muscle Experiment is set to investigate on a molecular level how muscles react to spaceflight in the C. Elegans worm. Thousands of worms will be sent into space in special bags placed in an incubator that allow them to grow and reproduce. In less than a week, the worms will have grown to maturity. They will then be frozen in the Space Station’s freezers for analysis in laboratories once they return to Earth.

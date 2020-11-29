@@ -62,7 +62,6 @@ def esa_extract(soup):
     for par in soup(["p", "h1", "h2"]):
         text += par.get_text() + '\n'  # obtain the desired text
 
-    print(text)
     return text
 
 

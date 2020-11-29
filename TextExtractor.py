@@ -18,6 +18,7 @@ def soup_init(url):
     html = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)  # get the page content
 
     soup = bs(html, features="html.parser")
+    soup.url = url
 
     return soup
 
@@ -44,7 +45,15 @@ def esa_extract(soup):
         script.extract()  # rip it out
 
     text = soup.findAll("div", attrs={"class": "meta article__item"})[0].get_text()  # get the publication's date
-    text = text.split('\n')[1] + '\n'
+    text = text.split('\n')[1]
+
+    dd = text[:2]
+    mm = text[3:5]
+    yyyy = text[6:]
+
+    text = yyyy+'-'+mm+'-'+dd+'\n'
+
+    text += soup.url+'\n'   # add url to the file's text
 
     for div in soup.findAll('div', attrs={'class': ['article__video',
                                                     'share']}):  # kill video-related and share contents
@@ -53,6 +62,7 @@ def esa_extract(soup):
     for par in soup(["p", "h1", "h2"]):
         text += par.get_text() + '\n'  # obtain the desired text
 
+    print(text)
     return text
 
 
@@ -68,7 +78,8 @@ def bo_extract(soup):
     day = text[8:10]
     month = text[5:7]
     year = text[:4]
-    text = day + '/' + month + '/' + year + '\n'    # add the date at the beginning of the text
+    text = year + '-' + month + '-' + day + '\n'    # add the date at the beginning of the text
+    text += soup.url + '\n'  # add url to the file's text
 
     for script in soup(["script", "style", "noscript", "footer", "header", "title"]):  # deleting all noising elements
         script.extract()  # rip it out
@@ -98,15 +109,15 @@ def space_com_extract(soup):
     @:param soup the HTML parser
     @:return text the extracted text of the article"""
 
-    text = ""
-
     date = soup.find("time")['datetime'][:10]   # get the publication's date
     yyyy = date[:4]     # formatting the date
     mm = date[5:7]
     dd = date[8:10]
-    date = dd + "/" + mm + "/" + yyyy + "\n"
+    date = yyyy + "-" + mm + "-" + dd + "\n"
 
-    text += date    # add the date at the beginning of the text
+    text = date    # add the date at the beginning of the text
+
+    text += soup.url + '\n'  # add url to the file's text
 
     for dell in soup.findAll('div', attrs={'class': ['failuremessage --hide-me', 'successmessage --hide-me',
                                                      'sc-bdVaJa cAfMzi', 'byline-social']}):
@@ -144,7 +155,7 @@ def space_com_extract(soup):
 def main():
     """Function called to start the text-extraction procedure"""
 
-    file_name = "links.txt"
+    """file_name = "links.txt"
 
     with open(file_name, "r") as file:    # opening the file with all the links
         n_links = int(file.readline())   # from which line start to read the file
@@ -169,8 +180,11 @@ def main():
 
             f_articles.write(text)  # writing the text down to the file
 
-            n_links += 1
+            n_links += 1"""
 
+    soup = soup_init("https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Sea-level_monitoring_satellite_in_position_for_liftoff")
+    text = esa_extract(soup)
+    driver.quit()
 
 if __name__ == "__main__":
     main()

@@ -2338,3 +2338,20 @@ JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: T
 JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 70 failed.
 (https://widgets.future-fie.co.uk/css/14.32.2-0910ee90e926be1830d3456ffd63868869d5dfdb/promotion.min.css)
 JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1606661681895	geckodriver	INFO	Listening on 127.0.0.1:49931
+1606661685039	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilevMawxs"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606661690638	Marionette	INFO	Listening on port 49940
+1606661691040	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606661694034	Marionette	INFO	Stopped listening on port 49940
+1606661969912	geckodriver	INFO	Listening on 127.0.0.1:50111
+1606661973051	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJmLIWN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1606661976732	Marionette	INFO	Listening on port 50119
+1606661976847	Marionette	WARN	TLS certificate errors will be ignored for this session
+1606661979389	Marionette	INFO	Stopped listening on port 50119
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 697: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"

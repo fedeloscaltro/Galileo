@@ -1,8 +1,8 @@
-from whoosh.index import create_in, open_dir
-from whoosh.fields import *
-from whoosh.qparser import QueryParser
-from whoosh.query import *
 import os.path
+from datetime import date
+
+from whoosh.fields import *
+from whoosh.index import create_in
 
 
 def main():
@@ -22,21 +22,16 @@ def main():
 
     for filename in os.listdir("Articles"):     # iterate on every file in the directory of articles
         with open("Articles/"+filename, 'r', encoding='utf-8') as file:
+            article_date = file.readline().replace("\n", "")    # extract the date from the file
+            article_date = datetime.datetime.strptime(article_date, "%Y-%m-%d")     # convert the string in a date obj
             writer.add_document(    # add the article to the index with its fields
-                date=file.readline(),
+                date=article_date,
                 path=file.readline(),
                 title=file.readline(),
                 content=str(file.readlines()).replace("\\n", "\n")
             )
 
     writer.commit()     # saves the added documents to the index
-
-    parser = QueryParser("content", ix.schema)
-    query = parser.parse(u"yah")
-
-    with ix.searcher() as searcher:
-        result = searcher.search(query)
-        print(result[0:])
 
 
 if __name__ == '__main__':

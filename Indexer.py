@@ -24,11 +24,15 @@ def main():
         with open("Articles/"+filename, 'r', encoding='utf-8') as file:
             article_date = file.readline().replace("\n", "")    # extract the date from the file
             article_date = datetime.datetime.strptime(article_date, "%Y-%m-%d")     # convert the string in a date obj
+            path = file.readline()
+            title = file.readline()
+            article_content = str(file.readlines()).replace("\\n", "\n")
+            article_content = article_content.replace("\\xa0", " ")
             writer.add_document(    # add the article to the index with its fields
                 date=article_date,
-                path=file.readline(),
-                title=file.readline(),
-                content=str(file.readlines()).replace("\\n", "\n")
+                path=path,
+                title=title,
+                content=article_content
             )
 
     writer.commit()     # saves the added documents to the index

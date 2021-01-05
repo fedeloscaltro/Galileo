@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+
+    <title>Space Search Engine - Home</title>
+</head>
+<body>
+
+    <div class="wrap">
+        <div class="search">
+            <input type="text" class="searchTerm" placeholder="What are you looking for?">
+            <button type="submit" class="searchButton" onclick="results.html"> <!--{{ url_for('static', filename='results.html') }}-->
+                <i class="fa fa-search"></i>
+            </button>
+        </div>
+
+        <div class="dateDiv">
+            <div id="dataInizio">
+                <span>Da</span>
+                <input type="date">
+            </div>
+            <div id="dataFine">
+                <span>A</span>
+                <input type="date">
+            </div>
+        </div>
+
+        <div class="checkDiv">
+            <label class="container">ESA
+                <input type="checkbox">
+                <span class="checkmark"></span>
+            </label>
+            <label class="container">Blue Origin
+                <input type="checkbox">
+                <span class="checkmark"></span>
+            </label>
+            <label class="container">Space.com
+                <input type="checkbox">
+                <span class="checkmark"></span>
+            </label>
+        </div>
+    </div>
+
+</body>
+</html>

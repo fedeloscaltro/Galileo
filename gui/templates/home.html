@@ -12,38 +12,41 @@
 <body>
 
     <div class="wrap">
-        <div class="search">
-            <input type="text" class="searchTerm" placeholder="What are you looking for?">
-            <button type="submit" class="searchButton" onclick="results.html"> <!--{{ url_for('static', filename='results.html') }}-->
-                <i class="fa fa-search"></i>
-            </button>
-        </div>
+        <form action="results.html" method="get">
+            <div class="search">
 
-        <div class="dateDiv">
-            <div id="dataInizio">
-                <span>Da</span>
-                <input type="date">
+                <input type="search" class="searchTerm" name="query" placeholder="What are you looking for?" required="required">
+                <button type="submit" class="searchButton">
+                    <i class="fa fa-search"></i>
+                </button>
             </div>
-            <div id="dataFine">
-                <span>A</span>
-                <input type="date">
-            </div>
-        </div>
 
-        <div class="checkDiv">
-            <label class="container">ESA
-                <input type="checkbox">
-                <span class="checkmark"></span>
-            </label>
-            <label class="container">Blue Origin
-                <input type="checkbox">
-                <span class="checkmark"></span>
-            </label>
-            <label class="container">Space.com
-                <input type="checkbox">
-                <span class="checkmark"></span>
-            </label>
-        </div>
+            <div class="dateDiv">
+                <div id="dataInizio">
+                    <span>Da</span>
+                    <input type="date" name="dataInizio">
+                </div>
+                <div id="dataFine">
+                    <span>A</span>
+                    <input type="date" name="dataFine">
+                </div>
+            </div>
+
+            <div class="checkDiv">
+                <label class="container">ESA
+                    <input type="checkbox" name="ESA">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Blue Origin
+                    <input type="checkbox" name="BlueOrigin">
+                    <span class="checkmark"></span>
+                </label>
+                <label class="container">Space.com
+                    <input type="checkbox" name="Space.com">
+                    <span class="checkmark"></span>
+                </label>
+            </div>
+        </form>
     </div>
 
 </body>

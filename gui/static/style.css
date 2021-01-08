@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 
 body{
-  background: #FFFFFF;
+  background: #F0F0F0;
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -134,4 +134,39 @@ body{
 #dataFine {
     float: right;
     width: 40%;
+}
+
+.content-section {
+  background: #ffffff;
+  padding: 10px 20px;
+  border: 1px solid #dddddd;
+  border-radius: 3px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  text-decoration: none;
+  color: #444444;
+}
+
+.article-metadata {
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3;
+}
+
+.article-metadata a:hover {
+  color: #333;
+  text-decoration: none;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+article {
+  width: 75%;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
 }

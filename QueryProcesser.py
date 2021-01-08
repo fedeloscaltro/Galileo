@@ -29,25 +29,33 @@ def lemmatize(tokens):
     return list_words
 
 
-def main():
-    query = "next Artemis mission"
+def processer(query):
     tokens = tokenize(query)
     query = ""
     for w in lemmatize(tokens):     # for each lemmatized word
         query += w + " "    # add it to the final query object
     print(query, '\n')  # TODO: Delete this print statement when the query process is finished
 
-    ix = open_dir("index")  # open the index and assign it to "ix"
+    ix = open_dir("../index")  # open the index and assign it to "ix"
 
     parser = MultifieldParser(["title", "content", "date"],
                               ix.schema)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
     query = parser.parse(query)  # parsing the query and returning a query object to search (use "date:")
 
+    results = {}
     with ix.searcher() as searcher:
         result = searcher.search(query)  # search the query
-        print(result[0:])  # print the top 10 results
+        # print(result[0:])  # print the top 10 results
+        results = [{f:i[f] for f in i.fields()} for i in result]
+    
+    return results
+
+
+"""def main():
+    # processer(query)
 
 
 if __name__ == '__main__':
     main()
+"""

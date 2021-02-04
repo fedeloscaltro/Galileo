@@ -39,7 +39,7 @@ def processer(query_string):
     ix = open_dir("../index")  # open the index and assign it to "ix"
 
     qparser = QueryParser("path", ix.schema)
-    query = qparser.parse(u"https://www.esa.int")
+    query = qparser.parse(u"https://www.esa.int/")
     print(query)
 
     parser = MultifieldParser(["title", "content", "date"],
@@ -47,11 +47,9 @@ def processer(query_string):
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
     user_query = parser.parse(query_string)  # parsing the query and returning a query object to search (use "date:")
 
-    sources = query.Term()
-
     results = {}
     with ix.searcher() as searcher:
-        result = searcher.search(user_query, filter=query)  # search the query
+        result = searcher.search(user_query, mask=query)  # search the query
         # print(result[0:])  # print the top 10 results
         results = [{f:i[f] for f in i.fields()} for i in result]
     

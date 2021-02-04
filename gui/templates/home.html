@@ -10,7 +10,7 @@
     <title>Space Search Engine - Home</title>
 </head>
 <body>
-
+    <img src="{{ url_for('static', filename='images/logo.png') }}" class="logo">
     <div class="wrap">
         <form action="results" method="get">
             <div class="search">
@@ -23,11 +23,11 @@
 
             <div class="dateDiv">
                 <div id="dataInizio">
-                    <span>Da</span>
+                    <span>From</span>
                     <input type="date" name="dataInizio">
                 </div>
                 <div id="dataFine">
-                    <span>A</span>
+                    <span>To</span>
                     <input type="date" name="dataFine">
                 </div>
             </div>

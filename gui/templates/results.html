@@ -10,12 +10,44 @@
 
 </head>
 <body>
-    <div class="search">
-        <input type="text" class="searchTerm">
-        <button type="submit" class="searchButton" onclick="results.html">
-            <i class="fa fa-search"></i>
-        </button>
+    <div class="resultsWrap">
+        <form action="results" method="get">
+            <div class="search">
+
+                <input type="search" class="searchTerm" name="query" value="{{ request.args.get('query') }}" required="required">
+                <button type="submit" class="searchButton">
+                    <i class="fa fa-search"></i>
+                </button>
+            </div>
+
+            <div class="dateDiv">
+                <div id="dataInizio">
+                    <span>From</span>
+                    <input type="date" name="dataInizio">
+                </div>
+                <div id="dataFine">
+                    <span>To</span>
+                    <input type="date" name="dataFine">
+                </div>
+            </div>
+
+            <div class="resultsCheckDiv">
+                <label class="container resultsContainer">ESA
+                    <input type="checkbox" name="ESA">
+                    <span class="checkmark resultsCheckmark"></span>
+                </label>
+                <label class="container resultsContainer">Blue Origin
+                    <input type="checkbox" name="BlueOrigin">
+                    <span class="checkmark resultsCheckmark"></span>
+                </label>
+                <label class="container resultsContainer">Space.com
+                    <input type="checkbox" name="Space.com">
+                    <span class="checkmark resultsCheckmark"></span>
+                </label>
+            </div>
+        </form>
     </div>
+    <div class="init">
     {% block content %}
         {% for article in context %}
             <article class="media content-section">
@@ -32,5 +64,6 @@
             </article>
         {% endfor %}
     {% endblock content %}
+    </div>
 </body>
 </html>

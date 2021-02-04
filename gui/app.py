@@ -13,7 +13,7 @@ def home():
 @app.route("/results", methods=['GET', 'POST'])
 def results():
 	articles = processer(request.args.get('query'))
-	print(articles)
+	# print(articles)
 	return render_template('results.html', context=articles)
 
 

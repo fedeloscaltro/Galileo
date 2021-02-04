@@ -1,7 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+@import url(https://fonts.googleapis.com/css?family=Open Sans);
 
-body{
-  background: #F0F0F0;
+body {
   font-family: 'Open Sans', sans-serif;
 }
 
@@ -142,6 +141,7 @@ body{
   border: 1px solid #dddddd;
   border-radius: 3px;
   margin-bottom: 20px;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
 }
 
 .article-title {
@@ -169,4 +169,35 @@ article {
   margin: 0 auto;
   position: relative;
   display: flex;
+}
+
+.resultsWrap {
+  width: 75%;
+  left: 12.5%;
+  position: fixed;
+  z-index: 10;
+  background-color: white;
+  box-shadow: 0 1px 6px 0 rgba(32, 33, 36, 0.28);
+}
+
+.resultsCheckDiv {
+  padding: 20px;
+  float: left;
+  width: 50%;
+}
+
+.resultsContainer {
+  display: inline;
+  padding-left: 30px !important;
+}
+
+.init {
+  padding-top: 10%;
+}
+
+.logo {
+  width: 15%;
+  padding-top: 5%;
+  margin: 0px auto;
+  display: block;
 }

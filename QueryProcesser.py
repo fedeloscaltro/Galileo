@@ -1,5 +1,5 @@
 from whoosh.index import open_dir
-from whoosh.qparser import MultifieldParser
+from whoosh.qparser import MultifieldParser, QueryParser
 from whoosh.qparser.dateparse import DateParserPlugin
 
 import nltk
@@ -29,23 +29,29 @@ def lemmatize(tokens):
     return list_words
 
 
-def processer(query):
-    tokens = tokenize(query)
-    query = ""
+def processer(query_string):
+    tokens = tokenize(query_string)
+    query_string = ""
     for w in lemmatize(tokens):     # for each lemmatized word
-        query += w + " "    # add it to the final query object
-    print(query, '\n')  # TODO: Delete this print statement when the query process is finished
+        query_string += w + " "    # add it to the final query object
+    # print(query, '\n')  # TODO: Delete this print statement when the query process is finished
 
     ix = open_dir("../index")  # open the index and assign it to "ix"
+
+    qparser = QueryParser("path", ix.schema)
+    query = qparser.parse(u"https://www.esa.int")
+    print(query)
 
     parser = MultifieldParser(["title", "content", "date"],
                               ix.schema)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
-    query = parser.parse(query)  # parsing the query and returning a query object to search (use "date:")
+    user_query = parser.parse(query_string)  # parsing the query and returning a query object to search (use "date:")
+
+    sources = query.Term()
 
     results = {}
     with ix.searcher() as searcher:
-        result = searcher.search(query)  # search the query
+        result = searcher.search(user_query, filter=query)  # search the query
         # print(result[0:])  # print the top 10 results
         results = [{f:i[f] for f in i.fields()} for i in result]
     

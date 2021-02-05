@@ -48,6 +48,7 @@
         </form>
     </div>
     <div class="init">
+        <article>{{ dym | safe }}</article></br>
     {% block content %}
         {% for article in context %}
             <article class="media content-section">
@@ -58,7 +59,7 @@
                     </div>
                     <div class="article-content">
                         <small class="text-muted">{{ article['date'].date() }}</small>
-                        <p>{{ article['content'][0:100] }}</p>
+                        {{ article['highlights'] | safe}}
                     </div>
                 </div>
             </article>

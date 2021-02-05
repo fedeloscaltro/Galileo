@@ -65,29 +65,6 @@ def space_com_scraper(p):
     return tmpArticles
 
 
-"""def nasa_scraper(p):
-    Function used to scrape and find the articles indexed in the NASA web page
-        @:param p NASA's root page
-        @:return tmpArticles temporary list of NASA articles
-    driver.get(p)
-
-    for i in range(12):
-        # wait 'til the whole page is loaded and click the desired button
-        WebDriverWait(driver, timeout=30).until(lambda d: d.find_element_by_id("trending")).click()
-
-    content = WebDriverWait(driver, timeout=30).until(lambda d: d.page_source)  # to get the content of the NASA's page
-    soup = bs(content, "html.parser")
-    tmpArticles = []  # list of articles links for this site
-
-    for a in soup.find_all(class_="ubernode", href=True):  # obtain <a> class for the articles
-        if a.text:
-            tmpArticles.append(a['href'])  # to get the "href" value
-
-    tmpArticles = [p[:20] + i for i in tmpArticles]  # list of links retrieved from NASA web page
-
-    return tmpArticles"""
-
-
 def write_to_file(links_articles, file_name):
     """Function used to write down to one file all the links got from the scrapers
         @:param links_articles list of the articles to index

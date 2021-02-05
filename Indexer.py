@@ -1,5 +1,4 @@
 import os.path
-from datetime import date
 
 from whoosh.fields import *
 from whoosh.index import create_in
@@ -26,7 +25,10 @@ def main():
             article_date = datetime.datetime.strptime(article_date, "%Y-%m-%d")     # convert the string in a date obj
             path = file.readline()
             title = file.readline()
-            article_content = str(file.readlines()).replace("\\n", "\n")
+            article_content = ""
+            for row in file.readlines():
+                article_content += row
+            article_content = article_content.replace("\\n", "\n")
             article_content = article_content.replace("\\xa0", " ")
             writer.add_document(    # add the article to the index with its fields
                 date=article_date,

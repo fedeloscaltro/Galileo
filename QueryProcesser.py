@@ -47,17 +47,17 @@ def source_filter(query, ix):
     space = ""
     blue_origin = ""
 
-    if (query['esa']):  # if the user wants articles from ESA
+    if query['esa']:  # if the user wants articles from ESA
         esa = "*www.esa.int*"
 
-    if (query['space']):    # if the user wants articles from space.com
+    if query['space']:    # if the user wants articles from space.com
         space = "*www.space.com*"
 
-    if (query['blue_origin']):  # if the user wants articles from blueorigin.com
+    if query['blue_origin']:  # if the user wants articles from blueorigin.com
         blue_origin = "*www.blueorigin.com*"
 
     # if no source is selected add all by default
-    if ((not query['esa']) and (not query['space']) and (not query['blue_origin'])):
+    if (not query['esa']) and (not query['space']) and (not query['blue_origin']):
         sources = qparser.parse("*www.space.com* OR *www.esa.int* OR *www.blueorigin.com*")
 
     else:
@@ -75,11 +75,11 @@ def date_filter(query):
     from_date = str.replace(query['from'], '-', '')
     to_date = str.replace(query['to'], '-', '')
 
-    date_range = f"date:[{from_date} to {to_date}]" # initialize the range with retrieved data from the gui
+    date_range = f"date:[{from_date} to {to_date}]"  # initialize the range with retrieved data from the gui
 
-    if (not from_date and to_date != None): # if just the initial date is unset
+    if not from_date and to_date is not None:  # if just the initial date is unset
         date_range = f"date:[to {to_date}]"
-    elif (from_date != None and not to_date):   # if just the ending date is unset
+    elif from_date is not None and not to_date:   # if just the ending date is unset
         date_range = f"date:[{from_date} to today]"
 
     return date_range
@@ -96,23 +96,40 @@ def processer(query):
     query_string = ""
     for w in lemmatize(tokens):     # for each lemmatized word
         query_string += w + " "    # add it to the final query object
-    # print(query, '\n')  # TODO: Delete this print statement when the query process is finished
 
     ix = open_dir("../index")  # open the index and assign it to "ix"
 
     sources = source_filter(query, ix)  # call the filter function for sources 
-    date_range = date_filter(query) # call the filter function for dates
+    date_range = date_filter(query)  # call the filter function for dates
 
     parser = MultifieldParser(["title", "content", "date"],
                               ix.schema)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
-    query_string += " " + date_range    # add the search by date
-    user_query = parser.parse(query_string)  # parsing the query and returning a query object to search (use "date:")
+
+    final_string = query_string + date_range    # add the search by date
+    query_string = query_string[:-1]
+    user_query = parser.parse(final_string)  # parsing the query and returning a query object to search (use "date:")
 
     results = {}
     with ix.searcher() as searcher:
-        result = searcher.search(user_query, filter=sources)  # search the query
-        # print(result[0:])  # print the top 10 results
-        results = [{f:i[f] for f in i.fields()} for i in result]
+        result = searcher.search(user_query, filter=sources, limit=None, terms=True)  # search the query
+        result.fragmenter.charlimit = None
+        result.fragmenter.maxchars = 300  # Allow larger fragments
+        result.fragmenter.surround = 40  # Show more context before and after
+
+        results = []
+        for i in result:
+            article_dict = {}
+            for f in i.fields():
+                article_dict[f] = i[f]
+            article_dict["highlights"] = i.highlights("content")
+            results.append(article_dict)
+        # results = [ for i in result]
+
+        # Try correcting the query
+        corrected = searcher.correct_query(user_query, query_string)
+        dym = ""
+        if corrected.query != user_query:
+            dym = "Did you mean: <b>" + corrected.string+'</b>?'
     
-    return results
+    return results, dym

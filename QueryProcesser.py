@@ -33,22 +33,30 @@ def lemmatize(tokens):
 
 
 def source_filter(query, ix):
+    """
+    Function that filter by the sources. It uses a QueryParser that works on the "path" field of the schema.
+    It selects only the sources that the user wants the links belong to.
+    :param query: the query submitted by the user
+    :param ix: the index, used to access the schema
+    :return: the sources on which the user wants to perform the query
+    """
     qparser = QueryParser("path", ix.schema)
-    qparser.add_plugin(WildcardPlugin())
+    qparser.add_plugin(WildcardPlugin())    # utilize the Wildcard plugin to match the sources in the url
 
     esa = ""
     space = ""
     blue_origin = ""
 
-    if (query['esa']):
+    if (query['esa']):  # if the user wants articles from ESA
         esa = "*www.esa.int*"
 
-    if (query['space']):
+    if (query['space']):    # if the user wants articles from space.com
         space = "*www.space.com*"
 
-    if (query['blue_origin']):
+    if (query['blue_origin']):  # if the user wants articles from blueorigin.com
         blue_origin = "*www.blueorigin.com*"
 
+    # if no source is selected add all by default
     if ((not query['esa']) and (not query['space']) and (not query['blue_origin'])):
         sources = qparser.parse("*www.space.com* OR *www.esa.int* OR *www.blueorigin.com*")
 
@@ -58,17 +66,32 @@ def source_filter(query, ix):
     return sources
 
 
-def date_filter(query, ix):
-    qparser = QueryParser("date", ix.schema)
-    qparser.add_plugin(DateParserPlugin())
-    date_range = qparser.parse(f"<{datetime.datetime.strptime(query['from'], '%Y-%m-%d')} AND >{datetime.datetime.strptime(query['to'], '%Y-%m-%d')}")
+def date_filter(query):
+    """
+    Function that manipulates the dates and find the articles in a date range
+    :param query: the query submitted by the user
+    :return: the range of dates
+    """
+    from_date = str.replace(query['from'], '-', '')
+    to_date = str.replace(query['to'], '-', '')
 
-    print(date_range)
+    date_range = f"date:[{from_date} to {to_date}]" # initialize the range with retrieved data from the gui
 
+    if (not from_date and to_date != None): # if just the initial date is unset
+        date_range = f"date:[to {to_date}]"
+    elif (from_date != None and not to_date):   # if just the ending date is unset
+        date_range = f"date:[{from_date} to today]"
+
+    return date_range
 
 
 def processer(query):
-    print(query)
+    """
+    Function that processes the "query" submitted by the user.
+    It processes the dates and filter by sources.
+    :param query: the query submitted by the user
+    :return: the results of the query, a list of articles
+    """
     tokens = tokenize(query['text'])
     query_string = ""
     for w in lemmatize(tokens):     # for each lemmatized word
@@ -77,12 +100,13 @@ def processer(query):
 
     ix = open_dir("../index")  # open the index and assign it to "ix"
 
-    sources = source_filter(query, ix)
-    date_filter(query, ix)
+    sources = source_filter(query, ix)  # call the filter function for sources 
+    date_range = date_filter(query) # call the filter function for dates
 
     parser = MultifieldParser(["title", "content", "date"],
                               ix.schema)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
+    query_string += " " + date_range    # add the search by date
     user_query = parser.parse(query_string)  # parsing the query and returning a query object to search (use "date:")
 
     results = {}

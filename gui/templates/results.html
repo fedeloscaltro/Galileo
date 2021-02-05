@@ -23,11 +23,11 @@
             <div class="dateDiv">
                 <div id="dataInizio">
                     <span>From</span>
-                    <input type="date" name="dataInizio">
+                    <input type="date" name="dataInizio" value="{{ request.args.get('dataInizio') }}">
                 </div>
                 <div id="dataFine">
                     <span>To</span>
-                    <input type="date" name="dataFine">
+                    <input type="date" name="dataFine" value="{{ request.args.get('dataFine') }}">
                 </div>
             </div>
 

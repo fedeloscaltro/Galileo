@@ -1,0 +1,13 @@
+2012-09-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_undocking_postponed
+ATV undocking postponed
+The undocking of ATV-3 from the International Space Station late last night was postponed due to an incorrect command. During operations ATV-3 performed perfectly in line with its pre-defined measures.
+A new attempt to undock will likely be made on Thursday, pending approval by the board of the Station management team this afternoon. Meanwhile, ATV Edoardo Amaldi is safe and in a dormant mode.
+The issue was discovered by the Space Station crew shortly before undocking, when they attempted to send a command from a control panel to ATV-3. Receipt of the command was not confirmed by ATV-3, so the undocking was suspended.
+Experts from ESA, NASA and Roscosmos have determined that the problem was caused by commands being sent using the wrong spacecraft identification number.
+Power and data links had already been disconnected between ATV-3 and the Station to prepare for the departure. Afterwards, they were re-established by controllers at ESA’s ATV Control Centre in Toulouse, France.
+“The joint ESA/CNES mission operations team reacted professionally and skilfully to this unexpected delay,” said Massimo Cislaghi, ESA’s ATV-3 Mission Manager.
+“Engineers immediately set to work to reschedule the undocking and reconfigure ATV-3 into safe mode while we and our international partners were troubleshooting the issue.”
+ATV Edoardo Amaldi performed perfectly during the undocking procedure and is standing by for the next attempt.
+Operational considerations will now postpone ATV-3 reentry to at least 2 October.
+Follow the ATV blog for updates as they come in.

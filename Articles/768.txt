@@ -1,0 +1,17 @@
+2016-09-28
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/One-eyed_robot_learns_to_see_in_weightlessness
+One-eyed robot learns to see in weightlessness
+A small drone taught itself to judge distances using only one eye during trials aboard the International Space Station, ESA-backed researchers have reported.
+Although humans can effortlessly estimate distances with a single eye, robots still lack this capability.
+“It is a mathematical impossibility to extract distances to objects from one single image, if the object has not been encountered before,” explains Guido de Croon from Delft University of Technology, one of the investigators.
+“But if we recognise something to be a car, then we know its physical characteristics, and we can use that information to estimate its distance from us. A similar logic is what we wanted the drone to learn during our experiment.”
+One of the Spheres – Synchronized Position Hold Engage and Reorient Experimental Satellite – drones resident in the Space Station was pressed into service for testing.
+With 12 carbon dioxide gas thrusters enabling rotation and movement in all direction, the bowling ball-sized Spheres are essentially free-floating mini-spacecraft within the Station, used for testing a wide variety of technology.
+For this test, a drone began navigating inside Japan’s module while recording stereo vision information from its two camera ‘eyes’. It then began to learn about the distances to walls and nearby obstacles so that when its stereo camera was switched off, it could then begin autonomous exploration using only a single camera.
+Operating in weightlessness, with no favoured up or down direction, added to the challenge. However, the experiment demonstrated that machine learning would indeed allow the normally stereo-viewing drone to recover from the loss of one camera.
+The self-supervised learning software had previously been tested thoroughly at the TU Delft CyberZoo – a research lab for flying and walking robots – using quadcopters.
+The experiment, presented on 27 September at the International Astronautical Congress in Guadalajara, Mexico, marked an important step in an ongoing research effort based on advanced artificial intelligence concepts, in collaboration between ESA, the Massachusetts Institute of Technology and the Micro Air Vehicles Lab of the Delft University of Technology.
+“It was very exciting to see a drone in space learning using cutting-edge artificial intelligence methods for the very first time,” explains Dario Izzo, coordinating the research contribution from ESA’s Advanced Concepts Team.
+“At ESA, in particular in our team, we’ve been working towards the goal for the last five years. In space applications, machine learning is not considered a reliable approach to autonomy: a ‘bad’ learning approach may result in a catastrophic failure of the entire mission.
+“Our approach, based on self-supervised learning, has a high degree of reliability and helps drone autonomy. A similar learning approach was successfully applied to self-driving cars, a task where reliability is also of paramount importance.”
+Leopold Summerer, heading the  Advanced Concepts Team, adds: “This is a further step in our quest for truly autonomous space systems, which are increasingly in demand for deep-space exploration, complex operations, for reducing costs, and increasing capabilities and science opportunities.”

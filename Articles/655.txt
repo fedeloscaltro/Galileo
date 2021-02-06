@@ -1,0 +1,31 @@
+2020-12-23
+https://www.space.com/nanoracks-bishop-airlock-installed-space-station
+The International Space Station is now home to the world's 1st commercial airlock
+CAPE CANAVERAL, Fla. — The International Space Station is now sporting a shiny new piece of hardware.
+On Monday (Dec. 21), the first commercial airlock ever sent to the International Space Station (ISS) was attached to its exterior. The new structure is a bell-shaped airlock that is designed to transfer payloads and other materials from inside the station out into the vacuum of space.
+Built by Nanoracks, a Houston-based aerospace company known for facilitating access to space via research boxes for scientific experiments or small satellite deployers, the airlock is not only the first of its kind, but also the first large-scale piece of space hardware the company has constructed.
+Video: Nanoracks' Bishop Airlock installed on space station
+Related: Nanoracks books SpaceX rocket to launch space habitat demo
+#BishopAirlock: Now mated to @Space_Station pic.twitter.com/3wx65BlI31December 21, 2020
+The 2,000-lb. (907 kilograms) hunk of metal — called Bishop — is named after the pointy, diagonally-moving chess piece. The moniker represents the module's agility when attached to the station's robotic arm, but also represents Nanoracks' plans for the future. (The company isn't stopping at one airlock and even hopes to eventually launch its own space station.)
+Bishop launched to the station on NASA's recent CRS-21 resupply mission, which blasted off from Kennedy Space Center in Florida on Dec. 6. Tucked inside the unpressurized trunk of a SpaceX Dragon cargo spacecraft, the airlock was attached to the exterior of the station on Monday (Dec. 21) and will be powered on sometime in early 2021.
+Once active, astronauts will be able to store items in the airlock by opening a hatch inside the station. When it comes time for deployment, they will seal the hatch and then arm operators in NASA's mission control center in Houston will use the station's robotic arm to remove the airlock, deploy the payload, and then reattach the airlock to the same port.
+Bishop is not alone; there are three other airlocks currently in use on station — two that astronauts use when entering and exiting the space station, and a third used to deploy small payloads into space. That airlock, located in the Japanese Experiment Module, is currently the only way that Nanoracks can shoot its customer's satellites into space.
+That is about to change; Bishop airlock will provide additional options for larger payloads. It's designed to be used 10 times a year for 10 years, and can deploy payloads as large as a refrigerator, whereas the Japanese airlock is limited to payloads no larger than a microwave oven.
+"We are five times larger than the Japanese airlock," Brock Howe of Nanoracks told Space.com. "We could fit payloads no larger than a microwave oven through the Japanese airlock. Now we can do things much larger."
+According to Howe, Bishop is not your average airlock. Typically, an airlock has an entry door, a vestibule, and an exit door, he told Space.com. But Bishop differs in the fact that it has no doors and relies totally on the space station's robotic arm, called Canadarm2.
+"Every single time it comes off the space station," he said. "Then pew, pew, the satellite(s) goes out."
+Once a payload has been deployed, the arm will reattach the module to the station's exterior and it will wait for its next use.
+Bishop will help more companies and universities reach space. Because it can hold five times more than the Japanese airlock, this means that more customers can get their payloads into space in a timely fashion and won't have to rely on rideshare missions.
+Bishop's use will be driven by the commercial marketplace. "The way it works is we have funded and built this with our own money," Howe said. "Then as people use it, they pay us."
+Agencies like NASA will be one of many customers that will pay to use the airlock. So far, Nanoracks has contracts with NASA, the European Space Agency (ESA), and a Japanese company called GITAI to use the airlock. Which company will get first use and what will be in the airlock at the time is still to be determined.
+"It's part of the commercial way of doing things. The launch doesn't do anything for us, it just gets us there," Howe said. "Now she needs to start making us some money."
+Related: Tissue chips and organoids: The weird science on SpaceX's CRS-21
+It took Nanoracks five years to design and build the Bishop airlock, and another year to convince NASA to let it fly. According to Howe, Nanoracks signed a Space Act agreement with NASA, which meant that no money would transfer hands.
+"NASA provided the flight on a Dragon and a spot to berth to, but no money transferred hands," he said.
+But the agency (and others like it) will have to pay for use of the airlock. So far, NASA has purchased six airlock cycles and ESA has purchased five. Howe explained that they have a couple of years to use them and can space them out how they want.
+The Japanese robotic company, GITAI, is the first company to buy an airlock cycle on Bishop. GITAI won't actually be launching anything from Bishop, but will be using it to test out one of its robots to see how the machine works in zero gravity.
+Controllers on the ground will operate the robot to study how well it can perform dexterous tasks on orbit, like opening up a zipper. The robot is designed to do a variety of tasks that humans would do in space and if it proves to be successful, GITAI is hoping to sell its robot to space companies that could one day use it on a free-floating space station.
+"The tricky part is latency; when you move it on the ground how does that correspond to what the robot does in orbit," Howe explained. "Future commercial space stations may not have people on board, so this will be very useful technology."
+Nanoracks has also designed the airlock in a way that payloads and experiments could be attached to its exterior, including Earth-observing payloads. It can also be used as a storage area for tools that astronauts could use on spacewalks.
+"To get to this point has been a fun ride, but I'm not going to say it's been easy," said Howe.

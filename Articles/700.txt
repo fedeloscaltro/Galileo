@@ -1,0 +1,14 @@
+2017-11-09
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/The_road_to_Orion_s_launch
+The road to Orion’s launch
+NASA’s Orion spacecraft aims to send humans further into space than ever before, and ESA’s European Service Module will provide the essentials for keeping the astronauts alive and on course.
+A review of the programme by NASA to assess progress is now showing a launch date from December 2019 to June 2020.
+The first Exploration Mission-1 will circle the Moon without astronauts to lay the foundation and prove the technology for a second mission with a crew.
+In Bremen, Germany, integration of the service module is well under way, with work already starting on the second.
+More than 11 km of cables are being laid and connected to send the megabytes of information from the solar panels, fuel systems, engines, and air and water supplies to the module’s central computers.
+Recently, the Orion’s 24 orientation thrusters were installed, complementing the eight larger engines that will back up the main engine.
+The module’s complex design requires 1100 welds for the propulsion system alone, with only 173 left to complete.
+Teams in Bremen at the Airbus integration room are on eight-hour shifts to keep work running 24 hours a day, aiming for a shipment of the completed module to the USA in the summer of 2018.
+It will be flown to NASA’s Kennedy Space Center in Florida, where it will be combined with the crew module before they are moved to NASA’s Plum Brook station in Ohio for extensive tests to ensure they are ready for launch and the voyage into deep space.
+The service module is based on technology from ESA’s tried-and-tested Automated Transfer Vehicles that flew to the International Space Station on five missions. For Orion, the design is more complex with more systems but the technology behind it has been miniaturised to fit into the smaller Orion structure.
+ESA’s David Parker, Director of Human Spaceflight and Robotic Exploration, says: “The Orion spacecraft and service module is an inspiring international cooperation at the forefront of technology and humanity’s drive for exploration. All the teams involved are justly proud to be part of such a complex and important project.”

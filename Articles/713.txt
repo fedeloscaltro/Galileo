@@ -1,0 +1,16 @@
+2017-09-07
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Paolo_s_point_and_click_adventure_with_Justin_from_space
+Paolo’s point and click adventure with Justin from space
+Last month ESA astronaut Paolo Nespoli operated a rover in Germany from the International Space Station. Part of ESA’s METERON project, the experiment with German Aerospace Center DLR’s robot, nicknamed Rollin’ Justin, is about developing ways to allow astronauts to control robots from orbit.
+This experiment saw Justin, based in Oberpfaffenhofen, Germany, in a Mars scenario tasked with diagnosing solar panels. Paolo, flying at 28 800 km/h and 400 km above Earth, worked with Justin to inspect three solar panels and find a malfunction. He then instructed Justin to plug in a diagnostic tool read and upload the error logs.
+A second scenario saw Paolo and Justin work to insert the diagnostic tool into all three solar panels to find out which panel’s software needed updating. Once discovered, Justin returned to update the solar panel’s firmware. A last scenario had a solar panel destroyed in a storm with Paolo searching for the broken panel and taking pictures for ground control.
+These tests were chosen to enact future scenarios in which astronauts orbiting distant planets and moons can instruct robots to do difficult or dangerous tasks and set up base before landing for further exploration.
+ESA has run multiple experiments from the Space Station with robots to test the network, the control system and the robots on Earth. This is a new area for everybody involved and each aspect needs to be tested.
+This experiment, dubbed ‘SUPVIS-Justin’, focused on Justin and the user interface used to interact with the robot.
+Point and click
+Justin had a large level of autonomy, allowing Paolo tap on the screen of a tablet with Justin visually identifying the area and reacting accordingly. This is similar to a point-and-click adventure game, but infinitely more complicated – in real life there is no room for error.
+ESA’s Thomas Kruger from the Telerobotics and Haptics Lab explains, “At the moment we are working with one robot, but we foresee a fleet of robots that work together to tackle any task given to them.
+“Future astronauts will oversee multiple robots by giving them instructions and letting them get on with the job.”
+Paolo could see video from Justin’s camera on his tablet that includes a mini-map that automatically updates based on what Justin’s artificial intelligence recognises. Moving the camera to view a solar panel will make it appear on the map as a new waypoint to navigate to.
+After the session, Paolo completed a questionnaire for the team to help improve the user interface if needed. First impressions are very positive, two of Paolo’s crewmates floated by while running the experiment and wanted to give it a try. Paolo gave a quick on-the-spot training and NASA astronauts Randy Bresnik and Jack Fischer ran through the first scenario without any problems.
+The experiment is planned to run two more times with more astronauts, and the telerobotics teams are considering refining the software for the next session as early as January.

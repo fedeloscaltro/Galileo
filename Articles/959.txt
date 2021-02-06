@@ -1,0 +1,20 @@
+2013-10-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/3D_printing_for_space_the_additive_revolution
+3D printing for space: the additive revolution
+3D printing is getting ready to revolutionise space travel. ESA is paving the way for 3D-printed metals to build high-quality, intricate shapes with massive cost savings.
+ESA and the European Commission have embarked on a project to perfect the printing of space-quality metal components. The AMAZE project – Additive Manufacturing Aiming Towards Zero Waste & Efficient Production of High-Tech Metal Products – involves 28 industrial partners across Europe.
+“We want to build the best quality metal products ever made,” said David Jarvis, ESA’s Head of New Materials and Energy Research, during a press conference at the London Science Museum yesterday.
+Considered the third industrial revolution among manufacturers, 3D printing builds a solid object from a series of layers, each one printed on top of the last – also known as additive manufacturing.
+Almost anything that can be designed by computer can be printed as a physical item, typically by melting powder or wire materials.
+The space dimension
+AMAZE aims to put the first 3D metal printer on the International Space Station allowing astronauts to produce tools and new structures on demand.
+The project envisages printing entire satellites and using the technology for missions to the Moon and Mars. With no need of launching heavy payloads, manufacturing in space could save huge amounts of time and money.
+To get to that future, ESA is looking at five metal additive manufacturing processes. “We are focusing on serious engineering components made of very high-tech alloys. We are using lasers, electron beams and even plasma to melt them,” explains David. Some of the materials AMAZE works with only melt at 3500°C.
+New materials are also a possibility. High-strength and lightweight components can be built by combining exotic – and expensive – elements such as tungsten, niobium or platinum with no waste.
+Experts foresee numerous applications on the ground: aircraft wings, jet engines and automotive systems will benefit from the highest quality that AMAZE technology offers.
+Additive manufacturing is green technology at its best. Aiming towards zero waste production, a kilogram of titanium would go into a kilogram of the end product, which translates into enormous cost savings and energy efficiency.
+Factories of the future
+A quartet of pilot factories – each one employing different metallic 3D printing methods – are being set up in Germany, Italy, Norway and the UK. In parallel, a full industrial supply chain is being established for metallic 3D printing, incorporating feedstock alloys, printing equipment, finishing techniques, metrology and control software.
+Not yet a perfected technology, 3D printing is “A revolutionary process that is crying out to be standardised for industry. We want to bring it from the margins to the mainstream,” says David. One of his ambitions is to be able to produce large metal parts within 24 hours.
+“We need high quality, we need it to be repeatable, and we need a supply chain. AMAZE connects all the key players within Europe and develops that supply chain,” adds Jon Meyer, Additive Layer Manufacturing Research Team Leader at EADS Innovation Works.
+AMAZE is fit for space and the most demanding applications on Earth. As David sees it, “The future is going to be amazing.”

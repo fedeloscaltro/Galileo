@@ -1,0 +1,20 @@
+2017-04-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Dream_Chaser_to_use_Europe_s_next-generation_docking_system
+Dream Chaser to use Europe’s next-generation docking system
+ESA and a team of European industrial contractors led by QinetiQ have finalised an agreement with Sierra Nevada Corporation for the use of Europe’s International Berthing Docking Mechanism on the Dream Chaser spaceplane.
+The Sierra Nevada Corporation (SNC) Dream Chaser is being developed as a reusable, lifting-body, multimission spacecraft capable of landing at commercial airports or spaceports that can accommodate large commercial aircraft anywhere in the world.
+Selected to provide cargo delivery, return and disposal services for the International Space Station under NASA’s Commercial Resupply Services 2 contract, it is a safe, affordable, flexible and reliable system, designed to provide crewed and uncrewed transportation services to low orbit destinations, such as the Space Station and future commercial space infrastructures.
+The International Berthing Docking Mechanism (IBDM) is an androgynous, contact force-sensing, low-impact docking system, capable of docking and berthing large and small vehicles.
+The IBDM consists of the Soft-Docking System and the Hard-Docking System. The first captures and actively dissipates the kinetic energy of the two spacecraft. The second makes the structural pressurised connection between the spacecraft.
+The IBDM is fully compatible with the International Docking System Standard (IDSS) defined by the Station partner agencies and with the new docking ports being made available at the Station.
+ESA developed the docking system in cooperation with NASA, with the goal of building a modern docking system for space vehicles visiting the Station after the Space Shuttle’s retirement.
+The dual active control loop markedly improves on existing technology by reducing the docking forces on the space infrastructure and by enabling the capture and docking of a wide range of spacecraft mass and flight envelopes.
+QinetiQ has been leading IBDM development since the beginning and it has set up an industrial team including SENER (Spain and Poland), responsible for the Hard-Docking System, Ruag AG (Switzerland) for the linear actuators, and Maxon (Switzerland) for the electric motors.
+David Parker, ESA Director of Human Spaceflight and Robotic Exploration, notes, “This agreement is an additional step forward in international cooperation and it has a strategic value in view of ESA’s current involvement and future plans for international human exploration missions, as well as for potential commercial activities and servicing scenarios in low orbit. SNC has shown interest in joining forces with Europe for a mutually beneficial cooperation.”
+"We have always envisioned the Dream Chaser to be a vehicle with global reach and have actively sought international cooperation,” said Mark Sirangelo, corporate vice president of SNC’s Space Systems business area.
+“This IBDM partnership is a significant example of that. SNC is very pleased to be working with ESA and its industrial partners on this technology.”
+Erik Masure, Managing Director at QinetiQ, added, “QinetiQ, and its industrial consortium, are extremely pleased with SNC’s selection of the IBDM as docking system for the Dream Chaser.
+“This first host vehicle for the IBDM is a milestone in QinetiQ’s plans to establish the IBDM as a product to serve a large community of host vehicles.
+“We believe that the smart design of the IBDM will be an enabling technology towards all sorts of vehicles: cargo and crewed vehicles, heavy and very lightweight vehicles, low-orbit and beyond low-orbit vehicles.”
+“The IBDM project is a first case of public–private partnership within the ESA’s space exploration programme,” underlined David Parker.
+“Alongside the main financial contribution of the Member States, as in other ESA optional programmes, the industrial companies participating in the IBDM development are providing their own investment, aiming at the creation of a commercial product, which will be offered on the space market worldwide.”

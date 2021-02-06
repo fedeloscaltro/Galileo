@@ -1,0 +1,22 @@
+2012-07-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Listening_to_the_past_and_talking_to_the_future
+Listening to the past and talking to the future
+ESA astronaut Tim Peake recently spent 12 days underwater with three other aquanauts to look at the best ways for astronauts to explore an asteroid. Behind the scenes, a large support team was learning through experience.
+No effort was spared to make the experience as realistic as possible. This Neemo mission simulated a mission to an asteroid 15 million km from Earth, almost 39 times further than the Moon.
+At this distance, it would take a message from Earth around 50 seconds to reach the crew.
+If an astronaut replied to a message from ground control immediately, people on Earth would still have to wait a minimum of 1 minute and 40 seconds before hearing the reply. Any urgent questions or interruptions are impossible.
+Neemo was the first complex operation where the astronauts and mission control had to work with a time delay, so they had to learn how it affects communications.
+ESA’s Hervé Stevenin has years of experience as crew communicator for the International Space Station and was invited to be a capcom for Neemo: “On the Station, when we talk to astronauts the reply is instantaneous.
+“With Neemo, we had to completely rethink communications – we were listening to the past and talking to the future at the same time.”
+Underwater chatting through time
+The mission controllers quickly found ways to work with the communication delay. First of all, stopwatches reminded them when to expect a reply from the underwater astronauts.
+Then it became obvious that some voice messages should be announced. Hervé explains, “We introduced important messages by announcing the addressee and subject.
+“For example, ‘Aquarius, MCC [Mission Control Centre], on Space to Ground One, incoming message in 10 seconds for Tim and geophysical array deployment.’”
+The pause gave the aquanauts time to stop what they were doing and pay attention. This avoided repeating messages, which could delay work for three minutes or more.
+Finally, a new communication system was tested. Many non-urgent messages were sent through a text chat programme that allowed multiple chats at the same time, similar to chat programmes on the Internet. Astronauts could read messages and reply in their own time.
+Text chat: best for an asteroid mission
+Hervé adds: “We found that text chat is the most appropriate communication system for an asteroid mission, accompanied by voice messages to keep a human touch.
+“If a voice message is complex, texting the same message as well is very helpful.”
+If a voice message is complex, texting the same message as well is very helpful.
+This Neemo mission was one of the most complex underwater simulations ever conducted. More than 80 engineers, divers and others worked 14-hour days to support the aquanauts from NASA’s mobile mission control, boats anchored above the Aquarius base, and even from submersibles.
+In addition to communication duties, Hervé supported Neemo as a scuba diver: “Being a Neemo working diver helped capcoms to understand the constraints and challenges of the environment in which the aquanauts were working.”

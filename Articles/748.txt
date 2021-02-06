@@ -1,0 +1,15 @@
+2017-02-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Setting_Sun_on_Space_Station_Solar_research
+Setting Sun on Space Station Solar research
+Today, ground control in Belgium switched off a package that had been continuously watching the Sun from the International Space Station for nine years.
+‘Solar’ has been measuring most of the radiation emitted by our closest star across the electromagnetic spectrum. Built to run for only 18 months, it was still working until today – exceeding all expectations.
+Solar’s observations are improving our understanding of the Sun and allowing scientists to create accurate computer models and predict its behaviour.
+To predict how the Sun behaves, scientists create complex computer models to build a virtual star. With more observations, scientists can fine-tune their models. Modelling and predicting the Sun’s activity with precision is an important step towards understanding humankind’s effect on Earth’s climate.
+Between 2012 and 2016, the Space Station turned itself five times to position Solar so that it could track the Sun without interruption for a complete solar day – around a month of Earth days.
+It was the first time the Station changed attitude for scientific reasons alone and a huge achievement – it’s not every day that you move a 450 tonne orbital outpost.
+Shutting down
+Today, Solar was moved to a parked position where it was secured with a pin. Even during its last days, Solar was delivering important data.
+The teams at the control centre in Brussels, Belgium, used the final moments to stress the hardware to its limits and gain a better understanding of how the observations have been affected by age and the intense changes in temperature it endures outside the Station. Using this extra information, researchers are developing software that will improve calibration of parts of the data.
+ESA’s project leader, Astrid Orr, comments, “After all these years of gaining valuable information about our Sun it is an emotional moment for the team, but Solar has far exceeded everyone’s expectations.”
+“This kind of research does not deliver pretty pictures, but numbers. I tip my hat to the researchers who patiently sort through the wealth of data – this field of science may seem tedious and unexciting to the outside world, but climate studies heavily rely on these data to understand the world we live in and how we are shaping it.”
+The measurements from the SOLAR/SolACES instrument are freely available here: https://www.cosmos.esa.int/web/esdc

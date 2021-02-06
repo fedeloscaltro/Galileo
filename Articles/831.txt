@@ -1,0 +1,17 @@
+2015-09-24
+https://www.esa.int/Education/CubeSats_-_Fly_Your_Satellite/Be_the_first_to_catch_the_signals_from_a_new_Satellite_in_orbit
+Be the first to catch the signals from a new Satellite in orbit!
+It is time to start listening to space. To celebrate the launch of the student-built AAUSAT5 CubeSat from the International Space Station into low Earth orbit, ESA’s Education office challenges the amateur radio community to listen out for the tiny satellite.
+Be the first to send in your recorded signal from AAUSAT5 and you will receive a prize from ESA's Education Office.
+Launched on 19 August to the ISS, the Danish student CubeSat is now waiting for its deployment from the Japanese Kibo module’s airlock. On October 5th at 3:55 PM CET, an astronaut will manipulate a robotic arm to lift AAUSAT5 from the airlock and place it in orbit.
+Once launched from the International Space Station the CubeSat will begin transmitting signals to Earth that can be picked up by anyone with common amateur radio equipment. ESA challenges anyone to record the signal and send it to us (cubesats@esa.int) and Aalborg University (studentspace@space.aau.dk).
+The first correct email received will win the following prizes:
+AAUSAT5 is the 5th CubeSat designed and built by the University of Aalborg, Denmark. It is the 2nd AAUSAT satellite tested under ESA’s supervision as part of the ESA Education Office’s Fly Your Satellite programme.
+The technical objective of AAUSAT5 is to test  an improved version of an Automatic Identification System (AIS), which aims  to track and identify ships transiting away from coastal areas and those in remote areas.
+If successful, a satellite-based AIS system could enable the establishment and use of safe new shipping lanes.
+For more information about the AAUSAT5 mission please see the our website and the team's site from the University of Aalborg.
+Radio Contact Information:
+For more HAM radio information see here.
+What your reporting email should contain:
+If any sound recording of the CW beacon please attach it to the mail. Read more about it here.
+Please read here report successful contacts with AAUSAT 5 to ESA (cubesats@esa.int) and Aalborg (studentspace@space.aau.dk).

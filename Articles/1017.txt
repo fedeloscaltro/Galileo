@@ -1,0 +1,17 @@
+2012-10-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Capturing_the_Sun_in_a_computer
+Capturing the Sun in a computer
+ESA’s SOLAR instrument suite on the International Space Station has been granted a longer lease of life to continue recording almost the full spectrum of the Sun’s radiation. SOLAR is vital for understanding the Sun and its effects on Earth.
+SOLAR consists of multiple spectrometer instruments, each training their eye on a specific part of the Sun’s spectrum, together stretching from extreme ultraviolet to infrared.
+These continuous measurements have unprecedented accuracy and are combined with data from other sources.
+The Sun is our unique source of energy but it is still far from being fully understood. At the macro scale, Earth’s climate is influenced by the Sun’s output, volcanic eruptions and greenhouse gases.
+The output is not constant but varies in roughly 11-year cycles. And the Sun influences more than just our climate – its radiation can interfere with the accuracy of in-car navigation and the orbits of satellites.
+Gerhard Schmidtke, scientific lead for the Solaces instrument on SOLAR, gives a striking example: “Solar radiation can increase atmospheric drag so when we observe higher solar activity we see more old satellites fall back to Earth.”
+Modelling the Sun
+To predict how the Sun will behave, scientists create complex computer models to build a virtual Sun. With more data, scientists can fine-tune their models.
+“When computer models predict observations accurately you know we are on the right track,” says Gérard Thuillier, scientific lead for the SolSpec spectrometer on SOLAR.
+Modelling and predicting the Sun’s activity with precision is an important step towards understanding humankind’s effect on Earth’s climate.
+Gérard puts it simply: “To model climate change, you need measurements of the full spectrum of the Sun and their variability with wavelength.
+“Modern climate predictions require these data to complete measurements from the ground and at high altitudes.”
+SOLAR has been operating for over four years, far beyond its original design requirement of only 18 months, and it was recently granted an extra lease of life, until 2017.
+If all goes well, SOLAR will collect data for nine continuous years. Although this is a start, “To really understand the Sun, we need to observe it in this way for at least a complete sunspot cycle,” agree both Gérard and Gerhard.

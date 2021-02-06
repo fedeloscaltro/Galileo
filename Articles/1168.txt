@@ -1,0 +1,24 @@
+2011-06-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_end_for_ATV_i_Johannes_Kepler_i
+The end for ATV Johannes Kepler
+Europe’s unmanned ATV space freighter plunged on command into Earth’s atmosphere today to end its mission as a spectacular shooting star over the southern Pacific Ocean. Contact with the spacecraft was lost at 20:41:39 GMT (22:41:39 CEST) at an altitude of 80 km.
+After a flawless undocking from the International Space Station on Monday at 14:46 GMT (16:46 CEST), the Automated Transfer Vehicle (ATV) flew solo while its mission control centre in Toulouse, France, prepared the craft for its fiery end.
+There was one unplanned manoeuvre: dodging a piece of space debris about two hours after leaving the Station.
+After a warning from NASA that an object would zip past to within 50 m, ATV-2 fired its thrusters briefly to move out of danger.
+The tonne of propellant remaining in its tanks was plenty for the reentry manoeuvres and any contingencies. The ad hoc avoidance again demonstrated ATV’s adaptability to changing situations.
+Last moments of Johannes Kepler
+Today, at 17:07 GMT (19:07 CEST), ATV fired its engines to enter an elliptical orbit leading to the second burn at 20:04 GMT (22:04 CEST), which precisely targeted its Pacific goal.
+The first burn lasted for 10 min 9 sec and the second for 14 min and 9 sec.
+Just before hitting the atmosphere, Johannes Kepler was commanded to begin tumbling to ensure it would disintegrate and burn up safely.
+Surviving pieces such as the heavy docking adapter and main engines – designed to withstand extreme heat – struck the ocean at around 21h GMT (23h CEST). There were no hazardous materials aboard ATV.
+The destructive reentry happened exactly as planned over an uninhabited area of the south Pacific, about 2500 km east of New Zealand, 6000 km west of Chile and 2500 km south of French Polynesia.
+"The mission of ATV-2 has been very smooth and we have encountered during these four months only very minor issues that were quickly taken care of by our teams," said Nico Dettmann, Head of ESA’s ATV Programme.
+"ATV has shown again its capabilities in servicing the Station and we are looking forward to the next, Edoardo Amaldi, which will be shipped to Kourou in August for launch in early 2012."
+"We broke many records with ATV-2," continued Alberto Novelli, Head of ESA’s ATV Mission Operations.
+"Not only was this the heaviest payload ever launched by ESA and the Ariane 5 rocket, but the ATV’s engines also achieved the biggest boost for human spaceflight since the Apollo missions to the Moon: we raised the Space Station’s orbit by more than 40 kilometres."
+Reentry being analysed
+ATV’s last moments were recorded by a prototype ‘black box’ provided by the US Center for Orbital and Reentry Debris Studies. A similar recorder was carried by Japan’s HTV-2 ferry during its reentry on 28 March.
+The small device collected information on acceleration, roll, pitch and yaw rates, temperatures and GPS coordinates.
+It was then left to descend on its own, protected by its own heatshield, and transmit the stored data via the Iridium satphone system.
+The information, when available, will help to predict what happens to space hardware as it reenters and comes apart under aerodynamic heating and loads.
+This will help in designing future spacecraft to break up into less hazardous fragments on reentry.

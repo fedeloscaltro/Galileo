@@ -1,0 +1,5 @@
+2012-11-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research_cruise_testing_EGNOS_satnav_for_ships
+Research cruise testing EGNOS satnav for ships
+A research vessel surveying European waters is also charting the maritime performance of Europe’s EGNOS satnav system. Results gathered by Belgium’s RVBelgica are investigating how EGNOS, initially prioritised for aircraft, can also guide marine traffic. test
+The Belgica is an all-purpose oceanographic research ship that spends around 200 days per year at sea, monitoring the quality of the marine environment, surveying the seabed and serving as a floating laboratory for Belgian universities and research institutes.

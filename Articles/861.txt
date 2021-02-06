@@ -1,0 +1,19 @@
+2015-03-20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/The_next_generation_of_Space_Station_experiments
+The next generation of Space Station experiments
+From how astronauts perceive time to whether parts of their brains shrink in space, the next round of experiments to be performed on the International Space Station has been chosen from more than 200 proposals.
+ESA received more applications than all other Space Station partners combined, showing a high level of European interest in space research.
+Following a call for proposals in February 2014, an independent peer-review process in coordination with NASA looked at each experiment in terms of scientific significance, feasibility and whether the Station is essential to test the hypotheses.
+After scientific peer-review the proposals were assessed for practical and financial restraints such as the time and equipment needed to run the experiment. Thirty-one projects have been selected for further study.
+Changing astronauts
+Some experiments will continue research that warrants more investigation, such as monitoring lung health. ESA astronaut Samantha Cristoforetti recently performed a first session in the Space Station’s airlock with NASA astronaut Terry Virts. The next step will add helium to the mix to help understand why astronauts in space breathe out more nitric oxide than normal.
+Another experiment will look at astronauts’ hippocampi, a part of the brain that processes information for navigation and storing memories. The scientists behind the proposal think the hippocampus will shrink in space and want to run brain scans before and after flight.
+The same region in our brain is the first to suffer damage in Alzheimer patients, so the research will be of interest for understanding this disease.
+A more subjective experiment will look at how astronauts perceive time. Using existing hardware, including a head-mounted display and headphones, astronauts will be regularly asked to estimate time and will chart any changes during their time in weightlessness.
+Biology
+In biology, experiments will support research for ESA’s Melissa project on creating a self-sustained ecosystem to provide food and oxygen to astronauts from waste.
+ESA will continue its pioneering research into exobiology by putting micro-organisms and chemicals on miniature satellites that will be attached to the Station’s exterior before returning to Earth. These CubeSat experiments will test theories of how life could have developed and spread through the Galaxy and even how they might evolve to adapt to the harsh vacuum of space.
+The Station is an ideal platform to research our immune system and many experiments will look at how cells cope on a molecular level with the stress of weightlessness and space radiation.
+Preparing for future missions
+ESA’s Head of Human Research Office, Jennifer Ngo-Anh, comments, “We are very pleased by the scope and quality of the proposals. These experiments will help us prepare for future human long-duration missions to the Moon, Mars and beyond.”
+Together with ESA experts, the science teams will now refine their experiments to fulfill Station requirements. A complete list of experiments and the research teams can be found here.

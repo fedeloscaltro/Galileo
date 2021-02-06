@@ -1,0 +1,18 @@
+2015-06-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Historic_handshake_between_space_and_Earth
+Historic handshake between space and Earth
+ESA performed the first-ever demonstration of space-to-ground remote control with live video and force feedback today when NASA astronaut Terry Virts orbiting Earth on the International Space Station shook hands with ESA telerobotics specialist André Schiele in the Netherlands.
+Terry was testing a joystick that allows astronauts in space to ‘feel’ objects from hundreds of kilometres away. The joystick is a twin of the one on Earth and moving either makes its copy move in the same way.
+The joystick provides feedback so both users can feel the force of the other pushing or pulling. Earlier this year, NASA astronaut Butch Wilmore was the first to test the joystick in space but without a connection.
+Remote control
+Landing astronauts on Mars and returning them home is a step too far for humanity at the moment, and operating rovers from Earth is difficult and tedious – it takes a command around 12 minutes to reach the planet. Instead, ESA envisages sending astronauts to orbit a planet and control robots on the surface from above.
+Today’s test verified the communications network, the control technology and the software behind the connection. Each signal from Terry to André had to travel from the International Space Station to another satellite some 36 000 km above Earth, through Houston mission control in USA and across the Atlantic Ocean to ESA’s ESTEC technical centre in the Netherlands, taking up to 0.8 seconds in total both ways.
+As the Space Station travels at 28 800 km/h, the time for each signal to reach its destination changes continuously, but the system automatically adjusts to varying time delays.
+In addition to the joystick, Terry had an extra screen with realtime video from the ground and augmented reality added an arrow to indicate the direction and amount of force.
+Behind today’s seemingly simple handshake is years of work for people to code the feedback, vision and communications software.
+“The system worked even though the Space Station was flying over 5000 km away,” André commented. “It felt as though Terry was extending his arm down from space to shake my hand.”
+The next step is to do blind tests to distinguish between different objects made of foam to discover whether humans orbiting Earth can distinguish object stiffness remotely. This is important for more advanced remote robotic tasks in the future.
+Space for ground
+The system’s adaptability and robust design means it can be used over normal data cell-phone networks. This makes it well suited for remote areas that are difficult to access or when disasters have destroyed other communication networks.
+The direct and sensitive feedback coupled with safeguards against excessive forces would allow rovers and robots to carry out delicate operations in the extreme conditions found in offshore drilling and nuclear reactors, for example. It could even help to provide humanitarian aid after earthquakes or other natural disasters.
+A follow-up experiment is planned for September to control a more advanced robot on the ground.

@@ -1,0 +1,22 @@
+2014-12-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion_test_sets_stage_for_ESA_service_module
+Orion test sets stage for ESA service module
+Today’s flight and splashdown of NASA’s first Orion spacecraft paves the way for future human exploration beyond low orbit powered by ESA’s European Service Module.
+Orion is NASA’s new spacecraft built to carry humans and designed for journeys to destinations never before visited by astronauts, including an asteroid and Mars.
+Liftoff on a Delta IV Heavy rocket took place at 12:05 GMT from Cape Canaveral in Florida, USA, and splashdown in the Pacific about 966 km off the coast of Baja California occurred two orbits and some 4.5 hours later.
+Liftoff came after the original launch planned for 4 December was postponed due to wind and technical problems with the booster.
+During today’s Exploration Flight Test-1, Orion tested systems critical for crew safety, such as the parachutes, avionics and attitude control, and demonstrated major events such as jettisoning the launch abort system and separating the service module fairing.
+ESA to provide critical components
+Future Orion spacecraft will be equipped with a European Service Module, the first time that Europe has provided a system-critical element for a US crewed vehicle.
+For today’s flight, Orion used only an engineering structural model – ESA’s full service module is scheduled for the next uncrewed test.
+“Today’s successful flight of Orion is a significant step towards future human exploration beyond low Earth orbit and eventually Mars,” said Thomas Reiter, ESA Director of Human Spaceflight and Operations.
+“ESA congratulates NASA for this outstanding achievement and we are proud to participate in this exploration endeavour through the development of a critical element of the Orion vehicle.”
+The service module will be the powerhouse that fuels and propels the Orion spacecraft in space. It will provide essential functions such as propulsion, power, thermal control and life-support consumables storage and distribution.
+On 17 November, ESA signed a contract in Berlin with Airbus Defence and Space to develop and build the module as part of Europe’s contributions to the International Space Station. The design passed its preliminary design review earlier this year.
+The next major milestone is the critical design review, set for the end of 2015.
+“Having been selected to provide the service module for Orion is a major achievement, as this is the first European development of a human spacecraft operating beyond Earth orbit,” says Philippe Deloo, project manager.
+About the European Service Module
+ESA is developing the module as a contribution to the International Space Station common operation costs, drawing on expertise gained with ESA’s hugely successful Automated Transfer Vehicle series of cargo vessels, the European supply craft for the orbital complex.
+Funding to complete development was agreed at the Council at Ministerial Level held on 2 December.
+Located directly below the Orion crew module, it will carry the propulsion capability for orbital transfer, attitude control and high-altitude ascent aborts. It will also generate power using solar wings and store it, and provide thermal control, water, oxygen and nitrogen for the astronauts until just before their return to Earth, when it will separate from the crew module.
+The service module on Exploration Flight Test-1, which was built by Lockheed Martin, was mainly a structural representation of the final version.

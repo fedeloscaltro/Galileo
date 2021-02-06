@@ -1,0 +1,22 @@
+2011-06-29
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Driving_a_robot_from_Space_Station
+Driving a robot from Space Station
+Meet Justin, an android who will soon be controlled remotely by the astronauts in ESA’s Columbus laboratory on the International Space Station. With this and other intriguing experiments like the Eurobot rover, ESA is paving the way for exploring the Moon and planets with tele-operated robots.
+In two to three years, the experimental robot on Earth will faithfully mimic the movements of an astronaut on the Space Station.
+By wearing an exoskeleton wearable robot – a combination of arm and glove with electronic aids to reproduce the sensations a human hand would feel – a distant operator can work as though he were there.
+To help turn robotics and telepresence into a standard tool for space missions, ESA is linking the Space Station and Earth for remotely controlling terrestrial robotic experiments from the orbital outpost.
+This Meteron (Multi-purpose End-To-End Robotic Operations Network) initiative is a testbed for future missions to the Moon, Mars and other celestial bodies.
+“The Space Station is the perfect orbital platform to simulate very realistic scenarios for human exploration,” says Kim Nergaard, ESA’s Meteron ground segment and operations manager.
+“First we have to set up a robust communication architecture, establish an operations system and define a protocol to allow astronauts, robots and our ESA control centre to work efficiently together. This is not as easy a task as it seems.”
+Many ideas around
+ESA called earlier this year for new ideas for the Space Station to be used as a testbed for exploration missions. Many proposals called for operating ground-based robots from a workstation on the Station.
+“The multitude of submissions shows the strength of the idea,” comments Philippe Schoonejans, ESA’s Head of Robotics in the Human Spaceflight and Operations directorate.
+"This allows ESA to take into account all suggested experiments and give opportunities to the countries, companies and institutes who have shown their interest by submitting the idea."
+"Meteron is suitable for early realisation because it can exploit the existing infrastructure and technologies without requiring huge investments," explains François Bosquillon de Frescheville, responsible for ESA future human exploration mission operations concepts studies, whose idea triggered the programme.
+First a rover, then an android
+In the first Meteron tests, the Station astronauts will operate ESA’s Eurobot prototype from a computer equipped with special screens and a joystick.
+This prototype is a four-wheel rover with two arms, an advanced navigation system, cameras and sensors that has been under testing since 2008 at the Agency’s ESTEC space research and technology centre in the Netherlands.
+In the next phase, the engineers will allow astronauts to control a robot with the sense of force and ‘touch’. It can be connected to robots like Justin, developed by the DLR German Aerospace Center.
+“With these senses, the astronauts will have a real feeling of the forces that the arms of the robots are experiencing in their environment,” explains André Schiele, in charge of ESA’s Telerobotics & Haptics Laboratory.
+“For example, when they push against a rock or do more complex tasks such as setting up hardware.”
+Whatever route the future exploration of Moon and Mars might follow, it will require sophisticated communications and advanced tools. Boosted by new human–machine interface technology, astronauts in orbit will almost certainly link up with robots to explore planetary surfaces.

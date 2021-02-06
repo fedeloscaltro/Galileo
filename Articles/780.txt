@@ -1,0 +1,18 @@
+2016-07-04
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/A_decade_of_plant_biology_in_space
+A decade of plant biology in space
+On this day 10 years ago, Space Shuttle Discovery was launched to the International Space Station carrying ESA’s European Modular Cultivation System – a miniature greenhouse to probe how plants grow in weightlessness.
+From looking at how plants know where to grow roots to how light can influence growth, and how the tips of plant roots bend as they grow, it is a flagship research facility on the orbiting complex.
+Installed by ESA astronaut Thomas Reiter in 2006, it nurtures plants from seedlings to maturity, and allows both astronauts and research teams on the ground to intervene and change the conditions.
+Every aspect of the growing environment can be regulated – temperature, atmosphere, water and light – and two centrifuges simulate gravity up to twice Earth’s level to compare how plants respond to different degrees of gravity.
+Plants in a twirl
+Charles Darwin first described how plant stems grow in a corkscrew fashion, but how it happens was unclear. The Multigen experiment showed it is driven by an interplay of light and gravity driving cell signals in the plants.
+Understanding the roots of plant growth
+A key finding from the mini-laboratory is how plants perceive gravity. It might seem obvious at first glance, but how does a plant know to develop its shoot upwards and send roots downwards? The Gravi-1 experiment showed that plants sense the direction of gravity even at very low levels. Gravi-2, in 2014, showed how plants use calcium to signal root growth under a range of gravity levels.
+Similarly, Genera-A studied over 1400 proteins in Arabidopsis seedlings grown in microgravity and in Earth gravity, providing insights into the effect of gravity on the molecular processes regulating plant growth.
+Red or blue light?
+The Tropi experiments studied how Arabidopsis plants respond and grow towards light in weightlessness, as well as at lunar and martian levels. An unexpected finding was the response to red and blue light was different under simulated Moon and Mars conditions. Further experiments are under way.
+Knowledge for space and EarthThese experiments are important for deep-space missions, when astronauts will rely on plants for food, oxygen and waste recycling. Establishing a human outpost on the Moon or Mars will require a certain amount of self-sufficiency, and growing plants for consumption will be essential.
+We need to know how plants will grow on neighbouring planets. Will they still know which way to send their roots in reduced gravity or will they go haywire?
+EMCS is not only helping scientists to prepare for far-off colonisation but also improving our knowledge of growing crops at home. The more we know about plants the better we will be able to cultivate  them – on Earth, the Moon or Mars.
+The facility was developed under ESA contract by the Life Science Payloads Group at Airbus DS in Friedrichshafen Germany, and is operated from Norway at the Norwegian User Support and Operations Center in Trondheim with the support of Airbus DS.

@@ -1,0 +1,23 @@
+2012-01-25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Robot_competition_in_zero-gravity
+Robot competition in zero-gravity
+School teams from Europe and America have been commanding robots competing in the Spheres ZeroRobotics tournament in space. The arena: 400 km above Earth on the International Space Station.
+Student teams could send a single piece of instruction software to control the small robotic ‘Spheres’. The goal of the tournament was to earn points through masterful operation via guidance and navigation control algorithms as well as choosing the best tactics to win the game.
+This year’s winner an alliance consisting of teams CyberAvo, Ultima and Lazy, a collaboration of three schools from Turin, Italy and Berlin, Germany.
+Astronauts Don Pettit and André Kuipers set up the individual matches in Japan’s Kibo laboratory on the Space Station and enjoyed the spectacle.
+The Spheres are controlled via laptops but once the software has been sent to the robot it cannot be changed.
+The robots move using jets of compressed gas and are required to perform manoeuvres based on realistic situations, such as docking, formation flying or retrieving objects.
+The game this year involved extracting minerals from asteroids, hence the name of the game Asterospheres. The free-floating satellites could collect tools if needed and start mining on one of two virtual asteroids.
+Strategy was an important element of the game – teams could hinder their opponents or cooperate to share more points overall.
+The European finalists were invited to watch how their command software performed in the finals in the Erasmus centre in ESA’s scientific and technical heart at ESTEC in Noordwijk, the Netherlands.
+The students were able to appreciate the delicate three-dimensional dance performed by the Spheres via video live links with the Massachusetts Institute of Technology (MIT), in Boston, USA, and the International Space Station.
+Before the finals, the secondary-school students visited ESTEC’s test centre, the Erasmus High Bay and enjoyed a 3D virtual tour of the International Space Station.
+Spheres ZeroRobotics was developed to teach students skills in engineering, mathematics and programming, while inspiring students to continue their careers in science and engineering.
+Stefano Suraniti, the Minister of Education for the Piedmont region in Italy, told the students: “Robots do have a soul, and their soul is your imagination, your future.”
+Former astronaut Thomas Reiter, ESA Director of Human Spaceflight and Operations, observed it was a special event for him because he was one of the astronauts who flew an original Sphere to the Station in 2006 on a Space Shuttle mission. He noted the importance of robotics for working on the Station.
+By organising the competition into teams, the students were required to cooperate and develop software and strategy together. Many teams found effective communication with their assigned international partners the most challenging part of the competition.
+This was the third Spheres competition and the first time that students outside of the USA were invited. Only schools from Germany and Italy took part this year but ESA and the Spheres organisation hope to expand the tournament next year to include schools from all of Europe.
+For further information, please contact:
+Nigel Savage
+Head of Education Unit
+Directorate of Human Spaceflight and Operationsnigel.savage@esa.int

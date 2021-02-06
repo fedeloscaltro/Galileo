@@ -1,0 +1,16 @@
+2017-06-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Keeping_the_rhythm_in_space
+Keeping the rhythm in space
+Space is an inhospitable environment for the human body but we adapt remarkably well. Within hours, the brain adjusts to the lack of an up or down, as if floating is all it has ever known. Now researchers are learning how our internal clock similarly adjusts to the restrictions of space. An ESA-sponsored experiment has found that while you can take the body out of Earth, you can’t take an Earth-based rhythm out of the body.
+At the core
+Circadian rhythms describe the changes our bodies undergo over about 24 hours. This internal clock is regulated by core temperature, which tells our bodies when its day or night and triggers systems such as metabolism and the sleep cycle.
+On Earth, our core temperature is a steady 37°C, with half a degree decrease in the early morning and increase in the early evening.
+“If our bodies are an orchestra, core body temperature is the conductor, signalling when hormones and other systemic functions should come into play,” explains Dr Hanns-Christian Gunga of the University of Berlin, principle investigator of the experiment.
+The circadian rhythm is a smooth wave that synchronises with our day of 24 hours.
+What happens to this wave in space? Researchers predicted that the lack of regular sunlight and the artificial environment of the International Space Station would flatten it. In other words, core temperature would drop and the human body would lose its rhythm.
+To test this theory, 10 astronauts measured their core temperatures for 36 hour periods before, during and after spaceflight using two sensors strapped to the forehead and the chest.
+The results so far have amazed researchers. Core body temperature increased overall, and the half-degree fluctuations within 24 hours gradually shifted by about two hours.
+In order to keep its rhythm going, the body works harder and runs warmer. Triggers to eat, metabolise and sleep, for example, shift to account for this. Researchers are not yet sure why this is the case, but these initial results have important implications.
+Astronauts are shift workers with tight schedules. To ensure they work when they’re most alert and focused and rest when they need to, we must understand and anticipate enhanced circadian rhythms during spaceflight. Mission controllers can then more effectively plan longer missions to ensure crew are healthy and efficient.
+The role of core temperature in tuning our clocks also suggests important research avenues for shift work studies on Earth. The non-invasive sensor developed to measure temperature on the Station can also be used to conveniently track core temperature in clinics or field studies.
+ESA astronaut Paolo Nespoli will be the next astronaut to take part this year, followed by Japanese astronaut Norishige Kanai in 2018, by when the experiment will have collected all of its data and more conclusions can be made. Stay tuned.

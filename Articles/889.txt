@@ -1,0 +1,20 @@
+2014-11-04
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ESA_space_ferry_moves_Space_Station_to_avoid_debris
+ESA space ferry moves Space Station to avoid debris
+The International Space Station was threatened by space debris last week but ESA’s Automated Transfer Vehicle saved the day by firing its thrusters to push the orbital outpost and its six occupants out of harm’s way.
+This is the first time the Station’s international partners have avoided space debris with such urgency.
+Ground stations continuously track space junk – leftover hardware from defunct satellites – for potentially life-threatening collisions. A fleck of paint can cause major damage travelling at 28 800 km/h. When they raise the alarm, ground teams can move the Station to a safer orbit.
+The calculations sometimes take hours – this is rocket science – but fortunately, most of the time, the radar network gives ample warning. Sometimes a dangerous object can slip through the net or its erratic behaviour makes accurate predictions difficult.
+This is where Europe’s ATV Georges Lemaître came in on 27 October. A piece of Russia’s Cosmos-2251 satellite that broke up after colliding with another satellite in 2009 was on a collision course with the International Space Station. The object was around the size of a hand and calculations showed it would pass within 4 km – too close for comfort.
+Just six hours before potential impact, the five space Station agencies agreed to an emergency manoeuvre. The ATV Control Centre team in Toulouse, France, triggered a boost of 1.8 km/h, enough to raise the 420-tonne Station by 1 km and out of harm’s way.
+Hope for the best
+Before 2012, if an object was spotted within 24 hours of a potential strike the astronauts returned to their spacecraft, prepared for evacuation and hoped for the best.
+Since 2012, emergency manoeuvres at less than 24 hours’ notice are possible using Russia’s Progress supply ship – but none was in harbour earlier this week. ATVs have been able to perform this move since last year, starting with ATV Albert Einstein, but its services were not required during its mission.
+Although this debris avoidance used a predefined manoeuvre, great care was taken to make sure that the move did not push the Station into a worse orbit or affect the docking of last week's Progress.
+“This is what the ATV Control Centre team trains for,” said ESA flight director Jean-Michel Bois. “Seven days a week, 24 hours a day, we are ready to react and we practise often in simulations.
+“Reacting so quickly to save the Space Station in real life was tense but rewarding.”
+In close coordination with the Station’s control centres in Moscow, Russia and Houston, USA, the ATV team commanded a four-minute thruster burn starting at 17:42 GMT (18:42 CET).
+The helping hand from Georges Lemaître was one of the last tricks up ATV’s sleeve. The versatile vessels have achieved many firsts for ESA. They are the largest European spacecraft ever launched and the only non-Russian vehicle to dock automatically with the Station.
+After delivering more than 6.6 tonnes of supplies, fuel and gases, Georges Lemaître will undock in February and burn up harmlessly in the atmosphere, after demonstrating a new shallow reentry for planning Station decommissioning.
+“The debris avoidance demonstrates ATV’s reliability and the great team behind mission control,” concluded ESA’s ATV-5 mission manager Massimo Cislaghi. “With this manoeuvre, ATVs have met every requirement of the original design.”
+But the versatility does not end there. ATV technology will be a critical part of NASA’s Orion, supplying power and life-support for the next generation of crewed spacecraft.

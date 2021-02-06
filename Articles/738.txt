@@ -1,0 +1,27 @@
+2017-03-31
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Astronaut_study_gives_voice_to_people_with_disabilities
+Astronaut study gives voice to people with disabilities
+When his father was diagnosed with a debilitating disease four years ago, it sparked Ivo Vieira into developing a novel means of communication for people coping with extreme limitations, building on technology originally explored to help ESA astronauts in space.
+Amyotrophic lateral sclerosis – ALS – and other forms of motor neurone disease gradually rob sufferers of their muscular function, including the ability to communicate verbally. However, eye movement presents an opportunity because it usually remains unimpaired.
+“We had been working on augmented reality for astronauts since 2005, so when my father was diagnosed I had the idea of exploiting it to improve his life with a new mobile communication system,” said Ivo Vieira, CEO of LusoSpace.
+This ESA effort led LusoSpace to produce its first pair of augmented reality glasses in 2008 and then to set up the LusoVu company to develop them for the disabled.
+EyeSpeak glasses detect the movement of the eyes across a virtual keyboard displayed on the inside of its lenses. Words and phrases spelled out by the wearer are translated by the built-in software and spoken by speakers in one arm.
+The glasses can also let the user navigate the Internet, watch videos and access emails privately, as only the user sees what is being projected inside the lens. However, as the digital information is overlaid on the lens, users can still see what is going on around them.
+(Video: Courtesy of LusoVu)
+“This is the first such device that is standalone and can be used in any location and physical position, regardless of the orientation of the wearer’s head,” noted Teresa Nicolau, EyeSpeak specialist.
+Visualisation tools for astronauts
+EyeSpeak is a direct spin-off from the work LusoSpace did for an ESA study on visualisation tools for astronauts.
+“At that time astronauts had only relatively rudimentary systems available during spacewalks, with a written checklist on their arm and voice communications with ground controllers,” explained ESA’s João Pereira do Carmo.
+“We wanted to explore the many technologies becoming available that could be used to give them real-time, important information directly in their field of view.”
+Help to people with extreme mobility and communication limitations
+Initial technology developments were followed by a Kickstarter campaign in 2014, which resulted in 45 EyeSpeak prototype units in 2015. The current EyeSpeak 1, which went on sale in March 2016, is based on a pair of Epson BT-200 AR glasses with an add-on unit of a microphone, speakers and a tiny camera controlled by a microprocessor unit. It comes either with a standard synthesised voice or the owner’s voice based on previously made recordings.
+“Everything about developing EyeSpeak was a challenge,” reported Teresa. “A key thing was ensuring that the initial set-up was not lost, so it was specially designed to stay fixed on the user’s head, allowing them to use it independently straight away once someone has put it on for them and turned it on.
+“It was also important that it could be used in any lighting conditions, including outside and near windows, so we have optional filter lenses that can be added, as well as a corrective lens holder.”
+It typically takes two weeks to learn the system when practising for an hour a day. One user said it offers ’empowerment and joy’. An ALS advocate noted that it ’gives people back their independence and their human right to communicate freely’.
+On potential upgrades, Nicolau adds, “We could develop it to allow users to control their wheelchair and other things in their environment, such as air conditioning or their televisions.”
+“We have been working with LusoSpace and LusoVu through the National Technology Transfer Initiative in Portugal to explore the downstream markets for visualisation display system technologies, like head-mounted displays,” explained Carlos Cerqueira, innovation director at Portuguese broker IPN, part of ESA's technology transfer programme network, helping companies to spin off space technology.
+“The potential for this technology is huge. One idea is for logistics warehouses, where head-mounted displays would substantially improve workers’ productivity in the picking process.
+“But EyeSpeak, with the impact it has on human lives, is probably the most important of them all.”
+Augmented reality is not yet used by astronauts, but the study of it directly inspired the development of EyeSpeak.
+“Everything LusoVu is doing started from that original ESA project,” emphasises LusoVu’s Rui Semide.
+“Our applications are very different, but it all started with that early ESA study on information visualisation tools for astronauts, which made us aware of the potential of this technology.”

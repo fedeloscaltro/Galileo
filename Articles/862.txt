@@ -1,0 +1,23 @@
+2015-03-16
+https://www.esa.int/Applications/Observing_the_Earth/Mapping_sea_surface_from_the_Space_Station
+Mapping sea surface from the Space Station
+A new concept that involves mounting an instrument on the International Space Station and taking advantage of signals from navigation satellites could provide measurements of sea-surface height and information about features related to ocean currents, benefiting science and ocean forecasting.
+We have all seen the beautiful photographs of our planet taken by astronauts, but orbiting Earth 16 times a day just 400 km above, the Space Station also offers a platform from which to measure certain variables related to climate change.
+So, in 2011 ESA called for proposals to explore how the Space Station could be used to make scientifically valid observations of Earth. After reviewing and assessing numerous proposals, the result is to further develop the GEROS-ISS mission concept.
+GEROS-ISS stands for GNSS reflectometry, radio occultation and scatterometry on board the ISS.
+Global navigation satellite systems (GNSS) include GPS and Galileo satellites, which send a continual stream of microwave signals to Earth for navigation purposes, but these signals also bounce off the surface and back into space.
+The idea is to install an instrument with an antenna on the Space Station that would capture signals directly from these satellites as well as signals that are reflected or scattered from Earth.
+This process could be used to calculate the height of the sea surface, and to measure waves – or ‘roughness’ – that can then be used to work out the speed of surface winds.
+GEROS-ISS is primarily an experiment to demonstrate new ways of observing Earth.
+However, if taken beyond the testing phase this new approach would complement measurements from satellites carrying altimeters such as CryoSat and Sentinel-3, and satellites carrying wind scatterometers such as MetOp.
+Importantly, it is the first concept to assess the potential of spaceborne GNSS reflectometry to determine and map ocean height at scales of 10–100 km or longer in less than four days. Current satellite altimeters, in comparison, offer global maps at scales of around 80 km, which are produced from multiple datasets every 10 days.
+A system based on GEROS-ISS would, therefore, complement existing satellite systems, helping to map ocean variability at finer spatial and temporal scales over a range of seas in tropical and temperate regions.
+It would also refine our understanding of how well the concept would work for measuring the roughness of the ocean surface.
+In this respect, the development of GEROS-ISS benefits from experience gained with the UK’s TechDemoSat-1, which also measures ocean-surface roughness using a similar technique. It is also hoped that NASA’s upcoming CYGNSS constellation of mini satellites will help pave the way for GEROS-ISS.
+In addition, GEROS-ISS uses a technique called radio occultation whereby the antenna receives signals that are refracted as they pass through the atmosphere. This can be used to generate vertical profiles of atmospheric humidity, pressure and temperature, as does the GRAS instrument on the MetOp satellites, for example.
+Jens Wickert who leads the science team that proposed GEROS-ISS said, “It is very flexible, combining different mission concepts and applications in one: GNSS-reflectometry to determine sea-surface height, scatterometry to measure sea-surface roughness and radio occultation for atmospheric studies.”
+ESA engineer Manuel Martin-Neira noted, “The original concept actually goes back over 20 years and has matured considerably through numerous studies and campaigns, however, it has never been duly tested from space.”
+“Being able to use the International Space Station in this way means that we can quickly validate innovative observing techniques without having to build an entire satellite, and we expect this to lead to new opportunities for science,” added Michael Kern, ESA’s GEROS-ISS mission scientist.
+Jason Hatton, GEROS-ISS project coordinator, said, “The concept is still going through feasibility studies, but the aim is to launch the experiment towards the end of 2019.
+“It would be carried to the Space Station on a cargo vehicle and installed on ESA's Columbus space laboratory using a robotic arm, after which GEROS-ISS would run for at least a year.”
+The GEROS-ISS feasibility studies are being carried out through ESA's General Studies Programme.

@@ -1,0 +1,17 @@
+2015-12-02
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_wastewater_recovery_picked_as_key_climate_technology
+ESA wastewater recovery picked as key climate technology
+An ESA-developed water treatment system has been chosen as one of a hundred top climate technologies to mark this week’s COP21 climate change summit in Paris.
+The selection was made in a special issue of France’s Environnement Magazine International to coincide with the 21st UN Conference of the Parties on Climate Change, which includes a Sustainable Innovation Forum.
+ESA’s unit recycles ‘grey water’ from washing or food preparation and has been operating for the last decade at the French–Italian Concordia base in Antarctica.
+As a next step, French company Firmus France is using it in a treatment process powered by renewable energy sources.
+In partnership with UNESCO, Morocco’s University of Kenitra uses it to supply fresh water for students in the village of Sidi Taïbi. Firmus teamed up with Germany’s Belectric to build a self-sustaining unit powered by solar panels and wind energy.
+The water is first forced through a ceramic honeycomb peppered with holes 700 times finer than a strand of human hair, followed by filtering through a pair of membranes.
+The approach emerged from ESA’s MELiSSA (Micro-Ecological Life Support System Alternative) effort that is developing closed-loop life support for deep-space expeditions.
+“The average human consumes about 1 kg of oxygen, 1 kg of food and 3 litres of water daily,” explains Christophe Lasseur, who leads the MELiSSA work, “so water recycling will be essential to sustain astronauts for long space missions. The more that can be recycled, the less needs to be carried.
+“On the other side, a crewmember will produce anything between 2–20 litres of grey water daily, along with 1.5 litres of ‘yellow water’ (urine) and 0.2 litres of ‘black water’ (solid organic and human waste).
+“Human activity produces mostly grey water, so this study focused on grey water recycling.
+“Concordia is an excellent testbed because of its isolation and the Antarctic Treaty requirement to remove all waste from the continent.
+“Designed to fit inside a standard shipping container, the system was transported overland to the station during the Antarctic summer of 2005, and remains fully operational to this day.
+“The original ceramic filter remains in place while the final membranes are occasionally replaced. The system has proved remarkably resilient, even coping with accidental chemical spills into normal drains.
+“In Morocco, meanwhile, it copes with groundwater that is ordinarily unfit for human consumption because it is so rich in nitrates and fertiliser.”

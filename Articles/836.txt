@@ -1,0 +1,15 @@
+2015-09-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/iriss/Supervising_two_rovers_from_space
+Supervising two rovers from space
+ESA astronaut Andreas Mogensen is proving to be an expert space driver after commanding two rovers from space this week. As part of ESA’s Meteron project, Andreas drove a second, car-sized rover from the International Space Station to repair a mockup lunar base in the Netherlands.
+Andreas directly controlled the Eurobot rover in a simulated troubleshooting Moon scenario. A second rover was controlled by ESA’s centre in Germany, allowing Andreas to focus on Eurobot and intervene if necessary.
+The new user interface for operating rovers from space ran perfectly as they worked in harmony at close quarters without any problems. The experiment went so well that it was completed in one continuous session rather than over the planned three sessions on two days.
+“This experiment demonstrated that we have the means to operate lunar robots from a spacecraft orbiting the Moon, a topic ESA is studying at the moment,” says Meteron system engineer Jessica Grenouilleau.
+Landing humans on a distant object is one thing, but they will also need the fuel and equipment to work and return to Earth when done. Sending robots to scout landing sites and prepare habitats for humans is more efficient and safer, especially if the robots are controlled by astronauts who can react and adapt to situations better than computer minds.
+Meteron is developing the communication networks, interfaces and hardware to operate robots from a distance in space. The Space Station is being used as testbed, with astronauts controlling rovers on Earth.
+The demonstration showed that robots can perform valuable tasks and two can collaborate efficiently, even if they are controlled from kilometres apart.
+The experiment proved the user interface works well and that ESA’s ‘space internet’ can stream five video signals to the Station – orbiting at 28 800 km/h some 400 km high – without significant delays and in good quality.
+If the link is lost for a moment, which often happens in space operations, the network adapts without a problem.
+The user interface was developed for ESA by a young team from Thales Alenia Space in Italy, working against tight deadlines to be ready in time for Andreas’s mission.
+This experiment is the third and most complex step so far for Meteron project. On Monday, Andreas directed a rover to insert a peg into a hole.
+“With two very successful rover operations on Earth controlled from space on two consecutive days, we are looking forward to continuing Europe’s leadership in human–robot cooperation with many more projects,” concludes Meteron project coordinator Philippe Schoonejans.

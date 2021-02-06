@@ -1,0 +1,16 @@
+2021-01-28
+https://www.space.com/sirius-xm-7-satellite-fails-in-orbit
+Sirius XM's newest satellite, SXM-7, has failed in orbit
+SiriusXM's newest satellite, SXM-7, has suffered undisclosed failures during in-orbit testing, the company revealed in a filing with the U.S. Securities and Exchange Commission on Wednesday (Jan. 27).
+"During in-orbit testing of SXM-7, events occurred which have caused the failure of certain SXM-7 payload units. An evaluation of SXM-7 is underway. The full extent of the damage to SXM-7 is not yet known," Sirius XM said in the filing.
+At this time, it's unclear if the satellite can be recovered.
+The satellite, which was built by Maxar Technologies, launched on a Spacex Falcon 9 rocket on Dec. 13. The company has said the failure was unrelated to the launch vehicle and that a full evaluation of the satellite is underway.
+Video: SpaceX launches powerful Sirius XM satellite into orbit
+The SXM-7 satellite is based on Maxar Technologies' SSL-1300 satellite bus. Powered by two large solar arrays (and batteries for on-orbit storage), it was designed to operate in the S-band spectrum, between 2.32 GHz and 2.345 GHz. The 15,432-lb. (7,000 kilograms) satellite is part of a pair that Maxar built and SpaceX is launching for Sirius XM. The other, SXM-8, is still under construction and set to launch later this year.
+Each satellite has an operational lifetime of 15 years, and was intended to replace two aging satellites already on orbit. The satellites are designed to support Sirius XM's digital radio service, providing coverage across the U.S., Canada, and the Caribbean.
+SXM-7 began its in-orbit testing phase on Jan. 4, which is a normal shakedown phase before a satellite enters service. The testing typically lasts for a few months. The company has yet to determine what went wrong, but says it is in control of the satellite.
+"We do not expect our satellite radio service to be impacted by these adverse SXM-7 events," Sirius XM said in its filing. "Our XM-3 and XM-4 satellites continue to operate and are expected to support our satellite radio service for several years."
+While these two satellites were the ones Sirius was hoping to replace, they are healthy and are expected to continue to support the broadcasting service for many years to come. The company also said it has an orbital spare, SXM-5, which is standing by.
+As is a common practice in the launch industry, Maxar Technologies transferred all liability to Sirius XM following launch. However, in a filing of its own, Maxar said it is assisting the broadcasting company in "troubleshooting and diagnosing the situation to evaluate the extent of the damage to the SXM-7 satellite."
+According to Sirius XM, it purchased $225 million in aggregate insurance for the mission which covers the satellite from launch through its first year of operation.
+"We have notified the underwriters of these policies of a potential claim with respect to SXM-7," Sirius XM wrote in its filing.

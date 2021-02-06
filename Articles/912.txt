@@ -1,0 +1,18 @@
+2014-06-26
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Astronaut_health_check_with_single_drop_of_blood
+Astronaut health check with single drop of blood
+ESA is building a prototype tester for crews on the International Space Station to provide diagnoses within a few minutes from a pinprick of blood. The ultimate device will offer rapid health checks and results for scientific research.
+The droplet is placed on a portable device built around a disc like a mini-DVD. The disc is set spinning to separate the sample into plasma and serum for a whole range of simultaneous tests.
+On the ground, there are already numerous applications – the automated laboratory unit covers illnesses such as heart disease, prostate cancer, diabetes and liver disease.
+The space device is being developed by Irish company Radisens Diagnostic, which began working with ESA in 2011.
+Radisens Chief Executive Officer Jerry O’Brien watched the tester spin in his office one evening when he realised “you don’t need gravity for this to work – spinning it in space should work just as well.
+"Our subsequent approach has been to leverage our commercial developments for use in space as well. Potentially the technology could be ready for use in orbit within this decade."
+The first phase of the partnership with ESA assessed its suitability for space, with this new phase intending to design practical prototypes for use on the Station and other future manned space missions.
+Weightless living aboard the confined quarters of the orbital outpost can lead to various negative consequences, but the day-by-day oversight by medical experts on the ground is limited.
+“What Radisens will develop is of the utmost interest,” comments ESA’s Francois Gaubert. “Being able to perform rapid analysis of astronauts’ blood samples and monitor their physiological parameters aboard the Station, without having to transport the samples down to labs on the ground, would prove extremely useful.”
+The approach is also intended for use on Earth, freeing up specialist hospital labs by shifting some routine testing to local doctors’ surgeries.
+“Space is proving to be a very fertile ground for Irish companies in developing innovative technologies and proving their performance in extreme environments,” noted Seán Sherlock, Ireland’s Minister for Research & Innovation.
+“The Radisens example also clearly shows how technologies developed for space can have a major societal impact here on Earth in improving human healthcare.”
+The company is being helped through ESA’s General Support Technology Programme, which turns promising prototypes into space-ready hardware.
+This contract is part of a dedicated scheme that targets the development of market-oriented technologies, funded equally by ESA and the partner company.
+Companies within participating ESA Member States are free to submit proposals at any time.

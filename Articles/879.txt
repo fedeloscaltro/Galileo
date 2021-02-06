@@ -1,0 +1,18 @@
+2014-12-11
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Crude_oil_cargo_for_ESA_s_first_flight_with_China
+Crude oil cargo for ESA’s first flight with China
+ESA is finalising its first experiment on a Chinese space mission: small containers of crude oil will help to improve our understanding of oil reservoirs buried kilometres underground.
+The package has already passed a gamut of testing at ESA’s Technical Centre, ESTEC, in Noordwijk, the Netherlands, including the temperature shifts of orbital flight and the vibration and shocks of launch and reentry.
+Known as the ‘Soret Coefficient in Crude Oil’ experiment, it consists of six sturdy cylinders, each containing a millilitre of crude oil, pressurised to 400 times our normal atmospheric level – among the highest pressure items ever made for space.
+The outcome of a partnership between ESA, China’s National Space Science Center, France’s Total oil company and China’s PetroChina oil company, it will fly on China’s SJ-10 Shi Jian spacecraft near the end of 2015, along with 19 other weightless experiments.
+Launched from China’s Juiquan site in the Gobi desert, the spacecraft will spend almost two weeks in orbit before descending. Once it lands in Si Chuan province, the oil team will retrieve the specimens for detailed analysis.
+“This flight opportunity comes out of the cooperation agreement that ESA’s Director General, Jean-Jacques Dordain, signed with the People’s Republic of China in 2006,” explains Antonio Verga, overseeing the project for ESA.
+“The experiment is intended to sharpen our understanding of deep crude oil reservoirs, up to 7–8 km underground.
+“The combination of the crushing pressure and temperature gradient as you go further down is thought to create a ‘diffusion’ effect: petroleum compounds move based on temperature, defying gravity. Over geological timescales, heavier deposits end up rising, while lighter ones sink.
+“The aim is to quantify this effect in weightlessness, helping to guide future decisions on oil exploration.”
+This is the latest generation of such experiments – some previous payloads flew on Russian Foton missions. But this one has the highest operating pressure of the series.
+The cylinder design was subjected to a ‘proof pressure’ 2.5 times its operating level during testing at the specialist Sanchez Technology company in France. The prime contractor for the instrument is QinetiQ Space in Belgium.
+“Placed into a ‘hypercritical’ state by the high pressure, the crude oil is contained inside small titanium cylinders with a stainless steel internal valve mechanism,” Antonio adds.
+“One end of the cylinder is warmed while the other end is cooled. When the time comes for the mission to return, a divider will come across to prevent the migrated liquid being mixed again during reentry.”
+The six cylinders sit in a 8.5 kg cube of about 4 litres in volume. A protoflight model is in Beijing for electromagnetic compatibility testing, with fit-testing in its spacecraft to follow.
+This version is identical to the flight unit set to follow it to China next year, except that the specimen containers are empty. Two weeks before launch, the two units will be swapped and the six specimens, prepared at PetroChina’s labs in Beijing, will be ready for their journey to space.

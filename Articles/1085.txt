@@ -1,0 +1,26 @@
+2012-03-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Crucial_first_steps_in_ATV_s_orbital_journey
+Crucial first steps in ATV’s orbital journey
+The mission timeline highlights the most crucial steps in ATV Edoardo Amaldi’s ride into orbit on Ariane 5 flight VA205. The night-time liftoff is set for Friday, 23 March, at 01:34 local Kourou time or 04:34 GMT.
+What’s shaping up to be a spectacular night launch actually involves two missions: Ariane 5 boosting the third Automated Transfer Vehicle into orbit, and that of ATV-3 itself, which starts on separation from the launcher’s upper stage.
+Ariane 5 flight VA205 is set to loft ATV-3 and its cargo into an initial circular orbit at an altitude of 260 km.
+From there, ATV-3 will conduct a series of engine burns to match, or ‘phase,’ its altitude and speed gradually with those of the International Space Station.
+Weighing in at 19 714 kg, including 6596kg of fuel, air, oxygen, scientific equipment, spare parts and crew supplies, ATV-3 is the heaviest payload ever lofted by Ariane 5. Including the launcher itself, 777 tonnes will be pushed off the pad.
+Ariane mission
+The Ariane 5 mission begins with the ignition of the main stage liquid-propellant engine, followed by ignition of the two solid-propellant boosters.
+Liftoff occurs a few seconds later, and 17 seconds into flight the majestic vehicle starts a roll manoeuvre as it soars into the sky.
+Next, two minutes later, the depleted solid boosters are jettisoned, and Ariane continues climbing. Several minutes later, the aerodynamic fairing is jettisoned, as the vehicle is now above much of the atmosphere.
+Nine minutes into flight, the second stage separates from the main stage, which falls back into the Atlantic Ocean off the coast of Portugal.
+The upper stage then makes two engine burns separated by a coast phase, delivering ATV into its target orbit.
+Almost 64 minutes after ignition, ATV separates from the upper stage high over the Pacific Ocean between Australia and New Zealand.
+The upper stage will later deorbit itself over a deserted area of the South Pacific, as ATV continues its mission.
+ATV’s early orbits
+Once in free flight, ATV’s computers begin a critical automated sequence to bring the vessel smoothly to life.
+Initially operating on battery power, ATV starts sending telemetry to ground controllers at the ATV Control Centre in Toulouse, France, and prepares its propulsion system. Reception of the first signals will indicate that all is well with the vessel.
+Some 20 minutes after separation, ATV slews into the required attitude to deploy its solar wings, which unfold to generate power from sunlight.
+Within about 60 minutes, its navigation system starts receiving GPS signals to help fix its position.
+At the two-hour point, the vessel’s proximity link antenna deploys, allowing later communications directly with the Station.
+The launch and early orbit phase ends after five hours.
+Docking is planned five days later, on 29 March.
+Highlight timeline
+Note: Times shown as planned with respect to the H0 ignition time. Actual times may vary. Watch the launch webcast live via esa.int<> or blogs.esa.int/atv.

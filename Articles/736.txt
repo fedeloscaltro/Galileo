@@ -1,0 +1,13 @@
+2017-04-07
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Maxus-9_provides_a_little_microgravity
+Maxus-9 provides a little microgravity
+Five science experiments were subjected to 12 minutes of weightlessness during today’s flight of a Maxus suborbital rocket.
+The ninth Maxus mission lifted off from Esrange Space Center in Kiruna, Sweden at 11:30 CEST. The rocket delivered the payload to the edge of space before detaching, leaving the payload to free fall back to Earth before a parachute-assisted touchdown. The experiment modules were recovered and returned to the launch site by helicopter.
+Maxus-9 carried some 600 kg of scientific payload within reusable modules, looking at metal combustion, solidification physics, and how organisms perceive gravity.
+One experiment observed how a flame propagates through a suspension of iron particles in a gas. In weightlessness, the suspension remains stable and the flame travels without disruption, revealing the propagation process. This is important to energy researchers, because iron combustion produces no greenhouse gases and could serve as a zero-emission energy carrier of the future.
+Another experiment exposed free-swimming unicellular micro-organisms to varying degrees of gravitational force to determine at what point they started to perceive the difference between up and down.
+A third module solidified four samples of premolten lightweight alloys under different conditions. These alloys are used in making turbine blades of new-generation jet engines. Testing their solidification is a big step towards validating turbine blade production.
+Rocketing science
+Sounding rockets like Maxus are a one-stop lab. In addition to providing a freefall test platform, the rocket also transmits realtime data to ground stations. This allows researchers to follow results and adjust experiment parameters during flight.
+Being able to launch, monitor and retrieve experiments in one day means that researchers can almost immediately analyse their results.
+Maxus is a joint venture between Swedish Space Corporation and Airbus, providing access to microgravity for ESA-contracted experiments.

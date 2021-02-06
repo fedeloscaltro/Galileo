@@ -1,0 +1,20 @@
+2015-05-13
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Space_fever
+Space fever
+It started with a simple question that ended with a surprising answer and new technology that is being used in cutting-edge heart surgery and could save millions of euros in hospital bills.
+Hanns-Christian Gunga, working at the Center for Space Medicine and Extreme Environments in Berlin, Germany, has spent a lifetime working on how humans adapt to extreme environments and he wanted to know: what happens to an astronaut’s body temperature in space?
+People on Earth lose much of their body heat through convection – air around you is replaced by cooler air as it heats on the skin of your warm body and rises. Turning on a fan on a hot day can speed up the process and cool you down quicker as the air passes over and whisks some of the body heat away.
+On the International Space Station there is no convection because of weightlessness and astronauts have reported feeling hot since the earliest days of spaceflight. ESA astronaut André Kuipers recounts: “Especially during exercise I would feel hot, afterwards I would always float to a fan to cool down.”
+Thermolab
+To understand what is happening you would need to continuously monitor astronaut’s body temperatures in space for a long period of time. The Thermolab experiment was born, but first a practical problem needed to be overcome.
+Depending on where and when you measure your temperature a thermometer will give a different reading. Your body temperature is lower in your feet and lowest between four and six in the morning. Researchers and doctors refer to core body temperature – the temperature in your chest – to compare readings.
+Measuring core body temperature is not straightforward because a thermometer must be placed as close to your heart for best results. Many types of thermometers exist, from the under-your-tongue to the stick-in-your-ear variety but unfortunately the most accurate way of reading a core temperature was to insert a thermometer into your rectum.
+Aside from the discomfort, this method has many impracticalities: it is time-consuming and asking astronauts to stop their work to insert a thermometer was not considered an option.
+Professor Gunga decided to use a new technique he had developed and tested on firefighters, measuring the difference in heat radiated from the forehead. A simple calculation then reveals core body temperature with great accuracy.
+Eleven astronauts strapped with these sensors recorded their temperature over two sessions after three months in space and just before returning to Earth.
+The sensor works so well that it is used in extreme environments by firefighters and in Antarctica, as well as during the Mars500 study.
+A thermometer that can be read from a distance and continuously records very accurate data has enormous potential. The sensor is already being used in open-heart surgery on children but as a general instrument in hospitals it offers better and cheaper monitoring of patients.
+Don’t forget the astronauts
+The experiment shows that an astronaut's temperature rises by 1ºC during the first two months and stays there until it drops back to normal on return to Earth.
+Comparing data to other studies shows a correlation with Interleukin-1, a hormone that causes fever when sick. Raising body temperature by a degree requires 20% more energy, derived from food, so mission planners need to know more about this phenomenon in order to estimate the required food supplies for long missions.
+Professor Gunga explains the temperature sensor used in the Circadian Rhythms follow-up study

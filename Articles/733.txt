@@ -1,0 +1,13 @@
+2017-05-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/AstroPlant_citizen_science_for_growing_plants_in_space
+AstroPlant: citizen science for growing plants in space
+ESA is teaming up with enthusiasts to build a desktop greenhouse for people to grow plants at home and in classrooms as potential crops in space.
+The Micro-Ecological Life Support System Alternative team, or MELiSSA for short, has been working for over 27 years to create ecosystems for astronauts. They are finetuning how microrganisms, chemicals, catalysts, algae and plants interact to process waste and deliver unending supplies of oxygen, water and food.
+After launching bacteria into space, formulating groundbreaking software on algae growth and developing new water-treatment facilities, MELiSSA is now turning to us to help gather as much data as possible on crops that show potential for astronauts in space, such as spinach, lettuce, herbs and strawberries.
+Space greenhouse on Earth
+AstroPlant is a citizen science initiative that aims to inspire home-gardeners, schools, urban farmers and enthusiasts to nourish seeds selected by the MELiSSA team. Data recorded via a smartphone app will be sent to ESA for processing.
+A ‘hackathon’ in Rotterdam, the Netherlands, saw 40 people from all over Europe gather and brainstorm a prototype in April. Three groups focused on the hardware, the user interface and business development.
+Christel Paille of MELiSSA explains: “Getting the data we need on our own would take centuries because we would need to grow each plant ourselves. Using a citizen science initiative like this is new for ESA but has great potential.
+“We need as much data as we can get, and the more people who send us their results the better we can design a real space greenhouse. From home or classroom, you would be doing your part for future human exploration.”
+With the prototype design finished, the team of space farmers will produce 10 AstroPlant kits and test them by 28 June for the next event at the Border Sessions festival in The Hague, the Netherlands, as well as look for additional funding.
+Get involved and stay tuned for the full kit to be released so you can nurture your plants for human spaceflight.

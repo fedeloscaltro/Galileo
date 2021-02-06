@@ -1,0 +1,21 @@
+2013-06-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Europe_s_heaviest_cargo_ship_launched_to_Space_Station
+Europe’s heaviest cargo ship launched to Space Station
+ESA’s fourth Automated Transfer Vehicle, Albert Einstein, was launched into orbit last evening from Europe’s Spaceport in Kourou, French Guiana. Europe’s autonomous supply ship will perform a series of manoeuvres to dock with the International Space Station on 15 June.
+The Ariane 5 rocket, operated by Arianespace, lifted off at 21:52:11 GMT (23:52:11 CEST, 18:52:11 local time) and delivered ATV-4 into the planned circular parking orbit at 260 km altitude about 64 minutes later. ATV then deployed its four power-generating solar wings and antenna boom.
+The ship is being monitored by the ATV Control Centre, jointly operated by ESA and CNES, the French space agency, in Toulouse. It will complete the Launch and Early Orbit Phase in some six hours after launch and is due to rendezvous and dock automatically with the Station at 13:46 GMT (15:46 CEST) on 15 June.
+Heaviest spacecraft ever launched by Ariane
+At 20 190 kg, ATV Albert Einstein is the heaviest spacecraft ever launched by Ariane, beating predecessor ATV Edoardo Amaldi by some 150 kg. ESA’s resupply and reboost vehicle is the largest, most advanced and most capable of the vehicles servicing the orbital outpost.
+“With another successful launch of the ATV, and another record in lifting capacity, European industry demonstrates its capacity to produce unique spacecrafts, providing ESA with a key role among the partners of the International Space Station,” noted Jean-Jacques Dordain, ESA Director General.
+“This adventure is still in the making – ATV-4 is flying but ATV-5 is following and ATV technologies will survive beyond them in promising new programmes, such as NASA’s Orion Multipurpose Crew Vehicle, for which ESA is developing the service module.
+"From ATV to Orion, ESA is building up capabilities which will provide Europe the capacity to be a key partner in future international exploration programmes," said Thomas Reiter, ESA Director of Human Spaceflight and Operations.
+“Today, we’re supporting long-term settlement and scientific research in low orbit. Tomorrow, we will take this expertise beyond Earth orbit together with our partners.”
+Delivering record payload
+ATV-4 is carrying a record payload of 2480 kg dry cargo, including 620 kg of ‘last minute’ items, which were installed while on top of Ariane, less than two weeks before launch. Stored in ATV’s pressurised section, this cargo is also the most diverse ever, with more than 1400 items.
+In addition, ATV-4 has 2580 kg of propellants for reboosting the Station’s orbit and 860 kg more to refill the tanks of the Zvezda module. It will also pump 570 kg of drinking water and 100 kg of gases (two tanks of oxygen, one of air) into the Station’s tanks.
+Fully autonomous docking
+ATV was developed for ESA by European industry, with Astrium as prime contractor, to deliver goods and propellants under a barter agreement with NASA to support Europe’s share of the Station’s operating costs. It features high-precision navigation systems, highly redundant flight software and a fully autonomous self-monitoring and collision-avoidance system with independent power supplies, control and thrusters.
+No other spaceship approaching the Station has demonstrated such a level of autonomous control.
+Albert Einstein is the fourth in a series of five ATVs. It will spend over 4 months docked to the Zvezda module, during which it will provide extra storage room and a quiet rest area for the astronauts. It also offers a powerful manoeuvring capability to raise the Station’s altitude to combat natural orbital decay and, if required, to steer it out of the way of dangerous space debris.
+At the end of its mission, filled with waste, it will undock on 28 October and make a safe controlled reentry over the South Pacific.
+The last ATV, Georges Lemaître, is being prepared for launch in 2014.

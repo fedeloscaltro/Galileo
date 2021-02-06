@@ -1,0 +1,14 @@
+2014-06-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/One_docking_ring_to_rule_them_all
+One docking ring to rule them all
+Connecting spacecraft in orbit will never be simple, but ESA is taking the next step to allow the next generation of vehicles of all types from around the world to link up with each other.
+The International Space Station has two sets of incompatible docking ports, one designed for Russian spacecraft and Europe’s space freighter, and another design for the now-retired US Space Shuttle. There also are berthing ports for vessels that cannot dock on their own but are first captured by the Station’s robotic arm.
+Adding to the complexity, Russian docking ports have a male and female version, like an electrical plug and socket. This means that a spacecraft can only dock with a vehicle that has the correct receiving port.
+The Station’s docking mechanisms are designed to handle large, 100-tonne craft such as the Shuttle. They grasp a spacecraft as it pushes into the Space Station – like a train coach connecting to its locomotive.
+This approach works fine for heavier vehicles but the next generation is gearing up to be smaller and up to 10 times lighter. A 10-tonne vessel would simply bounce of these ports because it does not have enough momentum to engage the locking rings.
+Soft space docking
+To overcome these limitations, a new international standard will work with a lighter generation of space vehicles and is identical for both craft – any two vehicles can dock or be berthed.
+Although the connection is defined by the international standard, the mechanism behind the docking ring can be designed in any way – making further cooperation in space easier.
+ESA’s own International Berthing Docking Mechanism is the only design that will sense the forces at play between two spacecraft and adapt accordingly, ‘grabbing’ a lighter vessel or absorbing the loads of a heavier vehicle.
+The first engineering model is being built by QinetiQ Space in Belgium to test the mechanisms on Earth, with a goal of having the system available for flight by 2017.
+The Sierra Nevada Corporation in the US is already investigating collaboration with ESA for its first use on Dream Chaser, a reusable spaceplane that will carry astronauts and cargo to low orbit and land like an aircraft on a runway.

@@ -1,0 +1,20 @@
+2014-01-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Space_droids_battle_to_save_Earth_from_comet
+Space droids battle to save Earth from comet
+A comet heading towards Earth threatens humanity’s existence – that was the virtual scenario of this year’s Zero Robotics tournament. Secondary-school students from across Europe controlled miniature satellites on the International Space Station in a competition to save our planet.
+The Space Station was turned into a playing field for the finals. The ultimate robot game challenged youngsters to write algorithms that controlled the Spheres, short for Synchronised Position Hold, Engage, Reorient, Experimental Satellites.
+The Spheres are volleyball-sized satellites that hover around the Station using 12 jets powered by compressed gas. These autonomous robots have their own power, propulsion and navigation.
+Last Friday was the fourth time European contenders ran their commands in space, and each year the competition has grown. Over 140 European students joined the US competitors, writing code to redirect an incoming comet while taking space debris and limited laser resources into account.
+European finalists met at the ESA Technical Centre in the Netherlands to follow the competition live from space. The US teams were connected at the Massachusetts Institute of Technology.
+On the Station, NASA astronaut Richard Mastracchio and cosmonaut Oleg Kotov monitored the robotic battle. ESA astronaut André Kuipers, who monitored in 2012 from space, said “These finals are a great combination of gaming, science and technology. Robotics have a promising future to help us in orbit.”
+“It was fascinating to see how our code woke up the Spheres floating next to the astronauts!” said Eva Krebs, from the German team Käthe in Space.
+“At school our commands stayed on the screen of our computers, but this time we could see the real thing working in space.”
+The contest started last year with online rounds of increasing difficulty. Teams faced real-world challenges: they had to deal with loss of signal, exhausted batteries and tight deadlines. Long nights of programming and lots of discussions among the teams to decide tactics are all part of the game.
+Each finalist featured a three-team alliance from different European countries. The 18 teams were from Italy, Germany, France, Spain, Romania, Belgium and the Netherlands.
+Strategies to save the world
+With a virtual comet approaching Earth, the satellites had to use gravitational attraction, laser repulsion or a combination of methods to change its path of planetary destruction.
+“Our strategy was to navigate towards the laser power-up, avoid the space debris, take the power-up and shoot the comet,” proudly explains Tommaso Chemello of the winning team.
+The first prize went to the alliance called C.O.F.F.E.E. — Company of Fantastic Fighters and Extravagant Experimenters — whose team included Sunday Programmers (Padova, Italy), Nemesis (Pozuelo de Alarcón, Spain) and Hello World (Paris, France).
+“We learned that there was a big difference between the simulation phase and the realtime competition on the Station. Things don’t always go according to plan,” confesses Tommaso.
+European contenders enjoyed a whole day of space robotics with hands-on activities at the ESA Technical Centre. Apart from meeting new people and working as a real team, they built critical engineering skills.
+“The motivation gained from this competition is priceless. Students from previous events are now pursuing engineering careers,” points out Italian University coordinator Enrico Lorenzini.

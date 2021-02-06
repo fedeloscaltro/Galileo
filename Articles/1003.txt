@@ -1,0 +1,16 @@
+2012-12-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Bedrest_studies/Measuring_skull_pressure_without_the_headache
+Measuring skull pressure without the headache
+Space research has developed a new way of measuring the pressure inside your skull using simple sound waves from headphones. The device is an effective early-warning system for patients recovering from head injury or brain surgery.
+Just like blood pressure, our bodies control the fluid pressure around the brain to cushion it from hitting the skull.
+Astronauts rely on their body’s pressure control system to regulate fluid build-up in orbit, so space agencies are keen to understand how it works and adapts to weightlessness.
+Monitoring ‘intracranial pressure’ is not straightforward – there are many techniques but they are cumbersome, invasive and require professional operation.
+In 1994, Paul Avan from the University of Auvergne in Clermont-Ferrand, France, investigated the possibility of measuring changes in pressure by looking instead at a connected area: inner-ear pressure.
+He developed a device that beams sound into the ear and listens to the echoes to calculate the change in pressure between readings.
+Paul was working on this system to measure intracranial pressure when France’s CNES space agency asked to use it on a parabolic aircraft flight during 22 seconds of weightlessness.
+After this promising start, it was improved during an ESA bedrest study organised with the DLR German Aerospace Center last year.
+“ESA was instrumental in helping to improve the system and make it smaller,” says Paul.
+The result is a computer about the size of a portable hard disk that produces and analyses the sound and can be used even in noisy environments such as a hospital emergency ward.
+The device will be tested further in 2013 at the international Concordia research base in Antarctica. In an ESA-sponsored experiment, crewmembers will record pressure changes in their skulls while living at the isolated base 3200 m high.
+Just like astronauts in space, crews living in Concordia suffer from headaches due to the extreme stress and lack of sleep. Studying intracranial pressure will give clues on how to combat the pain and ultimately help people in more habitable regions on Earth suffering from headaches.
+Paul concludes, “If it works in Concordia, it will work anywhere.”

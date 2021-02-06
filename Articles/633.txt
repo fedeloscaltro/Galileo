@@ -1,0 +1,17 @@
+2021-01-04
+https://www.space.com/spacex-starship-super-heavy-landing-plans
+SpaceX targets bold new 'catch' strategy for landing Super Heavy rockets
+SpaceX plans to get even more ambitious with its pinpoint rocket landings.
+Elon Musk's company routinely recovers and reuses the first stages of its Falcon 9 and Falcon Heavy rockets, bringing the boosters down for soft vertical landings about 9 minutes after liftoff on ground near the launch pad or on autonomous "drone ships" in the ocean.
+These touchdowns are impressively precise. But SpaceX aims to achieve something truly mind-blowing with Starship, the next-generation system the company is developing to take people and payloads to the moon, Mars and other distant destinations.
+Related: SpaceX's Starship and Super Heavy rocket in pictures
+We’re going to try to catch the Super Heavy Booster with the launch tower arm, using the grid fins to take the loadDecember 30, 2020
+"We’re going to try to catch the Super Heavy booster with the launch tower arm, using the grid fins to take the load," Musk said via Twitter on Dec. 30.
+That's right: SpaceX wants to bring Super Heavy, the giant first stage of the two-stage Starship system, down directly on the launch stand.
+Musk has voiced this ambition before, but last week's tweet adds new wrinkles — for example, that Super Heavy will ideally be caught by the tower arm, so its touchdowns won't really be landings at all. Unlike Falcon 9 and Falcon Heavy first stages, then, Super Heavy won't need landing legs. (The catch-enabling grid fins, by the way, are waffle-like control surfaces that help returning rockets steer during precise touchdowns.)
+The newly announced strategy offers several important benefits, Musk said.
+"Saves mass and cost of legs and enables immediate repositioning of booster onto launch mount — ready to refly in under an hour," he said in another Dec. 30 tweet.
+Starship's upper stage is a 165-foot-tall (50 meters) spacecraft called (somewhat confusingly) Starship. Both Starship and Super Heavy will be fully and rapidly reusable, Musk has stressed, potentially making Mars colonization and other ambitious exploration feats economically feasible.
+SpaceX has already built and flown several Starship prototypes from its South Texas facility, near the Gulf Coast village of Boca Chica. Last month, for example, the SN8 ("Serial No. 8") vehicle soared to an estimated altitude of 7.8 miles (12.5 kilometers) and returned to Earth at the designated spot. Though SN8 came in too fast and exploded in a massive fireball, Musk declared the epic test flight a big success.
+Another such leap should be coming soon: SpaceX recently moved SN9 to the launch stand. Like SN8, SN9 sports three powerful Raptor engines, so the maximum altitude of its flight may also be in the 7.8-mile range. (The three prototypes that flew before SN8 were single-engine vehicles that got just 500 feet, or 150 m, off the ground.)
+The final Starship vehicle will have six Raptors, making it powerful enough to launch itself off the surface of the moon and Mars (but not Earth). Super Heavy will have about 30 Raptors, Musk has said. Though the Starship program has to date devoted most of its time to building and testing spaceship prototypes, it appears that construction of the first Super Heavy prototype is now underway.

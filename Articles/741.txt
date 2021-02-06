@@ -1,0 +1,19 @@
+2017-03-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Beautiful_science_with_astronaut_aurora
+Beautiful science with astronaut aurora
+Some of the most wonderful pictures taken by astronauts from space are of aurora dancing over our planet. Now the photos are more than just pretty pictures thanks to an ESA project that makes them scientifically usable.
+Aurora offer a visual means to study space weather, the conditions in the upper regions of our atmosphere. These colourful displays are produced when electrically charged particles from the Sun in the solar wind are channelled along Earth’s magnetic field lines and strike atoms high in the atmosphere.
+Just as the Sun is instrumental to the weather on Earth, solar activity influences space weather, which in turn can interfere with radio transmissions, satellites and even our electricity supply.
+From above and below – and straight through
+Scientists study space weather and aurora using satellites such as ESA’s Cluster and Proba-2 but also through a network of cameras on the ground. These cameras are often obscured by cloud or snow and coverage from the southern hemisphere is poor because there is not much land at the best latitudes for observing the aurora.
+Pictures taken from the International Space Station can provide context and add information by improving estimates of the height and length of aurora. Some reach 500 km high – meaning the Station sometimes flies right through them.
+Looking to the stars to find out when and where
+First, the images need to be turned into something that scientists can use. Most important is to know the exact time and where the camera was pointing.
+The images are downloaded in the highest resolution and faulty camera pixels from cosmic radiation are removed. Software corrects distortion from the camera lens.
+Just like 19th century explorers before navigation satellites existed, ESA’s team looked to the stars for reference, using software to identify the stars in the image, and from there calculate the precise position of each pixel and its scale.
+Last, the image time is determined by linking cities with their calculated locations and the horizon.
+Software engineer and ESA young graduate trainee Maik Riechert, who worked on the project, explains: “The ideal images for processing are pictures showing Earth and the stars with the horizon just above the middle.”
+Putting it all together
+When all the images are processed, the timelapse videos offer a way to check the process went smoothly. Any jitter or changes in star tracking will show up in the final video, so a smooth run proves that the individual images are ready for analysis.
+Now it is over to the scientists who can use the extra information in their research. Find the full dataset on the automatic geo-referencing of astronaut auroral photography webpage. A paper describing the method is available here.
+ESA’s Andrew Walsh, manager for this project, concludes “This project shows that nothing is wasted and you can get useful science from unusual sources.”

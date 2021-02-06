@@ -1,0 +1,15 @@
+2015-01-19
+https://www.esa.int/Education/Conclusion_of_SPHERES_Zero_Robotics_2014_challenge
+Conclusion of SPHERES Zero Robotics 2014 challenge
+Inspired by ESA’s Rosetta mission and the upcoming NASA OSIRIS-Rex mission, Zero Robotics finalists were given the task to simulate imaging a virtual asteroid on the International Space Station last Friday. Secondary-school students from across Europe controlled miniature satellites on the International Space Station in a competition to get the best images.
+The Space Station was turned into a playing field for the finals. The ultimate robot game challenged youngsters to write algorithms that controlled the Spheres, short for Synchronised Position Hold, Engage, Reorient, Experimental Satellites.
+The Spheres are volleyball-sized satellites that hover around the Station using 12 jets powered by compressed gas. These autonomous robots have their own power and propulsion but need to be told how to navigate.
+Last Friday was the fifth time European contenders ran their commands in space, and each year the competition has grown. Over 140 European students joined the US, Mexican and Russian competitors, writing code to image the celestial body whilst maneuvering out of a damaging virtual solar flare.
+European and Russian finalists met at the ESA Technical Centre in the Netherlands to follow the competition live from space. The US and Mexican teams were connected via video conference at the Massachusetts Institute of Technology.
+On the Station, ESA astronaut Samantha Cristoforetti, NASA astronaut Butch Wilmore and cosmonaut Yelena Serova monitored the robotic battle. ESA astronaut Paolo Nespoli and NASA crew mate Cady Coleman were also present at ESTEC and MIT respectively, cheering the teams on.
+The contest started last year with online rounds of increasing difficulty. Teams faced real-world challenges: they had to deal with loss of signal, exhausted batteries and tight deadlines. Long nights of programming and lots of discussions between the teams to decide tactics are all part of the game.
+Each finalist alliance was composed of teams mostly from US and ESA member states.  This year saw the first time participation of Russian and Mexican teams, making Zero Robotics a truly international endeavour.
+Tough competition
+The championship prize went to the alliance called LakeElevenVadars – an alliance including “Cora’s Eleven”, from Italy who attribute their win to having as many strategic and coding options available to them as possible, until the very last minute before submission deadline.
+In second place, first time participants Zanneio Stardust team from Greece.  Together with their US team mates, BACON and BRRobotics, they formed formidable opponents throughout the competition and lost in the finals by a hair’s breadth.
+Valiant efforts from team Crab Nebula from Italy and O.L.E. from Spain to clinch third and fourth positions respectively.

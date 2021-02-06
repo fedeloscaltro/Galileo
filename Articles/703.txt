@@ -1,0 +1,19 @@
+2017-10-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Low-cost_clocks_for_landing_on_the_Moon
+Low-cost clocks for landing on the Moon
+A European clock accurate to a trillionth of a second is set to be used on satellites and missions to the Moon.
+The ultra-precise time-keeper was conceived by a small company in Latvia, and ESA has recognised its potential for space.
+“We are the Ferrari of timers with the components of a tractor,” says Nikolai Adamovitch of Eventech.
+“We provide extreme timing accuracy using reliable and basic electronics. How accurate? They are able to measure the time that light takes to travel one centimetre.”
+Small and cheap, they become a competitive tool for laser-ranging when paired with a computer.
+More than 50 ground stations around the globe already use them to pinpoint the positions of satellites by measuring the round-trip time for a laser pulse to reach its target and return.
+The company is already the world leader in timers for satellite laser stations but is looking to send its technology into space.
+Radiation-proof and Moon-bound
+Each component has at least three layers of radiation protection. A coating renders the device resistant to damage or malfunctions from cosmic rays.
+ESA has chosen the timer to fly to the Moon’s south pole on Russia’s Luna-27 lander in 2022. Neptec UK is teaming up with Eventech to prepare the flight model for launch.
+Neptec are working on a ‘lidar’ – the laser equivalent of radar – as an essential part of ESA’s autonomous landing and navigation system for Luna-27.
+The clock will measure the time light pulses take to return to Luna-27 after bouncing off the surface during landing.
+“This allows us to build a 3D map to select the best landing site, avoiding uneven terrain and large rocks,” explains Kerry Sanz, the project manager at Neptec.
+“We are very excited – this is the first of a series of missions that could lead to a human base on the Moon and we are involved in ensuring the spacecraft can land safely.”
+This ‘made in Europe’ technology will also benefit us on Earth: “There could be more applications for extreme radiation environments on Earth such as nuclear power stations or particle accelerators such as the Large Hadron Collider,” says Nikolai.
+Other uses include synchronising time between devices through optic fibre, deep-space laser communications, and laser altimetry to collect 3D information on Earth’s surface.

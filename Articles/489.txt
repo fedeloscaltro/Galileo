@@ -1,0 +1,49 @@
+2021-02-02
+https://www.esa.int/Safety_Security/Hera/ESA_s_planetary_defence_mission_full_dome_show
+ESA’s planetary defence mission – full dome show
+Journey to an asteroid with Hera – a small spacecraft with big ambitions. Hera is ESA’s contribution to humanity’s first ever planetary defence experiment. Its up-close observations of double asteroid system Didymos will help prove whether we could ever deflect an asteroid on a collision course with Earth.
+Didymos is typical of the thousands of asteroids that pose an impact risk to our planet. In 2022, NASA will slam its DART spacecraft into the smaller asteroid in the Didymos system. Its aim is to deflect its orbit around its parent asteroid in a measurable way.
+Hera will then launch into space in late 2024, heading to Didymos to solve key unknowns left over from the impact. Hera will map the impact crater left by DART and measure the asteroid’s mass; this is key to determining what is inside and knowing for certain whether we would be able to deflect it.
+Aside from being a planetary defence experiment, Hera’s observations will tell us a lot about asteroids more generally. As these space rocks are remnants of the early Solar System, the observations should improve our understanding of how the Solar System formed and evolved. Hera will carry two CubeSats that will fly much closer to the asteroid's surface, carrying out crucial scientific studies, before touching down.
+During this short full dome show you will ride with Hera to visit Didymos and discover more about this fascinating space mission. The realistic 3D renderings will teleport you into deep space to experience for yourself a journey to an asteroid. The English version of the show is narrated by Queen guitarist Brian May.
+Download files
+Zip folder visual frames 1
+Zip folder visual frames 2
+Zip folder visual frames 3
+Zip folder visual frames 4
+Zip folder visual frames 5
+Zip folder visual frames 6
+Zip folder visual frames 7
+Zip folder visual frames 8
+Zip folder visual frames 9
+Zip folder visual frames 10
+Zip folder audio
+Download instructions
+This content is for planetarium use only. It consists of lightly compressed zipped single image frames in the format PNG. There are ten zip folders in total, nine containing 8 GB of PNG files, and one containing 4 GB of PNG files. These can be combined with a zip compression tool (e.g. Winzip, Winrar, 7-zip) to extract the original directory. The dome masters (the individual images) can be downloaded and sliced into the configuration that suits the individual planetarium.
+Advice
+1. Do not use Windows' built-in unzipper or Mac OS' standard Archive Utility (or unzip command) as they produce random frames (due to default security settings).
+2. As no network or browser is 100% stable, we strongly recommend using a download manager (like Free Download Manager1 or the command line tool aria2).
+Technical information
+Video
+Format: Fulldome 4k Master
+Resolution: 4096 x 4096 pixels
+Length: 5 m 19 s
+FPS: 30
+File type: Zipped PNGs
+File size: 76 GB (visuals) + 600 MB (audio)
+Audio
+Split audio (means individual narration and music + effects)
+File Type: WAV / 48000Hz / 16bit
+Available tracks: Music+sound effects / Narration / Music+soud effects+narration
+Narration: English, French, German, Italian, Spanish
+Credits
+A Science Office production for ESA.
+Project coordination: Mariana Barrosa (Science Office) and Nicole Shearer (EJR-Quartz for ESA)
+Animation and motion graphics: Rui Braz
+Design: David Santos and Joana Santos
+Script: ESA
+Music: Paulo Raimundo
+English narration: Brian May
+French narration: Ingrid Barzic
+German narration: Christoph Molthagen
+Spanish narration: Penélope SarayItalian narration: Francesco Di Lorenzo

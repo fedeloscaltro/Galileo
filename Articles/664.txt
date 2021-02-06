@@ -1,0 +1,19 @@
+2020-12-19
+https://www.space.com/astra-launch-success-ready-for-satellite-spaceflight
+We and our
+store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.
+With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.
+Astra will launch its 1st satellite mission in early 2021
+Astra is moving full-speed ahead after notching its first spaceflight success this week.
+The Bay Area startup's two-stage Rocket 3.2 soared high on a test flight from Alaska on Tuesday (Dec. 15), acing a series of important milestones and hitting its target altitude of 236 miles (380 kilometers), Astra representatives wrote in a blog post on Thursday (Dec. 17).
+The 38-foot-tall (12 meters) Rocket 3.2's upper stage reached a maximum speed of 16,106 mph (25,920 km/h) during the test mission, just short of the 17,180 mph (27,649 km/h) needed to slide into orbit around Earth. But the upper stage ran out out of fuel, so a few tweaks should be all that's needed to allow its successor to achieve orbital velocity, Astra representatives said.
+Video: Watch Astra's Rocket 3.2 launch on its 1st successful flight
+That successor will fly soon, and, unlike Rocket 3.2, it will carry a satellite for a customer.
+"Our data shows that all of the rocket’s hardware and software performed exceptionally well, and that only a small adjustment to the mixture ratio of fuel and oxidizer stands between us and our first customer payload delivery in a few months," Astra co-founders Chris Kemp and Adam London wrote in the Thursday blog post.
+"Most importantly, this means that Astra can immediately begin delivering for our customers," added Kemp, the company's CEO, and London, its chief technology officer. "As of today, we have contracted over two dozen launches, representing over 100 spacecraft. We are immediately executing our plan to ramp up rocket production and launch operations."
+NASA is among those customers: The agency recently awarded Astra $3.9 million to launch small satellites to orbit.
+Related: The history of rockets
+Astra is developing a line of flexible, low-cost rockets designed to give small satellites dedicated rides to space — a market currently dominated by another California company, Rocket Lab. (Small spacecraft also commonly hitch rides on bigger rockets such as SpaceX's Falcon 9, but such "rideshare" missions generally don't provide precision deliveries for their secondary payloads.)
+Tuesday's flight was Astra's second orbital test launch. The first one, which occurred this past September, ended about 30 seconds after liftoff; Astra's Rocket 3.1 experienced some guidance issues, and mission team members terminated the flight for safety reasons.
+Astra traced that problem to an apparent software issue in Rocket 3.1's guidance and navigation system, made some adjustments and got back on the pad. Rocket 3.2 launched just three months after its predecessor came crashing back to Earth, so Astra's plan to launch its first satellite a few months from now does not seem overly optimistic.
+That target is also in keeping with Astra's timeline for operational missions. The company's website currently offers launch services starting in 2021 and 2022.

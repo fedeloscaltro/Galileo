@@ -1,0 +1,18 @@
+2016-04-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Sending_crude_oil_into_space_to_study_Earth_s_depths
+Sending crude oil into space to study Earth’s depths
+Containers of highly pressurised crude oil will be launched into space from China next week to help improve our knowledge of oil reservoirs buried kilometres underground.
+The Soret Coefficient in Crude Oil experiment will measure how hydrocarbon molecules redistribute when the temperature is not uniform. Learning how complex liquids behave is of interest to the petroleum industry and academia, who can apply the data to model real-life conditions of oil reservoirs deep underground. These measurements can only be performed in weightlessness.
+Set for launch on China’s SJ-10 satellite on 6 April local time, the experiment consists of six sturdy cylinders, each containing just one millilitre of crude oil but compressed up to 500 times normal pressure at sea level on Earth – making it one of the highest-pressure items ever launched into space.
+Lifting-off from China’s Juiquan site in the Gobi desert, the satellite will spend almost two weeks in orbit before it returns to Earth. After landing in Si Chuan province, the team will retrieve the experiment for detailed analysis.
+The experiment is a partnership between ESA, China’s National Space Science Centre, France’s Total oil company and China’s PetroChina oil company.
+“The experiment is designed to sharpen our understanding of deep crude oil reservoirs up to 4 km underground,” explains Antonio Verga, overseeing the project for ESA.
+“Imagine a packet of cornflakes – over time the smaller flakes drop to the bottom under gravity. On a molecular scale this experiment is doing something similar but then looking at how temperature causes fluids to rearrange in weightlessness,” says ESA’s Olivier Minster.
+“Deep underground, crushing pressure and rising temperature as one goes down is thought to lead to a diffusion effect – petroleum compounds moving due to temperature, basically defying gravity.
+“Over geological timescales, heavier deposits end up rising, while lighter ones sink.
+“The aim is to quantify this effect in weightlessness, to make it easier to create computer models of oil reservoirs that will help guide future decisions on their exploitation.”
+The experiment’s crude oil sits in six small titanium cylinders. One end of each cylinder is warmed while the other end is cooled. Before returning to Earth, a valve is closed to prevent the liquid from remixing during reentry.
+Sending such a high-pressure device into space is not to be taken lightly and the cylinders were built to withstand more than double pressure than they will during normal operations – 1000 times atmospheric pressure.
+A specialist company, Sanchez Technology in France, worked for the prime contractor QinetiQ Space in Belgium. The electronic unit was developed and built by the Shandong Institute of Aerospace Engineering at Yantay.
+The experiment passed testing with the SJ-10 spacecraft at the China Academy of Space Technology in Beijing, China last year – including thermal cycling to reproduce the extreme changes in temperature the experiment will be subjected to during its orbits of Earth, as well as vibration and shock testing to simulate launch and reentry.
+Two weeks ago ESA and QinetiQ staff took the 8.5 kg flight unit – about the size of a desktop computer – on a four-day drive to the remote launch site in Gansu province. The experiment with its oil-filled cells is now ready for its journey to space tomorrow.

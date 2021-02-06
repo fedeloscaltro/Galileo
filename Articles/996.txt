@@ -1,0 +1,18 @@
+2013-02-04
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Finding_the_key_to_immunity
+Finding the key to immunity
+Living in space weakens astronauts’ immune systems, researchers have discovered. The findings are providing clues on how to tackle diseases on Earth before symptoms appear.
+Ever since the first humans ventured into space we have known that astronauts can suffer from common infections that would be quickly dealt with by healthy people on Earth. Until now, it was not clear what was blocking astronauts’ immune systems from working normally.
+In 2006, ESA astronaut Thomas Reiter performed an experiment on the International Space Station using ESA’s Kubik space incubator. A batch of human immune cells was allowed to float in microgravity while another was held in a centrifuge to simulate gravity. The cells were preserved for analysis back on Earth.
+The cells that experienced simulated gravity as if on Earth were found to be in good health compared to their weightless equivalents.
+On the right path
+By comparing the samples, investigators saw what was stopping the immune cells from working properly. A specific transmitter in the immune cells, called the Rel/NF-κB pathway, stops working in weightlessness.
+“Normally, when our bodies sense an invasion, a cascade of reactions occur that are controlled by the information held in our genes, similar to an instruction book,” explains Isabelle Walther, an investigator based in Zurich, Switzerland.
+“Finding which gene does what is like looking for the right key to fit a keyhole, without having found the keyhole yet.”
+Studying cells that have flown on the International Space Station is putting researchers on the right path to finding the key to how our immune system works. Comparing samples is showing them where to look to find which genes instruct our immune cells to react to diseases, and how.
+Controlling disease at the source
+“We are working towards a finer control of disease,” says Millie Hughes-Fulford, NASA astronaut and a investigator on this experiment.
+This research could help to tackle two types of disease. Stopping genes that activate our immune system would help to relieve people suffering from autoimmune diseases such as arthritis. The pharmaceutical industry could find the genes that need be active to fight specific illnesses and market tailored antibodies.
+“If you imagine our immune system responding to diseases as a waterfall,” explains Millie, “up until now we have been fighting disease at the bottom of the waterfall.
+“In the future we could target the raindrops before they have a chance to cascade into waterfalls. We live in exciting times.”
+Thomas Reiter, who is now director of ESA’s Human Spaceflight and Operations, says: “All astronauts do their best to perform experiments for researchers on the ground. I am very pleased that the experiment I performed over five years ago is revealing such interesting results.”

@@ -1,0 +1,23 @@
+2012-04-13
+https://www.esa.int/Enabling_Support/Operations/Designing_the_interplanetary_web
+Designing the interplanetary web
+Reliable Internet access on the Moon, near Mars or for astronauts on a space station? How about controlling a planetary rover from a spacecraft in deep space? These are just some of the pioneering technologies that ESA is working on for future exploration missions.
+What do observation or navigation satellites orbiting Earth have in common with astronauts sending images in real time from the International Space Station? They all need to send data back home. And the complexity of sharing information across space is set to grow.
+In the future, rovers on Mars or inhabited bases on the Moon will be supported by orbiting satellite fleets providing data relay and navigation services. Astronauts will fly to asteroids, hundreds of millions of kilometres from Earth, and they’ll need to link up with other astronauts, control centres and sophisticated systems on their vessels.
+All of these activities will need to be interconnected, networked and managed.
+Supporting future exploration
+“We are researching how today’s technical standards for devices like mobile phones, laptops and portable computers can be applied to a new generation of networked space hardware,” says Nestor Peccia, responsible for ground segment software development at ESA’s Operations Centre in Darmstadt, Germany.
+“But our future focus goes well beyond just networking; we’re looking at how agencies like ESA and NASA cooperate in orbit and how to interchange data in real time between different organisations’ spacecraft and ground stations, as well as reliable technical standards for spacecraft navigation and flight control.”
+Open technical standards through cooperation
+Since 1982, experts from ESA, NASA and other major space organisations and industry have met periodically to develop new, open data communication standards as part of the Consultative Committee for Space Data Systems.
+Developing standards for space hardware and data interchange for space agencies, commercial spaceflight companies and satellite manufacturers promises to pay off even in the short term.
+In the future, inter-satellite communication requirements are predicted to grow, and spacecraft should be capable of establishing powerful radio links with each other – even while orbiting Mars at thousands of kilometres per hour.
+In May 2008, ESA’s Mars Express served as a crucial data relay node for NASA’s Phoenix lander during descent and landing on the Red planet. Mars Express is set to repeat the feat in August with NASA’s Mars Science Laboratory.
+ESOC profile video clip
+In December 2011, ESA’s worldwide tracking station network was recruited to provide three hours’ daily data contact for Russian mission controllers operating the Phobos–Grunt mission en route to Mars (the probe failed soon after launch for unrelated reasons).
+Astronaut–machine interfaces at Mars
+In October, an astronaut on the International Space Station will practise remotely controlling a test rover located at ESA’s Operations Centre to simulate orbiter–rover communication links at a planet like Mars.
+This, too, requires robust communication links to allow astronauts, robots and control centre to work efficiently together.
+“Setting technical standards and communication system architecture isn’t the most high-profile part of space exploration, but it’s absolutely vital for ensuring that the high-profile efforts – like sending an astronaut to Mars – will work as planned when that time comes,” says Nestor.
+These and other topics are set to be discussed at the CCSDS conference in Darmstadt on 16–19 April, which will bring together international space organisations from 20 spacefaring nations including ESA, NASA, ASI, CNES, Roscosmos, DLR and JAXA.
+More information via CCSDS – Darmstadt

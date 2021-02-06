@@ -109,7 +109,7 @@ def main():
 
     links_file = "links.txt"   # name of the links file
 
-    esa_counter = 5  # index used to set the max page of ESA articles
+    esa_counter = 15  # index used to set the max page of ESA articles
     space_com_counter = 9  # index used to set the max page of Space.com articles
 
     for k in range(esa_counter):

@@ -1,0 +1,23 @@
+2016-10-06
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Automating_sample_testing_thanks_to_space
+Automating sample testing thanks to space
+A miniaturised biotech unit developed for the International Space Station is improving medical diagnoses on Earth with affordable automation of small-scale diagnostics.
+In vitro diagnostics, or IVDs, are tests on samples such as human blood, urine and tissue to look for diseases and infection or to help diagnose a medical condition.
+They are used in diabetes, cancer, cardiology, HIV/Aids, autoimmune diseases, drug testing, infectious diseases and more.
+As healthcare needs continue to grow, the number of samples to test is rapidly increasing.
+With growing demand for clean testing, labs are looking to automation to increase throughput, improve quality and solve handling problems quickly.
+Many smaller laboratories that still perform IVD manually are also trying to take this step towards automation, but find that existing high-throughput units are too costly.
+The answer is orbiting Earth
+It wasn’t until biotech company Fujirebio Europe joined with Belgium’s Verhaert, involved in Europe’s space programmes for many years, that the answer was found – and from a completely different direction.
+The unit developed by Verhaert for the Biolab research facility in Europe’s Columbus laboratory on the International Space Station turned out to provide a solution for low-throughput IVD. It is now improving the diagnosis of infectious diseases and cancers here on Earth.
+Having to operate on the Space Station, and with the limited time available to astronauts to perform experiments, space laboratories require automated devices with long lifetimes and low maintenance and calibration needs.
+Space experiments are typically done on a small scale and require a high level of accuracy. Temperature and risk of contamination must also be carefully managed.
+To simplify Biolab experiments in space, Verhaert designed and built a unit for precisely controlling the application of liquid nutrients onto a sample strip.
+Reusing this approach and their knowhow on precision dosing and contamination control enabled Verhaert to automate the previously manual work for low-throughput IVD.
+“Many general laboratories performing low-throughput IVD have expressed their wish to move towards more automation and integration of their workflows,” said Christiaan De Wilde, CEO at Fujirebio Europe.
+“These laboratories have been looking in vain for accessible solutions to help them take the important first step towards automation.”
+The Verhaert design features a completely new automatic testing mechanism that is cheaper to use, thanks to a higher processing speed, the elimination of maintenance and calibration, and a more efficient use of reagents.
+Small laboratories typically perform IVDs manually, which can now be automated, reducing the time needed and the cost. The absence of maintenance and calibration result in lower operating costs.
+In August 2015, Fujirebio Europe launched it into the in vitro diagnostics market to handle just 10 IVD strips at a time.
+“This diagnostics device is using the same handling mechanism and volumetric dosing architecture we developed for the laboratories on Space Station,” says Sam Waes from Verhaert, also the Belgium broker to ESA's Technology Transfer Programme.
+“Thanks to this space technology transfer, it has a level of accuracy that is similar to the higher-throughput processors, typically of 48 strips, at a fraction of the cost.”

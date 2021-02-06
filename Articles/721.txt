@@ -1,0 +1,14 @@
+2017-07-07
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Counting_calories_in_space
+Counting calories in space
+Rockets and spacecraft may get us to Mars, but food must nourish us on the journey. Now researchers are using the International Space Station to look at how much food will be needed on a spacecraft heading to the Moon, Mars or beyond. By tracking the energy used by astronauts, we can count the number of calories humans will need for long flights.
+Serving size: one Mars crew
+Calculating total energy expenditure involves making many measurements over a period of 10 days. ESA astronaut Paolo Nespoli will be the last of the required 10 subjects, following his launch late this month.
+First thing in their morning, Paolo will wear a breathing mask to measure the levels of carbon dioxide he produces and the amount of oxygen consumes. This allows researchers to calculate how much energy the body uses to maintain basic functions in a resting state.
+Before breakfast, he will drink a dose of water labelled with trace elements. By tracking how much is eliminated over time in collected urine, total energy use will be calculated.
+Paolo will eat a standardised breakfast and use the breathing mask for four hours. This reveals how much energy the body is consuming to digest, process and store the meal.
+The last step is to calculate how much energy is used in physical activity. Throughout the 10 days, Paolo will sport a tracker on his arm to record the time and intensity of different activities.
+Analysing these different measurements allows the researchers to calculate total energy use such that meals can be tailored to the astronauts’ energy levels, ensuring they get no less than they need.
+Comparison with measurements made before and after the flight will also provide insights into how weightlessness affects body weight. It is well known that astronauts on longer missions in low orbit lose weight, but the reasons are unclear.
+Understanding metabolism as it relates to physical activity in weightlessness can shed light on what is happening and how best to nourish humans on missions into deep space.
+But counting calories in space will also go a long way to helping us back on Earth: understanding energy balance in relation to diet and activity will improve the care of bed-ridden patients.

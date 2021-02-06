@@ -1,0 +1,10 @@
+2017-02-06
+https://www.esa.int/Education/Teachers_Corner/Zero_Robotics_High_School_Tournament_comes_to_an_exciting_conclusion
+Zero Robotics High School Tournament comes to an exciting conclusion
+The live finals of the 2016 Zero Robotics High School Tournament took place on the International Space Station on Friday, 27 January 2017. More than 100 students aged between 14 and 20 years old from across Europe met at ESA’s Space Research and Technology Centre (ESTEC) in the Netherlands. From there, students connected to the ISS, as well as to parallel events taking place in the USA and Australia. This is the fifth time that the ISS has been turned into a gaming platform for the ultimate game of robotics.
+On Friday the competition came to its exciting conclusion, with the final fourteen alliances watching nervously as the SPHERES used student-written code to battle it out on the ISS. A virtual competition was held in parallel, with code run on an online visualisation platform rather than on the physical SPHERES inside the ISS.
+Tough competition
+Congratulations to all teams that competed in the live finals, in particular to alliance SpaceLinguine which took home the championship prize, and alliance FlyingFalconsTheQuarkCharmCode::Space, which came a close second place. Alliance SpaceLinguine included two European teams (ZRighi and LSA Robotics Team), and alliance FlyingFalconsTheQuarkCharmCode::Space included one European team (Code::Space). ESA’s Education team commends and thanks all of the teams for their hard work.
+In the virtual finals, first place went CYS Burger, an alliance which included European team Cassiopeia. Alliance Joined Unique International Coding Experts, including European team SetFermiForce, took second place.
+In addition to the finals, students attending the event also had the chance to participate in a tour of ESTEC, meet an ESA astronaut, and discuss gameplay with other teams over a social dinner.
+The video of the finals :

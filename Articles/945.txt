@@ -1,0 +1,36 @@
+2013-12-20
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Let_s_get_three_dimensional
+Let’s get three dimensional
+Almost a million people have watched the YouTube video of ESA’s 3D camera being used in space. Here on Earth, the same camera technology is equally successful.
+“3D brings a human and immersive feel to images that nothing else can match,” says Max Collon from Dutch Cosine Research and its subsidiary 3D-ONE.
+Cosine developed the ERB-1 and ERB-2 Erasmus Recording Binoculars for ESA and then drew on it to build a line of high-end 3D cameras now being sold worldwide.
+Use red/blue stereo glasses to watch
+Install the camera over an operating table and hundreds of medical students can follow every step in real time, depth and full HD from anywhere in the world. Place one over a conveyer belt and you can instantly monitor product irregularities by measuring exact sizes and shapes.
+“What we do is use the 3D technology we developed with ESA for their ERB cameras and customise it to meet the specific need of our different customers,” adds Max, which was supported by ESA via its Technology Transfer Programme to spin-off the space technology.
+Space live in 3D
+While 3D grabbed the public’s attention in the film Avatarin 2009, depicting life on a fictional planet and space station, it had already been used aboard the real International Space Station three years earlier.
+ESA astronaut Thomas Reiter reported in 3D from the orbital outpost in 2006 using the camera’s predecessor, thanks to some forward-thinking by ESA engineers and Cosine’s specialists.
+“We wanted our astronauts to shoot films in 3D to promote the Space Station,” says Massimo Sabbatini, Head of ESA’s Erasmus Centre, and the camera’s instigator.
+“And they have done so many times since 2006, first with ERB-1, and since 2009 with our high-res ERB-2. Just visit the ESA 3D channel on YouTube.”
+Space tech started business
+“The design and development of ERB were the catalyst for our spin-off company 3D-ONE, now producing cost-efficient high-end 3D cameras for the commercial non-space market.”
+Put on your 3D glasses for this 3D virtual tour of the International Space Station.
+Following the first camera’s trial on the Station, Cosine was supported by ESA’s Business Incubation Centre in Noordwijk, the Netherlands, to develop a business plan for commercial spin-offs. The plan pointed to a camera with higher resolution and more capabilities.
+“This was back in 2005, before 3D filming was really initiated. We could see that the ERB technology had huge potential on Earth,” adds Max.
+ESA started 3D in space
+ESA is always pushing for novel technology to take space exploration even further. In this case, it was a development back in 2001 for a planetary rover and the wish to report from the Station in 3D that began it all.
+“In our research to develop and use stereo vision for rover navigation and telepresence for space missions we saw the potential of using the same equipment for the production of quality 3D video,” explains Gianfranco Visentin from ESA’s Automation and Robotics Laboratory.
+“We made initially a 3D camera for the rover, to be used in Gianfranco’s lab,” recalls Cosine’s CEO Marco Beijersbergen, “and the people of ESA’s Erasmus Centre saw the potential of having a 3D camera for the Space Station. So we started developing ERB.”
+Massimo Sabbatini remembers, “We thought it would be great to promote the Space Station by showing 3D videos in our Virtual Reality Theatre. Visitors could then ‘move’ around the outside of the Station and inside its many modules, taking advantage of the advanced sense of presence offered by our 3D visualisation tools.”
+“Despite the commercial and profitable nature of the business, the technology we use has its roots in space, with ESA sowing the first seeds,” emphasises Max.
+“But we use more commercial units and customise to different needs in areas as diverse as forensics, medicine, surveillance and quality monitoring.”
+More spin-off with ESA support
+“In addition to the record-breaking space success confirming the concepts and the 3D technology, we saw great commercial potential for advancing the cameras,” adds Max.
+“That is why in 2011 we again went to ESA’s incubation centre in Noordwijk with the proposal to add hyperspectral imaging, which also has its roots in space programmes, for Earth observation.”
+Hyperspectral imaging separates light into its fine component colours that reveal the composition of objects.
+Having recently completed its incubation, 3D-ONE is now a steady business producing large volumes of 3D and hyperspectral units for non-space clients.
+Cameras destined for space are subjected to many constraints, including mass and power, thermal stability, the necessity to focus, zoom, record, process and store data all within one integrated unit.
+Terrestrial conditions are more forgiving, but Max emphasises, “3D-ONE’s customers soon realise that the technology that can perform in space also offers more capabilities.”
+By adding the unique hyperspectral capability gleaned from space, the possibilities multiply. Max says, “For example, a police officer at a crime scene does not have to wait for a lab to tell him how old traces of blood are. Hyperspectral technology can determine its age immediately, by colour alone.”
+“The success of 3D-ONE has once again proven the potential of our technology and the worth of our business incubation to support the transfer of leading-edge space technologies to create more businesses with new jobs in Europe,” notes Niels Eldering of ESA’s Technology Transfer Programme Office, which each year helps more than 75 new start-ups at its eight incubation centres to spin off space technology.
+“3D-ONE is a prime example of space heritage providing a competitive advantage.”

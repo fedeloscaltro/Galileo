@@ -1,0 +1,13 @@
+2012-04-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Learn_to_dock_ATV_the_astronaut_way
+Learn to dock ATV the astronaut way
+Do you have what it takes to be an astronaut? ESA is making actual astronaut training available on your computer and tablet, so you can see for yourself.
+ESA’s third Automated Transfer Vehicle, ATV Edoardo Amaldi, has safely docked with the International Space Station. ATV is the largest supply ship to fly to the Space Station. A truly international team effort, ATV-3 brought fresh food, fuel and supplies to the Station.
+Although this spacecraft has sophisticated automatic docking systems, astronauts on the Station are trained to ensure a safe docking. On Earth, ESA’s astronaut instructors have shown them how to do the job. The astronaut instructors are often overlooked but they are a vital part of Space Station operations.
+Astronauts spend their working life training for every possible scenario. Up to half a year can pass from the moment an astronaut receives ATV training until an actual docking. To make sure that astronauts are still on the ball when the time comes, the European Astronaut Centre developed refresher courses that astronauts follow while on the Station.
+These refreshers courses are designed to work on laptops but astronauts will soon use tablets, because they have to be able to follow the courses while orbiting 400 km above Earth. Two sets of these lessons are now available for the home user to try.
+Astronauts continuously monitor ATV’s approach during final docking phases, ready to act to if necessary. Lesson one, a regular webpage, lists possible malfunctions, how to recognise them and what to do to avoid further problems.
+Once docked, astronauts cannot simply open the hatch and access the fresh food ATV brings. Lesson two shows in 3D the steps required to enter the vehicle safely: from opening the hatch and turning on the lights, to connecting air ducts and installing acoustic covers.
+Don’t be surprised if the lessons are very technical - basic ATV training takes more than two weeks on ground even for real astronauts, including one-to-one sessions with ESA astronaut instructors. The simulators on Earth reproduce ATV docking with higher fidelity, but the mobile versions have been adapted to the needs of astronauts on the Space Station.
+The lessons work best with Internet Explorer and need the Cortona 3D viewer plugin installed.
+Mobile users can download an iPad/iPhone version of the lessons from the app store.

@@ -1,0 +1,22 @@
+2021-02-02
+https://www.space.com/spacex-starship-sn9-test-flight-launch-explosion
+SpaceX's Starship SN9 prototype launches to 10 km, crashes during landing
+Another Starship has flown high — and come down hard.
+SN9, the latest prototype of SpaceX's Starship vehicle, soared on a test flight today (Feb. 2) from the company's South Texas site, on the Gulf Coast near the small community of Boca Chica Village.
+The stainless-steel SN9 lifted off at 3:25 p.m. EST (1825 GMT; 2:25 p.m. local Texas time). The 165-foot-tall (50 meters) craft appeared to fly well, shutting down its three Raptor engines sequentially as planned, reaching its target altitude of about 6.2 miles (10 kilometers) and performing a complex horizontal flip as it would during an operational reentry to Earth's atmosphere.
+Starship and Super Heavy: SpaceX's Mars-colonizing vehicles in images
+Space.com Collection: $26.99 at Magazines Direct
+Get ready to explore the wonders of our incredible universe! The "Space.com Collection" is packed with amazing astronomy, incredible discoveries and the latest missions from space agencies around the world. From distant galaxies to the planets, moons and asteroids of our own solar system, you’ll discover a wealth of facts about the cosmos, and learn about the new technologies, telescopes and rockets in development that will reveal even more of its secrets. View Deal
+But then came the landing.
+SN9 didn't manage to slow itself down enough or get vertical for landing.  The vehicle hit the touchdown site hard about 6.5 minutes after liftoff, exploding in a massive fireball much as its predecessor, the three-engine SN8 prototype, did on Dec. 9.
+"Again, we've just got to work on that landing a little bit," SpaceX principal integration engineer John Insprucker said during SpaceX's launch webcast.
+"We got a lot of good data, and the primary objective — to demonstrate control of the vehicle in the subsonic re-entry — looked to be very good, and we will take a lot out of that," he added.
+SpaceX is developing Starship to take people and payloads to the moon, Mars and other distant destinations. The system consists of two elements, both of which are designed to be fully and rapidly reusable: a spaceship called Starship and a giant rocket known as Super Heavy.
+The final Starship will be powered by six Raptors, and Super Heavy will have about 30 of the engines, SpaceX founder and CEO Elon Musk has said. Starship will be powerful enough to get itself off the moon and Mars, but it will need the huge booster's help to get off the much more massive Earth.
+SpaceX is iterating toward the final Starship spacecraft via a series of increasingly complex prototypes. The early versions, for example, had just one Raptor engine and got just 500 feet (150 m) off the ground on their brief test hops. SN8 was the first three-engine vehicle to take flight, performing the Starship program's first-ever high-altitude test flight.
+That Dec. 9 flight violated SpaceX's Federal Aviation Administration launch license, FAA officials said in an emailed statement today. That violation, which was first reported by The Verge, led to an investigation and a suspension of testing that delayed SN9's launch until today. (SpaceX had aimed to fly SN9 last week.)
+The FAA said it would look into what happened today as well.
+"The FAA’s top priority in regulating commercial space transportation is ensuring that operations are safe, even if there is an anomaly," an FAA spokesperson said today in a statement emailed out after SN9's flight.
+"The FAA will oversee the investigation of today’s landing mishap involving the SpaceX Starship SN9 prototype in Boca Chica, Texas," the statement continued. "Although this was an uncrewed test flight, the investigation will identify the root cause of today’s mishap and possible opportunities to further enhance safety as the program develops."
+SpaceX likely won't take much time to mourn SN9's passing or celebrate the milestones it checked off today. The next Starship prototype, the three-engine SN10, is already on the pad and is expected to begin prelaunch testing soon.
+Such rapid building and testing of prototypes is key to getting Starship up and running in the relatively near future. And Musk has set an ambitious target timeline for Starship, as he does for most of his varied projects. The billionaire entrepreneur recently said that Starship should start launching people to Mars by 2026 and could even do so by 2024 "if we get lucky."

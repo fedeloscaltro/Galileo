@@ -1,0 +1,23 @@
+2013-06-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_ready_to_nose_up_to_Station
+ATV ready to nose up to Station
+ESA’s fourth Automated Transfer Vehicle, ATV Albert Einstein, is set to conduct an autonomous docking with the International Space Station on 15 June. The vessel will deliver scientific experiments, vital supplies and fuel to the astronauts.
+ATV-4 was launched by a powerful Ariane 5 rocket on 5 June into a highly precise injection orbit at an altitude of 259.5 km.
+By Saturday, ATV-4 will have completed a series of phasing manoeuvres – a set of thruster burns – designed to raise the vessel from its injection orbit to a point around 40 km behind and 5 km below the ISS at about 410 km altitude, ready to start rendezvous operations.
+Mission controllers at ESA’s ATV Control Centre in Toulouse will guide it to a specific waypoint – a virtual point 3.5 km behind and 100 m below the station – at which ATV Albert Einstein will begin its automated docking sequence.
+The 20-tonne vessel, flying autonomously but being continuously monitored from the ground, will navigate itself using GPS signals and, in the final 250 m before contact, via laser signals reflected from the aft end of the Zvezda ISS module.
+ATV-4 is expected to dock with the International Space Station at 15:46 CEST.
+Docking with centimetre accuracy
+“Docking will be conducted with centimetre accuracy while orbiting at 28 000 km/h,” says ESA’s ATV-4 Mission Manager Alberto Novelli.
+“The vessel’s technology is first rate and the joint ESA/CNES mission control teams at the ATV Control Centre are trained and fully ready to oversee docking. We’re looking forward to an uneventful arrival at Station.”
+Astronauts monitor ATV arrival
+On board the ISS, ESA astronaut Luca Parmitano and cosmonaut Aleksandr Misurkin will closely monitor docking.
+In the event of any anomaly, the crew can issue commands directly to ATV, instructing it to pause, stop or even abort the docking.
+Once safely attached to the ISS, the hatch will be opened and the vessel’s atmosphere will be cleaned and filtered for a number of hours before ingress, set for 17 June.
+Spare parts, new science
+Luca has two important tasks soon after docking; one is the installation of the Fundamental and Applied Studies in Emulsions Stability (FASES) experiment in the Fluid Science Laboratory in Europe’s Columbus module.
+FASES will investigate the behaviour of emulsions in weightlessness; emulsions play a significant role in many fields of industry, including food production, cosmetics and pharmaceuticals.
+The other is installing a new water pump for the Thermal Control System in Columbus.
+Follow ATV-4 docking live
+The docking will be webcast via http://www.esa.int on Saturday, 15 June, 14:50-16:00 CEST.
+Follow ESA ATV blog for live updates via http://blogs.esa.int/atv

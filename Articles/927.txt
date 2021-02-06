@@ -1,0 +1,12 @@
+2014-03-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-5_set_to_test_new_rendezvous_sensors
+ATV-5 set to test new rendezvous sensors
+ESA’s space freighter ATV Georges Lemaître, set for launch this summer,will test new rendezvous sensors in space as it approaches the International Space Station.
+ESA has set its sights on allowing future spacecraft to rendezvous with ‘uncooperative’ targets, such as orbiting debris or a Mars sample capsule.
+The LIRIS demonstrator – short for Laser InfraRed Imaging Sensors – on the last Automated Transfer Vehicle, or ATV, is the first step towards an uncooperative rendezvous in space.
+On future missions, infrared cameras and lidar sensors – the light equivalent of radar – would scan the targets while onboard computers processed the data using new guidance navigation and control software.
+At 30 km from the target, infrared cameras would be used before lidar took over from 3.5 km out to docking.
+Since the first ATV was launched in 2008 they have docked flawlessly with the Space Station using satellite navigation at long range and optical sensors close in, bouncing light off reflectors on the orbital outpost.
+ESA contractors Airbus Defence and Space, with Sodern and Jena-Optronik, proposed using ATV-5 to demonstrate the new approach for future projects. The infrared camera has been provided by French company Sodern, with German-based Jena-Optronik supplying the lidar.
+ATV-5 is the last in the series to deliver supplies to the Station and its mission offers a unique opportunity to space-test LIRIS for comparison with the operational navigation sensors. Recorders inside ATV’s pressurised cargo bay will store the data for later download and analysis.
+The hardware is now being installed on ATV at Europe’s Spaceport in Kourou, French Guiana.

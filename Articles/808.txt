@@ -1,0 +1,15 @@
+2016-03-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Cultivating_microalgae_using_made-for-space_formulas
+Cultivating microalgae using made-for-space formulas
+A new facility is offering researchers and industry an opportunity to experiment with microalgae on larger scales than before. Based in Saint-Nazaire, France, the AlgoSolis site is a stepping stone to industrial production of algae-based products.
+Microalgae offer huge benefits because they promise many products for human use, from biofuels to oxygen and food, as well as clean contaminated water or extract carbon dioxide from the atmosphere.
+ESA’s MELiSSA – Micro-Ecological Life Support System Alternative – project is using algae and other organisms and chemicals to develop a compact closed ecosystem to keep astronauts alive on long missions.
+MELiSSA has amassed over 25 years of knowledge on how to cultivate microalgae since it sent blue–green algae into space in 1987.
+Just give the algae some food, add water and light and they will grow and produce harvestable goods – in theory.
+“Nobody doubts the benefits of microalgae production,” says ESA’s Christophe Lasseur, heading the effort, “but harvesting their benefits on a large scale is not as simple as just building larger tanks.”
+Microalgae are typically grown in tanks but the microalgae themselves block the light, leaving their brethren in the middle of the tank in darkness, stunting growth and the harvest.
+“Growing microalgae at full capacity in a laboratory is easy, but on an industrial scale it is proving hard to get more out than we put in,” says the head of the new facility, Jérémy Pruvost.
+Knowledge for space
+To understand how microalgae behave, scientists adjust their environment and observe how they react – but this is not an option for the MELiSSA scientists working to use microalgae in spacecraft because experiments in space are limited and expensive.
+Instead, they delved deeper to understand the underlying physics and biology behind the process – creating a formula that works in any situation. For example, the MELiSSA team can model how light waves behave as they are absorbed and reflected by microalgae to calculate the optimum light placement and power settings.
+“This knowledge is unique, and allows us to offer researchers and commercial clients a perfect testbed to experiment with microalgae and cultivate their benefits on larger scales and with better precision than ever before,” says Jérémy.

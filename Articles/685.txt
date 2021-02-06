@@ -1,0 +1,9 @@
+2018-02-20
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Ensuring_fresh_air_for_all2
+Ensuring fresh air for all
+A start-up company from an ESA business incubator is offering affordable air-quality monitors for homes, schools and businesses using technology it developed for the International Space Station.
+“We realised that the problem astronauts face with limited of exchange of air inside the International Space Station is also the case for many people inside buildings that have little or no ventilation,” explains Ciro Formisano from Airgloss, hosted at ESA’s Business Incubation Centre in Lazio, Italy.
+“So we adapted the sensor system we had designed for the Station to work on Earth in a variety of settings, with web-based controllers to give timely warnings wherever you are.”
+The products are direct spin-offs from the system Ciro and his team developed at the University of Rome Tor Vergata to check the air quality aboard the orbiting complex. There, it was tested by ESA astronaut Roberto Vittori during his third flight in 2011.
+The patented sensor acts like an ‘electronic nose’, sniffing the air and applying artificial intelligence to match the patterns it detects to the chemical signatures of a wide range of chemical compounds in its database. It then alerts users to deteriorating air quality and the presence of pollutants.
+Full story here.

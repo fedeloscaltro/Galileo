@@ -1,0 +1,22 @@
+2012-05-07
+https://www.esa.int/About_Us/ESOC/Terraforming_a_landscape_for_a_robotic_rover
+Terraforming a landscape for a robotic rover
+Challenged to design a background for a small rover controlled from space, students in Germany have delivered a futuristic cityscape. The cool space art will be seen by astronauts in orbit via the rover’s camera eye as they remotely control their avatar later this year.
+The ultimate goal is for robot astronauts to roam around hazardous places like Mars and asteroids guided by human controllers safely orbiting overhead in their spacecraft.
+As a first step, ESA is linking the International Space Station and Earth for remotely controlling terrestrial test robots from the orbital outpost.
+This Meteron (Multi-purpose End-To-End Robotic Operations Network) initiative is a testbed for future missions to the Moon, Mars and other celestial bodies.
+Astronauts to practise rover remote control
+“Later this year, astronauts on the Station will practise remote control of the small rover in a simulated landscape here at ESOC, says François Bosquillon de Frescheville, experiment manager at ESA’s European Space Operations Centre, Darmstadt, Germany.
+The rover – known as Meteron Operation and CommUnication Prototype, or MOCUP – is built from a LEGO© Mindstorm kit with some custom-made additions, and for now can do only simple things.
+The astronauts will use a computer on the Station to control the rover and will see what it is ‘seeing’ and doing on a screen, like a video game.
+“The Space Station is the perfect orbital platform to simulate very realistic scenarios for human exploration,” says ESA’s Kim Nergaard, a Meteron manager.
+In the simulation, the rover is meant to be moving through an ‘alien’ landscape, so the ESA team asked local secondary-school students to design a horizon in the shape of a hexagon built out of 12 painted wooden panels to contain the rover and a number of obstacles for the astronauts to negotiate.
+Design open to imagination
+“We gave the student team a series of firm technical requirements, but the design of the background was left open to their imagination,” says Kim.
+“We thought they’d do a reddish, martian desert, maybe with a few boulders. Instead, they delivered a futuristic cityscape.
+“It’s wonderful, and it speaks volumes about the optimism with which youth imagine the future – it’s obviously a pretty cool place.”
+While brainstorming their graphic design, the 11 students from the Schuldorf Bergstrasse near Darmstadt considered a number of concepts, but finally settled on the cityscape.
+“It was a democratic vote by the students themselves, who just thought a future city skyline would be more interesting for the live rover tests,” said Petra Thomschke, one of the teachers working with the students.
+The future is obviously a pretty cool place.
+“Remotely commanding the model rover will provide a through test for the links from the Station to ground, which must be confirmed before moving on to the more sophisticated robots later in the Meteron project,” says Kim.
+“The students of Schuldorf Bergstrasse can be proud of their contribution to ESA’s exploration activities.”

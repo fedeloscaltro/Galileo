@@ -1,0 +1,11 @@
+2017-08-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Cosmic_opportunity_for_radiation_research_at_ESA
+Cosmic opportunity for radiation research at ESA
+Cosmic radiation is considered the main health hazard to human spaceflight and space exploration of the Moon, Mars and beyond, which is why ESA has made cosmic radiation a focus of its research programme.
+Radiation poses a risk to the human body in the form of cancer, central nervous system disorders, cardiovascular problems and tissue degeneration. Beyond Earth’s magnetic field, its full force is a barrier to human exploration of the Solar System.
+“Crewmembers may be exposed to different doses and qualities of radiation, threatening life quality and individual survivability, thereby disrupting mission success,” explains Jennifer Ngo-Anh, head of Human Research at ESA. “This creates a need for investigations into biological effects of space radiation, in order to allow more accurate risk assessments, which in turn leads to more accurate planning of countermeasures.”
+Spacecraft and spacesuits are lined with protective materials that reduce radiation exposure to within acceptable limits. The challenge is in defining this limit for spaceflight beyond low Earth orbit. Researchers need to understand the full biological effects of cosmic rays to accurately calculate how much cosmic radiation exposure humans can safely withstand.
+To address these issues, ESA has announced an opportunity to investigate the biological effects of space radiation at the GSI Helmholtz Center for Heavy Ion Research. Located in Darmstadt, Germany, GSI has collaborated with ESA on the use of its high-energy accelerator since 2007.
+Proposed experiments should contribute to improving the risk assessments of cosmic radiation exposure or to studying countermeasures on cells to allow safe and stable human space exploration.
+Results of such experiments will also have application for life on Earth: though well protected, humans are not altogether immune from radiation exposure. Data from these studies inform us of risks of radiation exposure on Earth as well as improve radiation therapy for cancer treatment.
+See the Announcement of Opportunity for more details and deadlines.

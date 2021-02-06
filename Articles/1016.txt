@@ -1,0 +1,19 @@
+2012-10-17
+https://www.esa.int/About_Us/ESOC/Using_space_internet_to_control_robots
+Using space internet to control robots
+ESA and NASA have tested a communications protocol that will allow astronauts to control robots from space stations orbiting planets or asteroids. The test marks the way for a trial-run with an astronaut on the International Space Station next week.
+Last week a Space Station user centre at the University of Boulder, USA sent a command to a NASA laptop on the International Space Station to start a script that controlled the Mocup rover at ESA’s ESOC operations centre in Darmstadt, Germany.
+The rover was commanded to move forward and take pictures, which it performed as planned.
+Mocup is one of the test rovers in ESA’s Meteron – Multi-purpose End-To-End Robotic Operations Network – initiative for future missions to the Moon, Mars and other celestial bodies.
+Space exploration will most likely involve sending robotic explorers to test the waters on uncharted planets before sending humans to land.
+In the case of distant planets, these robots could be controlled by astronauts in spacecraft orbiting the planet.
+“In these tests we are pretending that Earth is the Moon or Mars,” says Kim Nergaard, Meteron Ground Segment and Operations Manager.
+Reliable communications
+Sending commands in this way is not as straightforward as it might seem. Links could be interrupted if not in direct line of sight with Earth or the surface device.
+A system had to be devised that would assure correct operation even in less-than-ideal conditions. Scientists devised the Disruptive Tolerance Network as a form of ‘space internet’ to communicate reliably.
+The network protocol stores commands if the signal is lost and forwards them once communications are regained.
+Now that the first test of communications is complete, the laptop on the International Space Station will be handed over to ESA control from a user operations centre in Belgium.
+Next week, NASA astronaut Sunita Williams will for the first time control the Mocup rover from space in real time.
+She will use input sent directly to her from the rover itself. ESOC will only observe the process for later analysis.
+“This is a first step towards validating systems for a future human mission to Mars,” says Kim.
+“Once we have confirmed that the communications side works, we will start testing hardware and operations.”

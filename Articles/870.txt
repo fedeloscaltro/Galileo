@@ -1,0 +1,22 @@
+2015-02-06
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Camera_to_record_doomed_ATV_s_disintegration_from_inside
+Camera to record doomed ATV’s disintegration – from inside
+Next Monday, ESA astronaut Samantha Christoforetti will float into Europe’s space ferry to install a special infrared camera, set to capture unique interior views of the spacecraft’s break-up on reentry.
+“The battery-powered camera will be trained on the Automated Transfer Vehicle’s forward hatch, and will record the shifting temperatures of the scene before it,” explains Neil Murray, overseeing the project for ESA.
+“Recording at 10 frames per second, it should show us the last 10 seconds or so of the ATV. We don’t know exactly what we might see – might there be gradual deformations appearing as the spacecraft comes under strain, or will everything come apart extremely quickly?
+“Our Break-Up Camera, or BUC, flying for the first time on this mission, will complement NASA’s Reentry Break-up Recorder.
+“Whatever results we get back will be shared by our teams, and should tell us a lot about the eventual reentry of the International Space Station as well as spacecraft reentry in general.”
+Every mission of ESA’s ATV ferry ends in the same way – filled with Space Station rubbish then burning up in the atmosphere, aiming at a designated ‘spacecraft graveyard’ in an empty stretch of the South Pacific.
+But the reentry of this fifth and final ATV is something special. NASA and ESA are treating it as an opportunity to gather detailed information that will help future spacecraft reentries.
+Accordingly, ATV-5 will be steered into a shallow descent compared to the standard deorbit path.
+This ATV’s fiery demise will be tracked with a battery of cameras and imagers, on the ground, in the air and even from the Station itself, and this time on the vehicle itself.
+ESA’s camera will not survive the reentry, expected to occur some 80–70 km up, but it is linked to the ‘SatCom’ sphere with a ceramic thermal protection system to endure the searing 1500°C.
+Once SatCom is falling free, it will transmit its stored data to any Iridium communication satellites in view.
+Plunging through the top of the atmosphere at around 7 km/s, it will itself be surrounded by scorching plasma known to block radio signals, but the hope is that its omnidirectional antenna will be able to exploit a gap in its trail.
+If not, signalling will continue after the plasma has cleared – somewhere below 40 km altitude.
+Japan’s i-Ball camera managed to gather images of its Station supply ferry breaking up in 2012. Another i-Ball was planned to fly with ATV-5, but was lost in the Antares rocket explosion last October.
+Continue reading below
+ESA’s camera team had to develop flight-ready hardware in just nine months. The camera and capsule was constructed by Ruag in Switzerland, with thermal protection contributed by the DLR German Aerospace Center, Switzerland’s ETH Zurich contributing software, Switzerland’s Viasat responsible for antenna and electronics and Denmark’s GomSpace delivering batteries.
+“Between us and the NASA side, there are a lot of fingers crossed at the moment,” Neil adds.
+“For the future, now the development has already been done, the camera has broader potential as a ‘blackbox for reentry’, flyable on a wide range of satellites and launchers.”
+The camera will be activated by a set sequence of acceleration by ATV. Some 10 seconds’ worth of 320x256 frames from the camera will be buffered in the SatCom memory at a time plus about one-frame-per-second reference images of the previous set, and progressively overwritten as fresh imagery arrives.

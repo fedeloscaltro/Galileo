@@ -1,0 +1,14 @@
+2017-04-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Monitoring_the_airways
+Monitoring the airways
+Astronauts in space are valuable sources of scientific data. Researchers collect blood and urine samples to understand what effects living in weightlessness has on their bodies. For one experiment, investigators are interested in their breath.
+The Karolinska Institutet in Stockholm, Sweden, is analysing astronauts’ exhaled air to probe lung health. The results so far have been breathtaking.
+A breath of pressurised air
+The Airway Monitoring experiment measures the level of nitric oxide in astronauts’ lungs, a naturally occurring molecule produced in the lungs to help regulate blood flow. Small amounts are normal, but excess levels indicate airway inflammation caused by environmental factors such as dust and pollutants or diseases like asthma.
+Aboard the Station, astronauts breathe into an analyser at normal pressure and in the reduced pressure of the Quest airlock – similar to the pressure in future habitats on Mars and lunar colonies. The measurements are then compared to those taken before flight.
+The experiment began with ESA astronaut Samantha Cristoforetti in 2015 and has tested six astronauts so far, aiming to finish with more astronauts by 2020.
+Preliminary results are surprising. While nitric oxide levels were lower throughout astronauts’ stays in space, as expected, they found that the levels initially decreased just before flight. Researchers are not yet sure why this is the case.
+But the lower nitric oxide levels in astronauts’ lungs means researchers have to reset the level considered to be ‘healthy’ for spaceflight.
+If what is considered a normal level of nitric oxide in humans on Earth could in fact be a sign of airway inflammation for astronauts in space, researchers have a more accurate standard from which to conduct further research on lung health in space.
+This information is key to ensuring the health and safety of astronauts on longer missions further from Earth. Understanding the effects of weightlessness and reduced pressure on airway health allows us to solve future problems. This in turn will help space explorers monitor, diagnose and treat lung inflammation during spaceflight.
+For now, data from the remaining astronaut participants are needed before definitive conclusions can be made. But, overall, researchers have a better understanding of the lungs that will go a long way towards developing better diagnostic tools for airway diseases in patients on Earth.

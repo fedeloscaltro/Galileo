@@ -1,0 +1,16 @@
+2013-01-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Game_on_European_student_codes_reach_Space_Station
+Game on: European student codes reach Space Station
+Operating droids in space was no obstacle for a German–Italian alliance to reach the finish line of the Zero Robotics tournament. The European winners commanded mini-robots to dodge virtual dust clouds and rendezvous with disabled satellites, all in the weightlessness of the International Space Station.
+This year’s competition gave over 130 high-school students from across Europe the opportunity to operate droids in space by coding software.
+Six alliances made of teams from Italy, Germany, Spain and Portugal witnessed how their computer codes worked in the Space Station from ESA’s ESTEC space research and technology centre in the Netherlands
+The RetroSpheres space game involved two mini-robots racing through a course using the least amount of fuel. During the three-minute programmed dance, the volleyball-sized spheres moved using 12 squirts of compressed gas.
+Competitors could collect extra fuel from decommissioned satellites and deorbit the satellites for extra points while navigating through their opponent’s dust clouds.
+“It is really special to see what these students have created and get to operate their algorithms in space,” said NASA’s Kevin Ford on the Station. The astronaut, together with crewmate Tom Marshburn, set up the matches from Japan’s Kibo laboratory.
+The team with the most fuel left over in the European finals was the BEER alliance – the Brotherhood of Esteemed European Researchers. German and Italian high-school students developed the software that calculated the winning path for their robot in an exciting final game that demonstrated Newton’s laws of motion.
+Robotic future
+The challenge to control these robots remotely began in the United States, where an adventurous professor from the Massachusetts Institute of Technology found inspiration from the Star Wars saga. The mini-spacecraft have been used on the Station since 2006 to try out manoeuvres.
+ESA astronaut André Kuipers, who ran the competition from the Station last year, hosted the event from ESTEC. “Europe is embarking on robotic-related missions. Robots are and will be of great help in space,” he noted.
+Spacecraft fuel consumption – carbon dioxide in this case – was a programming issue for the students. “Most of us knew nothing about computer science before this competition. Teamwork and creative strategies helped us to succeed,” explained Jaime Sevilla, one of the Spanish players.
+Teachers were pleased to see their pupils learn to communicate with each other, gaining technical knowledge and boosting their enthusiasm.
+You can replay the full webcast of the event by clicking on the link to the right.

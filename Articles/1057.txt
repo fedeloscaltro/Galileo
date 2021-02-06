@@ -1,0 +1,11 @@
+2012-05-25
+https://www.esa.int/About_Us/ESOC/Future_Space_Station_crew_train_to_control_rover_from_orbit
+Future Space Station crew train to control rover from orbit
+Canadian astronaut Chris Hadfield and NASA’s Sunita Williams, both scheduled for missions to the International Space Station, have completed their training at ESA’s European Astronaut Centre to learn how to drive a model rover remotely on Earth from space.
+The training is part of an Agency initiative to test communications concepts and technologies for Meteron, the Multi-Purpose End-To-End Robotic Operations Network, which will be used to prepare for future human and robotic missions to the Moon, Mars and other celestial bodies.
+The two astronauts were at EAC, Cologne, Germany, on 22 May to train with the Meteron Operation and CommUnication Prototype (MOCUP), a simple model rover being used for checking the special communication link from the Station to Earth.
+Later this year, Williams is scheduled to control the rover, located at ESA’s Space Operations Centre, Darmstadt, from the orbital outpost and will see what it is ‘seeing’ and doing on a laptop screen.
+This will confirm the space-to-ground communication link, which joins several ESA and international partner establishments and the Station.
+This link will later be used to control actual robotic vehicles, including Eurobot located at ESTEC, as part of Meteron research.
+This week’s training was supported by the Belgian ISS User Support and Operation Centre in Brussels, one of the nine institutes that support European scientific research conducted in orbit and on the Station.
+The MOCUP prototype is built from a LEGO© Mindstorm kit with some custom-made additions, and for now can do only simple things.

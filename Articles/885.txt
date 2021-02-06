@@ -1,0 +1,20 @@
+2014-11-13
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Europe_s_3D_printer_set_for_Space_Station
+Europe’s 3D printer set for Space Station
+Europe’s very first 3D printer in space is scheduled for installation aboard the ISS next year.
+Designed and built in Italy, it will be put to the test as part as ESA astronaut Samantha Cristoforetti’s Futura mission, and is set to reach orbit in the first half of next year. Samantha herself will be launched on her six-month Station assignment on 23 November.
+“The POP3D Portable On-Board Printer is a small 3D printer that requires very limited power and crew involvement to operate,” explained Luca Enrietti of Altran, prime contractor for the compact printer.
+The unit is a cube with 25 cm sides and prints with biodegradable and harmless plastic using a heat-based process.
+“Part of the challenge of designing a 3D printer for the Station was to ensure its operation does not affect the crew environment,” added Giorgio Musso of Thales Alenia Space Italy, principal investigator for the project.
+Funded by Italy’s ASI space agency, POP3D should take about half an hour to produce a single plastic part, which will eventually be returned to Earth for detailed testing, including comparison with an otherwise identical part printed on the ground.
+The project was presented during a workshop on 3D printing for space held at ESA’s technical centre in Noordwijk, the Netherlands.
+More than 350 experts from across Europe came together to discuss the potential of 3D printing for space, both in orbit and in ground manufacturing.
+“There is big potential all along the value chain, to save cost and mass,” noted Reinhard Schlitt, heading OHB’s Engineering Services.
+“But right now the way parts are being produced in various different ways. As a satellite manufacturer, we need common standards in place so we can compare competing supplier parts on a like-for-like basis.
+“Europe does have a lead in this technology – the latest laser machines are coming from here for export to the US and China – so we should build on that.”
+Thales Alenia Space is taking a keen interest in terms of manufacturing, confirmed Florence Montredon, heading the company’s technology components group: “We’re looking in particular at applying it to complex secondary structures for satellites. This includes the design phase, where software places material as needed to help cut mass.”
+Steffen Beyer, Head of Materials and Process Technology at Airbus Defence and Space added: “it is very promising for reducing costs particularly for complex structures and reducing lead time significantly. In the case of a complex injector of a rocket engine, we are able to take the total number of parts needed down from around 250 down to one or two; that represents a revolution in design and manufacturing.”
+Wolfgang Veith, Head of ESA’s Product Assurance & Safety Department, concurred: “To move 3D printing from prototype research to something else we need robust, reliable and repeatable products, whose design margins can be fully verified.”
+He explained that the advantages include a 40–90% decrease in materials compared to standard ‘subtractive’ manufacturing, far-reduced lead times, less complex assemblies and interfaces, and greater environmental friendliness.
+Wolfgang added that next year ESA would take the lead in working with all the main European players to map out common development plans for 3D printing for space use.
+This workshop marked a major milestone in that process, commented Tommaso Ghidini, Head of the Materials Technology Section in ESA, in charge of harmonising 3D printing technology for space: “Previously, we have had various efforts mushrooming up in different parts of Europe. Now we have a community of people talking together, thinking together and headed in a common direction.”

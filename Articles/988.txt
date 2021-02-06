@@ -1,0 +1,19 @@
+2013-03-15
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Smartphone_app_turns_home_drone_into_spacecraft
+Smartphone app turns home drone into spacecraft
+A free ESA app released today turns a popular iPhone-controlled ‘home drone’ into a spacecraft. The augmented reality game lets owners of Parrot AR.Drone quadcopters attempt dockings with a simulated International Space Station while flying their drones for real – in the process helping to improve robotic rendezvous methods.
+This new AstroDrone app is part of a scientific crowdsourcing project by ESA’s Advanced Concepts Team, gathering data to teach robots to navigate their environments.
+“People intuitively assess their position and motion in relation to their surroundings in various ways, based on what they see before them,” explained team research fellow Guido de Croon.
+“This new app lets us crowdsource examples of this process in practice, as a first step to reproducing it with artificial intelligence.
+“For ESA, the result could be much more autonomous spacecraft that can reliably manoeuvre, dock or land themselves.”
+Remote-controlled drones were once the province of the military, but technology advances make them accessible now to everybody.
+“For ESA, this development opens up completely new ways of involving the public in scientific experiments,” noted Leopold Summerer, head of the Advanced Concepts Team. “We can obtain real-life data to train our algorithms in large amounts that would practically be impossible to get in any other way.
+The AR.Drone is one example: around half a million have been sold since their introduction by France’s Parrot company in 2010. Equipped with two cameras, the midget drone flies on four rotors and can be steered by iPhone or any other iOS device.
+“We wanted to carry out robotic crowdsourcing, which meant selecting a robot that the public actually possesses in large numbers,” added Guido. “This is indeed a robot that people have at home and play games with, with the imaging capabilities we need.”
+“In addition, the manufacturer has made the source code needed to communicate with the drone open to anyone to develop software.”
+With AstroDrone, the controller places an augmented-reality marker on a real-world feature to serve as the Space Station docking port. The challenge is then to place the drone onto a graphical version of the Station in as rapid but controlled a manner as possible, with bonus points for correct orientation and low speed on final approach.
+“Here at ESA’s ESTEC technical centre in the Netherlands we happen to have a ceiling-mounted scale model of the Space Station to manoeuvre around – not everyone is so lucky,” remarked Guido. “But with AstroDrone anyone can share the same experience.”
+Players are invited to contribute to the experiment via the Internet as they log their scores on the high-score table.
+Their inputs will be anonymous, Guido explained: “We’re not interested in the places people are flying in. We will not receive any raw video images or GPS measurements, only the abstract mathematical image features that the drone itself perceives for navigation, along with velocity readings.”
+A three-person team developed the app – Guido worked alongside with Paul Gerke and Ida Sprinkhuizen-Kuyper of Radboud University in the Netherlands.
+Versions for other devices are planned as time permits, as well as future levels featuring other space rendezvous scenarios – such as ESA’s Rosetta probe rendezvousing with the 67P/Churyumov–Gerasimenko comet, which takes place for real next year.

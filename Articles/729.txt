@@ -1,0 +1,14 @@
+2017-06-02
+https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Discovery_and_Preparation/Returning_to_the_Moon
+Returning to the Moon
+The last manned mission to the Moon took place in December 1972. Although several probes have targeted the Moon since then, we humans have concentrated on living and working in low Earth orbit and on exploring the rest of the Solar System with some ambitious robotic missions.
+Today, the general view shared by Earth's space agencies is changing. The exploration of outer space is still high on everybody's list but it has become apparent that many future space activities will require a human presence on the Moon first.
+So far, no humans have ever been to the polar regions of the Moon, where unmanned missions have found water in the form of ice. Water is an important resource because it can be used to produce oxygen, which will be vital for human survival on the Moon.
+But what does this all mean? If we are going to return to the Moon, astronauts will need somewhere to live, in a safe and stable environment.
+A new study launched under ESA’s General Studies Programme (GSP), called ‘Conceiving a lunar base using 3D printing technologies’, is set to find out ways of creating habitable structures using all resources available at the destination.
+The study is looking into additive manufacturing (or 3D printing) technology from a wider perspective, including the ancillary equipment needed to operate this and the high-level requirements to ultimately achieve a lunar habitat.
+Several studies have been carried out by different space agencies to see how humans could survive on the Moon. In this respect, additive manufacturing (or 3D printing) has been identified as one of the most promising applications for building structures on the Moon.
+Lunar soil as a base material for a 3D printer has already been used to fabricate honeycomb-like bricks from which all kinds of useful structures can be made. An even faster way of producing a lunar habitat would make use of an inflatable base that can be covered layer-by-layer with lunar soil (or ‘regolith’) to create a protective shell.
+However, these studies have focused on conceptual designs, often based on single elements, rather than taking into account the overall needs in terms of energy, collection and transportation of the regolith, machinery, and so on.
+This new GSP study is to analyse the possibilities of using additive manufacturing for the realisation of a lunar base, including the production of internal equipment for the crew, the processing of food based on a limited number of basic elements, and the possibility of making spare parts needed to maintain such base. It will address technologies that could be used in a lunar environment and investigate the developmental needs of 3D printing to ensure a sustainable, safe place for astronauts on the Moon.
+This article was first published on the ESA GSP pages on 2 June 2017.

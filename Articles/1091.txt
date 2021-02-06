@@ -1,0 +1,17 @@
+2012-03-05
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Lunar_lander_firing_up_for_touchdown
+Lunar lander firing up for touchdown
+Europe’s ambition of touching down at the Moon’s south pole by 2018 has been boosted by recent test firings of the craft’s thrusters. The robot lander will prove new techniques for sending humans to the Moon and assess lunar hazards.
+With no atmosphere on the Moon, Lunar Lander cannot rely on parachutes to slow its descent. Instead, the craft will need to fire its engines in a rather unconventional way.
+One of these thrusters was recently put through its paces at Astrium’s specialised facility in Lampoldshausen, Germany.
+The test chamber was configured to reproduce the vacuum and temperatures that Lunar Lander will face on its way down to the Moon’s surface.
+A complete descent and touchdown was simulated, with the thruster firing in a series of short bursts, reaching a white-hot 1100ºC.
+According to ESA’s Bérengère Houdou, the results are positive: “The thruster operations were smooth and stable, with great performance, even under the stress of Lunar Lander’s operating conditions.”
+To save the cost of developing a new engine, ESA engineers looked to the tried-and-tested thrusters of Europe’s proven Automated Transfer Vehicle (ATV) space ferry.
+ATV has already completed two fully automated missions to the International Space Station, delivering supplies and boosting the complex to a higher orbit.
+The third ATV is set for launch this month.
+But landing on the Moon is very different from docking with a space station. Before these tests, it was unclear whether the thrusters would be suitable for a lunar voyage.
+Ahead of landing, the craft will orbit the Moon some 100 km above the surface. To descend to the Moon’s southern pole, central engines will fire for 10 minutes as the ATV thrusters steer the spacecraft to a safe landing.
+There is no GPS for the Moon, so Lunar Lander will navigate by digitally imaging the surface and recognising features.
+A laser will complete the picture to avoid hazards such as boulders and craters at the target site.
+Lunar Lander’s powerful processor will make intelligent decisions to search for a safe area and touch down without human help. European technology will be used throughout.

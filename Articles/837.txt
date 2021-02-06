@@ -1,0 +1,19 @@
+2015-09-08
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Slam_dunk_for_Andreas_in_space_controlling_rover_on_ground
+Slam dunk for Andreas in space controlling rover on ground
+Putting a round peg in a round hole is not hard for someone standing next to it. But yesterday ESA astronaut Andreas Mogensen did this while orbiting 400 km up aboard the International Space Station, remotely operating a rover and its robotic arm on the ground.
+Andreas used a force-feedback control system developed at ESA, letting him feel for himself whenever the rover’s flexible arm met resistance.
+These tactile sensations were essential for the success of the experiment, which involved placing a metal peg into a round hole in a ‘task board’ that offered less than a sixth of a millimetre of clearance. The peg needed to be inserted 4 cm to make an electrical connection.
+“We are very happy with today’s results,” said André Schiele, leading the experiment and ESA’s Telerobotics and Haptics Laboratory.
+“Andreas managed two complete drive, approach, park and peg-in-hole insertions, demonstrating precision force-feedback from orbit for the very first time in the history of spaceflight.
+“He had never operated the rover before but its controls turned out to be very intuitive. Andreas took 45 minutes to reach the task board and then insert the pin on his first attempt, and less than 10 minutes on his follow-up attempt, showing a very steep learning curve.”
+The experiment took place at ESA’s ESTEC technical centre in Noordwijk, the Netherlands, watched by a contingent of media as well as eager telerobotics engineers and centre personnel.
+The experiment’s Interact Centaur rover was designed and built by the Lab team in collaboration with graduate students from Delft University of Technology.
+The 4x4 wheeled vehicle combines a camera head on a neck system, a pair of highly advanced arms designed for remote force-feedback operation and a number of proximity and location sensors, including an arm laser to indicate depth close-up.
+The real challenge was achieving meaningful force feedback despite the distance the signals had to travel: from the Station, hurtling around Earth at 8 km/s, up to satellites almost 36 000 km high and then down to a US ground station in New Mexico, via NASA Houston and then through a transatlantic cable to ESTEC – and back. It added up to a round-trip of more than 144 000 km.
+The inevitable two-way time delay approaches one second in length, but the team used sophisticated software based on a dedicated control method termed ‘model mediated control’ to help compensate for this lag, incorporating sophisticated models to prevent the operator and arm from going out of sync.
+With time remaining, Andreas used a force-feedback joystick to differentiate between the stiffness of different springs, helping to measure the sensitivity of users up in orbit to very small degrees of feedback.
+Remote-control rovers are very useful in any dangerous or inaccessible environment, not only in space. On Earth, they can work in Arctic conditions, the deep sea or at nuclear disaster sites.
+The Interact experiment is a first step towards developing robots that provide their operators with much wider sensory input than currently available. In this way, ESA is literally ‘extending human reach’ down to Earth from space.
+In future, similar systems could be used for ground-based operators to oversee dexterous robotic tasks in orbit – such as removing debris around Earth – or even to build a base on the Moon. Or astronauts could steer rovers across the martian surface while safely in orbit around Mars.
+The test was part of a suite of experiments Andreas is carrying out on his mission to the Space Station. Arriving last Friday, he is due to return to Earth on Saturday.

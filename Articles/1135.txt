@@ -1,0 +1,21 @@
+2011-10-31
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Hooray_for_glovebox_milestone_and_faster_computers
+Hooray for glovebox milestone – and faster computers
+It is the Microgravity Science Glovebox and it comes from Europe. And it has now logged 10 000 hours of research in space. But there is no time for a celebration: it is now busy pointing the way to a new generation of speed-of-light computers.
+The multipurpose Microgravity Science Glovebox is one of the hard-working science facilities on the International Space Station. Housed in the US Destiny laboratory module, it handle a wide range of ESA and NASA experiments, including fluid physics, materials science, biotechnology and combustion.
+At the moment, it is running the SODI-Colloid 2 experiment, which could provide the building blocks for a new generation of speed-of-light computers.
+Colloid 2 is using SODI Selectable Optical Diagnostic Instrument to study colloids – liquids with suspended microscopic particles. Milk, paint and aerosols are colloids, for example.
+We can build new materials with colloids as the fine particles naturally attract each other: they form bunches and can act in unison, like a single structure.
+On Earth, this building process is dominated by gravity. In space, the delicate differences in attraction between the particles are dominant, sometimes leading to strikingly different structures.
+SODI-Colloid is focusing on photonic crystals and their special light properties. These nano-structures are highly promising candidates for the future.
+A potential product is an optical computer, where electrons are replaced with light. This would make computing literally as fast as light.
+Refocusing on nanoparticles
+SODI-Colloid ran for the first time in September and October of last year. The results were surprising: the science team did not think they would be able to tune the clustering and crystal-building process so well.
+This could allow us to grow a colloidal crystal – an interesting dense material with no holes. To study this further, ESA is now running this second set of experiments.
+After Colloid 2, the glovebox’s next ESA experiment will centre on complex liquid mixtures. Improving our understanding of the basic characteristics of liquids could lead, for instance, to more efficient oil production.
+Quietly celebrating a science machine
+The glovebox was the first science rack from ESA aboard the Space Station, delivered by Shuttle in June 2002, and it has seen heavy use in the US module and in ESA’s Columbus laboratory. It was located in Columbus for 18 months after Europe’s module was delivered in 2008.
+The 10 000-hour mark was achieved on 14 September at 12:45 GMT – a record for all research on the Station.
+Astronauts typically set up an experiment in the glovebox and then leave it for weeks or even months to run automatically or be controlled from Earth. If necessary, they can intervene to make adjustments.
+This automation frees the crew from routine science work and allows them to work on several experiments at the same time.
+And, as Colloid 2 highlights, this fundamental research being pursued on the Space Station ultimately feeds through to our daily lives here on Earth.

@@ -1,0 +1,13 @@
+2017-09-11
+https://www.esa.int/Enabling_Support/Preparing_for_the_Future/Space_for_Earth/Space_for_health/A_patch_of_health
+A patch of health
+During Thomas Pesquet's six-month Proxima mission on the International Space Station ESA monitored his health carefully, as it does for all ESA astronauts.
+Ranging from tests of their physical fitness to analysis of their blood, ESA’s specialists protect and promote the health of astronauts before, during and after their time in space.
+Protecting and promoting the health of ESA astronauts is done for several reasons:
+To support these objectives, ESA is continuously running new experiments and testing innovative technologies.
+During the Proxima mission, ESA evaluated "Everywear", an experiment that gathers health data from astronauts via a system of wearable sensors and wirelessly transfers the information to a Space Station tablet.
+An app developed by France’s space agency CNES with specialists from MEDES and ESA, stores the data and allows it to be easily transferred to ESA’s space medicine specialists, who use it to make decisions and recommendations regarding the health of the astronaut.
+The Everywear hardware consists of three sensors, including a biometric smartshirt, the e-Tact biometric patch developed by BodyCap, and a tonometer sponsored by ESA in collaboration with INSERM.
+BodyCap is a finger-worn piezoelectric sensor that measures the arterial stiffness (which allows evaluation of the cardiovascular health) of an astronaut, while the smartshirt records heart activity (electrocardiogram – ECG) and the physical activity of the astronaut.
+The patch is put on the astronaut’s forearm or chest and records body temperature, orientation and activity. It has a radio-frequency module, developed by Insight SiP, that acts as a miniature radio gateway to wirelessly connect with the tablet.
+These types of wearable health devices can be used in a range of applications such as for fitness and sport, ergonomics and monitor patients remotely.

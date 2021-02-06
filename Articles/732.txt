@@ -1,0 +1,12 @@
+2017-05-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Saving_time_in_space
+Saving time in space
+Working inside the International Space Station is sometimes like assembling complex furniture but with the tools and paper instructions continually floating out of reach. Astronauts also face situations unforeseen by the instructions. Communication delays with ground control to troubleshoot these occasions mean even more valuable time is lost. Now, ‘mobiPV’ is looking to help.
+Developed by ESA, this ‘mobile procedure viewer’ uses software on an android smartphone that allows astronauts to perform manual tasks hands-free while connecting them in real time to mission control via video, voice and text.
+In addition to the smartphone strapped to their wrist, astronauts are equipped with a head-mounted camera, an audio headset, and a tablet as an alternate display option.
+When problems arise, the astronaut can switch on the camera to capture the situation and immediately receive expert feedback from Earth.
+ESA astronaut Andreas Mogensen first tried out mobiPV during NASA’s underwater space simulation in September 2014, and during his mission to the Space Station in September 2015.
+Those trials led to fewer cables and a major software redesign to allow multiple ground stations to link to the astronauts. The software was improved again following a July 2016 test by ESA astronaut Matthias Maurer during NASA’s latest aquatic venture.
+With the prospect of saving a significant amount of time, mobiPV will become a standard part of the Space Station. ESA astronaut Paolo Nespoli will be next to try it out during his mission later this year, after which ESA can offer it to all Station partners.
+As with all technology, it will be continually updated based on feedback. Its developers are already looking to add augmented reality headsets for a richer and more efficient experience.
+Space is by no means mobiPV’s final frontier. It needs only an Internet connection and is adaptable to different procedures and environments, making it a lower-cost and easy way of connecting ground controllers to remote teams. Subsea, military and other industries can benefit from the time and cost saved by mobiPV – though there is no word yet on a household version helping with those sets of flatpack furniture.

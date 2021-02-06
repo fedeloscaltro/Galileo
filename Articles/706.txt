@@ -1,0 +1,20 @@
+2017-09-29
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Telemedicine_via_satellite_improves_care_at_astronaut_landings
+Telemedicine via satellite improves care at astronaut landings
+Tempus Pro, a portable vital-signs monitor offering telemedicine via satellite, is helping medics at ESA astronaut landings. Thomas Pesquet was the first to benefit at the end of his mission in May.
+Astronauts returning from space must readjust to life on Earth. Gravity influences the body’s balance, cardiovascular functions, and especially the muscles, so astronauts are carefully monitored as soon as they are out of their reentry capsule.
+When Thomas landed in Kazakhstan from his mission on the International Space Station, ESA medical staff stood by with the Tempus Pro.
+As he was feeling gravity for the first time in six months, several sensors were attached to his body and connected to the device to gather important medical information.
+This was repeated in the medical tent, during the helicopter ride back to Karaganda in Kazakhstan and on the aircraft back to Cologne in Germany, to allow doctors to detect any changes in his condition.
+“In the challenging environment of an astronaut landing, Tempus Pro allowed us to track and log medical information quickly and easily and to share this in real time with our medical colleagues at ESA’s European Astronaut Centre in Cologne,” commented Sergi Vaquer, ESA’s flight surgeon.
+The secured satellite link with the astronaut centre required a portable satellite antenna connected to the unit.
+Medical teams at both sites examined advanced information containing Thomas’ vital signs such as blood oxygen level, blood pressure and heart activity, ultrasound images, realtime videos, pictures and voice.
+All data were recorded in an encrypted patient record on the device for further evaluation at the centre.
+Sharing information between teams in real time ensures the best possible outcome in the event of a medical emergency during landing operations. Working together increases accuracy and speed of diagnosis and treatment. It also enables a more coordinated and effective emergency response.
+An improved version of the Tempus Pro, based on lessons learned, will be used in December when ESA astronaut Paolo Nespoli returns from the Space Station.
+“The next challenge will be to send data from the Tempus Pro via satellite to medical teams on the ground from the aircraft transporting an ESA astronaut back to Cologne,” commented Arnaud Runge, ESA’s project manager.
+Remote Diagnostic Technologies of the UK developed the device with funding and support from the Business Applications part of ESA’s Advanced Research in Telecommunications Systems programme, which helps European industry to use space to create commercial applications in non-space sectors.
+Tempus is a fully medically approved product that is used by airlines, at sea, in remote regions, and by the military in Europe and the US. Lightweight, compact and robust enough to withstand being dropped from 2 m, it is an all-in-one unit, meaning medics have less equipment to carry.
+All conventional instruments typically required for emergency monitoring and intensive care can be connected such as blood oxygen saturation and contact temperature sensors, invasive and non-invasive blood pressure equipment, electrocardiogram leads, a laryngoscope and a USB ultrasound probe. It includes a GPS chip and has wifi, Bluetooth and ethernet connectivity, and can exchange voice, video and medical data.
+“We are very pleased to see Tempus Pro used at an astronaut landing. This is a very demanding situation and proves the performance of this product,” added Arnaud.
+The company is now developing Tempus ALS for ambulances and intensive care units, which can record data in a secured cloud via satellite communication as well as on the device, and plans new features such as a defibrillator.

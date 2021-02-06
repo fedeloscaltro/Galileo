@@ -1,0 +1,13 @@
+2021-02-04
+https://www.space.com/northrop-grumman-test-fires-vulcan-centaur-rocket-motor
+Northrop Grumman test-fires rocket motors for new Vulcan Centaur booster
+Northrop Grumman and the United Launch Alliance (ULA) successfully performed a crucial rocket motor test for ULA's next-generation rocket, Vulcan Centaur, in preparation for a debut launch later this year.
+On a test stand in Promontory, Utah, the companies did a 90-second "validation ground test" for the motor, which will help power a Northrop Grumman strap-on booster for Vulcan Centaur. The rocket will use the strap-on boosters for additional lift capability, which is handy for situations such as sending large satellites into space.
+The Jan. 21 test focused on the Graphite Epoxy Motor 63XL, a variation of Northrop Grumman's GEM 63 strap-on booster, Northrop Grumman said in a statement.
+"Evolving the original GEM 63 design utilizes our decades of GEM strap-on booster expertise while enhancing capabilities for heavy-lift missions," Charlie Precourt, Northrop Grumman's vice president of propulsion systems, said in the same statement.
+Related: From Atlas to Vulcan: 34 Years of Rocket Evolution in 1 Image
+The new Vulcan rocket line combines technology aspects from the long-running Delta and Atlas rocket families and includes new engines, a mid-air recovery option and a new upper stage.
+ULA's target launch date of 2021 for Vulcan Centaur was set three years ago, after a U.S. Air Force procurement process resulted in slipping the initial 2020 launch target by a year.
+The static test of 63XL on Jan. 21 produced nearly 450,000 pounds of thrust to verify the motor's performance, the insulation, propellant grain, ballistics and nozzle, Northrop Grumman added. The GEM family has been used since the 1980s in ULA (and heritage company) rockets such as the Delta II, the Delta II Heavy, the Delta IV and Atlas V.
+The first operational flight for Vulcan Centaur is expected to be a private moon lander named Peregrine, slated to launch this year. In December, SpaceNews reported that the launch should take place towards the end of 2021.
+The Vulcan Centaur has also been booked to launch six cargo missions to the International Space Station for on Sierra Nevada's Dream Chaser space plane by 2024.

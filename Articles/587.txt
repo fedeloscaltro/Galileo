@@ -1,0 +1,15 @@
+2021-01-20
+https://www.space.com/rocket-lab-launches-microsatellite-another-one-leaves-the-crust
+Rocket Lab launches microsatellite to orbit in its 1st mission of 2021
+Rocket Lab's first mission of 2021 is in the books.
+A two-stage Electron booster lifted off from Rocket Lab's New Zealand launch site today (Jan. 20) at 2:26 a.m. EST (0726 GMT; 8:26 p.m. local New Zealand time), carrying a single microsatellite to orbit.
+That payload — a communications satellite for the European space technology company OHB Group — was successfully deployed about 70 minutes after liftoff.
+"Perfect orbit, payload deployed. Hello 2021!" Rocket Lab founder and CEO Peter Beck said via Twitter this morning.
+In photos: Rocket Lab and its Electron booster
+Once it's up and running, the microsatellite "will enable specific frequencies to support future services from orbit," Rocket Lab representatives wrote in a description of today's mission, which they dubbed "Another One Leaves the Crust."
+"Another One Leaves the Crust" was the 18th mission overall for the 58-foot-tall (18 meters) Electron, which has been providing dedicated rides for small satellites since 2018. The rocket has now lofted a total of 97 spacecraft to orbit, Rocket Lab representatives said.
+Electron is an expendable rocket, but that will change relatively soon if all goes according to plan. Rocket Lab intends to reuse Electron first stages, which will be plucked out of the sky with a helicopter as they're returning to Earth after launch. (Electron is too small to make vertical powered landings like those performed by the first stages of SpaceX's Falcon 9 rocket, Rocket Lab representatives have said; Electron cannot carry enough fuel to have the required amount left over for landing.)
+California-based Rocket Lab has made some serious strides toward achieving this ambition. The company has guided Electron first stages down in a controlled fashion on several recent missions, for example, even pulling off a soft, parachute-aided ocean splashdown following a launch last November. Rocket Lab fished the booster out of the sea after that November mission and hauled it back to shore for inspection and analysis.
+No such recovery activities were performed on "Another One Leaves the Crust," however.
+All of Rocket Lab's missions to date have launched from the company's New Zealand site, which is on the North Island's Mahia Peninsula. But Rocket Lab recently built a second launch site, at the Mid-Atlantic Regional Spaceport in Virginia, primarily to accommodate small-satellite missions for the U.S. government. The first Electron is expected to fly from the Virginia pad in the first half of this year.
+This morning's launch was originally scheduled for early Saturday (Jan. 16) but was pushed back due to a sensor issue.

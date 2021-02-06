@@ -1,0 +1,17 @@
+2013-11-22
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Orion_milestone_set_for_May
+Orion milestone set for May
+A milestone in developing Europe’s contribution to NASA’s Orion crew vehicle, expected to take human crews beyond Earth orbit later this decade, has been set for next May. The period until then will allow for an indepth design analysis for the proposed European hardware.
+Using Automated Transfer Vehicle (ATV) technology proven in flight, Europe will contribute hardware and expertise to the Orion Multi-Purpose Crew Vehicle.
+The activity highlights the major involvement of ESA and European industry in this cornerstone NASA project, and is based on the long-standing partnership of the two Agencies across many areas of human and robotic spaceflight.
+In 2011, an initial forecast for Europe’s redevelopment of existing ATV technology, to be used in the Orion Service Module, foresaw the project stage known as the Preliminary Design Review (PDR) in November 2013.
+However, a series of technical reviews has revealed that additional time will be required for finalising some design trade-offs, the maturity of essential documentation needs to be increased, and recent updates of design modifications and the technical baseline need to be processed.
+As a result, it has been decided to delay the PDR by six months.
+The overall effect on the project’s schedule is still under investigation. It is the aim not to affect the critical path of the project and to minimise the effect on the overall schedule.
+Specific tasks forces have been set up to work on prioritised activities, the industrial team has been reinforced and a closer cooperative working approach with NASA and US industry has been agreed.
+“Decisions on ESA’s contributions are critical because we know NASA plans to use Orion for a long time, to conduct new missions, including human missions to asteroids,” says Nico Dettman, Head of ESA’s ATV programme.
+“We need more time to look at options and ensure we make the right design decisions at this stage.”
+Challenging objectives
+The two Agencies are continuing close collaboration and working-level cooperation, extending to the US and European industrial partners supporting Orion.
+“We have very challenging objectives and we are implementing new techniques in our engineering design process, including probabilistic reliability analysis,” says Nico.
+“This extension will help both Agencies make the right design decisions, and ultimately boost safety as we will increase the confidence we have that the design and manufacturing will have been done right.”

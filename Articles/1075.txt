@@ -1,0 +1,24 @@
+2012-04-03
+https://www.esa.int/Enabling_Support/Operations/Busy_first_days_for_ATV_i_Edoardo_Amaldi_i
+Busy first days for ATV Edoardo Amaldi
+Just two days after a flawless docking with the ISS on 29 March, ESA's third ATV has conducted its first 'test' reboost, proving that it is fully integrated with the Station and ready to perform orbit boosts and manoeuvres if necessary.
+ESA's ATV Edoardo Amaldi completed a technically perfect automated docking with the Russian Zvezda module of the International Space Station (ISS) at 00:31 CEST on 29 March. The procedure was monitored by ESA astronaut André Kuipers and Russian cosmonaut Oleg Kononenko from inside the ISS and by the ESA/CNES mission operations team at the ATV Control Centre, Toulouse.
+Docking marked the start of an intensive period of activity to open the hatch, enter ATV and confirm that all its systems were operating normally and were fully integrated with the data, electrical and other systems of the ISS.
+Crew enters ATV for the first time
+Hatch opening and first ingress took place at 16:15 CEST, and the crew installed an air scrubber to remove any contaminants that may have come loose inside ATV's pressurised cargo area.
+Early on 30 March, the crew also installed the Russian POTOK air filter unit as a measure against any bacterial contamination that may have occurred on ground before the hatch was closed for launch.
+Electrical fault triggers circuit breaker
+At 03:39 CEST, the ATV experienced a fault in one of the two channels of the onboard electronics system that controls its electrical power connections to the Zvezda module.
+"The ATV system is designed to handle this kind of failure so it promptly shut down the faulty equipment and made sure everything was safe," said ESA's Charlotte Beskow, ATV Operation Interface Manager.
+"It's a bit like when you blow a fuse at home, you do not know exactly what went wrong but your house is safe."
+Later, ground teams sent commands that isolated ATV's electrical systems from the rest of the Station.
+"As a precaution, the crew were asked to begin unloading priority cargo, in case the ISS power supply to ATV could not be re-established and — in the worst case of onboard autonomous power shortage — if we had to undock," says Massimo Cislaghi, ESA's ATV-3 Mission Manager.
+"This would have been necessary in case of additional ATV onboard anomalies, while in the nominal case the amount of power ATV can generate from its own solar arrays would have still been sufficient for a long time even without ISS power."
+After consultations between the crew, ATV Control Centre and the ISS Mission Control Centres in Houston and Moscow, the ATV power connection to the ISS was switched to a redundant channel. Power from the ISS to ATV was re-established at 19:03 CEST on 31 March.
+Teams are investigating the problem to determine the cause of the electrical fault.
+First Station boost using ATV thrusters
+Once the power issue was resolved, mission controllers at ATV-CC began working on the first 'test' reboost of the ISS, conducted during the evening of 31 March.
+ATV's thrusters ran for 351 seconds, increasing ISS velocity by 1.0 m/s and boosting average altitude by 1.73 km.
+"In the boost test, ATV thrusters are commanded by the Russian computers inside the Zvezda module," says Charlotte Beskow.
+"This is a standard test performed as soon as possible after docking."
+The successful test burn means that ATV is ready for a series of larger planned reboosts (the first expected on 5 April) and to conduct debris avoidance manoeuvres when necessary.

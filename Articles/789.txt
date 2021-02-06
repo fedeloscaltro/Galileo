@@ -1,0 +1,22 @@
+2016-05-23
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Couture_in_orbit/Putting_new_energy_into_fashion
+Putting new energy into fashion
+An ESA-backed start-up company is working with fashion students to incorporate energy-harvesting devices in new space-inspired high-fashion designs. The results will be unveiled on a catwalk at the London Science Museum on 25 May.
+ESA’s Couture in Orbit initiative is bringing together five top European fashion schools with advanced textile and technology companies to explore the future of fashion.
+UK’s Ravensbourne fashion school is working with Portugal’s iNanoEnergy start-up. Founded by a group of academics from Porto University, this young company is housed at ESA’s business incubator in the university’s Science and Technology Park.
+“The human body generates about 120 watts of heat every day, and is in motion for prolonged periods,” explains the company’s Joel Puga.
+“We have been developing micro- and nano-generators small enough to embed in clothes and shoes to generate power.
+“The aim is to charge the batteries of sensors in the coming generation of smart textiles and shoes and, in the future, to charge smartphones and other devices.”
+The miniature generators combine two technologies with space heritage. ‘Thermoelectricity’ involves converting heat into electricity, often applied to power spacecraft in deep space from radioactive decay.
+‘Piezoelectricity’ generates electricity from compression or other mechanical stress, and is used in spacecraft sensors and actuators.
+“For the time being we are looking into lighting up LEDs embedded in shoes,” adds Joel. “Instead of relying on batteries like the LED shoes you can buy today, these would be powered from our generators, so they would be environmentally friendlier as well as longer lived.”
+iNanoEnergy is working with the Ravensbourne students to incorporate as much of their technology into the shoeware as possible.
+“The result is going to be a surprise,” notes Joel. “We look forward to seeing it as much as anybody.”
+To follow the project’s progress, please visit: http://couture-in-orbit.tumblr.com/.
+Incubating with ESA
+ESA’s network of Business Incubation Centres across Europe is supporting new companies applying space technology to terrestrial markets.
+“To begin with, we weren’t sure about the viability of our business idea,” says Joel. “But we got to the finals in a couple of entrepreneurship competitions – one here in Portugal and the other in Mexico – which encouraged us to take it further.
+“Then we heard about ESA’s business programme, which seemed tailor made for us. So we applied to join, and moved into the Portuguese incubator at the start of this year.
+“It has been really helpful. As academics, we didn’t know so much about business development, but we’ve received a lot of support on that side, as well as benefiting from ESA technical assistance.
+“It also puts us in touch with other start-ups and companies in similar positions, so we are able to network continuously and share ideas and experience – that’s the most valuable thing.”
+There are 12 ESA incubators in nine countries, with four more set to open this year, supporting more than 400 start-ups to date. For more information: http://www.esa.int/Our_Activities/Space_Engineering_Technology/Business_Incubation/ESA_Business_Incubation_Centres12

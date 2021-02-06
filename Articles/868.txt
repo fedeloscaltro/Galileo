@@ -1,0 +1,22 @@
+2015-02-10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_to_bid_farewell_to_Space_Station_for_last_time
+ATV to bid farewell to Space Station for last time
+ESA’s last Automated Transfer Vehicle will leave the International Space Station on Saturday for its final solo voyage, setting course for a fiery demise that will mark the end of its mission and the programme.
+The last of five Automated Transfer Vehicles, Georges Lemaître has had an event-filled mission that has displayed the spacecraft’s versatility. ATV-5 was launched only nine months after predecessor Albert Einstein finished its mission to supply and reboost the orbital complex.
+ATV-5 is the heaviest spacecraft ever lofted by an Ariane rocket, and delivered 6617 kg of supplies and experiments to the Station.
+Before docking, it flew under the Station to demonstrate new laser and infrared imaging technology that will help future spacecraft to rendezvous with uncontrolled objects.
+ESA astronaut Alexander Gerst and Russian cosmonaut Alexander Skvortsov oversaw the automated docking on 12 August and quickly began unloading the many items in its cargo hold. Over the last six months, the crew have unpacked the cargo and in turn have loaded ATV-5 with rubbish.
+Meanwhile, mission controllers in Toulouse, France, have commanded oxygen, air, fuel and water to pump into the Station’s tanks.
+In October Georges Lemaître was the first ATV to push the Station out of the way of space debris using a special manoeuvre requiring less preparation than usual. It repeated the trick just two weeks later.
+Last month ATV-5 took the Station into a lower orbit, slowing their orbital speed after the outpost had turned around. This rare manoeuvre had not been performed since 2008, by the first ATV, and will allow other supply spacecraft to bring heavier cargo to the Station.
+Reentry redux
+ATV-5 was set to enter the atmosphere at the end of February in a new, shallow dive that would have allowed NASA and ESA teams to observe the spacecraft closely and learn from its reentry.
+However, one of the four power chains failed last week, leading it to switch automatically over to its ‘failsafe’ system. ATV is designed to continue its normal mission with one failure, and can still be controlled safely even with two.
+The increased risk of a second failure in the 13 days of free flight before the 27 February reentry, and the impossibility of shortening this phase because of heavy Station traffic and other ATV operational constraints, has led ESA to cancel the shallow reentry.
+As a result, George Lemaître will follow the standard reentry profile around 30 hours after undocking, just like its predecessors.
+Two experiments are ready in ATV’s cargo hold: both will monitor the temperature and record other information as it reenters in a  controlled dive, transmitting recorded data to researchers.
+“The ATV team has worked tirelessly for five missions in a row,” says ATV-5 mission manager Massimo Cislaghi.
+“While teams are sincerely disappointed not to conduct the planned shallow reentry, the revised plan doesn’t alter the programme’s overall success.
+“The ATVs are large and complex spacecraft and they have achieved every goal, demonstrating Europe’s technical expertise and the skill of teams at ESA, France’s CNES space agency and the many industrial partners.”
+While this is the last of the ATV flights, the knowhow and technology that have gone into the series will soon fly again as early as 2017 to power NASA’s Orion spacecraft with the European Service Module, paving the way for the next era in  space exploration.
+Follow the ATV blog for live updates and behind-the-scenes information.

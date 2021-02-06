@@ -1,0 +1,18 @@
+2014-08-08
+https://www.esa.int/Enabling_Support/Operations/Gerst_drives_car-sized_rover_from_space
+Gerst drives car-sized rover from space
+Looking down from orbit, ESA astronaut Alexander Gerst steered ESA’s Eurobot rover through a series of intricate manoeuvres on the ground yesterday, demonstrating a new space network that could connect astronauts to vehicles on alien worlds.
+During an intense 90-minute live link on 7 August, Alex used a dedicated controller laptop on the International Space Station to operate Eurobot, relying on video and data feedback to feed commands from 400 km up, orbiting at 28 000 km/h.
+The link was provided by a new network that stores commands when signals are interrupted if direct line of sight with Earth or the surface unit is lost, forwarding them once contact is re-established.
+In the future, controlling robots on Mars or the Moon will require a sort of ‘space Internet’ to send telecommands and receive data. Such networks must also accommodate signal delays across vast distances, considering that astronauts and rovers on Mars will have to be linked with mission controllers on Earth.
+Yesterday’s demonstration was the second in a series of experiments under the Meteron project, following the 2012 test by NASA astronaut Sunita Williams, who used an initial version of the network by steering a model rover at ESA’s ESOC operations centre in Darmstadt, Germany.
+“This was the first time Eurobot was controlled from space as part of an experiment to validate communication and operations technologies that will ultimately be used for future human exploration missions,” noted Kim Nergaard, head of Advanced Mission Concepts at ESOC.
+Rover driving license
+During the session, which started at 16:35 GMT (18:35 CEST), Alexander Gerst commanded Eurobot to move and take pictures based on telemetry and pictures streaming to the Station from the rover.
+Eurobot was inching around a test facility at ESA’s ESTEC technology centre in Noordwijk, the Netherlands, while ‘ground control’ was at ESOC and the disruption-tolerant network was routed via Belgium’s Station User Support and Operations Centre in Brussels, and NASA.
+Ready to rove
+Simulations to prepare for yesterday’s link included live connections between Darmstadt, Noordwijk and Brussels to the Space Station throughout July.
+“Today’s result is even better than the simulations we conducted,” said Daniela Taubert, Meteron’s operations coordinator. “The whole experiment ran extremely smoothly. Alex was faster and more efficient that we had expected.”
+William Carey, ESA’s Meteron project engineer, agreed: “It is great to have a hands-on test of part of ESA’s long-term strategy to send humans and robots to explore our Solar System.”
+Future space exploration will most likely involve sending robotic explorers to check out alien surfaces before landing humans. To prepare for this, ESA is running the Meteron human–robot exploration programme: Multi-Purpose End-To-End Robotic Operations Network.
+More images of the team and activities at ESOC via Flickr.

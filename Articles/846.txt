@@ -1,0 +1,20 @@
+2015-07-14
+https://www.esa.int/Education/CubeSats_-_Fly_Your_Satellite/Student_satellite_wins_green_light_for_Station_deployment
+Student satellite wins green light for Station deployment
+Following more than a year of intense effort channelled into a 10 cm box, the first of ESA’s student satellites to be released from the International Space Station has been accepted for launch.
+A standard CubeSat measuring 10 x 10 x 10 cm, AAUSat-5 has been designed and built by 30 students from the University of Aalborg in Denmark, backed by ESA’s Education Office.
+It will be carried to the Station in August, where it will be despatched into space in conjunction with the mission of Danish ESA astronaut Andreas Mogensen.
+“The team will have their small CubeSat deployed into orbit from the International Space Station, the most gigantic space structure ever built,” commented Piero Galeone of the ESA Education Office’s Fly Your Satellite! venture.
+“The students involved in this adventure also had the opportunity to familiarise themselves with the rigorous safety requirements of manned space missions, and finally a few experienced the excitement of delivering their satellite directly to Houston, itself a dream destination for space enthusiasts.”
+The 1 kg CubeSat was handed over in June to the NanoRacks company, which shoots these small satellites out from the Station into their own orbits.
+Delivered at the same time was a second Danish-built ESA CubeSat called GomX-3, a larger three-unit CubeSat built by commercial companies to test detection of aircraft signals from orbit.
+After final safety acceptance and certification for launch, the pair is now installed in the deployment device for the August trip to orbit aboard Japan’s HTV-5 cargo ferry.
+AAUSat-5’s main mission is to test an improved receiver for detecting Automatic Identification System signals emitted by ships.
+Down on the ground, these signals are short-range, operating mainly on a ship-to-shore and ship-to-ship basis, leaving large spans of the world’s oceans uncovered.
+But signals also travel up to orbital altitude, opening up the prospect of worldwide monitoring – an experimental ESA antenna on the Station having already demonstrated the concept in 2010.
+Both satellites will be transferred to space within their carrier through the airlock of Japan’s Kibo module, then aimed by the astronaut controlling the robotic arm, and ejected by the deployer.
+Once AAUSat-5 is flying free it will be operated solely by students for several months, after which it will naturally reenter the atmosphere, complying with ESA’s strict space debris mitigation regulations.
+In conjunction with Andreas Mogensen’s  ‘iriss’ mission to the Station, ESA offered the flight opportunity, engineering support and access to test facilities to the Danish students.
+The students’ design was derived from AAUSat-4, another CubeSat already in ESA’s Fly Your Satellite! programme and planned to be launched in early 2016.
+Even so, achieving the green light for launch to the Station required an intensive engineering effort by the students with complex test campaigns to ensure their satellite satisfies the safety requirements.
+Vibration testing to simulate the stresses of launch was carried out by Danish company Hytek, while the thermal–vacuum tests – reproducing the temperature extremes experienced in orbit – took place at ESA’s ESTEC technical centre in Noordwijk, the Netherlands.

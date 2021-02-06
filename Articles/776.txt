@@ -1,0 +1,19 @@
+2016-07-19
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Active_tracking_of_astronaut_rad-exposures_targeted
+Active tracking of astronaut rad-exposures targeted
+Radiation is an invisible hazard of spaceflight, but a new monitoring system for ESA astronauts gives a realtime snapshot of their exposure. The results will guide researchers preparing for deep-space missions to come.
+A key element of the new system launched to orbit with Monday's Falcon 9 launch to the International Space Station, ensuring it is in place for ESA astronaut Thomas Pesquet's November mission to the Station.
+As a general rule, radiation exposure increases with altitude – people living on mountains receive more than those at sea level, while airline crews receive a small but noticeable additional dose.
+Astronauts in orbit receive still more radiation – they are officially classed as radiation workers. The individual dose for the whole flight is carefully measured by keeping a dosimeter on their body, to keep their career exposure within safe limits.
+“While sophisticated, these dosimeters are passive,” explains Ulrich Straube, radiologist and flight surgeon at the European Astronaut Centre in Cologne, Germany.
+“To gain a clearer picture of astronauts’ radiation environment, we have developed an electronic dosimeter that can provide almost instantaneous information to its wearer, on their current radiation exposure and dynamics of their immediate environment."
+“This new system is also sensitive enough to differentiate between different radiation types, including the high energies of cosmic radiation coming from far out in our Galaxy.”
+While some space radiation originates from the Sun – in the form of intense but short-lived ‘solar particle events’ – the real risk for future deep-space missions beyond the protection of Earth’s magnetic shield comes from 'galactic cosmic radiation' that originates from beyond our Solar System, made up of high-energy, high-speed atomic nuclei spewed out by dying stars.
+The very high energy of galactic cosmic radiation means they cannot be entirely shielded against. Anyway, thick shields might – counterintuitively – increase exposure, by producing showers of secondary particles.
+“More data are definitely needed to help develop useful ways of reducing this risk,” adds Dr Straube. “Traditional passive dosimeter measurements can only be read after the fact, back on Earth in a lab environment."
+The new European Crew Personal Active Dosimeter – EuCPAD – comprises a wearable unit with a storage device for battery charging and data transfer – similar in purpose to a smartphone charging station, if much more sophisticated.
+Last September, the system underwent its first real trial, when a mobile unit flew with ESA astronaut Andreas Mogensen on his mission to the Station.
+The unit measured the radiation exposure from liftoff into orbit, the first time such realtime dosimetry has been measured. It went on to perform a series of monitoring tests aboard the Space Station.
+As a next step, the storage device launched to the Station on Monday’s Space-X Dragon flight will allow wearers to deliver data regularly to researchers on the ground.
+Having more information about where or when radiation exposure occurs is an important benefit of the system. Knowing which Station modules provide the best shielding could be valuable in designing future deep-space spacecraft.
+Follow-on tests are planned during upcoming European missions to the orbital complex, starting with Thomas Pesquet this November.

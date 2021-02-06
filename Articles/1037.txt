@@ -1,0 +1,15 @@
+2012-07-31
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Guardians_of_the_antimatter_hunter
+Guardians of the antimatter hunter
+A year ago, the largest and most complex scientific instrument on the International Space Station was delivered to the orbital outpost. Searching for antimatter and the origins of our Universe, it is working flawlessly thanks to the continuous support from its own ‘mission control’.
+The AMS-02 Alpha Magnetic Spectrometer uses state-of-the-art detectors and powerful magnets to detect cosmic rays as they pass through matter. Around 90% of the Universe is invisible – and AMS-02 is searching for the missing pieces.
+ESA astronaut Roberto Vittori and five NASA astronauts flew AMS-02 to the International Space Station on Shuttle Endeavour’s last mission STS-134. 600 scientists in 16 countries worked together to build AMS-02. Designed by scientists for ‘plug and play’ on the Station, it was sending back data back within four hours of being installed.
+The Station is subjected to the full blast of cosmic rays because it is not protected by Earth’s atmosphere, making it the ideal place to search for antimatter.
+In one year, AMS-02 has recorded more than 17 billion particles.
+The huge amount of information is sent via satellite to the USA and then through optical cables to the control centre run by the European Organization for Nuclear Research, CERN, in Switzerland.
+Everything is stored for analysis. Every hour, the centre receives 240 gigabytes of information for archiving – about the size of a typical consumer hard disk.
+The control centre also monitors the instrument’s vital signs, keeping its temperature stable despite being subjected to its surroundings swinging between –30ºC to +40ºC in the harsh space conditions.
+Subatomic particles are extremely small and proving their existence requires extreme precision. AMS-02 is constantly calibrated to guarantee true readings. For example, the particle detector used to tell electrons from protons can be adjusted by as little as three-thousandths of a millimetre.
+At this level of accuracy, natural events such as solar flares can add errors and the mission controllers at CERN need to allow for them during calibration.
+The centre never closes: “Scientists are working round the clock looking at particles that affect us all the time,” says Maurice Bourquin, professor at the University of Geneva and founding father of AMS-02.
+The control centre was formally opened on 25 July by the NASA astronauts who flew AMS to the Station. They unveiled a plaque and planted a tree with principal investigator Prof. Samuel Ting and CERN director Rolf-Dieter Heuer to mark the occasion.

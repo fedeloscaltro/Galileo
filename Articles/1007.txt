@@ -1,0 +1,15 @@
+2012-11-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/International_Space_Station_salutes_the_Sun
+International Space Station salutes the Sun
+This weekend, the International Space Station will turn itself to position ESA’s SOLAR instrument for a better view of the Sun. It will be the first time the Station has changed attitude for scientific reasons alone.
+SOLAR has been monitoring our Sun’s output since it was installed on ESA’s Columbus laboratory module in February 2008. The package will celebrate its fifth anniversary next year.
+“That is quite an achievement,” says Nadia This, operations engineer at the Belgian User Support and Operations Centre  that controls SOLAR. “The instrument was designed to work for only 18 months.”
+SOLAR needs to be in direct view of the Sun to take measurements but the Space Station’s normal orbit obscures the view for two weeks every month.
+“We want to record a complete rotation of the Sun and that takes around 25 days,” explains Nadia.
+The solution is to rotate the whole Station but moving a 450 tonne orbital outpost the size of a typical block of flats is not a simple undertaking.
+Aside from calculating the correct orbit to keep SOLAR in view of the Sun, other factors need to be taken into account such as ensuring the solar panels that power the Station are not left in the dark.
+Communication antennas need to be reoriented to stay in contact with Earth and other scientific experiments must be adjusted.
+High-level discussions with all five Space Station partners were needed before the go-ahead was given.
+SOLAR started recording a full rotation of the Sun on 19 November. On 1 December the Station will spend two hours turning about 7º so that observations can continue. It will hold this angle for ten days before returning to its original attitude. As usual, the Belgian centre will be following its progress 24 hours a day.
+SOLAR’s observations are improving our understanding of the Sun and allowing scientists to create accurate computer models and predict its behaviour. The more accurate data we acquire, the more we will understand our nearest star’s influence on Earth.
+Recently, the 11-year solar cycle has shown irregularities and the next maximum is expected in 2013, so SOLAR’s spectral readings are of particular interest to scientists.

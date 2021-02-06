@@ -1,0 +1,19 @@
+2012-11-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Hypergravity_helping_aircraft_fly_further
+Hypergravity helping aircraft fly further
+ESA research has helped to develop an aircraft-grade alloy that is twice as light as conventional nickel superalloys while offering equally good properties. The path to creating this alloy required research under all types of gravity.
+Airlines are always looking for ways to save fuel by cutting down on weight without sacrificing safety. Generally, cutting weight by 1% will save up to 1.5% in fuel.
+For commercial airlines, this saving quickly adds up, offering cheaper flights and fewer stopovers while reducing the overall impact on the environment.
+For years, engineers have known that titanium aluminide alloys offer great weight benefits over the nickel superalloys used today in conventional jet engines.
+Since the newer alloy can withstand extreme temperatures up to 800°C, it is of particular interest to engine manufacturers.
+Although it is possible to make the alloy in a laboratory, casting it in the shapes required by industry, such as a turbine blade, is not simple.
+ESA scientists working in the Impress project looked into the problem. To understand natural processes, scientists often remove as many external variables as possible, concentrating their observations on core interactions.
+The Impress project needed to ‘switch-off’ a factor that hampers observations: gravity.
+Switching off gravity
+Aluminium samples were heated in a small furnace carried in a sounding rocket launched from Kiruna, Sweden. During six minutes of free fall, they were heated to over 700°C and then monitored by X-rays as they cooled.
+Looking at the results, the researchers realised that casting titanium aluminides might require looking in the opposite direction: hypergravity.
+ESA is the only organisation that offers all levels of gravity, so the Impress team turned to the agency’s centrifuge in the ESTEC research and technology centre, the Netherlands to test their theory.
+Casting the metals in a centrifuge creating up to 20 times normal gravity helps the liquid metals to fill every part of a mould, producing a perfectly cast alloy, even with complex shapes.
+Analysing metal casting in as many ways as possible produced building blocks of knowledge that allowed the industrial process to be refined and commercialised.
+Over a million jet turbine blades will be made over the next eight years, and using titanium aluminide would reduce their weight by 45% over traditional components.
+The alloy’s benefits are also of interest to the car industry – before long, cars will run on engines using space-based knowledge.

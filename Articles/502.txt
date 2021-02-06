@@ -1,0 +1,22 @@
+2020-11-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Turning_Moon_dust_into_oxygen
+Turning Moon dust into oxygen
+British engineers are fine-tuning a process that will be used to extract oxygen from lunar dust, leaving behind metal powders that could be 3D printed into construction materials for a Moon base.
+It could be an early step to establishing an extra-terrestrial oxygen extraction plant. This would help to enable exploration and sustain life on the Moon while avoiding the enormous cost of sending materials from Earth.
+The oxygen generated would mostly be used to make rocket fuel, but could also provide air for lunar settlers.
+The project is part of ESA’s preparations to establish a permanent and sustainable lunar presence. Astronauts will live and work on the Moon, where they will help to develop and test technologies needed for missions farther into deep space.
+Lunar regolith, the thin layer of dusty rock that blankets the Moon, is not so different from the minerals found on Earth. By weight, it contains about 45% oxygen which is bound to metals such as iron and titanium, making it unavailable.
+British company Metalysis has already developed a mineral extraction process that is used by industries on Earth to produce metals for manufacturing.
+Earlier this year, it was demonstrated to work well with simulated lunar regolith.
+The electrochemical process takes place in a specially designed chamber – the ones used for research are about the size of a washing machine. Oxygen-containing material is submerged in a molten salt, heated to 950°C. A current is then passed through it, which triggers the oxygen to be extracted and migrate across the liquid salt to collect at an electrode, leaving behind a mixture of metal powders.
+As part of the current project, Metalysis engineers are fine-tuning the technique with its lunar application in mind.
+The big difference is that, on Earth, the oxygen generated is not needed, but in space it will be the most important product of the process. This means it needs to be engineered to produce as much of the gas as possible.
+Engineers will tinker with the process by adjusting the electrical current and reagents to boost the amount of oxygen, while trying to reduce the temperature needed to produce it. This will help bring down the energy required, which is already at a premium on the Moon.
+They will also work to reduce the size of the chamber the process takes place in so that it can be transported efficiently to the Moon.
+In parallel, ESA and Metalysis have challenged innovators to develop an in-process monitoring system that could be used to keep track of oxygen production in future lunar extraction plants.
+“Some years ago we realised that the seemingly unimportant by-product of our terrestrial mineral extraction process could have far-reaching applications in space exploration,” says Ian Mellor, managing director at Metalysis
+“We look forward to continuing to explore with ESA, and our industrial partners, how to get our Earthly technology space-ready.”
+“This exciting project forms part of ESA’s wider Space Resources Strategy which will help us demonstrate how material already present on the Moon can be used sustainably to support long-term space endeavours,” says Advenit Makaya, the ESA materials engineer who is overseeing the project.
+“The project will help us learn more about Metalysis’ process, and may even be a stepping stone to establishing an automated pilot oxygen plant on the Moon – with the added bonus of metal alloys that could be used by 3D printers to create construction materials.”
+"In the future, if we want to travel extensively in space and set up bases on the Moon and Mars, then we will need to make or find the things required to support life - food, water and breathable air," says Sue Horne, head of space exploration at the UK Space Agency.
+"The involvement of Metalysis in a programme that aims to do just that, by producing oxygen on a lunar setting, will showcase the UK's space credentials on the world-stage and help unlock breakthroughs that bring future space exploration a step closer."

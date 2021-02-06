@@ -1,0 +1,9 @@
+2015-10-01
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/ESA_CubeSats_set_for_Monday_release
+ESA CubeSats set for Monday release
+The Danish flag will fly high on Monday when two small satellites, designed and built in Denmark, are released from the International Space Station and start their mission in space: the student-built AAUSat-5 and the professional technology demonstrator GomX-3.
+CubeSats, measuring only 10x10x10 cm, or multiples of it, are gaining increasing popularity. They are cheaper and faster than conventional satellites for demonstrating miniaturised technology in space.
+New radio technology being demonstrated by GomX-3 will support the tracking of civil aircraft and measuring telecom satellite signal quality. AAUSat-5 will demonstrate the tracking of ships on the open sea.
+CubeSats are also an excellent way for university students to gain experience in the full lifecycle of a space project, from design to launch and operations. Since 2012 the ESA Education programme has been engaging students across Europe through the Fly Your Satellite! initiative. ESA mentors the student throughout their CubeSat project, transfers expert knowhow and provides launch opportunities.
+With AAUSat-5, ESA is inaugurating a new branch of the initiative: Fly Your Satellite from the ISS!
+AAUSat-5 and GomX-3 are the first ESA CubeSat projects to be launched from the Space Station.

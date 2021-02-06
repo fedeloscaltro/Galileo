@@ -1,0 +1,28 @@
+2015-09-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_Moon_challenge
+ESA Moon challenge
+ESA is inviting university students around the world to compete in designing a mission scenario for the next step in space exploration: a human–robotic partnership for exploring the Moon.
+The “Human-Enhanced Robotic Architecture and Capabilities for Lunar Exploration and Science”, or Heracles, study describes an ESA-led mission that aims for the next steps in lunar exploration.
+One of the main objectives is to examine human–robotic partnerships – the interaction between crew and automated systems considered to be a promising aspect of future space exploration missions.
+The Agency invites university students from around the world to submit their proposals as part of the symposium, ‘Moon 2020–2030: A New Era of Human and Robotic Exploration’, set for 15-16 December at ESTEC, Noordwijk, the Netherlands.
+The winning submissions will be assessed by ESA for their utility in possible future studies of mission scenarios.
+Heracles: straddling continents
+To enter, students must form collaborative teams consisting of members from at least two continents.
+The Heracles architecture framework defines a series of end-to-end missions to the lunar surface, and serves both as inspiration for, and as a set of primary constraints for, the teams. In addition to a conceptual study of the architecture, teams must submit a simulation illustrating their planned operational activities on the lunar surface and its vicinity.
+Students may freely choose their visualisation methods and tools, such as CATIA, the Kerbal Space Program, Blender or Celestia.
+Kickoff webinar
+The contest opens 15 September. ESA will host a web-streamed lecture on that day to explain the framework and rules of the contest.
+To reserve your seat for the lecture at ESTEC, or to receive the dial-in details for WebEx, please send an email to ESAMoonChallenge@esa.int. The webstream session will be interactive, and students can submit questions via Twitter and WebEx.
+Hashtag: #ESAMoonChallenge
+Deadlines
+Letter of intent: 7 October 2015
+Deliverables: 2 November 2015
+The top three selected teams will be invited to ESA’s ‘Moon 2020–2030’ Symposium to present their design. During the symposium, an ESA jury will select the winning team and an ESA astronaut will be present at the award ceremony
+For further information, please contact:
+Shahrzad Hosseini
+ESA Human Spaceflight and Operations
+Strategic Planning Office
+ESTEC, The Netherlands
+Email: shahrzad.hosseini@esa.intTel: +31 71 565 3927
+http://spaceflight.esa.int/esamoonchallenge/
+https://www.facebook.com/ESAMoonChallenge

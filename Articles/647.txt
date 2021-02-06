@@ -1,0 +1,17 @@
+2020-12-26
+https://www.space.com/capella-space-radar-imagery-earth
+Capella Space unveils super-sharp radar images of Earth (photos)
+Capella Space's first fully operational satellite has snapped some breathtaking images of Earth during its first few months in orbit.
+The Capella-2 synthetic aperture radar (SAR) satellite, previously known as Sequoia, launched atop a Rocket Lab Electron booster on Aug. 30. Because Capella-2 captures imagery using radio waves rather than visible light, the spacecraft can both peer through clouds and study swaths of our planet that are cloaked in darkness.
+"It's really beautiful not to have to worry about weather or time of day," company founder and CEO Payam Banazadeh told Space.com.
+Related: The top 10 views of Earth from space
+San Francisco-based Capella Space had already released some stunning views of Earth that Capella-2 snapped with 6.5-foot (2 meters) resolution. But the 236-lb. (107 kilograms) spacecraft is capable of even sharper shots, as we have now seen.
+Last week, Capella Space unveiled a set of images that Capella-2 acquired in "Spot" mode, which features a resolution of 20 inches by 20 inches (50 by 50 centimeters). That's the sharpest SAR imagery available in the commercial marketplace, Banazadeh wrote in a blog post last week.
+Indeed, 20 by 20 inches is the highest SAR resolution allowed for commercial sale by U.S. regulations,  though even sharper shots can be sold to U.S. government customers, Capella Space representatives said.
+The newly released imagery is a diverse lot, spotlighting facilities such as a floating solar farm in China, a solar-power project in the Nevada desert, Axum Airport in Ethiopia and agricultural fields in Colorado.
+As its name suggests, Capella-2 is the company's second satellite, after a prototype that launched in 2018. More missions are coming: Capella Space plans to launch six more satellites early next year, assembling a constellation of seven SAR spacecraft.
+And that's just the initial network. Capella Space plans to keep building the constellation with satellites that feature "new bells and whistles," Banazadeh said. "For our next-generation satellites, we're aiming for 25-centimeter [10 inches] resolution."
+Customers can use the company's SAR imagery for a variety of purposes. One important use that Banazadeh foresees is the monitoring of protected areas around the world — sections of the Amazon rainforest that are supposed to be off-limits to mining, logging and other types of exploitation, for example.
+Capella Space's satellites could help alert land managers to apparent illegal activity in such areas, which are often rugged, remote and shrouded by clouds. Ground crews could then go into the affected regions to inspect the damage and prevent further destruction, Banazadeh said.
+Capella Space plans to join forces in such efforts with other satellite operators. And there are some big names with similar aims — for instance, fellow San Francisco company Planet, which uses hundreds of small satellites to observe Earth in visible light. Planet's code of ethics stresses a commitment to environmental and humanitarian causes, and the company often makes particularly important photos freely available to the public.
+"I think, ultimately, there's not going to be one company that's going to be able to tackle these global-scale use cases," Banazadeh said. "It will be partnerships between these companies, because everyone has a very specific, unique advantage of their own."

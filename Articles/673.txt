@@ -1,0 +1,12 @@
+2020-12-17
+https://www.space.com/india-launches-communications-satellite-cms-01
+India launches new communications satellite CMS-01 into orbit
+India successfully launched a communications satellite into orbit Thursday (Dec. 17) to  provide service across the country's mainland and some island regions, the Indian Space Research Organisation (ISRO) announced.
+The satellite, called CMS-01, lifted off a Polar Satellite Launch Vehicle (PSLV)-C50 rocket at 5:11 a.m. EST (1041 GMT or 3:41 p.m. local time) from the Satish Dhawan Space Center (on the island of Sriharikota. It reached its intended temporary orbit about 20 minutes after launch, ISRO officials said in a release. CMS-01 was the only passenger aboard the rocket.
+Video: Blastoff! Watch India launch the CMS-01 satellite
+More maneuvers are coming in the next few days to raise the satellite's orbit slightly and to move it into its correct position in geosynchronous orbit, so that it is above India. Once the satellite is ready, it will provide C-band communications for the Indian mainland and the Andaman-Nicobar and Lakshadweep islands for at least seven years.
+CMS-01 will replace and enhance the services of GSAT-12, which was launched on July 11, 2011 with an expected mission life of eight years, according to IBTimes India.
+India has had a quiet launching year due to the novel coronavirus pandemic, which has introduced physical distancing challenges and supply shortages at manufacturers around the world. India sent its first set of satellites aloft in 11 months in November, with the mission delivering 10 new satellites safely to orbit.
+The pandemic also stalled India's human spaceflight program, with the first crewed mission of Gaganyaan now expected to fly no earlier than 2022, after a scheduled launch in December 2021, according to The Times of India. Even before the pandemic emerged, Gaganyaan was already under budgetary pressure, receiving only 30% of the funds the program had hoped for, according to reports in March.
+In early 2021, India expects to launch the Geo Imaging Satellite GISAT-1 (delayed from March) and PSLV-C51, which will send three private satellites into space – including one from a startup called Pixxel India, according to SpaceNews. The satellite, named Anand, will form part of a group of Earth observation satellites.
+Wednesday's launch was the 52nd flight of PSLV, and 22nd in the rocket configuration that includes six strap-on motors, ISRO said.

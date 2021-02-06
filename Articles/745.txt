@@ -1,0 +1,12 @@
+2017-02-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_six-legged_Suntracker_flying_on_a_Dragon
+ESA’s six-legged Suntracker flying on a Dragon
+Tomorrow, a Space-X Dragon cargo ferry will be launched to the International Space Station packed with supplies, experiments, tools and food for the six astronauts living and working high above Earth. In the unpressurised cargo hold is a new NASA sensor that will monitor our atmosphere with a helping hand from ESA.
+The Space Station flies 400 km above our planet at 28 800 km/h, experiencing 16 sunrises, sunsets, moonrises and moonsets every 24 hours. This orbit is lower than most satellites and offers scientists interesting possibilities for research.
+NASA’s Stratospheric Aerosol and Gas Experiment, or SAGE III, will monitor aerosols, ozone and other gases in Earth’s high atmosphere by looking at the sunlight and moonlight as they pass through. Astronauts on the Space Station often remark at how thin the atmosphere appears when seen from the side.
+SAGE will improve our understanding of ozone and climate change in the upper atmosphere by looking sideways at the Sun and Moon as they skim the horizon and this where ESA’s Hexapod comes in.
+Swivel, tilt and turn
+Hexapod’s six legs work together to track the Sun and Moon precisely in the few seconds of their setting and rising dozens of times each day.
+Hexapod will track the Sun until it disappears behind the horizon and then return to a starting position to repeat the process with the Moon, for years on end.
+Once Dragon arrives at the Station, Hexapod and SAGE will be moved to the Station’s main truss and installed using its robotic arm. Hexapod’s intricate machinery will be locked for the demanding g-forces and vibrations of launch, before being released on command to do its job, eliminating the need for a spacewalk.
+Hexapod was built by OHB Italia and Thales Alenia Space Italy with Airbus Defence and Space. Following checks in orbit expected to take two weeks, ESA will hand over control to NASA for the atmospheric studies to begin. The goal is for at least three years of observations, with all measurements publicly available.

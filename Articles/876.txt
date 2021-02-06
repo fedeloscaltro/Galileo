@@ -1,0 +1,18 @@
+2015-01-05
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Astronaut_feels_the_force
+Astronaut feels the force
+In a milestone for space robotics, the International Space Station has hosted the first full run of ESA’s experiment with a force-reflecting joystick.
+Think of the kind of tasks you can do with your hands without looking down, such as typing or tying laces. These are helped by ‘force feedback’ – the touch you feel in your hands and fingertips.
+Harnessing that sensation for robotics would extend the human sense of touch to space or other remote areas, making robotic control much more natural and easy.
+Ultimately, robots could work thousands or tens of thousands of kilometres away, yet perform tasks of equal complexity to those a human operator could manage with objects immediately at hand.
+NASA crewmember Barry Wilmore operated the force-feedback joystick to gather information on physiological factors such as sensitivity of feeling and perception limits. He finished a first run on New Year’s Eve.
+The deceptively simple-looking lever is connected to a servomotor that can withstand any force an astronaut operator might unleash on it, while generating forces that the astronaut will feel in turn – just like a standard video gaming joystick as a player encounters an in-game obstacle. The joystick measures such forces at a very high resolution.
+To stop the weightless users being pushed around by the force, the ‘Haptics-1’ experiment can be mounted either to a body harness or be fixed to the Station wall.
+“With Haptics-1 we are paving the way towards an entirely new type of combined human–robot mission,” explains André Schiele, the experimenter and founder of ESA’s Telerobotics and Haptics Laboratory.
+“We are investigating in fine detail the limits of human perception and ability to apply fine forces and manipulation with their limbs and hands in a weightless environment.
+“This allows us to understand the technology boundaries for advanced robotic equipment to support human astronauts in space when performing remote robotic control tasks.
+“In addition to measuring physiological factors, Haptics-1 is providing important insights into how force-reflection from a remote robotic system changes human perception in space.
+“With these measurements, advanced robotic control equipment can be better designed to reflect the realities of human manipulation through a robotic interface in a weightless environment.”
+“Haptics-1 marks the first time a force-reflecting device has been used in space. Before today, ESA, NASA or any other spacefaring nation has never gained such experience in this domain.”
+In future, orbiting astronauts might be operating a rover in real time on a planet, allowing human dexterity and intuition to help explore an alien environment without the expense and danger of landing.
+Such advanced robotic remote control also has many potential terrestrial applications working at sites that are inaccessible or dangerous to humans, such as deep under water or within contaminated zones.

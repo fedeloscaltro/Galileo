@@ -2549,3 +2549,145 @@ JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: T
 JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
 JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: TypeError: r is undefined
 1606663161819	Marionette	INFO	Stopped listening on port 60327
+1612621406385	geckodriver	INFO	Listening on 127.0.0.1:54824
+1612621409446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile9CUORx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612621414973	Marionette	INFO	Listening on port 54834
+1612621415203	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/promotion.js)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55046
+1612621555414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofile8uDOni"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612621558104	Marionette	INFO	Listening on port 55070
+1612621558569	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:55385
+1612622094982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilekOeeF7"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612622097708	Marionette	INFO	Listening on port 55393
+1612622098143	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/promotion.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 72 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/promotion.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 78 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/seasonal.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: Error: Loading CSS chunk 35 failed.
+(https://widgets.future-fie.co.uk/css/14.40.4-6bfa958335229fe68271f4b69042c71e8e271730/hawk.min.css)
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1612623061314	geckodriver	INFO	Listening on 127.0.0.1:50537
+1612623064380	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\fj\\AppData\\Local\\Temp\\rust_mozprofilerYVUVG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612623067180	Marionette	INFO	Listening on port 50546
+1612623067525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.esa.int/Applications/Observing_the_Earth/Andre_Kuipers_world_ambassador, line 172: SyntaxError: expected expression, got '&'
+JavaScript error: https://www.esa.int/Applications/Observing_the_Earth/Andre_Kuipers_world_ambassador, line 223: SyntaxError: expected expression, got '&'
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Mission-X_2012_mission_accomplished, line 227: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Enabling_Support/Operations/Designing_the_interplanetary_web, line 211: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Europe_s_smart_supply_ship_on_its_way_to_Space_Station, line 178: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Chancellor_Merkel_speaks_with_Andre_in_space, line 197: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-3_set_to_provide_ESA_s_annual_service_to_Space_Station, line 172: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Space_oddities_to_teach_science, line 172: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500/Mars500_crew_prepare_to_open_the_hatch, line 200: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/About_Us/ESTEC/Watch_the_replay_of_media_event_from_ESTEC_with_Andre_Kuipers, line 179: ReferenceError: jwplayer is not defined
+1612623206232	Marionette	INFO	Stopped listening on port 50546

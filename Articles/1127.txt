@@ -1,0 +1,20 @@
+2011-11-11
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Spinning_blood_device_set_to_safeguard_astronaut_health
+Spinning blood device set to safeguard astronaut health
+ESA has begun developing a new blood-testing device for astronauts on the International Space Station. A wide range of ailments from diabetes to heart disease should be diagnosable in moments from a single drop of astronaut blood.
+A pinprick of blood is added to a mini-disc embedded with a wide variety of miniaturised test procedures. The disc is then inserted into the ‘point-of-care’ device and set spinning to spread the blood sample across the surface.
+Multiple tests are performed simultaneously, with automated results delivered within a matter of minutes.
+Testing for conditions including diabetes, heart disease, liver and kidney damage, it promises to perform some of the billion or so blood tests ordered by care providers annually to a laboratory level of accuracy in a faster, on-the-spot fashion.
+ESA is now looking to adapt the device for space, signing a contract with Irish company Radisens Diagnostics on 28 October. Additional tests will be added and the design developed for the space environment, such ensuring its spinning technique works satisfactorily in weightlessness.
+“Biochemical analysis aboard the Space Station is becoming a high priority for the human physiology experiments carried out there,” explained Nadine Fritz of ESA’s Directorate of Human Spaceflight and Operations.
+“The retirement of the Space Shuttle has significantly reduced the amount of cargo we can download from the Station, so it makes sense to do what analysis we can do in orbit.”
+Ireland’s Minister for Research & Innovation Seán Sherlock welcomed the contract: “Radisens Diagnostics’ success is the most recent example of an Irish company reaping significant benefits from Ireland’s membership of ESA.
+“It is encouraging to see that Irish small-to-medium-sized enterprises are developing a profile as providers of innovative solutions for use in the European space programme.”
+Technology meeting the market
+This activity is being supported as part of ESA’s General Support Technology Programme (GSTP), which serves to mature promising prototypes into space-ready hardware.
+In particular, the contract has come about through a dedicated scheme within the main programme: ‘GSTP-AO’ targets the development of market-oriented technologies, funded equally by ESA and the partner company.
+Companies within participating ESA Member States are free to submit proposals at any time.
+“This contract with Radisens demonstrates the flexibility and business reach of this scheme,” commented Alberto Tobias, head of ESA’s Systems, Software and Technology Department.
+“It provides the framework to conduct space ‘spin-in’ as well as ‘spin-out’ and joint research with partner sectors, and the processes will be better tuned to facilitate open innovation.”
+“Winning this contract from ESA is a significant endorsement of our ‘sample-to-answer’ device and the breadth of blood tests it can offer,” said Jerry O’Brien, CEO of Radisens Diagnostics.
+“We are delighted to formalise our strategic partnership with ESA with the support of Enterprise Ireland and look forward to working on the application of our technology to terrestrial and space healthcare diagnostic needs.”

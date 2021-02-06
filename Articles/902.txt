@@ -1,0 +1,23 @@
+2014-08-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_s_cargo_vessel_ready_for_space_delivery
+ESA’s cargo vessel ready for space delivery
+ESA’s latest Automated Transfer Vehicle is set to dock with the International Space Station on Tuesday, delivering more than six tonnes of crucial supplies and scientific experiments to the orbiting research base.
+ATV Georges Lemaître will rendezvous with the Station at about 410 km altitude at 09:21 GMT (11:21 CEST) and complete a fully automated docking with the aft port of Russia’s Zvezda module at 13:30 GMT (15:30 CEST).
+The vessel was given a ‘GO’ for docking by the Station’s mission management team earlier today, and ESA’s ATV Control Centre in Toulouse, France, are now preparing the final commands.
+“Since launch on 29 July, ATV has conducted a series of manoeuvres to bring it up to the Station altitude, and these have gone flawlessly,” says Jean-Michel Bois, leading the ESA operations team at the control centre.
+“The vessel is functioning perfectly and we are looking forward to a smooth – and final – ATV docking.”
+Status is GO
+In addition to the dozen manoeuvres needed to get up to the final altitude and then align ATV’s orbit with that of the Station’s, controllers have spent the past two weeks checking out the health of the onboard systems, including the Russian-designed docking system and the automated laser guidance.
+Docking will be monitored closely by ESA astronaut Alexander Gerst and cosmonaut Sasha Skvortsov, who have been refreshing their training while on the orbital outpost.
+The crew can command an abort if they observe anything going wrong during the docking process.
+Flying under ISS
+On 8 August, ATV-5 performed a ‘flyunder’ of the Station, passing 8 km below to gather video footage with special cameras installed on its front cone.
+The footage is part of the experimental LIRIS demonstrator – short for Laser InfraRed Imaging Sensors – a new rendezvous guidance system.
+The new technology is the first step towards a future system that would allow rendezvous with an uncooperative target in space.
+On future missions, infrared cameras and the lidar sensors – the light equivalent of radar – would scan the targets while onboard computers process the data using new guidance navigation and control software.
+LIRIS will be turned on for tomorrow’s docking, but will only record data for later analysis. The actual automated docking will be controlled by ATV’s tried-and-proven docking system that uses GPS and laser signals reflected from Zvezda.
+Record-setting mission
+Once docked, ATV-5 will remain attached for up to six months before leaving with waste material for destruction along with the spaceship during atmospheric reentry.
+The last ATV will deliver a record amount of around 2680 kg of dry cargo in its manifest totalling 6602 kg. In addition, and for the first time, the space freighter’s three water tanks are fully loaded, totalling 850 litres.
+It is also carrying a new pump to recycle urine into drinkable water, a reentry camera to record ATV’s eventual controlled destruction after undocking, and Europe’s electromagnetic levitator for materials science investigations.
+At a total launch mass of 20 245 kg, ATV-5 is the heaviest spacecraft ever launched by Ariane 5.

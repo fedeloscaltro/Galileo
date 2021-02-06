@@ -1,0 +1,14 @@
+2017-12-07
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Cells_in_space
+Cells in space
+Laboratories on Earth hardly make the news, unless they come up with life-saving cures. So why would anyone care about a lab in space? The medicine you take on Earth begins with cell research, and the latest experiments on the International Space Station are helping to develop new treatments for osteoporosis, eye diseases and muscle atrophy.
+On a biological mission
+Four biological experiments conducted in Europe’s Columbus module on the Station are looking into how microgravity wears down muscle, retinal and stem cells to develop medicine and other countermeasures.
+Thanks to the Kubik hardware, the experiment was relatively easy to perform. ESA astronaut Paolo Nespoli loaded prepacked cell samples into the temperature-controlled incubator. After seven days, Paolo froze the samples ahead of their return to Earth on a cargo craft. Researchers are now analysing the samples.
+Across the four experiments, conducted on behalf of Italy’s ASI space agency, the overarching goal was to understand how to prevent cell death. Diseases occur when our cells can no longer cope with toxins and other stresses and eventually break down. Finding a solution means first understanding the full scale of the problem.
+Researchers are studying muscle cells in two ways. A preflight biopsy of Paolo’s leg muscles will be compared to a sample upon his return to Earth. For the muscle cell samples in Kubik, researchers zeroed in on specific proteins the cells release to understand if they could play a role in combating cell damage.
+For the retinal cells, researchers treated a portion of the cells with “Q10 coenzyme” to see if the energy-generating compound would counteract the effects of radiation and microgravity.
+Stem cells were also included to understand how they behave and whether they could be used to counteract microgravity-induced bone loss.
+The last of the experiments studied whether nanoparticles, which have antioxidant properties, could help cells to handle the excess oxidation that occurs when the cell is stressed.
+While muscle atrophy, osteoporosis and vision problems may not be on the minds of the vast majority of Earth dwellers, it’s this type of research that makes it possible to develop better drugs and other measures for these problems.
+Added to that, we humans have set a spacefaring goal for ourselves that demands we ensure our health out in space.

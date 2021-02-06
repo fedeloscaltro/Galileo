@@ -1,0 +1,10 @@
+2017-03-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/42_is_the_answer
+42 is the answer
+Forty-two is the answer, but what is the question? Scientists from the University of Zurich wanted to probe how immune cells adapt to weightlessness so they sent an experiment to the International Space Station with ESA.
+All life on Earth has evolved under gravity but most fare well in space, including astronauts. During her mission on the Space Station in 2015, ESA astronaut Samantha Cristoforetti thawed frozen immune cells from mammals and placed them in ESA’s Biolab centrifuge, which generates artificial gravity.
+The cells were spun to recreate different levels of gravity, from zero to the level we feel on Earth, allowing researchers to compare samples and exclude other factors in the results.
+“Although the immune cells went into disarray in weightlessness, they reacted ultra-rapidly and came to a full recovery inside 42 seconds,” reports Oliver Ullrich, professor at the University of Zurich.
+Like any good science experiment, the answer begs even more questions, such as how mammalian cells with no evolutionary experience of weightlessness are able to adapt so quickly to it. Whatever the answer may be, the outlook is positive for long-duration human spaceflight.
+“There’s hope that our cells are able to cope much better with zero gravity than we previously thought,” Prof Ullrich concludes.
+The results have been published by Nature and are available under an open access licence here: http://www.nature.com/articles/s41598-017-00119-6

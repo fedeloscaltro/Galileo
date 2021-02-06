@@ -1,0 +1,29 @@
+2013-06-03
+https://www.esa.int/Enabling_Support/Operations/ATV-4_ready_to_deliver_essential_cargo_to_Space_Station
+ATV-4 ready to deliver essential cargo to Space Station
+ESA’s fourth Automated Transfer Vehicle, Albert Einstein, is ready for launch on an Ariane 5 to the International Space Station on 5 June from Europe’s Spaceport in Kourou, French Guiana.
+Liftoff is set for 23:52 CEST (21:52 GMT), and one hour and four minutes later the vessel will separate from the launcher to begin ten days of health checks and orbital manoeuvres, bringing it to an automated docking with the Station on 15 June.
+ATV Albert Einstein, named after the scientist most famous for developing the theory of relativity, will deliver essential supplies and reboost the Station’s altitude during its planned five-month stay in orbit.
+With a launch mass of 20 235 kg, it is the heaviest spacecraft ever launched by Europe, and it is carrying the largest load of dry cargo yet to be ferried by any ATV.
+The spacecraft is four vehicles in one, bringing equipment and supplies, replenishing the Station’s propellant tanks, keeping the orbital outpost aloft with its boosts, and providing a module for the astronauts to live in.
+“Teams from ESA, CNES, Arianespace and Astrium have worked hard to ensureAlbert Einsteinis ready to go. I’d like to thank everyone for their dedication and professionalism,” says ESA’s Alberto Novelli, ATV-4 Mission Manager.
+“We’re looking forward to an excellent launch on Wednesday.”
+Delivering cargo for ESA and Station partners
+ATV’s cargo includes scientific experiments – including several to be performed by ESA astronaut Luca Parmitano – spare parts, propellant, water, gases, food and clothing. In total, over 1400 different items are to be delivered to space.
+Many of these items are being delivered on behalf of the Station’s international partners, and include items for NASA and Japan’s space agency.
+Luca, working and living on the Station since 29 May, will monitor ATV’s rendezvous and docking and assist with unpacking and storing supplies.
+Boosting Station orbit
+Once attached, ATV refuels the Space Station and can also reboost the orbital complex: its thrusters raise the orbit to counteract the atmospheric drag that slowly pulls the Station down.
+ATV can even move the Station to avoid collisions with space debris and provide attitude control.
+To achieve an automated docking under the very tight safety constraints imposed by human spaceflight rules, ATV carries high-precision navigation systems, advanced flight software and a fully independent and autonomous collision-avoidance system with separate power supplies, control and dedicated thrusters.
+Station’s largest ferry
+About 10 m long and with a diameter of 4.5 m, ATV incorporates a 45 cubic metre pressurised module and a Russian docking system, similar to those used on the Soyuz manned ferries.
+With its solar wings deployed, ATV spans 22 m. Almost three times larger than Russia’s unmanned Progress, it can also deliver about three times the cargo load.
+Before leaving the Station, Albert Einstein will be filled with waste bags and unwanted hardware by the crew. It will then be deorbited over the southern Pacific Ocean to burn up harmlessly in the atmosphere.
+Astrium is the industrial prime contractor, leading a team of more than 30 contractors in 10 European countries. The ATV Control Centre is located in Toulouse, France, on the premises of France’s CNES space agency.
+The last ATV in the series, to be launched next year, will not be the end of the ATV programme. Building on the spacecraft’s track record and advanced design, ESA will supply ATV-derived hardware for NASA’s Orion spacecraft to power humans to the Moon and beyond.
+The ATV-derived service module, sitting directly below Orion’s crew capsule, will provide propulsion, power and thermal control, as well as supplying water and gas to the astronauts in the habitable module.
+This collaboration between ESA and NASA continues the spirit of international cooperation that forms the foundation of the International Space Station.
+For more information about ATV, please visit http://www.esa.int/ATV/
+The launch video transmission will be available live on www.esa.int
+For mission updates, and to see a detailed launch timeline, access ESA’s ATV blog via http://www.blogs.esa.int/atv

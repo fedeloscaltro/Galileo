@@ -1,0 +1,21 @@
+2014-08-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV_completes_final_automated_docking
+ATV completes final automated docking
+In a flawless demonstration of technology and skill, ESA’s fifth and final ATV, Georges Lemaître, docked with the International Space Station today, fixing itself firmly for a six-month resupply and reboost mission.
+The fully automated docking came at 13:30 GMT (15:30 CEST), just a few moments after the cargo vessel’s extended probe made contact with the cone on the aft of Russia’s Zvezda module.
+After contact, a series of hooks latched and closed, making a firm mechanical connection with the Station. Later, data and electrical connections were created, allowing ATV to draw power from the orbital outpost and for the Station computers to talk directly to ATV.
+The sequence came at the end of several hours of automated manoeuvres, during which ATV powered itself through a series of waypoints starting some 40 km behind and just below the Station.
+ATV navigates itself
+“From 39 km to just 250 m from the Station, ATV navigated itself using relative satnav signals, in which both the Station and ATV compare their positions using GPS,” says Jean-Michel Bois, leading the ESA operations team at the ATV Control Centre in Toulouse, France. Mission operations are run jointly with France’s CNES space agency.
+“For the final 250 m, ATV navigated using a ‘videometer’ and ‘telegoniometer’, which use laser pulses to calculate the distance and orientation to the Station.”
+The entire process was completed flawlessly, carefully monitored by the ground team and ESA astronaut Alexander Gerst and cosmonaut Sasha Skvortsov on the Station.
+"European cargo spaceship Georges Lemaître has successfully docked to the ISS and the crew sends their congratulations to all the brilliant engineering teams on the ground and in ATV Control Center in Toulouse and in Moscow and to those who have contributed over the last 20 years to the development of one of the most advanced resupply vessels that circles our planet," said ESA astronaut Alexander Gerst on board the ISS.
+"While this is the last of the ATV flights, the know-how and technology will soon fly again as early as 2017 to power NASA’s Orion spacecraft with the European Service Module, paving the way for the next generation of space exploration."
+The crew will open the hatch and enter briefly over the next day, installing a fan to freshen the internal air before ATV is made ready for daily use.
+One of ATV’s most crucial capabilities – using its thrusters to reboost the Station’s altitude – will be tested in just two days, with a test burn scheduled for 14 August.
+Teams perform magnificently
+“The final arrival of Europe’s ATV space freighter was almost anticlimactic, as the vessel’s made-in-Europe docking technology performed perfectly for the fifth and final time,” said Massimo Cislaghi, ATV-5 mission manager.
+“Most importantly, the crew in space and the ESA, CNES and industry teams on ground performed magnificently, and it is thanks to their dedication over the life of this project that ATVs have won a reputation for being some of the most reliable and dependable space vessels ever flown.”
+Named after the Belgian scientist who formulated the Big Bang Theory, ATV Georges Lemaître lifted off at 23:47 GMT on 29 July (01:47 CEST 30 July) on an Ariane 5 rocket from Europe’s Spaceport in Kourou, French Guiana.
+The vehicle is carrying 6602 kg of freight, including 2680 kg of dry cargo and 3922 kg of water, propellants and gases.
+The cargo includes complex scientific hardware, such as the electromagnetic levitator for experiments to improve industrial casting processes. The unit will allow finer metal castings and more precise measurements than can be obtained on Earth, where readings are affected by gravity.

@@ -1,0 +1,15 @@
+2018-01-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Elementary_my_dear_machine_intelligence
+Elementary, my dear machine intelligence
+Artificial intelligence already helping astronauts on the International Space Station is also providing a promising approach for solving crimes. In an era of security concerns across Europe, the smart use of police data is critical for uncovering leads.
+It can detect suspicious patterns, reconstruct scenes and highlight promising avenues of investigation.
+The origins of this machine-intelligence date back almost 15 years, aimed at preparing astronauts for space. The Space Applications Services company developed question-answering software for training astronauts on ESA’s Columbus research laboratory, responding to queries such as “What is this?” and “Where is this?”
+Artificial intelligence is set to play a major role in future space missions. More automation can reduce ground operations, costs and risks. The next ESA astronaut in space, Alexander Gerst, will take it to the next level this year, testing an intelligent mobile crew assistant.
+Fight against crime
+That initial crew training project of 2003–05, while a small step in artificial intelligence, led to a completely different domain: security.
+The company developed a tool able to cope with most factual questions and to display the results. It became possible to find specific video feeds in surveillance cameras from thousands of hours of recordings.
+Later on, the same technology was used for training crisis managers at airports for realtime decision-making. The staff were trained in a simulator to detect incidents and potential threats.
+Artificial detective
+A decade after the space trial, European engineers started working on the semi-automated scanning of huge amounts of data from a wide range of sources – such as written records, footage and social media – within seconds.
+The software does the laborious parts of a crime analyst’s job with a single click. The Belgian police are now evaluating it for cost-effective intelligence gathering and analysis.
+The software could become a commercial product by the middle of this year.

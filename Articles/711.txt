@@ -1,0 +1,23 @@
+2017-09-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Diet_tracker_in_space
+Diet tracker in space
+Whether you are on a diet or just want to be healthier, you might be one of those millions of people around the planet who use a mobile app to track everything you eat. The trend has arrived in space: European astronauts are now logging their meals on a tablet to make sure they are getting the right amount of nutrients.
+An optimal diet, paired with constant exercise, is essential to counteract the effects of spaceflight on the human body. Bone loss, muscle atrophy and depleted nutrient stores such as protein, fat and vitamin D are among the negatives of space travel.
+Research shows that energy intake in orbit is usually lower than on Earth – some even call it ‘spaceflight anorexia’. From tubes to cans and rehydratable packages, space food has evolved to meet nutritional requirements and boost crew morale.
+“Food in space tastes different – it is like eating with a cold and a reduced appetite follows,” explains ESA astronaut Thomas Pesquet.
+Since gaining weight is very unusual for astronauts, flight surgeons have always consulted astronauts when building their menus. Doctors want to ensure the crew are fuelling themselves with a balanced diet, suitable for space demands and the return to Earth.
+Every meal on EveryWear
+EveryWear is an iPad-based application that collects physiology and medical data from astronauts on the International Space Station. It is connected to wearable biomedical sensors that record exercise, heart rate and sleep quality.
+Its main use is as a food diary. The astronaut simply scans the barcode of the food with the built-in tablet camera, classify it as breakfast, lunch, dinner or snack, and add how much water was consumed.
+“We wanted to move away from the old-fashioned questionnaires and snapping photos in orbit. It is cumbersome both for astronauts and the scientists on Earth,” says Brigitte Godard, ESA’s flight surgeon in charge of astronaut nutrition.
+The crew can also add food by tapping on a specific product. The app comes loaded with a database containing all the food on the Space Station, both in English and in Russian. If something is not listed yet, there is an option to take a picture.
+Nutritional advice
+An added value of the tool is that it connects the astronaut with nutrition experts on Earth, some 400 km below. Ground teams receive the information and can suggest the best combination of meals for a healthy stay in orbit.
+In addition to the weekly expert advice, the app delivers automated nutrition reports for astronauts to monitor their daily intake and check the recommended dose. The focus is on calories, protein, water, carbohydrates, fat, sodium, calcium, iron and potassium.
+Thomas was the first to use EveryWear in orbit. Even though he was asked to use the app only for a week, he enthusiastically logged in more than 1200 food and drinks throughout his six-month mission.
+“The app helped me be more conscious about what I was eating and improved my diet without taking up more time,” he says.
+The science behind it
+Brigitte highlights the advantages of this approach for science purposes: “It produces very reliable data because the number of food items is limited, the menu cycle is repetitive, and portion sizes and nutrient content are exact.”
+EveryWear was conceived in conjunction with France’s CNES space agency and the MEDES Institute for Space Physiology and Medicine for Thomas’ mission, but ESA astronaut Paolo Nespoli, currently in space, is also giving it a go.
+NASA has shown interest in using it to complement their results from standard blood and urine tests on the Space Station. The data will also help to optimise the amount of food needed for missions into deep space.
+Do you want to know more about the food eaten by astronauts in space? Check what’s on the space menu in our astronaut nutrition brochure.

@@ -1,0 +1,15 @@
+2012-11-09
+https://www.esa.int/About_Us/ESOC/Connecting_via_the_interplanetary_Internet
+Connecting via the interplanetary Internet
+NASA astronaut Sunita Williams recently controlled an ESA rover in Germany from the International Space Station in a joint test of a communication protocol designed for interplanetary spaceflight.
+The new disruption-tolerant network is similar to the Internet that is allowing you to read this text – but space agencies need an even more robust communications system for space travel.
+Such networks store messages even when a signal is lost, perhaps when a spacecraft loses sight of a rover as it orbits over the horizon. As soon as the link is regained, the stored message is delivered.
+Information sent over the network is divided into packets of data. Each packet is stored temporarily and waits until a secure connection is established to the next stop on its journey. In this way, it hops between any number of nodes until it arrives at its destination.
+Sunita made ESA’s Mocup rover move and take pictures using the new protocol on 23 October. A laptop on the Space Station was her only means of interacting with Mocup, while ESA and NASA scientists observed her progress.
+The rover was sitting on a mock planetary surface at ESA’s ESOC space operations centre in Darmstadt, Germany, beaming back pictures of what it could see to help guide Sunita.
+Reliable communications
+This is a first step towards a new type of planetary exploration. In addition to astronauts on the surface, future missions beyond Mars will likely involve astronauts controlling rovers on the surface from the safety of an orbiting spacecraft.
+These networks could be used to control families of distant spacecraft and rovers in an Internet-like way.
+Imagine a space Internet set up for all connected objects on and around Mars or other heavenly bodies. “We can use this network to communicate with objects efficiently and securely,” says Kim Nergaard, Ground Segment and Operations Manager for the test at ESOC.
+“Disruption-tolerant networks will route communication using the most suitable path. This test demonstrated many of the key elements of such a configuration.
+“The test was a great cooperation of a large international group. The science data are now being analysed to finalise the experiment and introduce new elements for the next tests.”

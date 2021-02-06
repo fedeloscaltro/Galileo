@@ -1,0 +1,14 @@
+2013-04-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Shining_light_on_elusive_dark_matter
+Shining light on elusive dark matter
+The antimatter hunter AMS-02 on the International Space Station is searching for the missing pieces of our Universe. The project’s first results published today are hinting at a new phenomenon and revealing more about the invisible ‘dark matter’.
+AMS-02, the Alpha Magnetic Spectrometer, consists of seven instruments that monitor cosmic rays from space. Unprotected by Earth’s atmosphere the instruments receive a constant barrage of high-energy particles. As these particles pass through AMS-02, the instruments record their speed, energy and direction.
+The project is one of the largest scientific collaborations of all time involving 56 institutes from 16 countries. The instrument was tested at ESA’s technical facility ESTEC in the Netherlands before being shipped to the US for launch on Space Shuttle Endeavour. As part of his DAMA mission, ESA astronaut Roberto Vittori controlled the Shuttle’s robotic arm that transferred the 6918 kg instrument to the International Space Station in 2011.
+Scientists have collected data on over 400 000 electrons together with their antimatter twins, the positrons. Data released today show how the ratio of positrons compared to electrons passing through AMS-02 changes depending on their energy, confirming data from previous instruments.
+The findings hint at a new phenomenon but it is unknown whether the positron ratio comes from dark matter particles colliding with each other or from pulsating stars in our galaxy that produce antimatter.
+Shine a torch in a completely dark room, and you will see only what the torch illuminates. That does not mean that the room around you does not exist. Similarly we know dark matter exists but have never observed it directly.
+ESA’s Planck satellite refined our knowledge of what makes up our Universe, showing last month that it is made of 26.8% dark matter. AMS-02 and the operators controlling it are working day and night to investigate the individual particles that make up dark matter.
+Despite recording over 30 billion cosmic rays since AMS-2 was installed on the International Space Station in 2011, the findings presented today are based on only 10% of the readings the instrument will deliver over its lifetime.
+Scientists are confident that AMS-02 will deliver the data needed to solve the riddle of where the changes in positron ratio come from in the near future.
+“Over the coming months, AMS will be able to tell us conclusively whether these positrons are a signal for dark matter, or whether they have some other origin.” says Professor Samuel Ting, the project's lead investigator.
+Building AMS-02: 16 years in three minutes. Credits: Widlab

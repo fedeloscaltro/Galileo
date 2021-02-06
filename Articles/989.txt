@@ -1,0 +1,19 @@
+2013-02-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Astronaut_Cruise_control
+Astronaut Cruise control
+Astronauts on the International Space Station are testing new ways of following complex procedures, freeing up their hands and time to get work done while giving the Columbus module a spring clean in the process.
+Astronauts on the Station have many tasks, ranging from scientific experiments in over 40 fields of research to maintaining ventilation systems and grappling spacecraft with robotic arms.
+Remembering the details of how to perform all these operations would be impossible – and it’s not necessary. Instead, crew procedures are available for every job and many complicated tasks are performed step-by-step like following an instruction manual. Simple and secure, but there is room for improvement.
+The procedures are generally displayed on a laptop so astronauts need to have at least one hand free to move to the next step. A lot of time is lost referring to procedures and returning to the task at hand.
+ESA is testing two simple-sounding ways of making the astronauts’ lives easier in a project called Cruise. A microphone headset frees their hands while they work, with it reacting to spoken commands such as “Next major step”.
+In a related experiment, data are displayed within the instructions, offering a single layout with all the information needed for a job instead of having information on separate displays.
+These ideas might appear obvious but will they work in real life? Will voice commands be recognised correctly by a computer even when an astronaut is under severe stress and floating in weightlessness? Without careful planning and rigorous testing, an innovation can easily spiral out of control in an emergency
+Space technology is not always state-of-the-art because new approaches must be absolutely dependable before they can be used at the forefront of human exploration.
+“Our emphasis is to improve crew performance but robustness is always a concern,” says Mikael Wolff, ESA’s project leader for the Cruise experiments.
+Get some sleep, you’re tired
+This experiment is a step towards ESA’s goal of developing an electronic partner that humans can rely on in unexpected and complex situations during missions to other planets.
+“Ideally, the future computer will know how astronauts feel and deliver information tailored to their state of mind, even suggesting they conduct a procedure on another day if they are not in the right mood, or if they need more training,” says Mikael.
+ESA has tested the theory in the Concordia Antarctic research base and Mars500’s simulated planetary voyage. More practically, ESA astronaut Frank De Winne tested a system to overlay procedures in 3D while performing tasks on the Station.
+US astronaut Kevin Ford will complete the first Cruise session, followed by Canada’s Chris Hadfield, next week, performing a routine cleaning of the ventilation system in Europe’s Columbus laboratory.
+The astronauts will fill in a questionnaire on their state of mind, their knowledge of the procedure and the practicality of the new system.
+The experiment will be done twice – so the ventilation system will be squeaky-clean this month.

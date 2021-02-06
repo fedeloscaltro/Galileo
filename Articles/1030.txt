@@ -1,0 +1,18 @@
+2012-09-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Let_the_space_games_begin
+Let the space games begin!
+Mini satellites floating in the International Space Station are on their marks. Competition rules for the Zero Robotics space game will be unveiled on Saturday with a webcast live from the Massachusetts Institute of Technology in Boston, USA.
+The Zero Robotics high school tournament challenges students to write algorithms that control Spheres − short for Synchronised Position Hold, Engage, Reorient, Experimental Satellites – on the International Space Station. The volleyball-sized satellites have their own power, propulsion and navigation systems.
+Students can follow the event this Saturday, 8 September at 17:00 GMT (19:00 CEST) via web streaming, and tweet questions to the organisers. Contenders will receive crucial information about the game, its rules and even tips to cross the finish line ahead of the opposition.
+The algorithms have to make the droids capture a spinning space object or perform an autonomous rendezvous and docking.
+If you miss the webcast, don’t worry. You will be able to replay it next week on the ESA education pages.
+Join the tournament
+Start this school year by pushing your limits: find a volunteer mentor, form a team and register for the European 2012 tournament before 27 September.
+Competitors can create and visualise their code, all from a web browser and free of charge.
+The contest will involve up to 25 teams per ESA member state. After playing against other teams in simulation rounds to get the highest scores, six European finalists will get a chance to run their code on the Space Station.
+Each finalist will be composed of a three-team alliance from different European countries. In January 2013, the winners will get to see the Spheres responding to their commands in space.
+ESA’s 19 Member States are Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Norway, Portugal, Romania, Spain, Sweden, Switzerland and the United Kingdom. Students from Poland are also welcome to join the tournament.
+For further information, please contact:
+Nigel Savage
+Head of Education Unit
+Directorate of Human Spaceflight and OperationsEmail: nigel.savage@esa.int

@@ -1,0 +1,11 @@
+2014-05-07
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exoskeleton_to_remote-control_robot_live
+Exoskeleton to remote-control robot – live
+Visionary ‘rocket scientists’ will share their ideas on Thursday, 8 May at the TEDx RocketMinds event at ESA’s operations centre in Darmstadt, Germany.
+André Schiele, leading ESA’s telerobotics lab, will attempt a very special demonstration of remote robotic operations. Donning an exoskeleton that weighs just 10 kg, he will control a robot at ESA’s technical heart in Noordwijk, the Netherlands – over 400 km away.
+The robot will copy André’s arm and hand movements as commands and feedback are sent over the regular cell-phone network.
+“Doing this live is nerve-racking,” says André, “but this is a game-changer. The technology we developed for space has enormous potential for assisting in emergency situations where humans cannot go – like the Fukushima nuclear meltdown or the Deep Water Horizon oil spill.”
+Sending robots into disaster areas has long been a goal of emergency workers, but electricity and communications networks are often the first to be hit.
+As the exoskeleton is battery-powered and sends commands through a cellular network, it can be deployed quickly in an emergency even if the infrastructure in the disaster zone has been damaged. As long as the robot can receive a cell-phone signal, it will work.
+A key ingredient is that the remote robot transmits what it ‘feels’ back to the operator wearing the exoskeleton. This touch-sensitive information allows the fine control needed to cope in difficult situations. For example, different forces are required to move a rock or pull someone out of a collapsed building.
+Tune in and watch the short presentations live – each is no longer than 18 minutes. Follow the event live from 17:00 CEST via http://new.livestream.com/tedx/rocketminds or directly below.

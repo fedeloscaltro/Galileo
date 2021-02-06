@@ -1,0 +1,20 @@
+2014-12-09
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_views_Space_Station_as_never_before
+ATV views Space Station as never before
+ESA’s fifth and last Automated Transfer Vehicle tested a new technique before docking with the International Space Station in August, at the same time revealing the orbital complex in a new light.
+ATV Georges Lemaître demonstrated a set of European sensors that offers future improvements on the autonomous rendezvous and docking that these ferries have completed five times since 2008. ESA’s goal is to perform an automated rendezvous further from home – perhaps near Mars or with an ‘uncooperative’ target such as an inert object.
+Seeing through an eclipse
+During Georges Lemaître’s rendezvous using its proven system, the Laser Infrared Imaging Sensors, or LIRIS, experiment was turned on some two and a half hours and 3500 m from the Space Station. All of the sensors worked as expected and a large amount of data was recorded and stored on hard disks in ATV’s cargo hold.
+The disks were retrieved by ESA astronaut Alexander Gerst on 29 August and returned to Earth in Soyuz TMA-12M in September. The information is now being compared against the results from ATV’s normal navigation sensors.
+With ATV-5 pointing directly at the Station, the LIRIS infrared cameras tracked the weightless research centre perfectly despite several 30-minute periods in darkness when the Sun was eclipsed by Earth and traditional cameras would have gone blind.
+The image above was taken 70 m from the Station – the first showing the complex in this configuration. Ahead of an ATV docking, the Station turns its solar wings to avoid GPS navigation signals bouncing off the structure and confusing the incoming craft.
+Four days before docking, ATV flew 7 km below the Station to check the long-range capability of the infrared cameras. A first look at the readings confirms LIRIS’ ability to track targets from a distance.
+Laser Radar
+LIRIS includes a lidar – like a radar but using light – that pulses laser beams over a mirror to collect 3D data at high resolution. The lidar also registers the amount of reflected light, which can provide clues on the type of material it is scanning.
+The image on the left shows how far each element of the Space Station is from ATV-5, with arbitrarily chosen colours corresponding to their distance from LIRIS.
+Russia’s Zvezda module, where Georges Lemaître now sits, shows up in green from 30 m, while the Soyuz was 15 m further away (yellow). The Station’s main truss is in purple, 40 m from Zvezda.
+The image on the right was created from the same data but shows how much light was reflected from each point. The Station’s retroreflector used for ATV’s normal laser docking sensors shows up brightly, just as the designers intended.
+Spacecraft docking on their own
+The advantage of the LIRIS approach is that it scans objects and gathers information about them without a dedicated communications link or hardware installed on the targets.
+The sensors can track targets equally well during darkness and provide detailed 3D maps of an object, increasing the autonomy of a craft and allowing it to navigate around a target. LIRIS-type systems are needed for future ventures deeper into space and to help remove large pieces of debris from Earth orbit.
+LIRIS was developed by Airbus Defence and Space, with German company Jena Optronik providing the lidar and France’s Sodern the infrared cameras.

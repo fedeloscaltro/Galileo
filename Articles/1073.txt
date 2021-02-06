@@ -1,0 +1,12 @@
+2012-04-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Tracking_cities_at_night_from_the_Space_Station
+Tracking cities at night from the Space Station
+ESA astronaut André Kuipers has installed ‘NightPod’ on the International Space Station, an aid for taking night-time pictures of Earth. The first batch of pictures offer stunning images of cities at night.
+Any amateur photographer knows the problems of taking pictures at night: the low shutter speeds required to capture enough light make images prone to camera shake. Blurry and unsharp pictures are the result. Professional photographers use tripods to steady their camera and take clearer pictures.
+The International Space Station orbits Earth at 7 km/s so using a tripod is not an option for night-time photography. Even if the camera is perfectly still, the Station moves so fast any images of Earth at night will still look blurred.
+ESA astronaut Paolo Nespoli took many breath-taking images of our planet at night during his MagISStra mission last year, from Cupola, the European observation module on the Space Station. He had to estimate the correct speed to move his camera and compensate by hand, a difficult task at the best of times.
+To help astronauts take better pictures, ESA developed a motorised tripod in collaboration with Dutch company Cosine. Called NightPod, this device compensates for the motion of the Space Station by tracking single points on Earth automatically. The subject stays centred in frame so the final image is in focus.
+Astronauts enter data regarding the Station’s orbit and attitude and then NightPod can start taking pictures. It can even be set to run on its own for up to six hours. “We designed a very flexible tool that can be used by a large variety of cameras,” says Luigi Castiglione from ESA’s Human Spaceflight & Operations payload development section.
+“The astronauts are enthusiastic about using NightPod,” says Massimo Sabbatini, Head of the Erasmus Centre in ESA’s Directorate of Human Spaceflight & Operations. “The images are sharper and have more detail than images from previous missions. By combining consecutive images from NightPod, we can use software techniques to enhance the images even more.”
+This is only the beginning for NightPod. The system has been designed to be adaptable, and astronauts on the Space Station are already thinking of using NightPod to look the other way, into space, taking images of stars.
+Check ESA’s Flickr account and follow us on Twitter for more images as they come in.

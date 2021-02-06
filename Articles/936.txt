@@ -1,0 +1,19 @@
+2014-02-26
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Touchy-feely_joystick_heading_to_Space_Station
+Touchy-feely joystick heading to Space Station
+Stowed inside ESA’s next supply ship to the International Space Station will be one of the most advanced joysticks ever built, designed to test the remote control of robots on the ground from up in orbit.
+Due to be launched this summer, the Automated Transfer Vehicle will deliver more than five tonnes of propellant, supplies and experiments to the orbital outpost. The consignment includes the first sustained test of how astronauts experience touch-based feedback in weightlessness.
+The experiment comes down to a deceptively simple-looking lever that can be moved freely to play basic Pong-style computer games.
+Performance readings from these games, along with follow-up questionnaires, will analyse the effects on human motor control when exposed to long-term weightlessness, and how feedback feels in orbit.
+Behind the scenes, a complex suite of servo motors can withstand any force an astronaut operator might unleash on it, while generating forces that the astronaut will feel in turn – just like a standard video gaming joystick as a player encounters an in-game obstacle.
+The difference in orbit is that, to quote Isaac Newton, ‘every action has an equal and opposite reaction’ – so to prevent the joystick’s force feedback pushing its free-floating user around it is mounted to a body harness that can be fixed in turn to standard Station equipment.
+“Getting the hardware to be extremely precise yet incredibly sturdy was the project’s main challenge,” explains André Schiele, head of ESA's Telerobotics and Haptics Laboratory, overseeing the experiment.
+“The resulting system can produce minute forces most people are not sensitive enough to feel, but astronauts could kick it and it will still work and respond correctly.”
+Seven different tests are planned so far, with more in the pipeline – new tests can be uploaded easily. A touchscreen tablet will be used to load software and conduct the experiments.
+Extending touch to space
+Future planetary exploration may well see robots on an alien surface being teleoperated by humans in orbit above them – close enough for realtime remote control, without any significant signal lag, to benefit from human resourcefulness without the expense and danger of a manned landing.
+But precision robotic control requires exact feedback of what the robot experiences, extending from visual displays to sensory feedback – a remote sense of touch.
+This is extremely important in determining the amount of force needed for the most complex tasks, such as picking up rock samples or installing equipment: most people can tie their shoes without looking, but not on a cold winter night with numb fingers.
+Harnessing reliable feedback, an astronaut controller could automatically adjust the force their robot needs to do very fine, precise work.
+The work of the Agency’s ESTEC technical centre in Noordwijk, the Netherlands, this experiment will be the first time hardware is flown in orbit for the multi-agency Meteron (Multi-Purpose End-to-End Robotic Operation Network) initiative, investigating telerobotics for space.
+Meteron is being carried out in partnership with several NASA centres, Germany’s DLR space agency and Russian partners including Roscosmos, the R&D Institute of Robotics and Technical Cybernetics in St Petersburg and space company Energia.

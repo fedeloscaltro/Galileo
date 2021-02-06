@@ -1,0 +1,13 @@
+2017-12-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Planting_oxygen
+Planting oxygen
+When resources are limited, you have to work with what you have – especially in the harsh environment of space. Though the International Space Station is regularly restocked by cargo vessels, like today’s Dragon, self-sufficient spaceflight in the future will require us to recycle and reuse precious resources like oxygen. An experiment on its way to space will look into doing just that.
+Breath of fresher air
+Researchers are studying how photosynthesis – the process by which organisms convert light into energy, producing oxygen as a byproduct – takes place in space.
+They loaded the microalgae Arthrospira, commonly known as spirulina, into a photobioreactor, a kind of cylinder bathed in light. On the Space Station, carbon dioxide will be transformed by photosynthesis into oxygen and edible biomass such as proteins.
+Though a routine process on Earth, we must understand how it works in space before we can exploit it. The experiment will run for a month as the amount of oxygen from the algae is accurately measured.
+The microalgae will be analysed after Dragon returns to Earth next April, looking at the genetic information to build a clearer picture of the effects of weightlessness and radiation on the plant cell. Arthrospira is known to be highly resistant to radiation, but we need to check how well it can stand up to space hazards.
+This Artemiss pilot project is the first of its kind, and its researchers and engineers hope to follow it up with a longer study that continuously feeds in microalgae.
+The project is part of the Micro-Ecological Life Support System Alternative, or Melissa, effort that is developing regenerative technologies for life support.
+Melissa covers many research and education activities, such as the AstroPlant citizen science project, which is collecting data on how plants grow under varying degrees of light.
+It will soon welcome another technology precursor, Uriniss, which will look into recycling urine to provide nitrogen gas, energy, potential plant nutrients and, of course, water. Because when life in space gives you urine, you make water.

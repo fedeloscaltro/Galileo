@@ -1,0 +1,18 @@
+2012-06-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Delving_inside_Earth_from_space
+Delving inside Earth from space
+ESA astronaut André Kuipers is running experiments on the International Space Station that are shedding light on conditions deep inside Earth. Orbiting some 400 km above us, Geoflow is offering insights into the inner workings of our planet.
+Descending 3000 km under our feet, Earth’s mantle is a semi-solid fluid under our thin outer crust. The highly viscous layers vary with temperature, pressure and depth.
+Understanding how the mantle flows is a major interest for geophysics because it could help to explain earthquakes or volcanic eruptions. Computers can model it, but how can scientists be sure they are correct?
+The deepest that humans have ever drilled is just over 12 km, so investigating the mantle directly is out of reach for the immediate future.
+Instead of probing Earth’s depths directly, six European teams led by the University of Cottbus in Germany looked to recreate aspects of mantle flow in a laboratory. Experiments simulating these conditions can verify and improve the computer models.
+This poses a different problem, however. How can gravity be simulated without Earth’s gravity itself influencing the results?
+The solution is to send an experiment to our largest weightless laboratory: the International Space Station.
+Planet in a box
+ESA sponsored the development of an experiment that mimics the geometry of a planet. Called Geoflow, it contains two revolving concentric spheres with a liquid between them.
+The inner sphere represents Earth’s core, with the outer sphere acting as the crust. The liquid, of course, is the mantle.
+Free from the influence of Earth’s gravity, a high-voltage electrical field creates artificial gravity for the experiment.
+As the spheres rotate slowly and a temperature difference is created between the shells, movement in the liquid is closely monitored. The temperatures can be controlled down to a tenth of a degree.
+André has seen plumes of hotter liquid rising towards the outer shell – as predicted by computer simulations.
+Mushroom-like plumes in fluids exposed to strong temperature differences might explain the Hawaiian line of volcanoes in the South Pacific.
+A better understanding of our planet is not the only outcome of Geoflow. The results could also benefit industry by improving spherical gyroscopes, bearings and centrifugal pumps, for example.

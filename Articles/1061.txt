@@ -1,0 +1,17 @@
+2012-05-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Keeping_immune_cells_alive_and_kicking
+Keeping immune cells alive and kicking
+New results from research on the International Space Station are offering clues on why astronauts’ immune systems don’t work as well in space. The findings may benefit the elderly on Earth.
+Astronauts suffer many types of stress adapting to weightlessness. For years, scientists have known that our immune system works less well in space, and trying to find the reason is a driving force for space research.
+Researchers at the University of Teramo, the European Centre for Brain Research and the Santa Lucia Foundation have discovered that a particular enzyme, called 5-LOX, becomes more active in weightlessness.
+The 5-LOX enzyme in part regulates the life expectancy of human cells. Most human cells divide and regenerate but the number of times they replicate is limited.
+Could a change in 5-LOX enzyme activity affect astronauts’ health in space?
+To find out, the researchers needed to test their theory in the only laboratory that can ‘switch off’ gravity: the International Space Station.
+Target locked on 5-LOX
+Blood samples from two healthy donors were sent to the orbital outpost. One set was exposed to weightlessness for two days, while the other was held in a small centrifuge to simulate Earth-like gravity. The samples were then frozen and sent back to Earth for analysis.
+As predicted, the weightless samples showed more 5-LOX activity than the centrifuged samples and a set that had remained on the ground. In fact, the centrifuged samples remained identical to the ground samples.
+Professor Mauro Maccarrone from the University of Teramo explains, “We now have a target enzyme that could play a real role in causing weakened immune systems.
+“The 5-LOX enzyme can be blocked with existing drugs, so using these findings to improve human health could be a close reality.”
+Research will continue on the 5-LOX enzyme and related compounds. A follow-up experiment returned to Earth in a Soyuz capsule with the Expedition 30 crew last week. Scientists will look for other changes in the cells to understand the underlying mechanisms fully.
+Limiting biological activity of cell signals such as those controlled by 5-LOX might even slow parts of the ageing process.
+These findings are being shared with the scientific community, especially researchers studying people with reduced immune response. The chances are that elderly people could benefit from this field of investigation.

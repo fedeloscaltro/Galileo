@@ -1,0 +1,21 @@
+2014-07-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Last_ATV_lifts_off_to_supply_the_Space_Station
+Last ATV lifts off to supply the Space Station
+The fifth and final mission of ESA’s Automated Transfer Vehicle got off to a flying start today with its launch from Europe’s Spaceport in Kourou, French Guiana, heading for the International Space Station.
+Georges Lemaître is the fifth ATV built and launched by ESA as part of Europe’s contribution to cover the operational costs for using the Space Station.
+“The ATV programme is one of the most remarkable space and industrial projects ever made in Europe,” notes Jean-Jacques Dordain, ESA’s Director General.
+“ESA, thanks to its Member States and European industry, has provided a series of advanced spaceships, launched at regular intervals of about one year. Six years after its maiden flight, the ATV is still a unique vehicle demonstrating what  ESA and European industry can do in serving European cooperation and innovation. This demonstration has convinced NASA to use the service module of ATV for their future crew transportation system.”
+Named after the Belgian scientist who formulated the Big Bang Theory, ATV Georges Lemaître lifted off at 23:47 GMT on 29 July (01:47 CEST 30 July, 20:47 local time 29 July) on an Ariane 5 ES rocket.
+Once in its circular orbit 260 km above Earth, ATV-5 opened its solar wings and antenna.
+“It is with great pride that we saw the fifth successful launch of this beautiful spacecraft,” said Thomas Reiter, ESA’s Director of Human Spaceflight and Operations
+“But the adventure doesn’t end here. ATV knowhow and technology will fly again to space as early as 2017 powering NASA’s Orion spacecraft with the European Service Module, ushering in the next generation of space exploration.”
+The freighter will complete its initial operations about 10 hours after launch. Georges Lemaître will take about two weeks in order to test equipment and perform experiments.
+The journey will include flying around the Station to test the LIRIS laser infrared imaging sensor, which could form the basis of future guidance, navigation and control systems for rendezvous with targets without purpose-built docking ports or space debris.
+During the flyaround, the LIRIS infrared cameras will turn on some 30 km from the orbiting laboratory. For the rendezvous, both the cameras and laser sensor will be activated around 3.5 km to generate a virtual 3D model of the Station. Recorders in ATV’s cargo bay will store the data for download and analysis.
+ATV Georges Lemaître is due to dock with the Station on 12 August and will remain attached for up to six months before leaving with waste material for destruction along with the spaceship during atmospheric reentry.
+Operations will be monitored from the ATV Control Centre in Toulouse, jointly run by ESA and France’s CNES space agency.
+The vehicle will deliver 6602 kg of freight, including 2681 kg of dry cargo and 3921 kg of water, propellants and gases.
+The cargo includes complex scientific hardware, such as the electromagnetic levitator for experiments to improve industrial casting processes. The unit will allow finer metal castings and more precise measurements than can be obtained on Earth, where readings are affected by gravity.
+ATV-5 will also deliver a sophisticated joystick to test the use of force feedback in weightless environments. Force feedback could greatly improve remote control of robots in orbit.
+The ATV mission also includes pioneering art: a piece of the Campo del Cielo meteorite that fell to Earth over 4000 years ago will be sent back to space on ATV. It will recreate its original voyage when it burns up in the atmosphere.
+ATV’s approach will be monitored by ESA astronaut Alexander Gerst, who has been living on the Station since 29 May. During his six months in space Alexander will perform over 70 experiments as well as setting up the electromagnetic levitator.

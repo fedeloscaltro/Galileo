@@ -1,0 +1,20 @@
+2012-12-12
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Shadows_on_ice_Proba-1_images_Concordia_south_polar_base
+Shadows on ice: Proba-1 images Concordia south polar base
+ESA’s Earth-observing microsatellite Proba-1 has glimpsed one of the loneliest places on Earth – Concordia research base in the heart of Antarctica.
+This image was acquired by the High-Resolution Camera, the smallest imager on ESA’s smallest satellite. This black and white digital camera incorporates a miniaturised telescope to fit in Proba-1, whose overall volume is less than a cubic metre.
+Long shadows cast by the low Sun pick out details of the base’s layout in this 5 m-resolution image.
+The Concordia station, built and operated by France’s IPEV polar institute and Italy’s PNRA Antarctic programme, is one of the few permanently crewed habitats in Antarctica. Located 3233 m above sea level in the high interior, its nearest neighbour is Russia’s Vostok base, some 560 km away.
+Its extreme location makes it interesting to ESA, which sponsors medical research on how isolation affects overwintering crews during months of cold darkness.
+Life in Concordia is similar to living on another planet. No help can arrive during the winter months and venturing outside is dangerous – temperatures can drop to –80ºC.
+The base’s distinctive double-cylinder habitats, home to skeleton crews during winter, are picked out by the area of greatest shadow. Directly northeast are the summer camp buildings, with the base runway visible to the north.
+To the east of the main habitats are an astronomy platform – Concordia boasts some of the clearest skies in the world – and glaciology survey areas where subsurface drilling extracts ice cores.
+A faint dot further east is the entrance to an underground seismology shelter measuring ground tremors.
+A US-built radio tower and the smoothed-out path leading to it are visible towards the southeast corner of the image.
+This image was acquired on 24 November.
+About Proba-1
+Working for more than a decade, Proba-1 is the first in ESA’s series of satellites aimed at flight testing new space technologies. Its many experiments include the compact camera that acquires monochromatic images covering 25 sq km.
+The High-Resolution Camera operates alongside Proba-1’s larger CHRIS Compact High Resolution Imaging Spectrometer hyperspectral imager, which takes 15 m-resolution scenes across a programmable selection of up to 62 spectral bands, from a variety of viewing angles.
+Proba stands for ‘Project for Onboard Autonomy’ – both cameras are largely autonomous. Controllers at ESA’s Redu station in Belgium send up the location to be imaged – latitude, longitude and altitude – then the satellite itself does the rest, lining up its instruments with its target on the ground.
+Proba-1 was launched in October 2001 as an experimental mission but is still going strong, having since been reassigned to ESA’s Earth observation team.
+In November 2009 Proba-1 was joined in orbit by Proba-2, focused on solar monitoring. Proba-V, to monitor global vegetation, is due for launch next spring.

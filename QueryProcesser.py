@@ -139,53 +139,67 @@ def processer(query):
     return results, dym
 
 
-def concept_query():
+def concept_query(concept, df):
     """
-    GERARCHICE
-    BT - Broader Term (X)
-    NT - Narrower Term (x)
-    TT - Top Term
-    ------------------------
-    ASSOCIATIVITà
-    RT - Related Term (x)
-    ------------------------
-    DI EQUIVALENZA
-    USE - Rinvio da un termine non accettato a uno accettato
-    UF - Contrario di USE (X)
-    SN - Scope Note
-    HS - History Note
-    :return:
+    Function to handle the content-based term inserted in the user's query
+    :param concept: the i-th concept to analyze and expand
+    :param df: the thesaurus to consult
+    :return: the expanded concept
     """
-    df = pd.read_csv("NASA_Thesaurus_CSV.csv")
-    string_query = "2001 Mars Odyssey"
-    # Key UID,Key Descriptor, Key Object Class, Relationship Type, Related UID, Related Descriptor, Related Object Class
-    # print(df.columns)
-    tokens = tokenize(string_query)
-    query_string = ""
-    lemmatized_tokens = lemmatize(tokens)
-    for w in lemmatized_tokens:  # for each lemmatized word
-        query_string += w + " "  # add it to the final query object
-    print(query_string)
-    query_exp_list = []
+
+    """
+    RELAZIONI THESAURUS
+    - gerarchiche
+        BT - Broader Term (X)
+        NT - Narrower Term (x)
+    - di equivalenza
+        UF - Rinvio da un termine accettato a uno non accettato (X)
+    """
+    query_exp_list = []  # list of all the terms found with the thesaurus
     for index, row in df.iterrows():
-        for w in lemmatized_tokens:
-            if w in row["Key Descriptor"]:
-                if row["Relationship Type"] == "UF":
-                    query_exp_list.append(row["Related Descriptor"] + " ")
-    query_exp = set(query_exp_list)
-    # print(query_exp)
+        if concept[0] in row["Key Descriptor"]:  # if the concept match with a word in the DataFrame
+            if row["Relationship Type"] == concept[1]:  # check if the relationship is what the user wants
+                query_exp_list.append(row["Related Descriptor"] + " ")  # if so, thus add the related term in the list
+
+    str_concepts = ""
+    for q_e in set(query_exp_list):  # to avoid any repetition it considers a set
+        str_concepts += q_e + " "  # composes the definitive expanded query
+
+    return str_concepts
 
 
 def query_expansion(query_string):
-    exp = re.compile("\(.*?\)")
-    for e in exp.findall(query_string):
+    """
+    Function to expand the whole query
+    :param query_string: the input query the user has typed into the system
+    :return: the expanded query
+    """
+    exp = re.compile("\(.*?\)")  # the relevant R.E. to look up
+    df = pd.read_csv("thesaurus/NASA_Thesaurus_CSV.csv")  # the chosen thesaurus
+
+    for e in exp.findall(query_string):  # looking for all the expressions that match my R.E.
         e = e.replace("(", '')
         e = e.replace(")", '')
-        e = e.split(",")
+        e = e.split(",") # split term and relationship
         term = e[0]
         rel = e[1]
-        print(term, rel)
+
+        concepts = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
+        query_string = query_string.replace("("+term+","+rel+")", concepts)  # replaces the tuple w/ the found concepts
+
+    query_string = list(query_string.split(" "))  # action performed looking to keep all the terms but not duplicated
+    # print(query_string)
+
+    query_expanded = ""
+    for term in set(query_string):  # iterates over the set of terms and then adds them into the final query string
+        query_expanded += term + " "
+
+    print(query_expanded)
+
+    # TODO scegliere se tenere così (un calderone di parole) o fare un set() per ogni volta che ho ricerca per concetti
+    # ==> query + lunga, ordine delle parole ricercate mantenuto e ma termini possono ripetersi
+    return query_expanded
 
 
 if __name__ == "__main__":
-    query_expansion("(ciao,NT) OR nasa AND (artemis,BT)")
+    query_expansion("(Mars,NT) OR nasa AND (aircraft,UF)")

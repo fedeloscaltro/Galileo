@@ -8,6 +8,10 @@ import datetime
 import nltk
 from nltk.corpus import stopwords
 
+import pandas as pd
+
+import re
+
 
 def tokenize(raw):
     """
@@ -59,7 +63,7 @@ def source_filter(query, ix):
     # if no source is selected add all by default
     if (not query['esa']) and (not query['space']) and (not query['blue_origin']):
         sources = qparser.parse("*www.space.com* OR *www.esa.int* OR *www.blueorigin.com*")
-
+        
     else:
         sources = qparser.parse(f"({esa} OR {blue_origin}) OR {space}")
     
@@ -106,7 +110,7 @@ def processer(query):
                               ix.schema)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
 
-    final_string = query_string + date_range    # add the search by date
+    final_string = query_expansion(query_string) + date_range    # add the search by date
     query_string = query_string[:-1]
     user_query = parser.parse(final_string)  # parsing the query and returning a query object to search (use "date:")
 
@@ -133,3 +137,55 @@ def processer(query):
             dym = "Did you mean: <b>" + corrected.string+'</b>?'
     
     return results, dym
+
+
+def concept_query():
+    """
+    GERARCHICE
+    BT - Broader Term (X)
+    NT - Narrower Term (x)
+    TT - Top Term
+    ------------------------
+    ASSOCIATIVITà
+    RT - Related Term (x)
+    ------------------------
+    DI EQUIVALENZA
+    USE - Rinvio da un termine non accettato a uno accettato
+    UF - Contrario di USE (X)
+    SN - Scope Note
+    HS - History Note
+    :return:
+    """
+    df = pd.read_csv("NASA_Thesaurus_CSV.csv")
+    string_query = "2001 Mars Odyssey"
+    # Key UID,Key Descriptor, Key Object Class, Relationship Type, Related UID, Related Descriptor, Related Object Class
+    # print(df.columns)
+    tokens = tokenize(string_query)
+    query_string = ""
+    lemmatized_tokens = lemmatize(tokens)
+    for w in lemmatized_tokens:  # for each lemmatized word
+        query_string += w + " "  # add it to the final query object
+    print(query_string)
+    query_exp_list = []
+    for index, row in df.iterrows():
+        for w in lemmatized_tokens:
+            if w in row["Key Descriptor"]:
+                if row["Relationship Type"] == "UF":
+                    query_exp_list.append(row["Related Descriptor"] + " ")
+    query_exp = set(query_exp_list)
+    # print(query_exp)
+
+
+def query_expansion(query_string):
+    exp = re.compile("\(.*?\)")
+    for e in exp.findall(query_string):
+        e = e.replace("(", '')
+        e = e.replace(")", '')
+        e = e.split(",")
+        term = e[0]
+        rel = e[1]
+        print(term, rel)
+
+
+if __name__ == "__main__":
+    query_expansion("(ciao,NT) OR nasa AND (artemis,BT)")

@@ -1,5 +1,5 @@
 from whoosh.index import open_dir
-from whoosh.qparser import MultifieldParser, QueryParser, WildcardPlugin
+from whoosh.qparser import MultifieldParser, QueryParser, WildcardPlugin, OrGroup
 from whoosh.qparser.dateparse import DateParserPlugin
 from whoosh.query import Term
 
@@ -107,7 +107,7 @@ def processer(query):
     date_range = date_filter(query)  # call the filter function for dates
 
     parser = MultifieldParser(["title", "content", "date"],
-                              ix.schema)  # setting the query parse with the specified field of the schema
+                              ix.schema, group=OrGroup)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
 
     final_string = query_expansion(query_string) + date_range    # add the search by date
@@ -157,15 +157,11 @@ def concept_query(concept, df):
     """
     query_exp_list = []  # list of all the terms found with the thesaurus
     for index, row in df.iterrows():
-        if concept[0] in row["Key Descriptor"]:  # if the concept match with a word in the DataFrame
+        if concept[0] == row["Key Descriptor"]:  # if the concept match with a word in the DataFrame
             if row["Relationship Type"] == concept[1]:  # check if the relationship is what the user wants
-                query_exp_list.append(row["Related Descriptor"] + " ")  # if so, thus add the related term in the list
+                query_exp_list.append(row["Related Descriptor"])  # if so, thus add the related term in the list
 
-    str_concepts = ""
-    for q_e in set(query_exp_list):  # to avoid any repetition it considers a set
-        str_concepts += q_e + " "  # composes the definitive expanded query
-
-    return str_concepts
+    return query_exp_list
 
 
 def query_expansion(query_string):
@@ -174,32 +170,27 @@ def query_expansion(query_string):
     :param query_string: the input query the user has typed into the system
     :return: the expanded query
     """
-    exp = re.compile("\(.*?\)")  # the relevant R.E. to look up
-    df = pd.read_csv("thesaurus/NASA_Thesaurus_CSV.csv")  # the chosen thesaurus
+    exp = re.compile("\{.*?\}")  # the relevant R.E. to look up
+    df = pd.read_csv("../thesaurus/NASA_Thesaurus_CSV.csv")  # the chosen thesaurus
 
     for e in exp.findall(query_string):  # looking for all the expressions that match my R.E.
-        e = e.replace("(", '')
-        e = e.replace(")", '')
+        e = e.replace("{", '')
+        e = e.replace("}", '')
         e = e.split(",") # split term and relationship
         term = e[0]
         rel = e[1]
 
         concepts = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
-        query_string = query_string.replace("("+term+","+rel+")", concepts)  # replaces the tuple w/ the found concepts
+        concepts_set = set(concepts)  # action performed looking to keep all the terms but not duplicated
+        print(concepts_set)
+        query_expanded = ""
+        for c in concepts_set:  # iterates over the set of terms and then adds them into the final query string
+            query_expanded += '"' + c + '" ' 
 
-    query_string = list(query_string.split(" "))  # action performed looking to keep all the terms but not duplicated
-    # print(query_string)
+        query_string = query_string.replace("{"+term+","+rel+"}", "("+query_expanded+")")  # replaces the tuple w/ the found concepts
 
-    query_expanded = ""
-    for term in set(query_string):  # iterates over the set of terms and then adds them into the final query string
-        query_expanded += term + " "
-
-    print(query_expanded)
-
-    # TODO scegliere se tenere così (un calderone di parole) o fare un set() per ogni volta che ho ricerca per concetti
-    # ==> query + lunga, ordine delle parole ricercate mantenuto e ma termini possono ripetersi
-    return query_expanded
+    return query_string
 
 
-if __name__ == "__main__":
-    query_expansion("(Mars,NT) OR nasa AND (aircraft,UF)")
+# if __name__ == "__main__":
+#    query_expansion("{2001 Mars Odyssey,BT} OR nasa AND {2001 Mars Odyssey,RT}")

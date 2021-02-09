@@ -46,6 +46,7 @@ def source_filter(query, ix):
     """
     qparser = QueryParser("path", ix.schema)
     qparser.add_plugin(WildcardPlugin())    # utilize the Wildcard plugin to match the sources in the url
+
     esa = ""
     space = ""
     blue_origin = ""
@@ -95,28 +96,28 @@ def processer(query):
     :param query: the query submitted by the user
     :return: the results of the query, a list of articles
     """
+    """
     tokens = tokenize(query['text'])
     query_string = ""
     for w in lemmatize(tokens):     # for each lemmatized word
-        query_string += w + ""    # add it to the final query object
-
+        query_string += w + " "    # add it to the final query object
+    """
+    query_string = query['text']
     ix = open_dir("../index")  # open the index and assign it to "ix"
 
     sources = source_filter(query, ix)  # call the filter function for sources 
     date_range = date_filter(query)  # call the filter function for dates
 
-    parser = MultifieldParser(["title", "content", "date"],
+    parser = MultifieldParser(["title", "content"],
                               ix.schema, group=OrGroup)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
+    print(query_string)
+    final_string = query_expansion(query_string) + " " + date_range    # add the search by date
+    #query_string = query_string[:-1]
+    user_query = parser.parse(final_string)  # parsing the query and returning a query object to search (use "date:")
+    print(user_query)
 
-    query_stringg = query_expansion(query_string)
-    user_query = query_stringg + date_range    # add the search by date
-    query_string = query_string[:-1]
-    print("query_string:", query_string)
-    print("user_query_vergine:", user_query)
-    user_query = parser.parse(user_query)  # parsing the query and returning a query object to search (use "date:")
-    print("user_query_elaborata:", user_query)
-
+    results = {}
     with ix.searcher() as searcher:
         result = searcher.search(user_query, filter=sources, limit=None, terms=True)  # search the query
         result.fragmenter.charlimit = None
@@ -130,6 +131,7 @@ def processer(query):
                 article_dict[f] = i[f]
             article_dict["highlights"] = i.highlights("content")
             results.append(article_dict)
+        # results = [ for i in result]
 
         # Try correcting the query
         corrected = searcher.correct_query(user_query, query_string)
@@ -177,14 +179,13 @@ def query_expansion(query_string):
     for e in exp.findall(query_string):  # looking for all the expressions that match my R.E.
         e = e.replace("{", '')
         e = e.replace("}", '')
-        e = e.split(",")  # split term and relationship
+        e = e.split(",") # split term and relationship
         term = e[0]
         rel = e[1]
-        print("term: ", term, " rel: ", rel)
 
         concepts = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
         concepts_set = set(concepts)  # action performed looking to keep all the terms but not duplicated
-        # print(concepts_set)
+        print(concepts_set)
         query_expanded = ""
         for c in concepts_set:  # iterates over the set of terms and then adds them into the final query string
             query_expanded += '"' + c + '" ' 
@@ -194,5 +195,5 @@ def query_expansion(query_string):
     return query_string
 
 
-"""if __name__ == "__main__":
-    query_expansion("{2001 Mars Odyssey,BT}") """ #  OR nasa AND {2001 Mars Odyssey,RT}
+# if __name__ == "__main__":
+#    query_expansion("{2001 Mars Odyssey,BT} OR nasa AND {2001 Mars Odyssey,RT}")

@@ -96,12 +96,6 @@ def processer(query):
     :param query: the query submitted by the user
     :return: the results of the query, a list of articles
     """
-    """
-    tokens = tokenize(query['text'])
-    query_string = ""
-    for w in lemmatize(tokens):     # for each lemmatized word
-        query_string += w + " "    # add it to the final query object
-    """
     query_string = query['text']
     ix = open_dir("../index")  # open the index and assign it to "ix"
 
@@ -112,7 +106,8 @@ def processer(query):
                               ix.schema, group=OrGroup)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
     print(query_string)
-    final_string = query_expansion(query_string) + " " + date_range    # add the search by date
+    final_string, th_dym = query_expansion(query_string)
+    final_string += " " + date_range    # add the search by date
     #query_string = query_string[:-1]
     user_query = parser.parse(final_string)  # parsing the query and returning a query object to search (use "date:")
     print(user_query)
@@ -131,13 +126,14 @@ def processer(query):
                 article_dict[f] = i[f]
             article_dict["highlights"] = i.highlights("content")
             results.append(article_dict)
-        # results = [ for i in result]
 
         # Try correcting the query
         corrected = searcher.correct_query(user_query, query_string)
         dym = ""
         if corrected.query != user_query:
-            dym = "Did you mean: <b>" + corrected.string+'</b>?'
+            dym = "Did you mean: <b>" + corrected.string +'</b>?</br>'
+
+        dym += th_dym
     
     return results, dym
 
@@ -158,13 +154,35 @@ def concept_query(concept, df):
     - di equivalenza
         UF - Rinvio da un termine accettato a uno non accettato (X)
     """
+
+    ix = open_dir("../thesaurus/index")
+    parser = QueryParser("key", ix.schema)
+    term = parser.parse(concept[0])
+    parser = QueryParser("relationship", ix.schema)
+    rel = parser.parse(concept[1])
+
+    query_exp_list = []  # list of all the terms found with the thesaurus
+    with ix.searcher() as searcher:
+        result = searcher.search(term, filter=rel)
+        for r in result:
+            query_exp_list.append(r['related'])
+
+        # Try correcting the query
+        corrected = searcher.correct_query(term, concept[0])
+        dym = ""
+        if corrected.query != term:
+            dym = "Did you mean: <b>" + corrected.string +'</b>?'
+
+
+    """
     query_exp_list = []  # list of all the terms found with the thesaurus
     for index, row in df.iterrows():
         if concept[0] == row["Key Descriptor"]:  # if the concept match with a word in the DataFrame
             if row["Relationship Type"] == concept[1]:  # check if the relationship is what the user wants
                 query_exp_list.append(row["Related Descriptor"])  # if so, thus add the related term in the list
+    """
 
-    return query_exp_list
+    return query_exp_list, dym
 
 
 def query_expansion(query_string):
@@ -183,17 +201,17 @@ def query_expansion(query_string):
         term = e[0]
         rel = e[1]
 
-        concepts = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
+        concepts, dym = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
         concepts_set = set(concepts)  # action performed looking to keep all the terms but not duplicated
-        print(concepts_set)
         query_expanded = ""
         for c in concepts_set:  # iterates over the set of terms and then adds them into the final query string
             query_expanded += '"' + c + '" ' 
 
         query_string = query_string.replace("{"+term+","+rel+"}", "("+query_expanded+")")  # replaces the tuple w/ the found concepts
 
-    return query_string
+    return query_string, dym
 
-
-# if __name__ == "__main__":
-#    query_expansion("{2001 Mars Odyssey,BT} OR nasa AND {2001 Mars Odyssey,RT}")
+"""
+if __name__ == "__main__":
+    query_expansion("{2001 Mars Odyssey,BT} OR nasa AND {2001 Mars Odyssey,RT}")
+"""

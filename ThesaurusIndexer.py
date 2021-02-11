@@ -1,10 +1,10 @@
 import os.path
 
 from whoosh.fields import *
-from whoosh.index import create_in, open_dir
-from whoosh.qparser import QueryParser
+from whoosh.index import create_in
 
 import pandas as pd
+
 
 def create_index():
 	schema = Schema(
@@ -26,9 +26,9 @@ def fill_index(ix):
 	df = pd.read_csv("thesaurus/NASA_Thesaurus_CSV.csv")
 	for index, row in df.iterrows():
 		writer.add_document(
-			key = row["Key Descriptor"],
-			relationship = row["Relationship Type"],
-			related = row["Related Descriptor"]
+			key=row["Key Descriptor"],
+			relationship=row["Relationship Type"],
+			related=row["Related Descriptor"]
 		)
 
 	writer.commit()

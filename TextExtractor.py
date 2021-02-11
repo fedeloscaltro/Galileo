@@ -131,26 +131,6 @@ def space_com_extract(soup):
     return text
 
 
-"""def nasa_extract(soup):
-    Function used to extract the text from NASA's articles
-    @:param soup the HTML parser
-
-    for script in soup(["script", "style", "button", "img", "form", "aside"]):  # kill all noising elements
-        script.extract()  # rip it out
-
-    for id in soup.findAll('div', attrs={'id': ['ember192', 'footer', 'navbar']}):
-        id.extract()
-
-    for div in soup.findAll('div', attrs={'class': ['editor-info', 'collapse navbar-collapse ', 'pr-contacts',
-                                                    'addthis-wrap pull-right', 'pr-promo-release-type-id']}):
-        div.extract()
-
-    text = soup.get_text()  # get text
-
-    return text
-"""
-
-
 def main():
     """Function called to start the text-extraction procedure"""
 

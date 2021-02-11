@@ -1,4 +1,4 @@
-from flask import Flask, render_template, url_for, request
+from flask import Flask, render_template, request
 from QueryProcesser import processer
 
 app = Flask(__name__)
@@ -13,8 +13,8 @@ def home():
 @app.route("/results", methods=['GET', 'POST'])
 def results():
     """
-	Function used to link the data retrieved from gui and the processer that run the query on the index
-	"""
+    Function used to link the data retrieved from gui and the processer that run the query on the index
+    """
 
     # retrieve the data from the gui and store them in a dictionary
     query = {'text': request.args.get('query'), 'esa': request.args.get('ESA'),

@@ -1,7 +1,6 @@
 from selenium import webdriver as wd
 from selenium.webdriver.firefox.options import Options
 from bs4 import BeautifulSoup as bs
-from selenium.webdriver.support.wait import WebDriverWait
 
 options = Options()
 options.headless = True  # set the option "headless" for the web driver
@@ -59,8 +58,6 @@ def space_com_scraper(p):
     for a in soup.find_all(class_="article-link", href=True):  # obtain <a> class for the articles
         if a.text:
             tmpArticles.append(a['href'])  # to get the "href" value
-
-    # tmpArticles = [i for i in tmpArticles]  # list of links retrieved from esa web page
 
     return tmpArticles
 

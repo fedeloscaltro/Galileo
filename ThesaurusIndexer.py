@@ -34,25 +34,10 @@ def fill_index(ix):
 	writer.commit()
 
 
-def test_search():
-	ix = open_dir("thesaurus/index")
-	parser = QueryParser("key", ix.schema)
-	term = parser.parse("2001 mars odyssey")
-	parser = QueryParser("relationship", ix.schema)
-	rel = parser.parse("RT")
-
-	with ix.searcher() as searcher:
-		result = searcher.search(term, filter=rel)
-		for r in result:
-			print(r['related'])
-
-
 def main():
 	
-	# ix = create_index()	
-	# fill_index(ix)
-	test_search()
-	
+	ix = create_index()	
+	fill_index(ix)
 
 
 if __name__ == '__main__':

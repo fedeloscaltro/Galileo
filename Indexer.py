@@ -8,7 +8,7 @@ def main():
     schema = Schema(    # the schema of an indexed file
         date=DATETIME(stored=True),  # date of the article
         path=ID(stored=True),   # url of the article
-        title=TEXT(stored=True),     # title of the article
+        title=TEXT(stored=True, field_boost=2.0),     # title of the article
         content=TEXT(stored=True)    # content of the article
     )
 

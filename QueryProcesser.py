@@ -105,12 +105,23 @@ def processer(query):
     parser = MultifieldParser(["title", "content"],
                               ix.schema, group=OrGroup)  # setting the query parse with the specified field of the schema
     parser.add_plugin(DateParserPlugin(free=True))   # Add the DateParserPlugin to the parser
-    print(query_string)
+    exp = re.compile("\{.*?\}")
+    free_text = query_string
+    for e in exp.findall(free_text):
+        free_text = free_text.replace(e, '')
+
+    parsed_text = parser.parse(free_text)
     final_string, th_dym = query_expansion(query_string)
-    final_string += " " + date_range    # add the search by date
+    print("final_string: ", final_string)
+    final_string += " AND " + date_range    # add the search by date
+    """
+    date_parser = QueryParser("date", ix.schema)
+    if date_range != '':
+        date_mask = date_parser.parse(f"NOT {date_range}")
+    """
     #query_string = query_string[:-1]
     user_query = parser.parse(final_string)  # parsing the query and returning a query object to search (use "date:")
-    print(user_query)
+    print("user_query: ", user_query)
 
     results = {}
     with ix.searcher() as searcher:
@@ -128,21 +139,20 @@ def processer(query):
             results.append(article_dict)
 
         # Try correcting the query
-        corrected = searcher.correct_query(user_query, query_string)
+        corrected = searcher.correct_query(parsed_text, free_text)
         dym = ""
-        if corrected.query != user_query:
-            dym = "Did you mean: <b>" + corrected.string +'</b>?</br>'
+        if corrected.query != parsed_text:
+            dym = "Did you mean: <b>" + corrected.string[:-1] +'</b>?</br>'
 
         dym += th_dym
     
     return results, dym
 
 
-def concept_query(concept, df):
+def concept_query(concept):
     """
     Function to handle the content-based term inserted in the user's query
     :param concept: the i-th concept to analyze and expand
-    :param df: the thesaurus to consult
     :return: the expanded concept
     """
 
@@ -173,15 +183,6 @@ def concept_query(concept, df):
         if corrected.query != term:
             dym = "Did you mean: <b>" + corrected.string +'</b>?'
 
-
-    """
-    query_exp_list = []  # list of all the terms found with the thesaurus
-    for index, row in df.iterrows():
-        if concept[0] == row["Key Descriptor"]:  # if the concept match with a word in the DataFrame
-            if row["Relationship Type"] == concept[1]:  # check if the relationship is what the user wants
-                query_exp_list.append(row["Related Descriptor"])  # if so, thus add the related term in the list
-    """
-
     return query_exp_list, dym
 
 
@@ -192,16 +193,20 @@ def query_expansion(query_string):
     :return: the expanded query
     """
     exp = re.compile("\{.*?\}")  # the relevant R.E. to look up
-    df = pd.read_csv("../thesaurus/NASA_Thesaurus_CSV.csv")  # the chosen thesaurus
+    dym = ""
 
     for e in exp.findall(query_string):  # looking for all the expressions that match my R.E.
         e = e.replace("{", '')
         e = e.replace("}", '')
         e = e.split(",") # split term and relationship
-        term = e[0]
-        rel = e[1]
+        try:
+            term = e[0]
+            rel = e[1]
+        except(IndexError):
+            term = ""
+            rel = ""
 
-        concepts, dym = concept_query((term, rel), df)  # extracts all the concepts based on the tuple (term, relationship)
+        concepts, dym = concept_query((term, rel))  # extracts all the concepts based on the tuple (term, relationship)
         concepts_set = set(concepts)  # action performed looking to keep all the terms but not duplicated
         query_expanded = ""
         for c in concepts_set:  # iterates over the set of terms and then adds them into the final query string
@@ -209,7 +214,8 @@ def query_expansion(query_string):
 
         query_string = query_string.replace("{"+term+","+rel+"}", "("+query_expanded+")")  # replaces the tuple w/ the found concepts
 
-    return query_string, dym
+    return "(" + query_string + ")", dym
+
 
 """
 if __name__ == "__main__":

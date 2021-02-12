@@ -1,8 +1,5 @@
 2021-01-20
 https://www.space.com/trump-space-policy-directive-7-gps-cybersecurity
-We and our
-store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.
-With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.
 Trump signs Space Policy Directive-7 on improving GPS cybersecurity
 A new space policy highlights the fundamental role of the Global Positioning System (GPS) in securing the United States' safety and economic growth.
 President Donald Trump on Friday (Jan. 15) issued Space Policy Directive-7 (SPD-7), which focuses on providing continuous access to U.S. space-based positioning, navigation and timing (PNT) services provided by GPS, as well as improving the performance and cybersecurity of GPS.

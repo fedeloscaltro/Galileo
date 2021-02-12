@@ -108,7 +108,7 @@ def processer(query):
         corrected = searcher.correct_query(parsed_text, free_text)
         dym = ""
         if corrected.query != parsed_text:
-            dym = "Did you mean: <b>" + corrected.string[:-1] + '</b>?</br>'
+            dym = "Did you mean: <b>" + corrected.string + '</b>?</br>'
 
         dym += th_dym
 
@@ -120,15 +120,6 @@ def concept_query(concept):
     Function to handle the content-based term inserted in the user's query
     :param concept: the i-th concept to analyze and expand
     :return: the expanded concept
-    """
-
-    """
-    THESAURUS RELATIONSHIPS
-    - hierarchical
-        BT - Broader Term
-        NT - Narrower Term 
-    - equivalence
-        UF - Use For
     """
 
     ix = open_dir("../thesaurus/index")  # opens the indexed thesaurus

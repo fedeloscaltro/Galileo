@@ -1,8 +1,5 @@
 2021-01-16
 https://www.space.com/rocket-lab-another-one-leaves-the-crust-launch-delay
-We and our
-store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.
-With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.
 Rocket Lab calls off microsatellite launch due to sensor issue
 The small-satellite launch company Rocket Lab called off its first launch of 2021 from New Zealand Saturday (Jan. 16) due to strange sensor readings ahead of liftoff.
 A Rocket Lab Electron booster was scheduled to launch a microsatellite for the European space technology company OHB Group from New Zealand's Māhia Peninsula at 2:38 a.m. EST (8:38 p.m. New Zealand time; 0738 GMT), but unexpected data from an inclinometer on the booster prompted a delay.

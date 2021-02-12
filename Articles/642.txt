@@ -1,8 +1,5 @@
 2020-12-29
 https://www.space.com/rocket-launch-failures-of-2020
-We and our
-store and/or access information on a device, such as cookies and process personal data, such as unique identifiers and standard information sent by a device for personalised ads and content, ad and content measurement, and audience insights, as well as to develop and improve products.
-With your permission we and our partners may use precise geolocation data and identification through device scanning. You may click to consent to our and our partners’ processing as described above. Alternatively you may access more detailed information and change your preferences before consenting or to refuse consenting. Please note that some processing of your personal data may not require your consent, but you have a right to object to such processing. Your preferences will apply to this website only. You can change your preferences at any time by returning to this site or visit our privacy policy.
 To all the rockets we lost in 2020 and what we learned from them
 Launching rockets is hard. Most of the time we get it right, but sometimes unexpected things happen. Perhaps it's because of a stage failure or perhaps it's because of using a daring prototype, like SpaceX's Starship. But, as devastating as a failure can feel, it can help the teams behind these launches to learn and grow, helping them to continue to improve spaceflight.
 Below is a list of the craziest rocket explosions and failures of 2020 (not including situations where a rocket had an anomaly en route but was still able to reach orbit (such as SpaceX's Falcon 9 Starlink rocket launch of March 18) or the numerous launch aborts of 2020 due to situations like weather or technical issues).

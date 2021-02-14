@@ -1,0 +1,13 @@
+2010-10-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/International_partners_update_launch_manifest
+International partners update launch manifest
+ESA PR 22-2010 NASA, the European Space Agency (ESA), the Russian Federal Space Agency (Roscosmos) on Friday agreed to update the International Space Station launch schedule. The target launch dates for the last planned space shuttle flight, STS-134 on Endeavour, will be Feb. 27 and the Automated Transfer Vehicle-2 (ATV-2) will be Feb. 15.
+Roscosmos will continue to look at Soyuz launch and landing options to provide manifest robustness.
+The agencies agreed to the changes during discussions at the International Astronautical Conference in Prague. Arianespace, whose Ariane 5 rocket will launch ATV-2 into orbit from French Guiana, has confirmed its commitment to launch ATV-2 on February 15.
+The STS-134 flight will deliver the Alpha Magnetic Spectrometer, or AMS, to the station. The AMS is a state-of-the-art cosmic ray particle physics detector designed to examine fundamental issues about matter and the origin and structure of the universe. The flight will include three spacewalks and the installation of the AMS to the exterior of the space station using both the shuttle and station arms.
+ATV-2 - dubbed Johannes Kepler - is scheduled to dock on Feb. 26 to the station. The cargo craft is designed to deliver over seven tons of experiments, fuel, water, food and other supplies from Earth to the space station. While docked, ATV-2 also will use its thrusters to periodically boost the station's orbit (which decays with time), and it can also be used for emergency maneuvers, such as those required if a piece of space debris is predicted to hit the station. This capability saves critical attitude control propellant for the station. After about three and a half months, the ATV-2 will undock from the station and burn up harmlessly in the atmosphere over an uninhabited area of the Pacific Ocean. The first ATV, Jules Verne, was launched in March 2008 and reentered the atmosphere in September 2008.
+The launch manifest is available at:www.nasa.gov/mission_pages/station/structure/iss_manifest.html
+For details on upcoming shuttle missions and their crews, visit:www.nasa.gov/shuttle
+For more information about ATV-2, visit ESA on the Web at:www.esa.int/atv
+For more information on the Ariane 5 launch vehicle, visit:www.arianespace.com/launch-services/launch-services-overview.asp
+For more information about the space station, visit: www.nasa.gov/station

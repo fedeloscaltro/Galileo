@@ -1,0 +1,10 @@
+2008-03-13
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_ready_to_demonstrate_critical_manoeuvre
+Jules Verne ready to demonstrate critical manoeuvre
+Jules Verne ATV has successfully passed an initial test of its Collision Avoidance Manoeuvre capability, clearing the way for a full demonstration of this vital functionality on Friday morning.
+The Collision Avoidance Manoeuvre, or CAM, is a last resort available on the Automated Transfer Vehicle (ATV) which enables the spacecraft to quickly move away in case of problems during the final rendezvous and docking with the International Space Station.
+At 14:30 CET (13:30 UT), a command to initiate the test was sent up to the spacecraft from the ATV Control Centre (ATV-CC) in Toulouse, France.
+"The manoeuvre is performed by a completely independent computer on board the ATV – it uses thrusters and other systems which are dedicated to this independent chain," explains Alberto Novelli, Head of Mission Operations at ATV-CC. "Today we have tested that the functional chain commanded by this computer works, and it worked."
+The full CAM demonstration is set to start Friday morning at 08:57 CET (07:57 UT). "The CAM is a very tricky manoeuvre which will end with the spacecraft in survival mode and will involve a complete computer reset," says Novelli. "Within the first 45 minutes we will know how it goes. After that we will have to apply the 'exit from survival' procedure which takes a couple of hours."
+Representatives from ESA's Russian and American ISS partners were on console today, and will be tomorrow, keeping a watchful eye on Jules Verne's progress from within the ATV Control Centre in Toulouse.
+"We plan additional demonstration manoeuvres between now and being authorised to go to the ISS. The test today and tomorrow's CAM demonstration are both part of the demonstration flight plan for ATV. Our partners are very much interested in what is going on and it is important we perform all these activities not only to our own satisfaction but also to that of our partners," adds Novelli.

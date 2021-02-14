@@ -1,0 +1,12 @@
+2007-08-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Sun_observatory_for_Columbus_arrives_in_Florida
+Sun observatory for Columbus arrives in Florida
+Solar, a suite of payload instruments for the Columbus laboratory, arrived yesterday at NASA's Kennedy Space Center, Florida, completing a seven day journey from Turin, Italy.
+Once fixed on the zenith - or sky-facing - platform of Columbus, Europe's International Space Station (ISS) laboratory, Solar will study the Sun with unprecedented accuracy.
+Solar is due to be launched into space on a separate cargo carrier together with the Columbus laboratory inside the payload bay of Space Shuttle Atlantis on flight STS-122, or ISS assembly mission 1E.
+Following the successful installation and activation of the Columbus module itself, Solar will be installed on one of the laboratory's external platforms. From this vantage point, with the help of a movable frame which rotates around two axes – a so-called Coarse Pointing Device, Solar remains pointing towards the Sun as the Station orbits the Earth.
+Solar accommodates three science instruments, which together analyse the complete spectrum of solar radiation, from extreme ultra-violet through to infrared. The three science instruments are: SOVIM (Solar Variable and Irradiance Monitor), SOLSPEC (SOLar SPECtral Irradiance measurements) and SolACES (SOLar Auto-Calibrating Extreme UV/UV Spectrophotometers).
+Once operational, data gathered by Solar is sent in real-time back to Earth. After first being collected at the Belgian User Support and Operation Centre (B.USOC) in Brussels, the data is then distributed to the scientific community where further analysis takes place.
+On 7 August, Solar departed from the Thales Alenia Space facility in Turin, Italy, where it was built. Carried inside a 3-m cube transport container, Solar was first taken by road to Amsterdam, the Netherlands.
+The journey continued by air from Amsterdam's Schiphol airport over the weekend. Following customs clearance at Miami airport on Monday, the container completed the last leg of the journey by road.
+Over the next three weeks Solar will undergo functional tests to make sure all is in working order after the journey from Turin. Following that, Solar will be prepared for installation in the Shuttle's cargo bay.

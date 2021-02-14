@@ -1,0 +1,13 @@
+2003-10-13
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/First_rendezvous_simulation_a_major_step_for_ATV
+First rendezvous simulation: a major step for ATV
+European scientists have recently celebrated a major milestone in ESA's Automated Transfer Vehicle (ATV) programme.
+They successfully tested ISS rendezvous software, which is the most complex software ever developed in Europe for a space programme, at the ATV simulation facility in Les Mureaux, France. During testing, a full rendezvous sequence was completed without a single problem.
+"Right from the first run, the ATV rendezvous software has run successfully to the docking to ISS, in a simulated environment. This is a very important step since the rendezvous is one of the major technical issues in ATV development", said Jean-Yves Heloret, EADS SPACE Transportation ATV Programme Manager.
+Since mid-September 2003, staff at the Automated Transfer Vehicle simulation facility, have been working in two eight-hour shifts, five days a week. This schedule allows the facility to run and check ATV software for up to 15 hours a day. Third-generation Flight Application Software (FAS) is already being tested; the eighth-generation version of the software will be the Jules Verne flight program.
+The ATV simulation facility, at EADS SPACE Transportation, in Les Mureaux, combines the Electrical Test Model and the Functional Simulation Facility. In this environment, engineers can simulate all the different ATV mission scenarios and run hundreds of tests.
+In 2004, experts will run full mission tests taking up to five or six days and that will require the simulator to be operational 24 hours a day.
+From spring 2004, full simulations will also take place 'live', interconnecting the ATV simulation facility in Les Mureaux with the ATV Control Centre (ATV-CC) in Toulouse, France, which specialises in handling ATV missions in orbit.
+"This simulation platform is a crucial tool for the daily validation of the ATV concept and operations", said Robert Lainé, ESA's ATV Project Manager.
+The facility in Les Mureaux will be available continuously to simulate, on the ground, any orbital scenarios of the 7 ATV missions planned between 2007 and 2013.
+Read more about the ATV simulation facility »»

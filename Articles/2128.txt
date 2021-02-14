@@ -1,0 +1,17 @@
+2001-12-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/X-38_test_craft_completes_highest_fastest_longest_flight_yet
+X-38 test craft completes highest, fastest, longest flight yet
+The X-38 prototype crew rescue vehicle successfully completed its highest, fastest and longest flight to date on Thursday 13 December at NASA's Dryden Flight Research Center.
+Testing continues
+"The X-38 tests involve innovative technologies that will be useful for many future human spacecraft as well as a crew rescue vehicle," said X-38 Crew Return Vehicle (CRV) Programme Manager John Muratore. "Although the production of the crew rescue vehicle for the station is deferred, we are continuing to test and mature these technologies to reduce the technical and cost risk of a future CRV production programme."
+Higher, faster, further
+The landing test, the eighth large-scale flight test for the programme, began with the release of the X-38 from NASA's B-52 aircraft at an altitude of 45 000 feet (13 715 m), more than a mile (1 609 m) higher than any previous test.
+During the test, the X-38 reached transonic speeds, velocities at the fringes of the sound barrier, as it flew free of the aircraft for almost a minute, descending three miles (4.8 km)before its drogue parachute was deployed.
+The drogue parachute slowed the vehicle from over 500 miles per hour (800 km/h) to about 60 miles an hour (100 km/h), setting the stage for deployment of the 700-square-meter-parafoil wing. The X-38's parafoil is the largest parafoil ever built with a surface area more than one and a half times that of the wings of a 747 jumbo jet.
+ESA-developed software
+Descending under the parafoil, the X-38's proposed cockpit displays and controls were tested as an astronaut pilot remotely controlled portions of the craft's descent. The flight test also continued checkouts of European Space Agency-developed software that guides the parafoil, steering the X-38 to a safe landing.
+After a 12-minute gliding descent, the uncrewed X-38 touched down at a speed of less than 40 miles an hour (65 km/h) on the clay surface of Rogers Dry Lake on Edwards Air Force Base, CA.
+The test flight also successfully tested new X-38 flight control software modes specifically designed for a vehicle returning from space; improvements to the drogue parachute deployment; and enhancements to the parafoil's landing accuracy.
+Semi-circular aft end
+The test was the third X-38 mission using the parafoil sized for the actual space flight CRV. The test also was the third flight of an X-38 shape that includes a semicircular cross section aft end. The European-influenced semicircular aft end could allow the X-38 to be compatible with launch on expendable vehicles.
+The X-38 project combines proven technologies - a shape borrowed from a 1970s Air Force project - with some of the most cutting-edge aerospace technology available today.

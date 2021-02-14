@@ -1,0 +1,28 @@
+2007-09-14
+https://www.esa.int/Education/Young_Engineers_Satellites/Lift-off_for_Foton_microgravity_mission
+Lift-off for Foton microgravity mission
+ESA PR 28-2007. An unmanned Foton spacecraft, carrying a payload of more than 40 ESA experiments, was successfully launched earlier today. The Soyuz-U launcher lifted off from Baikonur Cosmodrome, Kazakhstan, at 13:00 CEST (11:00 GMT).
+Nearly 9 minutes later, the Russian Foton-M3 spacecraft separated from the rocket's upper stage and was inserted into a 300 km orbit that will carry it around the Earth once every 90 minutes.
+The Foton will spend 12 days in orbit, during which time the onboard experiments will be exposed to microgravity, and in some cases, to the harsh environment of open space, before re-entering the atmosphere and landing on the steppes near the Russian-Kazakh border.
+The 400 kg European payload includes experiments that will contribute to advances in many areas of research. The scientific experiments come from a wide range of scientific disciplines, including fluid physics, biology, protein crystal growth, meteoritics, radiation dosimetry and exobiology (life beyond Earth). The technology-related experiments may lead to more efficient oil extraction processes, better semiconductor alloys and more efficient thermal control systems.
+"The Foton mission is part of ESA’s programme for Life and Physical Sciences in space," explained Josef Winter, Head of ESA's Payload and Microgravity Platform Division.
+"The mission provides an important opportunity for European researchers to conduct a wide variety of experiments in microgravity prior to the availability of ESA's ISS module, Columbus. In total, the Foton-M3 mission is carrying 43 scientific and technological payloads supplied by ESA, Germany, Belgium, France, Italy and Canada, as well as a number of Russian experiments."
+One of the more unusual European payloads is the ESA/DLR Aquahab experiment, an aquatic habitat that will be used to observe the effects of weightlessness on a single cell organism, Euglena gracilis, and a small cichlid fish.
+The Biobox payload consists of two programmable incubators containing five experiments on cell biology. Three of these will study the effects of weightlessness on bone-forming cells and bone-degrading cells. A fourth experiment will study the damaging effects of space radiation on skin tissue, while another aims to understand the effects of weightlessness on connective tissue cells.
+Two more incubators are included in Eristo/Osteo, a joint ESA/Canadian Space Agency project. The two sets of identical hardware contain four thermally controlled experiment trays that will be used to test and evaluate the effects of drugs and growth factors on bone cell activity.
+The Franco-Belgian TEPLO experiment aims to measure the performance and characteristics of new designs of heat pipe in weightlessness. This kind of technology should help to significantly reduce the mass and complexity of thermal control subsystems used in space.
+On the spacecraft's exterior is a multi-user experimental facility called Biopan, which is designed to automatically expose its ten experiments to the harsh environment of space for the duration of the mission. Attached to the Foton's heat shield are the Stone-6 and Lithopanspermia experiments in which pieces of rock containing living organisms will be exposed to the extreme temperatures and pressures experienced during re-entry.
+Also on the outside of the Foton, attached to its battery module, is an ambitious experiment known as the second Young Engineers' Satellite (YES2). Led by ESA's Education Office, some 450 students from ESA Member States and beyond have worked with prime contractor Delta-Utec to design and build the 36 kg payload.
+On 25 September, as the Foton mission nears its end, YES2 will deploy a 30 km tether, the longest ever flown in space. A small re-entry capsule released from the end of the tether will be used to demonstrate the possibility of returning small payloads to Earth at a fraction of the cost of current methods.
+Background
+Foton spacecraft are based on Russian Vostok spacecraft in which Yuri Gagarin orbited the Earth in 1961. They comprise three sections: a battery module at the front end, a spherical recoverable capsule, and a service module at the rear. ESA has been participating in Foton missions since 1991 and the Foton-M3 mission is the ninth with ESA involvement.
+For further information:
+On Foton launch:
+Markus Bauer
+Human Spaceflight, Microgravity and Exploration Programme
+Communication Officer
+ESA Communication DepartmentPhone: +31 71 565 6799
+On YES2:
+Rosita Suenson
+Communication Office ESTEC
+ESA Communication DepartmentPhone: +31 71 565 3009

@@ -1,0 +1,19 @@
+2011-06-10
+https://www.esa.int/Enabling_Support/Operations/Raising_the_ISS_ATV_i_Johannes_Kepler_i_conducts_the_Big_Boost
+Raising the ISS: ATV Johannes Kepler conducts the 'Big Boost'
+It's the International Space Station's biggest increase in altitude to date, and, thanks to ESA's ATV Johannes Kepler, it will significantly improve the 417-tonne Station's orbital mileage through the next decade of scientific research.
+During three intensive reboost manoeuvres, ATV Johannes Kepler is raising the ISS altitude from around 345 km to 380 km, where it will use far less fuel to maintain its orbit and cutting the amount of fuel that must be sent up in the coming years by almost half.
+"These reboosts will improve ISS scientific exploitation enormously, since we'll need to send much less fuel into orbit, making more launch capacity available for spare parts, scientific instruments and supplies," says ESA's Nico Dettmann, ATV programme head.
+Almost nothing remains of Earth's atmosphere at 350 or 400 km except faint whips of gas molecules. These are sufficient, however, to cause the Station's orbit to steadily decay due to drag unless it is periodically reboosted. Moving the Station to a higher orbit means that even fewer reboosts, using even less fuel, must be done in the future.
+Fuel vs cargo: Optimising upload tonnage
+While the higher orbit means the ISS itself will need less fuel, visiting vessels, such as Russia's Soyuz, Japan's HTV and ESA's ATV will use more fuel to get themselves up to the higher altitude.
+"Yes, this means a saving for the ISS but an increased usage for the visiting vessels. Nonetheless, a significantly larger tonnage of food, water, spare parts and research instruments and samples can be sent up, keeping the Station operational until 2020 and beyond," says Dettmann.
+The new orbit is being achieved in several steps.
+Small steps to Big Boost
+On top of a small reboost performed by the Space Shuttle Endeavour on 29 May, ATV is firing the eight thrusters of its Orbit Correction System (OCS) on three separate days under the watchful eyes of the joint ESA/CNES mission operations team at the ATV Control Centre (ATV-CC), Toulouse.
+ATV conducted the first boost on 3 June, raising the ISS orbit by about 3.8 km. The next boosts are scheduled for 12 and 15 June and will provide a much bigger jump.
+On each day, ATV will be commanded to conduct two individual burns lasting about 75 minutes each and consuming, in total, about 1400 kg of propellant.
+"A pause between each burn is necessary due to how Kepler's fuel system pumps propellant and to let the thrusters cool down," says ESA's Mike Steinkopf, Mission Director for reboost activities at ATV-CC. Each day will see the Station's orbit increase by about 20 km."
+Boosting the Station is an excellent example of how ESA's contribution to the ISS helps all of the international partners.
+"With the end of the shuttle era, the Station's orbit can be optimised at a higher level, which helps all partners make most efficient use of the orbiting outpost's unique scientific capabilities," says Dettmann.
+"We really are quite pleased that ATV can help out like this. It's truly a marvellous vessel."

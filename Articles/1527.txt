@@ -1,0 +1,11 @@
+2008-04-02
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_ATV_given_go_for_docking
+Jules Verne ATV given ‘go’ for docking
+Jules Verne was today formally cleared to proceed with the first ISS docking attempt, scheduled for 3 April 2008 at 16:41 CEST (14:41 UT). The official go-ahead came from the International Space Station Mission Management Team (IMMT) after two flawless demonstration days in which Jules Verne proved its operational capabilities.
+"We have proven that Jules Verne's systems are safe, reliable and ready to dock to the Station. Everyone has worked very hard to get to this point, and we have also proven that the team on the ground is fully ready for tomorrow's first attempt," said John Ellwood, ESA's ATV Project Manager.
+The formal permission came during today's IMMT meeting held at 13:00 CEST (11:00 UT), in which ESA together with its ISS partners reviewed the Automated Transfer Vehicle's (ATV) performance from Demonstration Day 2.
+Demo Day 2, held on 31 March, saw Jules Verne conduct a series of challenging manoeuvres and confirm that the spacecraft could autonomously navigate itself using optical guidance and close to station keeping point S41, just 11 m from the ISS. Jules Verne also reacted perfectly to an 'Escape' command issued by astronauts on board the ISS, proving that the vessel can automatically withdraw to a safe location when so commanded.
+Tomorrow's docking attempt will see Jules Verne move past station keeping point S41 to actually dock with the Russian ISS module's docking port. Contact of the vessel's docking probe is expected at 16:41 CEST (14:41 UT), with full capture scheduled at 17:15 CEST (15:15 UT). If the docking does not occur for any reason, the next possible window occurs 48 hours later on Saturday, 5 April.
+The rendezvous and docking will be monitored from ESA's ATV Control Centre in Toulouse, France, in cooperation with the Russian control centre in Moscow and the NASA control centre in Houston.
+The rendezvous and docking will be broadcast live by ESA TV, 16:00-17:15 CEST (14:00-15:15 UT); details are available on the ESA TV web page under http://television.esa.int/.
+The event will also be streamed live via the ESA website starting at 16:00 CEST (14:00 UT); the link will be made available shortly before on http://www.esa.int/atv.

@@ -1,0 +1,25 @@
+2010-01-20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Spacecraft_dockings_improve_car_assembly
+Spacecraft dockings improve car assembly
+The next car comes down the conveyor belt ready for the dashboard to be added. Speed and position are controlled as if it were a spacecraft docking automatically with the International Space Station. Invented by entrepreneurs at ESA’s Business Incubation Centre, a new system using similar docking technology precisely fits the dashboard into the car.
+Car assembly lines have come a long way since the first production line was introduced in 1914 by Henry Ford at his plant in Michigan, USA.
+Now Volkswagen’s Autoeuropa factory in Palmela, Portugal, is using space technology to control its assembly line.
+Developed by MDUSpace at ESA’s Business Incubation Centre in the Netherlands, the system is based on the object recognition and tracking concepts used for the automated docking of ESA’s Automated Transfer Vehicle (ATV) spacecraft to the International Space Station (ISS). It was installed at the Palmela factory last year and is now being evaluated.
+Space technology applied to automobile production
+“Automotive assembly lines are based on moving conveyor belts that transport the cars to be assembled at a steady, but not constant, speed. The car is assembled by workers or robotic machines at each assembly station along the way,” explained Miguel Brito, business developer of MDUSpace.
+“When you have to attach a module to the car, for instance the car’s dashboard, the mounting is done by a manipulator – a large manually controlled robotic part-positioner. As the cars move along the belt, the manipulator needs to move at the exact same speed. If it goes any slower or faster than the car, it could scratch or damage it.”
+The traditional methods of solving this problem are either to place the manipulator on the car during the assembly process, which can stress the vehicle’s structure, or to synchronise their speeds, which often requires costly and complicated control and wiring systems.
+The new system provides a novel solution to synchronise the manipulators with the car. It combines a live camera feed with software for object recognition, derived from spacecraft docking systems, to make sure the manipulator and the car go at exactly the same speed and are in the same position with respect to each other at all times.
+It works like ATV docking with the ISS. For the final approach and docking, ATV uses a camera to identify light pulses reflected from a set of special targets on the ISS.
+By analysing the reflected patterns, the control software determines the precise distance and angle to the docking port.
+In the car assembly process, the operator chooses reference points on the car as targets for the object-recognition system. It then calculates the distance from the manipulator to the car and automatically holds their relative position.
+ESA Business Incubation Centres
+ESA’s business incubation is one of the major initiatives of the Agency’s Technology Transfer Programme Office (TTPO). As part of its endeavour to encourage the transfer and commercialisation of space technologies, four Business Incubation Centres (BICs) have been set up in the Netherlands, Darmstadt and Oberpfaffenhofen in Germany, and near Rome in Italy. The centres support selected entrepreneurs with comprehensive commercial and technical assistance to help them start up businesses that use space technology in non-space industrial, scientific and commercial fields.
+ESA’s Technology Transfer Programme Office
+The main mission of the TTPO is to facilitate the use of space technology and space systems for non-space applications and to demonstrate the benefit of the European space programme to European citizens. The office is responsible for defining the overall approach and strategy for the transfer of space technologies, including the incubation of start-up companies and their funding. For more information, please contact:
+ESA’s Technology Transfer Programme Office
+European Space Agency
+Keplerlaan 1
+2200 AG, Noordwijk ZH
+The Netherlands
+Tel: +31 71 565 6208Email: ttp@esa.int

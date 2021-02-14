@@ -1,0 +1,12 @@
+2001-12-04
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Automated_Transfer_Vehicle_test_campaign_underway
+Automated Transfer Vehicle test campaign underway
+The year-long test campaign for ESA’s Automated Transfer Vehicle (ATV) is now underway at the European Space Research and Technology Centre (ESTEC) in The Netherlands.
+European servicing and logistics vehicle
+The ATV is an unmanned vehicle which will be put into orbit by the European Ariane-5 launcher. It will provide the International Space Station with: pressurized cargo, water, air, Nitrogen, Oxygen and attitude control propellant. It will also remove waste from the station and re-boosts the station to a higher altitude to compensate for atmospheric drag.
+Successfully mated
+Testing is being carried out on a Structural Thermal Model (STM), which has two segments, the Integrated Cargo Carrier (ICC) and the spacecraft sub-system. Turin based company Alenia Spazio delivered the 8.5 tonne Integrated Cargo Carrier to ESTEC in July, whilst the spacecraft sub-system arrived from Astrium, Bremen, in October.
+After some preparatory work, the two segments were successfully mated on Wednesday 28 November in a 10-hour operation. The total mass of the Structural Thermal Model is 16.3 tonnes.
+Acoustic test
+Final preparations will continue until 6 December to ensure the ATV Structural Thermal Model is ready for transfer to ESTEC’s acoustic test facility, the Large European Acoustic Facility (LEAF). It is vital to test whether the ATV is designed to withstand the vibrations caused by the extreme noise levels generated during launch.
+The acoustic test, which is the first of the year-long campaign, will be completed before Christmas 2001.

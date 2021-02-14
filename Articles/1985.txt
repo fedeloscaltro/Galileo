@@ -1,0 +1,14 @@
+2004-02-25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/ISS_to_receive_experimental_figurehead_during_spacewalk
+ISS to receive experimental figurehead during spacewalk
+What resembles the head and torso of a human and will be attached outside the International Space Station? The answer is the European Matroshka experiment facility. During the night of 26/27 February the ISS Expedition 8 crew of Alexander Kaleri and Michael Foale will carry out a 5-hour 30-minute spacewalk and, amongst other tasks, attach Matroshka to the Russian Zvezda module.
+Radiation
+Even though Matroshka can be seen as a figurehead for the ISS there is a serious purpose behind its existence. For the year that it will be located outside of the ISS this experiment facility will be measuring the radiation doses that would be experienced by astronauts during spacewalks.
+The levels of radiation inside the Station are well documented though the levels experienced by astronauts outside of the ISS are still unclear. In order to determine precise measurements, Matroshka simulates the human body within a spacesuit as closely as possible.
+Layers
+The Matroshka experiment facility consists of several different layers, hence the reason for naming it after the famous Russian matrioshka dolls. The simulated human element of the experiment is called the Phantom. It is composed of natural bone and a material, which closely resembles natural tissue. A lower-density material is used to simulate the lungs. These 'tissue' layers are covered with a simulated skin layer. The Phantom is itself housed in an external container, which represents a spacesuit.
+Radiation sensors are placed in and around the Phantom at different key organ locations such as the stomach, lungs, colon, eyes and skin and also within the spacesuit element. Knowing the radiation doses suffered by sensitive body organs is crucial for assessing the hazards from cosmic radiation.
+Spacewalk
+The Expedition 8 crew will attach the Matroshka experiment to the outside of the ISS during a spacewalk. This will be the first time that a spacewalk has been carried out on the ISS involving the entire crew. Since the grounding of the Shuttle after the Columbia accident, the ISS Expedition crews consist of two members instead of three. Normally at least one crewmember would remain in the Station during a spacewalk.
+This means that it will be the first time since November 2000 that there will be no crew inside the International Space Station. It is however not the first time in history that a space station has been left unmanned during a spacewalk. This also occurred on the Russian Mir and Salyut space stations.
+Matroshka is an ESA facility, which is under the project leadership of the German Aerospace Centre (DLR).

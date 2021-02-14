@@ -1,0 +1,9 @@
+2003-04-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Successful_launch_for_Maxus_5
+Successful launch for Maxus 5
+The European Space Agency’s Maxus 5 sounding rocket mission was successfully launched on 1 April at 08:00 CEST (06:00 GMT) from Esrange, north of the Arctic Circle near Kiruna in northern Sweden.
+The rocket, an 11.5 tonne solid-fuelled Castor 4B, carried a 488 kg payload of five scientific experiments with their associated telemetry and video links. The five experiments were stacked in five self-contained modules. They were designed to investigate phenomena in biology, fluid physics, material science and fundamental physics.
+The launch, originally planned for later in the morning, was brought forward due to the bad weather forecast for later in the day. Maxus 5 hurtled upwards through a partially cloudy sky to reach a maximum speed of about 3600 metres per second and maximum height of just over 700 km. From booster burnout 70 km up, until atmospheric re-entry 740 seconds later, the payload was in excellent microgravity conditions.
+Mission telemetry, used to monitor the experiments, functioned perfectly. Video images and data received at Esrange show that the experiments went well. Early indications are that just one of the experiments experienced any problems during the mission.
+The payload package was found soon after landing and has been recovered by two helicopters about 80 km downrange.
+Describing events from the control room at Esrange, Wolfgang Herfs, ESA’s sounding rocket project manager, said, “The scientists are very excited as the flight went very well, they can’t wait to get hold of their samples for further analysis”.

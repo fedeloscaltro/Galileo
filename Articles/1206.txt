@@ -1,0 +1,20 @@
+2011-05-02
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Exploring_Rio_Tinto_Eurobotically
+Exploring Rio Tinto Eurobotically
+No wonder it is called Red River: it looks like it could be on the red planet rather than in Spain. The landscape and terrain make it a perfect place for simulating a Mars sortie.
+An ESA rover, a spacesuit mockup and a medical monitoring system took centre stage between 18-22 April at Rio Tinto in Andalucia, southern Spain.
+The Spanish weather, however, was not very martian, as the normally dry and sunny conditions turned to heavy rain and wind at times.
+The teams from ESA, the Austrian Space Forum and the local organisers were able to achieve most of what they set out to do. There were plenty of lessons learned and loads of data for the scientists, doctors and engineers to dive into.
+Eurobot goes out
+This was the first time the four-wheeled Eurobot Ground Prototype had ventured out into the real world in a fully fledged live test.
+This new robotic assistant is designed to move around and work on a planet either on its own or in league with astronauts.
+Eurobot sports a pair of arms with interchangeable tools, a suite of sensors and its own eyes. It can also transport an astronaut, who operates it by simple voice commands or a joystick.
+Philippe Schoonejans showed his rover no mercy: “There is always a certain risk in this, because we don’t have a lot of spares available in the field, but pushing the technology to and maybe beyond its limits always teaches us a lot.”
+Like a spacesuit for Mars
+The tests also used a novel spacesuit mockup, Aouda.X, developed by the Austrian Space Forum.
+With a helmet featuring a head-up display, full air circulation with carbon dioxide removal, medical monitoring, joints and gloves emulating the stiffness of a real suit and radio equipment, Aouda.X feels like a real spacesuit worn by astronauts exploring a planet.
+The inside vest was the latest version of ESA’s Long Term Medical Survey System (LTMS), measuring several of the wearer’s critical physiological parameters, was also put to the test.
+It is already being used at the Concordia research station in Antarctica. The Rio Tinto tests gathered even more data on its performance, at the same time suggesting possible developments.
+“Medical doctors supporting Mission Control in Innsbruck were very happy when they received the flawless data from LTMS,” praised Michel Lazerges, ESA’s technical officer for the system.
+Scott Hovland was smiling at the end of the tests: “Everything went extremely well considering the difficulties with the weather, and both Eurobot and LTMS demonstrated many of their capabilities and returned safely back to ESA's Technical Centre ESTEC. ”
+The Rio Tinto field test campaign was organised by the Austrian Space Forum (ÖWF) together with Prof. Felipe Gomez from the Centro de AstroBiologia institute in Madrid and Europlanet (a European research organisation for planetary science), which provided the necessary infrastructure and ground support.

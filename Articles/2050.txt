@@ -1,0 +1,18 @@
+2003-02-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Space_Shuttle_Columbia_-_Information_Note_No._3
+Space Shuttle Columbia - Information Note No. 3
+ESA INFO 05-2003. The Columbia Accident Investigation Board (CAIB), chaired by retired Admiral Harold Gehman, has taken over full responsibility for the investigation, with support from a number of boards and expert groups.
+It has visited the Johnson Space Center, Kennedy Space Center, Marshall Space Flight Center and the Michoud facility (Louisiana) where the external tanks of the Shuttle are fabricated and assembled.
+The CAIB has reported that preliminary analyses indicate that the temperature indications seen in Columbia's left wheel well during re-entry point to the presence of plasma. Plasma is a superheated gas surrounding the Orbiter during re-entry. The CAIB says heat transfer through the structure, such as might occur from a missing tile, would not be sufficient to cause the temperature indications seen in the last minutes of flight.
+Additional analysis is under way, looking at various scenarios in which a breach of some type might have occurred, allowing plasma into the wheel well area or elsewhere in the wing. Other flight data, including landing gear position indicators and drag information, indicate that it is unlikely the left landing gear was deployed early.
+Two additional attitude control jets aboard Columbia fired after voice communication was lost with the shuttle, an analysis of data from the subsequent second indicates. Two other yaw control jets were known to have fired earlier in an attempt to maintain control of the vehicle.
+One of five general purpose computers aboard Columbia has been found among debris shipped to the Kennedy Space Center. The computer was badly damaged and its battery was missing. These types of computer have no hard drives, so investigators held out little hope of extracting additional information.
+ISS status and short term plans
+Meetings have taken place between NASA and Rosaviakosmos on overall resupply and crew exchange strategies, and between NASA and ESA on the potential rearrangement of taxi flights with ESA astronauts within this situation; these discussions have not yet reached conclusions and will be pursued. Meanwhile the crew that was meant to fly on the next Shuttle flight are still in training, and in parallel a crew for the next Soyuz flight (in April) are being trained in case they have to become the next Expedition crew.
+On orbit, the present crew on the International Space Station is performing well and has been busy with the following activities:
+• Nearing the three-month mark aboard the Station, the Expedition Six crew conducted science experiments, stowing gear and talking with the media. On 11 February the 22-minute burn of a docked Progress spacecraft's engines boosted the station's average altitude by about 9.2 kilometres.
+• NASA ISS Science Officer Don Pettit worked on ESA’s Microgravity Science Glovebox with advice from engineers on the ground. Last week, a circuit breaker tripped when Pettit installed replacement parts that arrived on the Progress. The equipment is now powered down until the ESA and industry experts develop a recovery plan to be implemented on orbit.
+• On 13 February Pettit and Commander Ken Bowersox activated the station’s Canadarm2 and performed a series of complex manoeuvres to verify the health of the robotic arm.
+For further information, please contact:
+ESA Media Relations Service
+Tel: +33(0)1.53.69.7155Fax: +33(0)1.53.69.7690

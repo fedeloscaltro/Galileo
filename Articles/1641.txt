@@ -1,0 +1,24 @@
+2007-10-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ANITA_air_quality_monitor_operational_on_International_Space_Station
+ANITA air quality monitor operational on International Space Station
+The Analysing Interferometer for Ambient Air (ANITA) flight experiment, an ESA developed technology demonstrator for monitoring the quality of the air inside manned space vehicles, is now in operation on the ISS.
+The Space Shuttle Endeavour carried ANITA to the ISS in the SpaceHab Module during flight STS 118 (ISS mission 13A.1) which was launched on 9 August 2007. ANITA has been installed in EXPRESS rack #4, located in the US Destiny laboratory.
+The equipment is scheduled to remain on orbit for at least six months, with an initial commissioning and science phase of ten days. After this, it will be considered to be an ISS system element within an extended operational phase.
+ANITA was started up for the first time on Thursday 20 September. Several re-starts of the control software and laptop computer on which it runs were required before ANITA successfully entered its nominal operating mode on Monday 24 September. Investigations into the problem at start-up are continuing on the ground model.
+ANITA operations
+The air quality of any manned spacecraft needs to be continuously monitored in order to safeguard the health of the crew. In space the astronauts have to respond rapidly to any accidental release of harmful gaseous contaminants or degradation of the environmental control and life support system. Air quality monitoring grows in importance as mission duration increases.
+ANITA is designed to monitor the cabin air for contaminants at concentrations down to the low parts per million (ppm) or high parts per billion (ppb), with high precision. Its fast measurement cycle allows the trend in air quality to be analysed in near real-time.
+In normal operational mode, ANITA automatically monitors the local air by filling its gas cell, measuring the sample and storing the analysis data. The gas cell is then flushed back into the cabin and refilled for the next measurement cycle, each of which takes six minutes. This process is possible since the air sample is physically and chemically unchanged by the measurement.
+If so desired, the crew can also collect air samples at remote locations using a hand pump and sample bags. The sample bags are then manually connected to ANITA’s gas inlet port for analysis.
+Industrial team
+ANITA is an ESA-NASA cooperative programme. The flight experiment has been developed under ESA contract by Kayser-Threde GmbH (Germany), the instrument Prime Contractor and hardware developer, and SINTEF (Norway), responsible for the gas analysis software and instrument calibration.
+For further information concerning scientific and technical matters, contact:
+Gijsbert Tan
+Life Support and Environmental Control Section
+ESA-ESTECEmail: gijsbert.tan @ esa.int
+For programmatic matters, contact:
+Martin Zell
+Research Operations Department
+Directorate of Human Spaceflight
+Microgravity and Exploration
+ESA-ESTECEmail: martin.zell @ esa.int

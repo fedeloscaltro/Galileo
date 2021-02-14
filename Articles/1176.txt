@@ -1,0 +1,20 @@
+2011-06-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/The_importance_of_mixing
+The importance of mixing
+It was a good flight back in 2007: an unmanned Foton-M3 spacecraft flew around Earth for 12 days with 43 scientific and technological experiments on board. Some of the results were in hand right after the flight, but some haven’t blossomed until now – like Gradflex.
+The suitcase-sized Gradflex experiment is a textbook example of fundamental research, producing just complex-sounding titles on scientific publications after years of effort by many people. Beneath the title the results reveal important steps ahead in our understanding of the natural world – that is how systems that are not in equilibrium, such as mixing fluids, behave.
+The way two liquids mix has been understood since the pioneering work of Albert Einstein.
+What is less well known is that mixing is accompanied by large fluctuations consisting of localised motions that move the two liquids into each other. This effect occurs when liquids with different compositions diffuse into each other or even in a liquid subjected to a temperature difference that causes heat to diffuse.
+These fluctuations are so small that they are extremely difficult to observe, but in 1997, physicists Alberto Vailati and Marzio Giglio from the University of Milan, Italy, showed that they could become detectable under certain conditions, and theorists predicted that they could even become quite large if the gravitational force could be removed.
+The experiment was then proposed to ESA as an international collaboration coordinated by Marzio Giglio and David Cannell from the University of California at Santa Barbara, USA.
+Huge fluctuations!
+The science team was delighted when the initial results for fluid mixing were published on 19 April in the journal Nature Communications, and again when the results for heat diffusion were accepted on 5 May for Physical Review Letters.
+In short, the scientists found that during the diffusion of tiny, nano-metre-sized molecules in a liquid, their concentration exhibits fluctuations with sizes ranging up to millimetres, and lifetimes as long as almost 17 minutes.The thickness of the fluid layer is in the end what limits any further growth of these fluctuations.
+But it is not just about size. The most striking result is that fluctuations of all sizes are present, hinting at the ‘fractal’ nature of a diffusion front. There are many fractals in nature, from clouds to snow flakes, all with extremely complex but fascinating shapes. When magnified, any portion of a fractal looks similar to the whole of it.
+The finding is interesting because it challenges the accepted vision of diffusion as a smooth mixing of fluids or a smooth diffusion of heat.
+This is especially important for space where gravity does not interfere with the growth of huge fluctuations. Since a large fraction of physics and biology experiments in space rely on modelling diffusion as a smooth mixing process, it is important to realize that diffusive processes are not as smooth as they might seem.
+For more information contact:
+Stefano Mazzoni
+ESA GRADFLEX project scientist
+Human Spaceflight and Operations
+Tel. +31 71 565 8377Email: Stefano.Mazzoni@esa.int

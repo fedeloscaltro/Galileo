@@ -1,0 +1,28 @@
+2004-11-22
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Maxus_6_ready_for_launch
+Maxus 6 ready for launch
+Final countdown is underway for the launch of the Maxus 6 sounding rocket from Esrange, the Swedish Space Corporation rocket base near Kiruna, in northern Sweden. Maxus 6, which will carry eight experiments in material science, fluid science and biology, is scheduled for launch at 09:15 CET (08:15 UT) this morning.
+During the past two weeks scientists and engineers have been working together at Esrange to prepare the experiments. Yesterday rollout of the complete payload took place, followed by installation onto the launcher.
+Maxus, a joint venture of EADS-ST (D) and the Swedish Space Corporation (SSC), is the largest sounding rocket in the European microgravity sounding rocket programme.
+Weightlessness
+Powered by a Castor IV b motor, the Maxus 6 sounding rocket will climb to an altitude of around 710 km before it falls back to Earth, providing weightlessness to the experiments for a total of twelve and a half minutes.
+A parachute will be deployed 6 km above the ground to ensure a safe landing of the payload at a distance of about 80 km down-range. With the help of a transmitter and a GPS receiver it will then be recovered by helicopter and returned to Esrange within 1 to 2 hours.
+Experiments
+The ESA sponsored scientific payload is housed in five independent experiment modules. Telemetry links will continuously send data back to the scientists based at Esrange. Some experiments also have a video downlink and a telecommand uplink which allows the scientists to control vital experiment parameters in real time from the ground.
+During the time of weightlessness eight experiments from Belgium, France, Germany and Sweden will be conducted: three in material science, four in fluid physics and one in biology.
+Plant growth
+For their biology experiment, scientists from the University of Bonn in Germany will be using samples prepared from sunflower seedlings to investigate the so-called 'signal transduction chain' that links the perception of gravity in plants to a response.
+Understanding the ability of plants to sense and respond to gravity is important to the evolution of plants on Earth and might even help to predict how life could evolve in different gravitational environments, such as onboard a spacecraft, or on other planets.
+Marangoni convection
+Colleagues from the University of Freiburg in Germany will use their two experiments to investigate a curious effect called Marangoni convection.
+Most people are familiar with normal convection: in a room with a heater, hot air rises because it is lighter than cold air. But in microgravity, nothing is significantly "lighter" than anything else, and such convection therefore plays no role. Marangoni convection, however, is not caused by gravity, but by the temperature dependence of the surface tension of the liquids concerned.
+It interferes with the formation of perfect crystals in microgravity, and the Freiburg team are investigating two different ways of counteracting it either by means of high frequency vibrations or by a rotating magnetic field.
+Also the fluid science experiment of Prof. Schwabe et al deals with the Marangoni convection in a cylindrical liquid bridge. Its aim is to demonstrate under weightlessness conditions that the tracers that are suspended in the liquid, under certain temperature and geometrical conditions do not stay randomly distributed but accumulate along a line that slowly rotates within the liquid bridge.
+Cooling rates
+A team from Belgium will be investigating the solidification processes of alloys. The structure of an alloy, which is strongly determined by the solidification process, is of great importance to the technical properties of the resulting material.
+Using four furnaces inside the Maxus rocket, cylindrical rods of an alloy will be preheated on the ground before the launch and then during the weightless phase of the flight they will be molten. After a short holding time allowed to solidify at two different cooling rates.
+Foam experiments
+Developed by the Swedish Space Corporation, the FOAM-2 module will hold three foam experiments from three different investigators. The experiments are designed to investigate foam stabilisation and foam destruction. Liquid foams are of great interest in many applications on Earth such as food, cosmetics, detergents and decontamination.
+Flight samples
+After recovery of the experiment payload from the landing site the flight samples of the materials science and the biological experiments will be returned to the scientists for further scientific analysis at their home institutes.
+Speaking from Esrange, Wolfgang Herfs, ESA's sounding rocket project manager, was pleased to report that the countdown is going very smoothly; "Yesterday, after a very smooth test countdown all systems and stations were declared ready for a launch today. The first countdown was started this morning at 04:45 CET, this means that nominal lift-off will be at 09:15. There is a clear sky and low winds - the weather conditions are promising for a launch."

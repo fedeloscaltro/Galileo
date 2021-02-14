@@ -1,0 +1,36 @@
+2005-10-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/News_from_a_space_phantom_The_continuation_of_the_Matroshka_experiment
+News from a space phantom: The continuation of the Matroshka experiment
+A phantom, which was outside the International Space Station (ISS) for a year and a half, is now inside with the ISS crew. However this is no ghost story but a serious set of scientific experiments to monitor radiation levels inside and outside the ISS.
+This Phantom is part of the ESA Matroshka experiment facility that was installed on the outside of the ISS on 27 February 2004 to measure radiation doses that astronauts experience during EVA activities.
+Knowing the radiation doses suffered by sensitive body organs is crucial for assessing the hazards from cosmic radiation. These are still not well known. The results obtained from this experiment could help in the development of countermeasures to the effect of cosmic radiation experienced by astronauts.
+The facility was developed for ESA by the German Aerospace Center (DLR) with Dr. Günther Reitz of DLR acting as the DLR Project Manager and at the same time heading the science team for Matroshka. The Phantom has a human shape consisting of a head and torso, which simulates the human body with relation to size, shape, position and mass. This was mounted inside an outer container of carbon fibre and reinforced plastic to simulate a spacesuit.
+The Matroshka experiment facility has worked well since it arrived at the ISS. There has been no significant pressure loss inside the facility and the temperature has remained within expected levels. To date sufficient data has been received from the active sensors in the facility. This data has been sent to the scientists involved in the experiments to be analysed.
+The Matroshka facility was brought back inside the ISS on 18 August 2005 as part of Expedition 11 EVA activities. As a conclusion to the first set of experiments, the Expedition 12 crew now at the ISS has removed the passive radiation sensors in and around the facility. These have now been returned to Earth with the Expedition 11 crew which landed early on Tuesday 11 October in Kazakhstan.
+New passive radiation sensors will be installed by the Expedition 12 crew in preparation for the follow up set of experiments called Matroshka II.A. These sensors will be uploaded to the ISS on the Progress 20P flight scheduled for launch on 21 December 2005.
+Once the sensors are installed, the experiment facility, will then be stored inside the ISS for about one year to take similar measurements related to the radiation environment inside the ISS. This should be followed by another period of about one year on the external surface of the ISS.
+Another set of experiments called Matroshka II.B is scheduled to involve the use of active radiation dosimeters. These were used on the first set of Matroshka experiments and are currently on the experiment facility.
+Whereas the passive detectors are analysed after return to Earth to provide data on the overall radiation doses experienced, the active sensors measure different radiation levels on a real time basis, with results being downloaded to the Mission Control Centre in Moscow and distributed to the investigators for evaluation by DLR’s Microgravity User Support Center (MUSC) in Cologne, Germany.
+Two of these active dosimeters (Dostel and SSD) were built by the University of Kiel in Germany on behalf of DLR. DOSTEL (Dosimetric Telescope) is a charged particle telescope that will monitor the particle flux, dose-rate and linear energy transfer (LET) spectra of radiation from the Van Allen belts, deep space and the Sun. SSD (Silicon scintillator dosimeter) discriminates against charged particles and therefore allows the measurement of the neutron dose.
+The other active dosimeter is called TEPC (Tissue Equivalent Proportional Counter). This is a low-pressure ionisation chamber surrounded by 1.9 mm of tissue-equivalent material (A-100). All types of radiation will be measured. It is able to record a LET-spectrum every minute. TEPC is a NASA-sponsored experiment from the Johnson Space Center in Houston. The active dosimeters should be activated for the Matroshka II.B experiments around the middle of next year following finalisation of the relevant contracts.
+Two contracts will cover the Matroshka II experiments following a feasibility study that was passed on 21 September 2005. There is one contract between ESA and DLR, which will include project management, interfaces to the Russian industry, the delivery of passive detectors, definition of the scientific programme and finally updating of the software for Matroshka II, which is carried out for DLR by Kayser Italia.
+The other contract will be between ESA and Roscosmos for development of interface hardware, transport and operation of the technical and scientific hardware, and the storage and handling of the Matroshka facility.
+For further Information please contact:
+Dieter Isakeit
+Head of Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5451Fax: +31 71 565 8008
+Jan Dettmann
+Matroshka Project Manager
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5435Fax: +31 71 565 6603
+Dr. Günther Reitz
+Head of the Radiation Biology Section
+German Aerospace Center (DLR)
+Institute of Aerospace Medicine
+Radiation Biology Section
+Linder Höhe
+Cologne (Germany)
+Tel: +49 2203 601-3117Fax: +49 2203 61970

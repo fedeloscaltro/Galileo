@@ -1,0 +1,23 @@
+2004-10-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/ESA_s_38th_Parabolic_Flight_Campaign
+ESA's 38th Parabolic Flight Campaign
+The 'Zero-G' Airbus A300 aircraft takes off today from Bordeaux-Mérignac Airport, France, for the first of three consecutive flight days for ESA's 38th Parabolic Flight Campaign. The thirteen experiments planned for the campaign range from testing a 'gravity simulator' treadmill, through to an experiment looking at the chemical processes that could have lead to the creation of life on Earth.
+Organised by ESA, the Parabolic Flight Campaigns are used to conduct research experiments in weightlessness, and to prepare experiments and equipment for later use on board the International Space Station (ISS).
+French firm Novespace is contracted by ESA to operate the flights – their specially trained pilots are from the French Air Force's flight test centre. Novespace is also responsible for the safety acceptance and installation of experiments in the aircraft.
+Preparations for ESA's latest Parabolic Flight Campaign have been underway at the Novespace facilities at Bordeaux-Mérignac Airport since last week. Thirteen teams of scientists gathered to prepare their experiments and fit them inside the modified white-padded Airbus fuselage.
+'Gravity simulator' treadmill
+During the three flights, a team from the Catholic University of Louvain (UCL), in Belgium, will test their 'gravity simulator' treadmill – a device that combines a treadmill with a force-plate.
+Using cables to pull the subject downward, the same impact load, bone stress and muscular loading will be reproduced in weightlessness as if they were running or walking on Earth.
+The scientists are hopeful their treadmill will be an improvement on exercise machines that are currently used by astronauts during long-term stays in weightlessness and will lead to a reduction in the amount of muscle and bone loss experienced.
+Hand-eye coordination
+Another experiment from UCL investigates the role of visual feedback in hand-eye coordination. Subjects strapped into a chair will be required to grasp an object between the thumb and index finger of their right hand and to move it in a figure of eight pattern.
+An eye-tracking helmet will record how they follow the object with their eyes. Understanding more about how humans coordinate such movements could help in improving rehabilitation therapy, and improving robotics systems.
+ISS technology
+ESA also uses the parabolic flight campaigns to evaluate technologies that are being developed for use on board ISS. One group of scientists will be testing the design of cultivation chambers for the European Modular Cultivation System (EMCS), a European facility that will support biological research on ISS. Another team will be testing the modified design of life support equipment for use in Europe's ISS module, Columbus.
+Miller-Urey
+In further test of hardware for ISS, a Dutch-Austrian team will use the parabolic flights to test their 'Miller-Urey experiment', which will investigate the possibility that the building blocks of life could have originated in space.
+First conducted in the 1950's, the Miller-Urey experiment produced amino acids by running an electrical current, simulating lightning storms, through a mixture of gases believed to be present on the surface of early Earth. Amino acids are used to make proteins - essential in all living cells. The ISS experiment will repeat the Miller-Urey experiment in microgravity, using a gas mixture thought to exist in interstellar space.
+Belgian subjects
+ESA's 38th campaign has a strong Belgian flavour. Whilst six of the experiments involve Belgian researchers, there will also be members of the Belgian government's 'Working Group for Space' on board. The six Belgian politicians and science advisers are in Bordeaux to observe how parabolic flights are conducted, but they will also get to experience weightlessness firsthand on board the 'Zero-G' aircraft, where they will be used as subjects for a number of experiments.
+4000 parabolas
+Someone who is already very familiar with weightlessness on board 'Zero-G' is Vladimir Pletser who coordinates the parabolic flight campaigns for ESA. Pletser will pass a personal milestone during this campaign - the tenth parabola of the second day's flight will be his 4000th - equivalent to 22 hours and 13 minutes of weightlessness, or fifteen Earth orbits on board the International Space Station. For Pletser it might as well be his first campaign, "I still get the same thrill on each flight. It's such a fantastic sensation to be floating freely".

@@ -1,0 +1,20 @@
+2010-05-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Second_ATV_heading_to_Kourou_for_launch
+Second ATV heading to Kourou for launch
+The second of ESA’s ATV automated cargo craft has been cleared for shipping to the launch site in Kourou. Its launch on an Ariane 5 to the International Space Station is scheduled for late this year.
+ATV-2, named after German astronomer and mathematician Johannes Kepler, has undergone extensive system testing at EADS Astrium’s site in Bremen, Germany, over the last few months and has now been given the go-ahead for shipping.
+It will be dispatched to Europe’s Spaceport in Kourou, French Guiana in several sections, accompanied by 59 containers with test equipment. In Kourou, it will be assembled and extensively tested before being loaded with cargo and fuelled. The launch is now planned for the end of 2010.
+"After an internal review of ATV Johannes Kepler, we have given Astrium 'consent-to-ship', which is an important milestone," says Simonetta Di Pippo, ESA Director for Human Spaceflight.
+"This demonstrates the ability of European industry under the lead of Astrium to provide the requested status of the vehicle on time and with the requested quality."
+"When the US Space Shuttle retires, ATV will be the largest vehicle supplying the ISS. Considering its technological challenges, like automatic rendezvous & docking, ATV is the most sophisticated space vehicle ever built in Europe."
+"The technology and experience gained with ATV are assets for Europe and its industrial competitiveness as well as a solid basis for further developments to position Europe among the leaders in the exploitation and exploration of space, in low Earth orbit and beyond," Di Pippo adds.
+Mass-producing a cargo spacecraft
+Johannes Kepler is the first ATV production unit, following the highly successful flight of the Jules Verne qualification model in 2008.
+Production of the following ATVs is on schedule. "The third ATV, named Edoardo Amaldi, has reached the integration stage in Bremen, and the integration of ATV-4 is set to start shortly," says Dr Michael Menking, Senior Vice President of Orbital Systems and Space Exploration at Astrium. An ATV will be built about every year.
+Astrium GmbH is responsible for both developing and building the ATVs for ESA.
+Big and intelligent vessel
+ATV must comply with the stringent safety requirements for human spaceflight. A fault-tolerant, triple-redundant computer ensures a reliable and smooth mission.
+ATV can deliver up to 7 tonnes of cargo to the Station, including food, drinking water, gases, research equipment and propellants.
+ATV is also responsible for regularly boosting the Station’s orbit to around 400 km, and occasionally manoeuvres the complex to avoid collisions with space debris.
+Once its mission is over, ATV is loaded with waste, undocked and incinerated during controlled reentry into the atmosphere.
+ESA is studying a reusable Advanced Reentry Vehicle (ARV) based on ATV. Astrium is looking at the requirements for transporting freight to the Station and back to Earth. Once the Shuttle retires, there will be very limited capacity for bringing back materials from space. Russia’s manned Soyuz capsules cannot return more than a few kilograms, so ARV or some other new vehicle is needed.

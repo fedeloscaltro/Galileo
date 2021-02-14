@@ -1,0 +1,30 @@
+2006-02-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Listen_to_the_radio_from_an_ISS_spacesuit
+Listen to the radio from an ISS spacesuit
+If you were asked what station is currently orbiting 400 km above the Earth at 28 000 km/h you may be tempted to answer the International Space Station (ISS). This is of course correct but if you were to look with a good telescope behind the ISS (or tune in with the appropriate equipment) you may soon pick up a second station: a radio station.
+On Friday 3 February, at 23:20 Central European Time the ISS Crew of Valery Tokarev and William McArthur are due to start an EVA from the Pirs airlock of the Russian section of the ISS wearing Russian Orlan space suits. However, a third Orlan spacesuit will be on the spacewalk with them, one that is nearing the end of its useful life. The plan is literally to throw the extra spacesuit overboard. This may not present an obvious link to radio stations but this suit is fitted with amateur radio equipment, which will transmit messages in many different languages during its time in orbit.
+The spacesuit with equipment is called Suitsat-1 (also called Radio Sputnik or Radioskaf in Russian). SuitSat is a project sponsored by ARISS (Amateur Radio on the ISS) an international working group of volunteers from national amateur radio organisations. ARISS has been used as an integral part of education activities within ESA Human Spaceflight missions with the aim of developing children’s interest in space and science in general.
+These activities have allowed many school children the opportunity to have radio contact with a European astronaut on the International Space Station including contact with the last three European astronauts on the ISS, Roberto Vittori, André Kuipers and Pedro Duque. ESA astronaut Thomas Reiter will also take part in an ARISS contact with schools as part of the six-month Astrolab mission, which is due to be launched to the ISS on the next Shuttle mission.
+15 minutes after Tokarev launches Suitsat-1 away from the back of the ISS the transmitter will be activated. Suitsat will then be transmitting recorded radio messages, mainly from students from Europe (in German and Spanish), Canada (in French) the United States (in English) and Russia and Japan in the respective languages. These are the five ARISS regions. The recording lasts about eight minutes with each broadcast. Several of the student messages include a special or confidential word for listeners to discover, as part of one of the student projects for SuitSat.
+The object is for participants tuning in to the transmission to figure out the special word in each language, copy them down and submit them to the ARISS team for special educational award recognition. Russian generated messages include congratulatory comments to the Bauman Moscow State Technical University where most of the engineers of the Russian Federal Space Agency, and Russian research institutions and industry have graduated. The congratulatory comments act as an on-orbit commemoration of the 175th anniversary of the university.
+An integrated voice synthesizer will be used for transmitting additional information in English about battery voltage, onboard temperature and elapsed time since launch in English and Slow Scan Television images will be provided. Transmissions can be picked up on 145.990 MHz FM for about a week until the batteries are empty. These transmissions will also be relayed via the ISS onboard station NA1SS on 437.800 MHz FM. However, Suitsat will remain in orbit around the Earth for up to six weeks until it burns up on entry into Earth’s atmosphere.
+Those who pick up the transmissions from Suitsat can enter their data on the SuitSat website, http://www.suitsat.org so that participants around the world can track the satellite. Educational Outreach reports (at schools or informal education sites) as well as Slow Scan TV images can be sent to suitsat@comcast.net. This information will be compiled by the ARISS team.
+In addition to the slow jettison of Suitsat away from the station early during the spacewalk, the six-hour EVA will include: relocation of a boom adapter for the Strela robotic arm on the Pirs docking module of the Russian section of the ISS; insertion of a bolt on the mobile transporter of the Canadarm robotic arm, to avoid the repetition of the inadvertent cutting of an intact power, data and video cable, as occurred with a second cable in December; retrieval of the Biorisk experiment, a study on microorganisms in space; retrieval of a panel from the Kromka experiment; and photography of various external areas of the ISS. This will be Tokarev’s second spacewalk and McArthur’s fourth.
+For further information please contact:
+Dieter Isakeit
+Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5451
+Fax: +31 71 565 8008e-mail: dieter.isakeit@esa.int
+Elena Grifoni
+ISS Utilisation Strategy and Education Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5539
+Fax: +31 71 565 4499e-mail: Elena.Grifoni.Winters@esa.int
+Gaston Bertels
+ARISS-Europe Chairman
+Brussels (Belgium)
+Tel : +32 2 771 67 74
+Fax: +32 2 771 49 89e-mail: gaston.bertels@skynet.be

@@ -1,0 +1,30 @@
+2004-01-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Delta_Mission/Successful_Progress_launch_paves_the_way_for_further_scientific_utilisation_of_the_ISS_by_Europe
+Successful Progress launch paves the way for
+further scientific utilisation of the ISS by Europe
+ESA INFO 02-2004.Preparing for the arrival of the first European Automated Transfer Vehicle. Europe's scientific utilisation of the International Space Station (ISS) took an important step forward with the launch of an unmanned Russian Progress cargo spacecraft today at 12:58 Central European Time (16:58 local time) from the Baikonur Cosmodrome in Kazakhstan.
+The Progress supply vehicle will take two days to reach the International Space Station, carrying experiment hardware for the Delta mission to be carried out by ESA's Dutch astronaut André Kuipers in April, Matroshka, a European experiment facility for measuring radiation levels to which astronauts are exposed in space, and hardware to allow the European Automated Transfer Vehicle (ATV) to dock with the Station.
+Launched by a Soyuz rocket on mission 13P, the Progress spacecraft with the serial number M1-11 is due to dock with the International Space Station on 31 January at 14:19 Central European Time. The Progress-type spacecraft are currently serving as supply vehicles for the International Space Station and are also uploading European hardware and equipment in advance of European missions to be carried out on the International Space Station.
+Among other cargo, Progress is transporting scientific equipment which will be used during the upcoming Delta mission (Dutch Expedition for Life science, Technology and Atmospheric research). André Kuipers, who on 19 April flies out to the ISS on a 10-day mission, will be employing this equipment to carry out a programme of scientific and educational activities. The Delta experiments on board Progress are:
+Specialised containers called "biokits" are also part of the Progress cargo. They will be used to return the samples from the biological experiments taking place on the Delta mission.
+The increment 8 science experiment PROMISS-3 is also uploaded with the Progress 13P. This experiment aims to analyse the growth of protein crystals in weightlessness, which cannot be observed to this extent and homogeneity on the ground.
+Also on board Progress is a Russian spectrum analyser, not part of the Delta mission, to perform a dedicated in-orbit checkout on the European Global Transmission Services (GTS) experiment on the ISS. It will analyse the quality of the radio frequency cables of the GTS experiment, which might be the cause of the weaker than expected transmission signals received on the ground so far.
+Another experiment on board Progress in addition to the Delta mission is the Matroshka experimental facility, which will be placed on the outside of the Russian Zvezda module. It will measure radiation levels experienced by astronauts in space. The facility has a human shape, consisting of a head and torso. It is made of natural bone and a synthetic material similar to human tissue. Sensors measuring radiation will be placed at various key external and internal positions on the model such as the areas of the stomach, lungs, kidney, colon and eyes. The facility will remain outside the ISS for a year. Matroshka is an ESA payload under the project leadership of DLR, the German Aerospace Centre in Cologne.
+This flight is also carrying elements of the rendezvous and docking system of the Automated Transfer Vehicle (ATV), the European unmanned ISS supply spacecraft, similar in function - but not in size - to the Russian Progress. It will carry up to three times the cargo of the Progress vehicles, i.e. up to 7500kg.
+The ATV-related equipment flown to the ISS consists of the following items:
+This equipment from Russia and from ESA is required for the rendezvous between the first ATV, called Jules Verne, and the ISS early next year. The videometer, which will be located on the ATV spacecraft, will enable rendezvous operations in orbit to be carried out with a degree of precision never yet attained. This instrument will analyse the laser light emitted by the ATV and reflected back to it by the retroreflectors. These retroreflectors make up part of the videometer target assembly, serving as targets on the docking side of the service module. Two sets of different patterns of retroreflectors will enable the ATV – from a distance of 300m onwards - to know its distance from and angular orientation to the ISS precisely.
+The two antennas are needed for voice and data communications between the Russian Zvezda Module and the ATV. This sophisticated antenna system made in Russia will require six more, to be flown out later by other Progress ships.
+All these ATV-related elements will be installed on the rear side of the Zvezda module during extravehicular activities scheduled for this July. Some old ATV retroreflectors, installed on Zvezda before its launch in 1998, will be brought back to Earth for material analysis.
+The remaining experiment equipment for the Delta mission will be launched to the ISS together with André Kuipers in the manned Soyuz TMA-4. This is scheduled for launch from Baikonur as mission 8S on 19 April. Kuipers is currently training for the mission at Star City near Moscow.
+For further information, please contact:
+Franco Bonacina
+ESA Media Relations Office
+Paris (France)
+Tel: +33 (0) 1 5369 7155Fax: +33 (0) 1 5369 7690
+or
+Dieter Isakeit
+Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight
+Noordwijk (the Netherlands)
+Tel: +31 (0) 71 565 5451
+Tel: +31 (0) 71 565 8008E-mail: Dieter.Isakeit@esa.int

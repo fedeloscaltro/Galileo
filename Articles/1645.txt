@@ -1,0 +1,23 @@
+2007-09-24
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Fluid_theory_confirmed_by_Foton
+Fluid theory confirmed by Foton
+ESA PR 29-2007. In scientific research, there is great satisfaction when theoretical work is eventually supported by experimentation. Such was the case this week for a team of Italian and US scientists when they received preliminary confirmation of a 10-year-old theory from a fluid science experiment that is currently orbiting the Earth on the Foton-M3 spacecraft.
+Although the Foton was only launched a week ago, the scientists are already very excited about the data they have received from their experiment, known as GRADFLEX (GRAdient-Driven FLuctuation EXperiment). The first results are qualitatively consistent with detailed theoretical predictions made over the past decade.
+All liquids experience minute fluctuations in temperature or concentration as a result of the different velocities of individual molecules. These fluctuations are usually so small that they are extremely difficult to observe.
+In the 1990s, scientists discovered that these tiny fluctuations in fluids and gases can increase in size, and even be made visible to the naked eye, if a strong gradient is introduced. One way to achieve this is to increase the temperature at the bottom of a thin liquid layer, though not quite enough to cause convection. Alternatively, by heating the fluid from above, convection is suppressed, making it possible to achieve more accurate measurements.
+Although the early research involved ground-based measurements, it was suggested that the fluctuations would become much more noticeable in a weightless environment. Now, thanks to the Foton mission, the opportunity to test this prediction has come about, and the results completely support the earlier forecast.
+“The first images from the experiment were downloaded to the Payload Operations Centre in Kiruna, Sweden, and received on Earth after only a few orbits,” explained Professor Marzio Giglio, leader of the team from the Department of Physics and CNR-INFM (Istituto Nazionale per la Fisica della Materia), University of Milan, Italy.
+To the delight of the science team, the images visually support the theoretical predictions by showing a very large increase in the size of the fluctuations. Data analysis has also shown that the amplitude of the fluctuations in temperature and concentration greatly increased.
+“It is a rare event when a space mission is able to confirm a theoretical prediction in such record time,” said Olivier Minster, Head of ESA’s Physical Sciences Unit. “These results are important because they are the first verification of the effects forecast a decade ago.”
+“The availability of these images from the spacecraft has enabled us to change what we are doing so that we can optimise the scientific return from the mission,” said Professor David Cannell of the University of California at Santa Barbara (UCSB). “We will also have many thousands of images to analyse back in our labs after the experiment returns to Earth. This will keep us busy for quite a while.”
+“It may be that our results will influence other types of microgravity research, such as the growth of crystals. Our research may even lead to some new technological spin-offs,” said Professor Giglio.
+GRADFLEX is one of 43 ESA scientific and technological experiments on board the 12-day Foton-M3 mission. The mission is scheduled to end on 26 September, when the re-entry capsule will return to Earth in Kazakhstan. The onboard experiments will be returned to their home institutions where the data will be carefully analysed over the coming months.
+For further information:
+Olivier Minster
+Head of ESA's Physical Sciences Unit
+Human Spaceflight, Microgravity and Exploration Programme
++31 71 565 4764Olivier.Minster@esa.int
+Stefano Mazzoni
+ESA GRADFLEX project scientist
+Human Spaceflight, Microgravity and Exploration Programme
++31 71 565 8377Stefano.Mazzoni@esa.int

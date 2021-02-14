@@ -1,0 +1,11 @@
+2008-02-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/Plant_growth_experiment_starts_in_Columbus
+Plant growth experiment starts in Columbus
+ESA astronaut Léopold Eyharts has activated the first experiment inside the European Columbus laboratory. The WAICO experiment, which investigates the effect of gravity on plant root growth, has started inside the module's Biolab facility.
+WAICO, short for Waving and Coiling of Arabidopsis Roots at Different g-levels, looks at the growth of two types of Arabidopsis seed. In all, two different sets of seeds – wild type and genetically modified type - will be allowed to grow under varying levels of gravity, 0g and 1g, where g is the equivalent of gravity on Earth.
+The tiny Arabidopsis seeds will be left to grow for 10 to 15 days, under controlled temperature, humidity and illumination conditions. Daily video images document how the roots grow in space. Using Biolab's telemetry capabilities, the video images are also made available on the ground for real-time observations.
+As the seeds grow, the experiment's lead scientist, Professor Guenther Scherer from the Leibniz Universitat Hannover, Germany, will observe how the level of gravity affects the characteristic spiralling and coiling root growth seen on Earth.
+The results of the WAICO experiment will contribute to a better understanding of plant growth processes and could help to increase the efficiency of agricultural processes on Earth.
+With an eye on future plans for long-term human exploration missions to the Moon and Mars, WAICO could also contribute to our knowledge of growing crops in the space environment – providing astronauts with nutritional fresh produce during a voyage that could last as long as two years.
+At the end of the experiment run, Biolab will automatically flush the cultivation box with a fixative, preserving the seeds in their final state of growth, ready for later analysis back on Earth. The astronaut will also document the plants' appearance at this time using high-resolution photography .
+The seedlings are set to return to Earth with the next Shuttle mission, STS-123, targeted for launch on 11 March 2008 from NASA's Kennedy Space Center, Florida.

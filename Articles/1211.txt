@@ -1,0 +1,19 @@
+2011-04-13
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/Nespoli_performs_hot-swap_of_faulty_valve_on_Columbus
+Nespoli performs hot-swap of faulty valve on Columbus
+A joint effort is combining sophisticated engineering analysis on the ground with old-fashioned hands-on work in space after ESA astronaut Paolo Nespoli undertook the complex installation of a replacement water valve in ESA's Columbus science laboratory.
+ESA's Columbus module on the International Space Station carries a number of life-support systems, including the thermal control system, which cools all the equipment and scientific payloads in the orbiting research module.
+The thermal system has multiple valves that control the cold water flowing through pipes. The water pipes run from Columbus to the Station's Node-2, where heat exchangers cool the water using radiators. The cooled water then flows back into Columbus.
+What went wrong
+In 2010, one of the water valves experienced problems and was inspected several times by Station astronauts to assist engineers with troubleshooting. Finally, in September last year, the suspect No. 8 Water ON-OFF Valve (WOOV) failed to react to ground commands and stopped working completely.
+This required an in-orbit repair job, and it was decided to return the faulty valve to Earth for detailed analysis.
+The crew also reported traces of an unknown substance seeping out of the valve body and the insulation shell.
+A thorough troubleshooting plan was mapped out, aiming to identify the root cause of the valve jamming and the nature of the contamination.
+As a replacement, Thales Alenia Space made a new manifold, which was launched on Shuttle Discovery on the STS-133 mission on 24 February.
+Can we fix it? Yes we can
+On 27 February, ESA astronaut Paolo Nespoli rolled up his sleeves to work on what was termed 'major inflight maintenance' – an hours-long repair job requiring tight coordination between the astronaut in space and engineers at ESA's Columbus Control Centre, near Munich, with continuous voice and video contact.
+"The main repair included a procedure of some 80 steps," said Cesare Capararo, of ALTEC, Lead Increment Flight Director for Columbus and responsible for overseeing the repair.
+"Each step had to be carefully checked before, during and after execution by Paolo and the ground team due to the complexity of performing maintenance on a running system."
+With the job complete, the faulty valve was packed for return to Earth on the same Shuttle. After arrival at NASA's Kennedy Space Center on 9 March, it was shipped to the Astrium facility in Bremen, Germany, where Columbus was built, for analysis by engineers from Thales Alenia Space, Astrium and ESA.
+"We will have the results very soon, which will help to determine the cause," said ESA's Roland Luettgens, Mission Director at Columbus Control Centre.
+"Columbus must operate several more years and therefore it's important to know the cause and ensure that we can work together with the crews for this type of complex maintenance."

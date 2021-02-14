@@ -1,0 +1,15 @@
+2010-10-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/New_international_standard_for_spacecraft_docking
+New international standard for spacecraft docking
+Partners in the International Space Station programme have agreed on a new standard for docking systems, which will be capable also of implementing berthing. The agreement allows a range of compatible, but not necessarily identical, mechanisms for spacecraft docking. A first agreed version of the Interface Definition Document will be released on 25 October.
+The International Docking System Standard (IDSS) provides the guidelines for a common interface to link spacecraft together. It builds on the heritage of the Russian developed APAS system (Androgynous Peripheral Attachment System) used for the Space Shuttle for the ‘hard docking’ and the innovative soft-capture features of the new NASA and ESA systems. Other agencies will be free to choose specific features behind the interface.
+“The IDSS is an outstanding example of international collaboration. We have developed a common language for docking systems to use the same 'words' in space when it comes to work together,” said Simonetta Di Pippo, ESA Director of Human Spaceflight.
+“The Docking Standard sweeps away the boundaries for a truly global exploration endeavour. It will also make joint spacecraft docking operations more routine and eliminate critical obstacles to joint space exploration undertakings,” she continued.
+"Today, our future in space is more open-minded than ever. ESA has been committed to the development of this standard since the inception of the working group and has contributed to the document defining this standard interface. We have been working for a number of years on the development of the IBDM (International Berthing Docking Mechanism) and we are willing to make the IBDM compatible with this new international docking standard,” Simonetta Di Pippo concluded.
+Open and flexible standard
+The initial IDSS definition document will be released into the public domain on 25 October. It will contain a preliminary description of the physical features and design loads of the standard docking interface.
+The technical teams from the five ISS partner agencies will continue to work on additional refinements and additions to the initial standard. ESA, NASA, Roscosmos, the Japan Aerospace Exploration Agency and the Canadian Space Agency are represented on the Multilateral Coordination Board, which coordinates Station activities among the partners.
+The interface definition document will be available on 25 October atwww.internationaldockingstandard.com
+For more information, please contact:
+Marco Caporicci
+Tel: +31 71 56 54873Email: Marco.Caporicci@esa.int

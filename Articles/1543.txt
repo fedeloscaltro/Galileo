@@ -1,0 +1,10 @@
+2008-03-09
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_ATV_under_control_after_a_textbook_launch
+Jules Verne ATV under control after a textbook launch
+An absolutely perfect launch brought Jules Verne ATV into orbit after a textbook countdown and mission of the Ariane 5 launcher. All the events occurred on time, the multiple re-ignition of the specially designed Ariane 5 upper stage went off absolutely as predicted. Jules Verne ATV separated as foreseen and was injected in the correct orbit. Communication between the spacecraft and the ATV Control Centre in Toulouse confirmed that the spacecraft was responding nominally.
+Listen to the press conference
+All navigation systems onboard, the star-trackers, the GPS system are working nominally and the solar arrays, which deployed very smoothly, are delivering full power. However the spacecraft on board computers detected a slight difference in pressure between the oxidiser and the fuel that compose the propellant. This caused the ATV to immediately switch over to the second of four propulsion chains, as it is designed to do.
+Engineers at the Control Centre in Toulouse and at the prime contractor premises EADS-Astrium in Les Mureaux are evaluating and analysing the data coming from the spacecraft and are assessing the consequences, if any, in the immediate planning.
+The ATV is the very first spacecraft in the world designed to conduct automated docking in full compliance with the very tight safety constraints imposed by human spaceflight operations and is now well on its way to its rendezvous with the International Space Station in early April.
+Listen to an audio recording of the Jules Verne ATV post-launch press conference held at Guiana Space Centre earlier this afternoon - linked on the right menu.
+See the high-resolution version

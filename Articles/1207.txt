@@ -1,0 +1,8 @@
+2011-04-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Launch_postponed_for_at_least_72_hours
+Launch postponed for at least 72 hours
+NASA Shuttle launch director Mike Leinbach stated that Endeavour's launch will be no earlier than Monday 2 May at 2:33 pm EDT (20:33 CEST). Engineers need that time to troubleshoot an issue that resulted in today’s launch scrub.
+During today’s countdown, engineers detected a failure in one of two heater circuits associated with Auxiliary Power Unit (APU) 1. Heaters are required to keep the APUs’ hydrazine from freezing on orbit. Attempts to activate the heater were not successful and engineers now believe the problem might be associated with a Load Control Assembly, which is a switchbox, located in the aft end of Endeavour, or an electrical short in the wires leading into or out of the switchbox.
+Endeavour’s external tank will be drained, technicians will enter Endeavour’s aft compartment overnight and, by tomorrow afternoon, will put in a platform to gain access to the avionics bay where the Load Control Assembly is located. Once there, they will assess whether they need to remove and replace the switchbox, or fix an electrical wiring short.
+Because of this, Leinbach said there will be a minimum 72-hour scrub turnaround.
+Engineers and managers will meet this afternoon to further refine their troubleshooting plan. NASA has scheduled a news conference at 4 pm EDT (22:00 CEST) to discuss today’s scrub and the plan. For further status reports please consult the NASA website.

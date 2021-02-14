@@ -1,0 +1,33 @@
+2006-07-11
+https://www.esa.int/Enabling_Support/Operations/Controlling_robots_that_search_for_Mars_life
+Controlling robots that search for Mars life
+As part of ESA's ambitious, long-term Aurora exploration programme, ExoMars will search for traces of life on Mars. The mission requires entirely new technologies for self-controlled robots, built-in autonomy and cutting-edge visual terrain sensors.
+The fourth decade of this century could see Europe participating in a manned mission to Mars in what would be one of humanity's grandest space expeditions ever.
+Aurora is ESA's programme aimed at the long-term robotic and human exploration of the Solar System, with Mars and the Moon as the main targets.
+A human mission to the Red Planet would be a major, multi-year undertaking requiring fantastic, entirely new capabilities such as automated cargo vessels, prepositioned supplies and tools, and communication and navigation satellites in Mars orbit similar to Earth's current GPS systems.
+Scientists and engineers are already working on ESA's first robotic 'precursor' mission, ExoMars, due for launch around 2011.
+ExoMars will explore the biological environment on Mars in preparation for further robotic and, later, human activity. Data from the mission will also provide invaluable input for broader studies of exobiology – the search for life on other planets.
+The main element of the mission is a wheeled, robotic rover vehicle, similar in concept to NASA's current Mars Rover mission, but having different scientific objectives and improved capabilities.
+Classic direct control methods just won't work when we operate on the surface of Mars in an unstructured environment.
+The rover will use solar arrays to generate electricity, and will travel over the rocky orange-red surface of Mars, transporting an up to 12-kilogram scientific payload including a first-ever lightweight drilling system, as well as a sampling and handling device, and a set of scientific instruments to search for signs of past or present life.
+Due to distance time-lag and complexity, ExoMars will self-navigate using 'smart' electro-optics to visually sense and interpret the surrounding terrain and will be capable of operating autonomously using intelligent onboard software.
+Automated control a major advance
+This automated mode of operation is a major advance for ESA, long used to controlling spacecraft directly using human controllers. And not only will the rover's onboard control systems be new.
+"ExoMars will require entirely new techniques and technology for several aspects of the Earth-based rover control system, not just an upgrade of what we have today," says Mike McKay, a senior spacecraft controller and Mars expert based at ESOC, ESA's Spacecraft Operations Centre, in Darmstadt, Germany.
+ESA controllers have never before operated a mission that moved about on the surface of another body; Huygens – which touched down successfully on Titan in 2005 – was an atmospheric probe and not a lander, although it functioned briefly after reaching Titan's surface.
+Robotic task: traverse kilometres of terrain in search of life
+In one typical example of the rover's autonomous operation, ground controllers might radio up a high-level command telling it to drive to a scientifically interesting spot anywhere from 500 to 2000 metres away and conduct science operations, such as drilling beneath the surface to sample soil for life signs. But the vehicle would handle the details of the move on its own.
+It would survey the ground with a 3D camera, create a digital terrain model, verify its present location, run internal simulations and then make an autonomous decision on the best path to follow, based on obstacles, the rover's current status and risk/resource considerations.
+"Then it will drive itself to the target. We expect its target accuracy to be within one-half metre over a traverse of 20 metres," says Bob Chesson, head of the Human Spaceflight and Exploration Operations Department in ESA’s Operations directorate.
+ExoMars profits from current robotic explorers
+As the next generation of robot, ExoMars will profit from lessons learned from the current generation, including NASA's Mars Explorer Rover (MER) mission. "We're not shy in trying to learn from the experiences of our sister agencies," says Chesson.
+Innovative ground control to enable autonomous functioning
+ExoMars will require a change in culture; we have to develop a truly interdisciplinary operations concept.
+For ExoMars, the controllers on Earth would most likely be located in a 'rover dedicated control room', similar in concept to the dedicated control rooms (DCR) that ESA now sets up for individual missions that orbit planets.
+ESOC will serve as the overall mission operations control centre (MOCC), controlling the launch and early orbit phase (LEOP), the cruise to Mars, the separation and landing of the descent module and the rover egress, with management of rover surface operations likely to be conducted from the Rover Operation Centre located at ALTEC, the Advanced Logistic Technology Engineering Center, in Turin, Italy.
+"The design of the rover ground control system, or ground segment, depends on the scientific and operational goals of the rover, which are not yet final, so the ground system is still evolving," says Chesson. "In principle, the basic telemetry and telecommand functions would be essentially the same as now, but it will have significantly new capabilities to allow for the rover's autonomous functioning."
+'Letting the child walk'
+The ground control system will at least require computing facilities to enable high-level mission planning tools and to allow monitoring of the rover's digital terrain and 3D modelling, ground path and trajectory planning, on-ground simulation and tight integration with the payload control and scientific operations.
+"Classic direct control methods just won't work when we operate on the surface of Mars in an unstructured environment and with a significant signal time delay," says Reinhold Bertrand, a planning engineer and robotics expert at ESOC. "ExoMars will require a change in culture; we have to 'let the child walk on its own' while we develop a truly interdisciplinary operations concept."
+Editor's note:
+An expanded version of this article is available on the Spacecraft Operations site.

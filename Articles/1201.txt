@@ -1,0 +1,12 @@
+2011-05-10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Space_Shuttle_i_Endeavour_i_launch_set_for_16_May
+Space Shuttle Endeavour launch set for 16 May
+NASA managers have set the liftoff of Space Shuttle Endeavour for 16 May at 14:56 CEST (12:56 GMT). The date was announced at a news briefing on Monday at NASA's Kennedy Space Center in Florida.
+On Friday, NASA managers extended the length of the STS-134 mission to the International Space Station from 14 days to 16 days.
+Engineers at the Kennedy Space Center are continuing work to resolve the problem with a heater circuit in Endeavour's hydraulic system that resulted in the launch postponement from 29 April.
+They determined the failure was inside an ‘aft load control assembly’ – is a switchbox in the Shuttle's aft compartment – and possibly its associated electrical wiring.
+Although the root cause of the failure in the switchbox has not been found, technicians are replacing hardware that could have caused the problem. The faulty box was replaced last Wednesday, and a test of nine Shuttle systems powered by the new box is under way.
+The Shuttle has three Auxiliary Power Units (APUs) that provide hydraulic power to steer the vehicle during ascent and entry. The fuel lines on each APU have two heater circuits that prevent the hydrazine from freezing while the Shuttle is in space.
+NASA rules require all APUs and heater circuits to be operational for launch. On Endeavour's first launch attempt, one of the two heaters for APU-1's fuel line did not work. Engineers confirmed the circuit in the original switchbox that directed power to the heaters had shorted out.
+Managers reviewed the STS-134 mission timeline and determined that the Shuttle crew can accomplish all of their objectives even with the departure of three Station astronauts.
+According to current plan, ESA astronaut Paolo Nespoli and two colleagues will return to Earth on 23 May aboard their Soyuz spacecraft, while Endeavour is still docked to the Station.

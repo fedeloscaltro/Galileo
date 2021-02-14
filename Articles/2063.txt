@@ -1,0 +1,20 @@
+2002-12-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Future_astronaut_diagnostics_for_the_ISS_bring_advances_in_technology_for_telemedicine
+Future astronaut diagnostics for the ISS bring advances in technology for telemedicine
+ESA PR 76-2002. On Thursday 5 December 2002 an ESA-coordinated demonstration in medical telediagnostics was carried out on board the French hospital ship Sirocco.
+In a project initiated by ESA in association with the Department of Space Medical Physiology at the University of Tours, the Vision and Robotics Laboratory at Bourges, Sinters Toulouse, and CNES, this was the first real-time demonstration of the use of a teleoperated robotic arm for echographic diagnosis in a remote situation.
+The objective of the project was to demonstrate how teleoperated echographic diagnosis can be carried out on patients at remote locations. A radiologist at St Anne’s Hospital in Toulon used the teleoperated robotic arm to diagnose a test patient on board the ship stationed at sea.
+With the robotic arm, videoconferencing equipment and satellite communications, the radiologist was able to assess the severity of medical problems from the remote site. This has important implications for spaceflight and research as it means that astronauts on board the international space station can receive diagnostic attention without returning to Earth.
+Medical telediagnostic research also has important implications for life on Earth. It expands the range of remote echographic diagnosis and this can contribute significantly to the delivery of efficient medical care in small rural hospitals in Europe where access to radiologists is limited, or in situations where second opinions are needed. Remote echographic diagnostics also have a role to play in remote and emergency situations such as in many parts of the third world, the polar regions and at sea.
+The project has been funded by ESA for several years as part of its Microgravity Applications Programme and Technology Transfer Programme, with support from the Directorate of Technical and Operations Support. It is an example ESA’s sustained efforts to involve universities and industry in the development of space-related research which can serve to improve the quality of life on Earth.
+"The project reflects ESA’s continued commitment to the advancement of space science for life", said Jörg Feustel-Büechl, ESA's Director of Human Spaceflight, "and aims to contribute to the development of further cooperation on telemedical research among European scientific communities and industry".
+The demonstration was carried out in conjunction with the conference on telemedicine held in Toulon on 5 and 6 December. For specialists interested in discussing telemedicine with project managers and scientists, ESA is holding an Internet Forum on Thursday 12 December from 14.00 to 15.00, which can be accessed via www.esa.int/spaceflight.
+For further information, please contact:
+Dr. Didier Schmitt
+Head of Life Sciences Unit
+ISS Utilisation and Promotion Division
+Directorate of Human Spaceflight
+European Space Agency
+Tel: +31 (71) 565 48 88
+Mobile: +31 (6) 22 77 91 90
+Fax: +31 (71) 565 36 61E-mail: Didier.Schmitt@esa.int

@@ -1,0 +1,19 @@
+2008-04-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Follow_the_Jules_Verne_ATV_docking
+Follow the Jules Verne ATV docking
+Follow the first docking attempt of Jules Verne, ESA’s first Automated Transfer Vehicle, live on the ESA website. Watch the Video replay of the docking. For realtime updates from inside the ATV Control Centre in Toulouse visit the ATV blog.
+Contact of the vessel's docking probe is expected at 16:40 CEST (14:40 UT), with full capture scheduled at 17:14 CEST (15:14 UT).
+The rendezvous and docking will be broadcast live by ESA TV, 16:00-17:15 CEST (14:00-15:15 UT); details are available on the ESA TV web page under http://television.esa.int/.
+If the docking does not occur for any reason, the next possible window occurs 48 hours later on Saturday 5 April. The rendezvous and docking will be monitored from ESA's ATV Control Centre in Toulouse, France, in cooperation with the Russian control centre in Moscow and the NASA control centre in Houston.
+Full schedule
+Note: Times have changed slightly compared to previously published schedule. Times remain subject change.
+- ATV in waiting mode for final go ahead
+Pre-homing
+- Homing starts
+- Station keeping point. External lights are activated. Russian Kurs radar-based system is activated and the ISS crew can begin using this data. Closing begins using relative GPS.
+Video system of Zvezda turned on for ISS crew to view ATV on the Simvol screen.
+- Station keeping point. The Videometer and Telegoniometer (laser-pulsed instruments that calculate the distance and orientation to the ISS) are activated. Videometer is used as the prime sensor for GNC navigation. Go for Final Approach 1.Speed of ATV slows down from about 40 cm per second to 7 cm per second
+- Station keeping point. Close range videometer navigation is used. Pointing manoeuvre towards the Docking Port axis. Go for Final Approach 2.
+- Station keeping point. Go to continue the Final Approach 2.
+ATV docks to Zvezda
+ATV permanently connected to Zvezda

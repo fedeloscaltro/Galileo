@@ -1,0 +1,26 @@
+2008-10-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/ESA_s_BIO-4_experiments_arrive_at_ISS
+ESA's BIO-4 experiments arrive at ISS
+Amongst the supplies and equipment delivered to the International Space Station today with the successful docking of the Russian Soyuz TMA-13 spacecraft is BIO-4, a set of four ESA biology experiments.
+The four biology experiments were launched on the Soyuz last Sunday from Baikonur Cosmodrome, Kazahkstan, together with Expedition 18 Commander Mike Fincke, Expedition 18 Flight Engineer Yuri Lonchakov and Spaceflight Participant Richard Garriott. After two days in orbit, the Soyuz spacecraft docked with the International Space Station (ISS) at 10:36 CEST (08:36 UT) today.
+BIO-4 experiments
+The BIO-4 experiments were developed by scientists from Germany, Belgium, Switzerland, Italy and France and include research in bacterial physiology, immune cell function and developmental biology.
+Two experiments (BASE B and BASE C) will study how bacteria cope and adapt in the spaceflight environment, being exposed to parameters such as microgravity, cosmic radiation, space electromagnetism and vibrations. These experiments are a continuation of studies performed by the same research team on previous ISS flights.
+The function of immune cells in culture will be studied in the ROALD experiment (ROle of Apoptosis in Lymphocyte Depression). In microgravity it has been observed that lymphocyte activation is depressed, this experiment will assess if this is due to activation of programmed cell death (apoptosis).
+The fourth experiment, Xenopus, studies the development of cane toad tadpoles (Xenopus laevis) in spaceflight. After their stay in space, scientists will measure the effect of spaceflight exposure on the development of the tadpoles' sense of balance; this is controlled by the vestibular ocular system (inner ears and eyes). This experiment is a continuation of earlier research on previous ISS and Space Shuttle flights.
+Short duration
+Together the experiments make up the BIO-4 mission, the fourth in a series of biological missions to be conducted by ESA on the ISS since 2005.
+The BIO missions provide flight opportunities for biology experiments requiring a short duration (less than 10 days) and limited on-orbit resources. They make use of the Russian Soyuz spacecraft for both launch and recovery of the experiment samples.
+KUBIK incubators
+Soon after arrival at the ISS the experiment samples will be transferred to one of ESA's KUBIK facilities and be processed there within the next 3 to 8 days.
+ESA has three KUBIK incubators stored and operated in the Russian segment of the ISS. Each incubator can store experiment samples in different container types, whilst providing a power feed and maintaining a fixed temperature anywhere between 6 and 37 degrees Centigrade.
+Three of the four BIO-4 experiments, BASE B, BASE C and Xenopus, will return to Earth with the descending Soyuz TMA-12 spacecraft on 22 October 2008. The samples will be recovered from the landing site and taken to Moscow. From there, they will be returned to Europe for delivery to the relevant science groups. Samples from the fourth experiment, ROALD, will return with Space Shuttle mission STS-126, currently scheduled for November 2008.
+Experiment hardware for BIO-4 was developed by Kayser Italia (Italy) and Comat Aerospace (France).
+More information:
+Martin Zell
+ESA Head of ISS Utilisation Department
+Directorate of Human SpaceflightMartin.Zell[@]esa.int
+Giorgio Crippa
+Payload system engineer
+Directorate of Human Spaceflight
+Giorgio.Crippa[@]esa.intTel: +31 (0)71 565 6513

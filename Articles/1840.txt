@@ -1,0 +1,39 @@
+2005-12-21
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Sterilisation_technology_developed_and_used_in_space_now_available_on_Earth
+Sterilisation technology developed and used in space now available on Earth
+An innovative sterilisation device, based on technology used in the International Space Station (ISS), was recently presented at Medica 2005, the world's largest medical fair. The O3-Ozonizer has applications in dentistry and medicine.
+Hygiene
+It was only in the second half of the 19th Century that hygiene was recognized as being paramount in medical practice. Today the methods and technologies to eliminate germs and viruses have become quite efficient to maintain a clean environment not only in hospitals but also in all other areas of human life.
+The two processes known to eradicate germs are called disinfection and sterilisation. By definition disinfection destroys micro-organisms like viruses, bacteria and fungi in a way that only one out of 100 000 survives the treatment. Sterilisation, however, needs to be even more effective in the order of one magnitude and has to eliminate all transmissible agents up to a level that out of one million micro-organisms only one remains active.
+Glovebox
+ESA’s Microgravity Science Glovebox (MSG) on board the International Space Station (ISS) is a hermetically sealed incubator where experiments in the field of material science, biotechnology, fluid science, combustion science and crystal growth research can be conducted in a close and protected environment. In order to avoid cross-contamination the Glovebox needs to be sterilised between the experiment runs.
+The classical approach of hot pressurised steam that is mainly used on Earth cannot be applied on board ISS and inside MSG due to technical reasons and safety considerations. Therefore the engineers had to find another technical solution to sterilisation. The development resulted in a technology that employs ozone. The process works at room temperature and produces no moisture.
+Ozone
+We mainly know ozone as protector against ultraviolet radiation in Earth’s stratosphere, where its concentration is constantly diminishing due to the green house effect and the use of fluorinated hydrocarbons. Ozone, a blue gas, is poisonous because of its high oxidation capacity. It is a very reactive element that oxidises all kind of materials. Germs cannot withstand that oxidation. They are destroyed and loose their infection potential when ozone is applied on them.
+Ozone is in fact very aggressive and able to reduce the number of germs to one survivor out of one million and is therefore suitable for sterilisation purposes. Because of its aggressive oxidising potential ozone is not only capable of eradicating fungi, bacteria, and viruses but also prions.
+The big advantage of ozone is that it decays into pure oxygen after 20 minutes at room temperature and leaves no moisture behind. The sterilisation process takes no more than 20 minutes which has a positive effect on the wear of the instruments and allows also for heat and moisture sensitive equipment to be sterilised and not only just to be disinfected.
+Spin-off
+This cold and dry sterilisation technology used in the Microgravity Science Glovebox was developed by the Dutch company Bradford engineering, which is specialised in the design, development and testing of spaceflight components and systems. In anticipation of development of applications on Earth, the spin-out company Bradford Instruments was founded and fostered by the European Space Incubator (ESI - the business incubation initiative of ESA's Technology Transfer and Promotion Office). In total, ESA's Technology Transfer Programme supported the whole endeavour by granting 100 000 Euros in order to finance a feasibility study and part of the development costs.
+The first spin-off product conceived and produced by Bradford Instruments is a sterilisation device called the O3-Ozonizer for the medical and dental market.
+Medica 2005
+This new device was presented for the first time to the professional community on ESA’s booth at Medica 2005 in Düsseldorf, which is the largest medical fair in the world.
+For the marketing and the distribution of the O3-Ozonizer Bradford instruments has founded the company DutchOzone, together with the Dutch medical equipment developer and distributor MDCL. The partner company MDCL has also contributed extensively in the development of the O3-Ozonizer and was responsible for the industrial design of the unit and the user interface.
+Its first application for the sterilisation of dental equipment is now undergoing intensive validation and testing at the Dutch Academic Centre for Dentistry at the University of Amsterdam after which it will need to be technically certified by the Netherlands Organisation for Applied Scientific Research TNO.
+After this certification, to both Dutch and European standards, the production and European-wide marketing could start by mid-2006. DutchOzone will not only be responsible for marketing and distribution but also for the manufacturing and development of any future variations of the O3-Ozonizer and development of other ozone applications in the medical and dental areas.
+With the O3-Ozonizer available on the market, people on Earth can benefit from an innovative technology that originally has been developed for Space.
+For further information:
+Dieter Isakeit
+Head, Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Noordwijk (The Netherlands)
+Tel: +31 71 565 5451Fax: +31 71 565 8008
+Pierre Brisson
+Head, Technology Transfer and Promotion Office
+Directorate of Technical and Quality Management
+Noordwijk (Netherlands)
+Tel: +31 71 565 4929Fax: +31 71 565 6635
+René van den Houdt
+President/C.E.O
+DutchOzone B.V.
+Danzigerkade 17
+1013 AP Amsterdam (Netherlands)
+Tel: +31 20 486 7571Mobile: +31 64 604 1818

@@ -1,0 +1,17 @@
+2008-02-26
+https://www.esa.int/Enabling_Support/Operations/Unique_three-way_partnership_for_ATV_ground_control
+Unique three-way partnership for ATV ground control
+Shortly after its planned 8 March launch to the ISS, ESA's Automated Transfer Vehicle will make the first-ever laser-guided docking in space. The vehicle's fully automated docking provides unique challenges to the multi-agency mission operations team at ESA's ATV Control Centre.
+"We started from scratch to build the technical interfaces, the ground control systems and the working relationships. The only way to make this work is through cooperation," says Alberto Novelli, Head of Mission Operations at the Automated Transfer Vehicle Control Centre (ATV CC) in Toulouse, France.
+Novelli and his team from ESA's Operation directorate are responsible for overseeing the safe operation of Jules Verne, the first ATV to launch to the International Space Station (ISS), now scheduled for 8 March.
+ATV operations 'true trilateral effort'
+"This is a major project for ESA and our industrial partners - it will perform the first fully automated ISS docking and operations are a true trilateral effort, involving ESA, NASA and ROSCOSMOS, the Russian space agency. It's also a first in the ISS programme," said Novelli.
+At ATV CC, the central hub of the three-way operations effort, ESA staff and contract engineers are working closely with engineers from CNES - the French space agency - who operate ATV on behalf of ESA.
+The ESA team comprises 16 engineers, trainers, mission directors and support personnel working at Toulouse, joined by an additional six specialists who work on background development of ground segment infrastructure.
+NASA, ROSCOSMOS representatives on-site
+The team are also supported by resident NASA and ROSCOSMOS representatives, who sit on console with their ESA/CNES colleagues to ensure that the other control centres involved in ATV - NASA's Mission Control Center in Houston and Russia's centre in Moscow - are kept fully 'connected' to ATV operations.
+The agencies have also set up an ATV Joint Operations Working Group, a three-way forum at the Flight Director level.
+ATV operations are a true trilateral effort, involving ESA, NASA and ROSCOSMOS, the Russian space agency.
+The ESA operations team was put in place at ATV CC starting in 2003, and - together with their colleagues from CNES - the team has spent the past year in a particularly gruelling series of simulations, training sessions and procedure validations, working up to full readiness for 8 March 2008, when ATV is scheduled to be launched on board an Ariane 5 from ESA's Spaceport in Kourou.
+In just the past few months, the three control centres (ATV, Houston and Moscow) have completed a demanding series of joint simulations, including four rendezvous (two simulations went all the way to docking), one docking simulation, one undocking and two reboosts (in which the ATV's engine is used to boost the ISS).
+Further joint simulations were held on 1 and 8 February.

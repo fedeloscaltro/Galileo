@@ -1,0 +1,8 @@
+2007-12-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Columbus/NASA_set_for_Shuttle_fuel_tank_repair
+NASA set for Shuttle fuel tank repair
+NASA has outlined a plan to repair a faulty electrical connector on Space Shuttle Atlantis’ external fuel tank. The repair could take several days or even weeks. The launch date for ESA’s Columbus laboratory of 10 January 2008 is no longer feasible.
+The fuel sensor system relayed false readings during two launch countdowns for Atlantis earlier in December. A fuelling test performed on 18 December 2007 isolated the problem to a set of connectors that feed the sensor system's wiring through the tank wall.
+Speaking to the press, NASA’s Shuttle programme manager Wayne Hale explained how the repair plan calls for Shuttle engineers to remove the pass-through plug and the external connector for lab analysis. An internal connector cannot be removed and will be visually inspected.
+According to NASA’s website the external parts of the connector will be replaced with others that have been strategically soldered to ensure pin-to-socket connectivity and allow continuous electrical flow from sensors inside the external tank to the Shuttle's computers.
+“These repairs and troubleshooting activities will determine when we will launch,” said Hale. “The plan to go forward will take as long as it takes, but we don’t think this will be a long-term thing. Probably something that will take a couple of weeks.” NASA managers will assess the situation when they meet again on 3 January 2008.

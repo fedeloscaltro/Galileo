@@ -1,0 +1,17 @@
+2010-06-15
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Space_Station_keeps_watch_on_world_s_sea_traffic
+Space Station keeps watch on world’s sea traffic
+As the ISS circles Earth, it has begun tracking individual ships crossing the seas beneath. An experiment hosted by ESA’s Columbus module is testing the viability of monitoring global traffic from the Station’s orbit hundreds of kilometres up.
+The ship-detection system under test is based around the Automatic Identification System (AIS), the marine equivalent of the air traffic control system.
+All international vessels, cargo ships above certain weights and passenger carriers of all sizes must carry ‘Class A’ AIS transponders, broadcasting continually updated identification and navigation data.
+AIS allows port authorities and coastguards to track seagoing traffic, but the system relies on VHF radio signals with a horizontal range of just 40 nautical miles (74 km). This makes it useful within coastal zones and on a ship-to-ship basis but open ocean traffic remains largely untracked. However, AIS signals travel much further vertically – all the way up to the International Space Station.
+Global overview of maritime traffic
+"The COLAIS (Columbus AIS) experiment was switched on at the start of June," said Karsten Strauch, ESA’s project manager.
+"To give an idea, more than 90 000 Class A AIS messages were gathered between 19:00 GMT on 2 June and 09:00 GMT the following day, giving a global overview of maritime traffic."
+With commissioning completed, the experiment is run remotely and the results are routed via the Columbus Control Centre in Oberpfaffenhofen, Germany to COLAIS teams.
+"We are currently testing the NORAIS receiver, built by the Norwegian Defence Research Establishment and Kongsberg Seatex," explained Mr Strauch.
+"In three months’ time the Station crew will switch it with a second receiver called LUXAIS, the work of Luxembourg companies Luxspace and Emtronix. For the next two years we will go on swapping between these receivers."
+The Station’s orbit crosses all major shipping lanes. The main challenge is simply that far too many vessels are detected at once, leading to signal overlaps and interference. The Station’s 7 km/s speed also distorts the signal. The receivers therefore need to be capable of high-performance signal detection and message decoding.
+Being hosted on the ISS, COLAIS can be kept updated in the future simply by astronauts swapping receivers, or fixing any problems that arise.
+Integrating AIS information with other satellite data, such as from remote-sensing satellites, should significantly improve maritime surveillance and boost safety and security at sea.
+ESA is planning a dedicated initiative in this area as part of its Advanced Research in Telecommunications Systems (ARTES) programme.

@@ -1,0 +1,20 @@
+2011-02-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV_i_Johannes_Kepler_i_operating_flawlessly
+ATV Johannes Kepler operating flawlessly
+Following a spectacular launch on 16 February, Europe's space freighter is now in its planned orbit. Mission controllers are preparing to match its trajectory with that of the International Space Station, where it will dock seven days from now.
+After a one-day launch delay, ESA's next Automated Transfer Vehicle (ATV), Johannes Kepler, lifted-off yesterday on an Ariane 5 launcher from Europe's Spaceport in Kourou, French Guiana, at 21:50 GMT. A few minutes later, the vessel attained its initial operational orbit at 260 km altitude.
+Mission controllers immediately began checking out the spacecraft and ensuring that programmed sequences – including deployment of ATV's four large solar wings – had correctly taken place.
+In-flight communication via relay satellites
+ATV has established communications with its control centre in Toulouse, France, sending data and information via NASA's Tracking and Data Relay Satellite System, a constellation of satellites that provides full-time communications with the International Space Station.
+Flight dynamics experts on the joint ESA–CNES (French space agency) team in the control centre also carried out the first orbit determination, precisely fixing ATV's position and trajectory in space.
+This was done initially using the on-board startrackers and later via GPS satellite signals.
+This information is being used to plan and conduct the first of a series of 'phasing manoeuvres'. This complex set of thruster burns will start raising ATV's altitude to that of the Station, currently about 350 km. By 24 February, ATV will be just 30 km behind the Station.
+"We had an excellent orbit injection thanks to Ariane, and the spacecraft itself is performing flawlessly. With the one-day launch delay, docking with the ISS is now set for one day later than initially planned, now on 24 February," said ESA's Alberto Novelli, Head of the ATV Operations Division.
+Arrival at ISS set for 24 February
+In 2008, after the launch of the first ATV, Jules Verne, the vessel spent almost three weeks performing a series of test manoeuvres to prove its automated docking system worked as expected.
+"This time, we have a proven spacecraft and an experienced team, so we'll get up to Station in just about a week," said Alberto.
+Operating ATV requires an extended 'team of teams' spread around several establishments across Europe.
+In addition to ESA and CNES personnel at the Toulouse centre, ESA specialists at the Agency's ESTEC technical centre, in the Netherlands, and at ESOC, the European Space Operations Centre, Germany, are supporting the mission.
+ESA's Columbus Control Centre, near Munich, jointly staffed by ESA and DLR, the German Aerospace Center, is also involved in ATV operations, as are numerous experts from the industrial partners that build ATV.
+"ATV is a truly European spacecraft. Flying it requires experts from ESA, partner agencies and industry across half a dozen countries," said ESA's Bob Chesson, Head of the Human Spaceflight Operations Department.
+"Getting it built, into orbit and operating it in flight to docking requires a lot of hard work and dedication from hundreds of people."

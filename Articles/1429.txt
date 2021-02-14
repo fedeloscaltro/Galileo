@@ -1,0 +1,13 @@
+2009-05-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/European_Astronaut_Selection_2008/ESA_presents_new_European_astronauts_follow_the_press_conference_live
+ESA presents new European astronauts – follow the press conference live
+Follow the press conference to present Europe's new astronauts live on the ESA website from 13:15 CEST (11:15 UT) on 20 May. Live coverage is also available via satellite. Jean-Jacques Dordain, ESA Director General, and Simonetta Di Pippo, ESA Director of Human Spaceflight, will present the new astronauts at ESA Headquarters.
+Programme
+13:15 - Introduction of the new ESA astronauts by Jean-Jacques Dordain, ESA Director General, and Simonetta Di Pippo, ESA Director of Human Spaceflight
+13:30 - The new ESA astronauts introduce themselves
+14:00 - Questions and Answers14:15 – End of press conference
+Satellite coordinates
+Eutelsat W2A (@10° Est) - Transponder D05 - Channel C
+Downlink: 11.54091 GHz - Vertical Polarisation
+Modulation: DVB-S QPSK
+FEC: 3/4Symbol rate: 6.1113

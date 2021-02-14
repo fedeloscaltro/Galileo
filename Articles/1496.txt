@@ -1,0 +1,10 @@
+2008-08-28
+https://www.esa.int/Enabling_Support/Operations/ATV_carries_out_first_debris_avoidance_manoeuvre_for_the_ISS
+ATV carries out first debris avoidance manoeuvre for the ISS
+The Automated Transfer Vehicle, Europe’s ISS logistics spacecraft, was used to perform its first debris avoidance manoeuvre for the International Space Station. The manoeuvre was started yesterday at 18:11 CEST (16:11 UT) and finished 5 minutes 2 seconds later.
+In the current Station configuration the Automated Transfer Vehicle(ATV), which is docked to the aft end of the Russian Zvezda Service module at the back of the Station, is the only vehicle that can carry out this kind of manoeuvre.
+The way to avoid space debris, which in this case comes from an old satellite, is by performing a so-called retrograde manoeuvre of the Space Station, i.e. by slowing it down, which in turn lowers its orbiting altitude.
+This is quite a rare occurrence - it is the first time since 2003 that a debris avoidance manoeuvre has been performed and the first time in eight years that such a retrograde manoeuvre has been performed for debris avoidance.
+To carry out the manoeuvre the ATV Control Centre first primed ATV, putting it in the correct configuration for such a manoeuvre. Control was then handed over to the Mission Control Centre in Moscow who guided the Station through a 180 degrees turn, so that ATV's aft thrusters were at the front of the Station with respect to the Station’s flight profile.
+Once turned, Jules Verne ATV used its rear thrusters for the allotted time to produce a speed of 1 m/s to slow the Station down. These are the same thrusters used by ATV to perform Station reboost manoeuvres during its mission at the Station.
+With the debris avoidance manoeuvre complete the ISS was turned back to its original orbital attitude, and ATV was handed back to the ATV Control Centre who returned Europe’s logistics craft back to its standard docked configuration.

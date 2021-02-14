@@ -1,0 +1,10 @@
+2009-09-10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/OasISS_Mission/Japan_launches_first_HII-Transfer_Vehicle
+Japan launches first HII-Transfer Vehicle
+The Japanese space agency's first HII-Transfer Vehicle (HTV-1) launched today at 19:01 CEST (17:01 UT). Developed and built in Japan, the HTV is an unmanned cargo transfer spacecraft that will deliver supplies to the International Space Station.
+The maiden flight of HTV will deliver around 4.5 tonnes of new supplies to the International Space Station (ISS), as well as demonstrate the HTV's rendezvous and flight capabilities.
+The HTV was launched from the Tanegashima Space Center on an H-IIB launch vehicle. After separating from the launch vehicle, HTV automatically starts-up its subsystems and initiates communications with the HTV Mission Control Room (HTVMCR) at Tsukuba Space Center (TKSC) in Japan.
+On this maiden flight, HTV-1 approaches the ISS in a sequence of operations to demonstrate its range of capabilities. Once a go-ahead has been given by ISS management, HTV-1 is scheduled to approach the Station for berthing six days after launch.
+Unlike the existing spacecrafts that rendezvous and dock with the Station, HTV-1 will approach to a point just below the ISS. Station crewmembers, NASA astronaut Nicole Stott and ESA astronaut Frank De Winne, will then use the Station's robotic arm, Canadarm 2, to grapple the HTV and berth it to the Earth-facing (nadir) port on the Harmony module.
+Later in the attached phase of the HTV-1 mission, De Winne will operate the Japanese robotic arm in order to attach and unpack the Japanese Exposed Pallet on the outside of the Japanese Kibo laboratory.
+HTV-1 is scheduled to remain docked to the ISS for 30 days.

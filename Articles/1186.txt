@@ -1,0 +1,28 @@
+2011-05-27
+https://www.esa.int/Applications/Telecommunications_Integrated_Applications/Technology_Transfer/Zapping_deadly_bacteria_using_space_technology
+Zapping deadly bacteria using space technology
+Technology spin-off from long-running research aboard the International Space Station is opening up a new way to keep hospital patients safe from infections.
+Using plasma – electrically charged gas – Max Planck Institute for Extraterrestrial Physics director Gregor Morfill is developing ways to kill bacteria and viruses that can cause infections in hospitals.
+“What we have with plasma is the possibility to supplement our own immune system,” says Dr Morfill.
+The research began on the International Space Station (ISS), where his physics experiments have been running since 2001.
+The first laboratory was the Plasmakristall Experiment Nefedov (PKE-Nefedov) which was replaced in 2006 by the PK-3 Plus lab. Both were developed under a bilateral cooperation between German and Russian space agencies. The development of the third-generation PK-4 lab was started in 2006 with ESA funding for the continuation from 2013 of the complex plasma experiments on ISS.
+“It’s the longest-running space experiment in the history of human spaceflight,” notes Dr Morfill. More than two dozen astronauts and cosmonauts have operated the equipment aboard the ISS.
+The research in space paved the way for very practical terrestrial applications. For one of these, easy hand disinfection, funding from ESA’s Technology Transfer Programme helped to develop a working prototype.
+The use of plasma technology can tackle a serious problem: in recent years, health experts have seen a dramatic rise in super-strains of bacteria that can survive the strongest antibiotics in medicine’s arsenal.
+One, the multiple drug-resistant Staphylococcus aureus – perhaps better known as MRSA – kills 37 000 people each year in the EU alone, according to recent estimates. It affects more than 150 000 patients, resulting in extra in-hospital costs of €380 million for EU healthcare systems.
+With help from ESA, Dr Morfill’s team is now focusing on developing a hand disinfection system for hospitals, but cold plasma technology might one day also make it into our homes. Plasma could be used to disinfect toothbrushes and razors instead of UV light, which only sanitises the surfaces it shines on. Plasma-charged gas would disinfect in hidden cracks and crevices, too.
+At the other end of the spectrum, he says that plasma could be used as a "planetary protection system" to clean satellites and planetary probes so they don’t carry terrestrial bacteria to distant planets.
+The technology looks likely to do a lot of good. Bacteria are constantly evolving, developing resistance to the most commonly used antibiotics. Today, the best way to prevent the spread of bacterial infections is sanitation: regular hand washing between patients, for example, and systematic sanitising of floors, door handles, hospital curtains and anything else that might harbour infectious material.
+Instead, Dr Morfill is designing a system that makes use of plasma’s innate antibacterial properties to make disinfection easy and quick.
+“It has many practical applications, from hand hygiene to food hygiene, disinfection of medical instruments, personal hygiene, even dentistry This could be used in many, many fields.”
+Dr Morfill adds that the research on the ISS and support from ESA and DLR has played an important role in turning physics experiments into life-saving technology here on Earth, both directly through the ESA funding of a technology demonstrator project and through classic "trickle down" of the specific technology transfer.
+“Apart from the Max Planck Society, which supports the basic and applied research in my institute, ESA and DLR have been tremendously helpful – for instance, the new space project PK-4 is primarily funded by ESA,” says Dr. Morfill. “Funding for doing experimental work in the laboratory and in space has made it possible to spin off and start other research.”
+ESA’s Technology Transfer Programme Office (TTPO)
+The TTPO’s main mission is to facilitate the use of space technology and space systems for non-space applications and to demonstrate the benefit of the European space programme to European citizens.
+The office is responsible for defining the overall approach and strategy for the transfer of space technologies, including the incubation of start-up companies and their funding. For more information, please contact:
+ESA’s Technology Transfer Programme Office
+European Space Agency
+Keplerlaan 1
+2200 AG, Noordwijk
+The Netherlands
+Tel: +31 71 565 6208Email: ttp@esa.int

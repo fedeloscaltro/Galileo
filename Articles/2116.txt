@@ -1,0 +1,20 @@
+2002-02-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/A_multifunctional_freezer_will_be_developed_for_the_International_Space_Station_ISS
+A multifunctional 'freezer' will be developed for the International Space Station (ISS)
+On 25 February 2002, a contract was signed at ESA's European Space and Technology Centre (ESTEC) in Noordwijk between ESA and the prime contractor, Astrium (Germany) for the development of the Cryosystem: a combined set of facilities for the optimal preparation, preservation and storage of biological samples and protein crystals at extremely low temperatures.
+The Cryosystem will complement in the ultra-low temperature field (-180°C) another freezer being developed by ESA for the ISS: MELFI, working in the temperature range of +4 to -80°C.
+Thanks to its capability for ultra-rapid cooling and its relatively large cold volume, the Cryosystem will allow for a great improvement in the quality and quantity of the outcome of scientific investigations on board the ISS, mainly in the field of Life Sciences, Physiology and Biotechnology. It will be designed according to the scientific requirements defined by the NASA Science Working Group and will consist of the following key elements:
+Cryorack, an international standard payload rack (ISPR) outfitted with a liner (mechanical infrastructure) and subsystems to support operations of the freezers as well as transportation and operations in the Mini Pressurised Logistic Module (MPLM);
+Vial Freezer, contained within one drawer of the Cryorack it will support: a) storage and preservation of already frozen biological samples and supplies b) ultra rapid cooling of various specimens, such as tissues, eggs and cells c) transportation of specimens and supplies to and from orbit as well as to and from other ISS racks;
+Prototypes of the complete freezers as well as some orbital support equipment will be developed during a preliminary design phase. This phase will start in the first quarter of 2002 and will be concluded about 18 months later by a Preliminary Design Review (PDR). It is expected that the last freezer unit will then be delivered by 2007 and the first rack (Cryorack FU1) launched within the Centrifuge Accommodation Module (CAM) most likely in the first quarter of 2008.
+Two other Cryoracks (FU2 and FU3) will ensure the cyclic up-download of the freezers and their contained specimen. Each of them will support multiple missions, including installation on MPLM, installation of freezers, transportation to/from orbit, removal from MPLM and refurbishment before the next mission.
+Note for Editors
+Several European contractors will be involved in the industrial development of the Cryosystem:
+Astrium (Germany), prime contractor, responsible for systems engineering, integration and verification as well as for the development of the racks infrastructure and electrical/electronic subsystems;
+L'Air Liquide (France), responsible for the Cryogenic Subsystem, including the freezers’ drawers and the associated orbital and ground support equipment;
+Thales Cryogenics (The Netherlands), in charge of the Cryocooler development;
+For further information, please contact
+Lina De Parolis
+Cryosystem Project Manager
+ESA-ESTEC, Noordwijk, Netherlands
+Tel: +31. 71.565.4128Fax: +31. 71.565.6603

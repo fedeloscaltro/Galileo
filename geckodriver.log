@@ -2691,3 +2691,250 @@ JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Expl
 JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500/Mars500_crew_prepare_to_open_the_hatch, line 200: ReferenceError: jwplayer is not defined
 JavaScript error: https://www.esa.int/About_Us/ESTEC/Watch_the_replay_of_media_event_from_ESTEC_with_Andre_Kuipers, line 179: ReferenceError: jwplayer is not defined
 1612623206232	Marionette	INFO	Stopped listening on port 50546
+1613329146847	geckodriver	INFO	Listening on 127.0.0.1:57537
+1613329149988	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileilhyPi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329153586	Marionette	INFO	Listening on port 57558
+1613329153752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329153773	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 35 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/hawk.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 35 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/hawk.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/promotion.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile4OAPgm"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329339691	Marionette	INFO	Listening on port 57798
+1613329339955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329339977	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/The_story_behind_Paolo_s_Space_Station_photos, line 173: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Last_Shuttle_with_ESA_astronaut_lifts_off_to_Space_Station_to_hunt_dark_matter, line 219: ReferenceError: jwplayer is not defined
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileD7nEFL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329496374	Marionette	INFO	Listening on port 57927
+1613329496735	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329496757	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: https://widget.sndcdn.com/widget-0-9f8639071487.js, line 1: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript error: https://widget.sndcdn.com/widget-0-9f8639071487.js, line 1: IndexSizeError: Index or size is negative or greater than the allowed amount
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/The_story_behind_Paolo_s_Space_Station_photos, line 173: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Last_Shuttle_with_ESA_astronaut_lifts_off_to_Space_Station_to_hunt_dark_matter, line 219: ReferenceError: jwplayer is not defined
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+JavaScript error: https://www.esa.int/About_Us/ESA_history/50_years_of_humans_in_space/New_video_released_Yuri_Gagarin_-_Inspiration_for_European_astronauts, line 174: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/High-flying_finale_for_Mission_X, line 246: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/An_unexpected_travelling_companion, line 205: ReferenceError: jwplayer is not defined
+1613329547352	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+1613329567642	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilebMO7Jn"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329634515	Marionette	INFO	Listening on port 58115
+1613329634662	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329634685	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/The_story_behind_Paolo_s_Space_Station_photos, line 173: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Last_Shuttle_with_ESA_astronaut_lifts_off_to_Space_Station_to_hunt_dark_matter, line 219: ReferenceError: jwplayer is not defined
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+JavaScript error: https://www.esa.int/About_Us/ESA_history/50_years_of_humans_in_space/New_video_released_Yuri_Gagarin_-_Inspiration_for_European_astronauts, line 174: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/High-flying_finale_for_Mission_X, line 246: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/An_unexpected_travelling_companion, line 205: ReferenceError: jwplayer is not defined
+1613329678282	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+1613329695610	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1613329703548	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileIbG8zJ"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329773156	Marionette	INFO	Listening on port 58308
+1613329773477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329773496	Marionette	ERROR	[21] No reply from Marionette:Register
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/The_story_behind_Paolo_s_Space_Station_photos, line 173: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Last_Shuttle_with_ESA_astronaut_lifts_off_to_Space_Station_to_hunt_dark_matter, line 219: ReferenceError: jwplayer is not defined
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+JavaScript error: https://www.esa.int/About_Us/ESA_history/50_years_of_humans_in_space/New_video_released_Yuri_Gagarin_-_Inspiration_for_European_astronauts, line 174: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/High-flying_finale_for_Mission_X, line 246: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/An_unexpected_travelling_companion, line 205: ReferenceError: jwplayer is not defined
+1613329816169	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+1613329831492	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613329838644	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofile0RqwpI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613329962936	Marionette	INFO	Listening on port 58561
+1613329963101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613329963126	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/The_story_behind_Paolo_s_Space_Station_photos, line 173: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/DAMA_mission/Last_Shuttle_with_ESA_astronaut_lifts_off_to_Space_Station_to_hunt_dark_matter, line 219: ReferenceError: jwplayer is not defined
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+JavaScript error: https://www.esa.int/About_Us/ESA_history/50_years_of_humans_in_space/New_video_released_Yuri_Gagarin_-_Inspiration_for_European_astronauts, line 174: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/High-flying_finale_for_Mission_X, line 246: ReferenceError: jwplayer is not defined
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/An_unexpected_travelling_companion, line 205: ReferenceError: jwplayer is not defined
+1613330005661	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+1613330022440	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1613330030438	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613330168302	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1613330172797	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/PluginChild.jsm, line 59: TypeError: this.contentWindow is null
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 78 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/seasonal.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/promotion.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/promotion.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 78 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/seasonal.js)
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 72 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/promotion.js)
+1613330435534	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1613330441287	Marionette	INFO	Stopped listening on port 58561
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0144,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xB60006,name=PWebSocket::Msg_DeleteSelf) Channel closing: too late to send/recv, messages will be lost
+
+1613333272775	geckodriver	INFO	Listening on 127.0.0.1:59753
+1613333275869	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileJ9V4G1"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613333279035	Marionette	INFO	Listening on port 59761
+1613333279151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613333279173	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 35 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/hawk.js)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofilesRQhTM"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613333426197	Marionette	INFO	Listening on port 59944
+1613333426443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613333426459	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofiled12eDD"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613333495858	Marionette	INFO	Listening on port 60014
+1613333495958	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613333495983	Marionette	ERROR	[18] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileSjoIIw"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613333542225	Marionette	INFO	Listening on port 60092
+1613333542288	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613333542312	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 179: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript error: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Building_the_International_Space_Station, line 166: SyntaxError: missing } after function body
+JavaScript note: https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Building_the_International_Space_Station, line 166: { opened at line 166, column 50
+1613333947723	Marionette	INFO	Stopped listening on port 60092
+1613334743398	geckodriver	INFO	Listening on 127.0.0.1:61251
+1613334746478	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileWSivdi"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613334749454	Marionette	INFO	Listening on port 61259
+1613334749721	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613334749741	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: https://widgets.future-fie.co.uk/js/w/responsive.js, line 1: ChunkLoadError: Loading chunk 35 failed.
+(error: https://widgets.future-fie.co.uk/js/w/14.40.9-657cac3ac0f0e2ee2fa5b6a6d768c4084551d3de/hawk.js)
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+a Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofiledBPK3b"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613335112425	Marionette	INFO	Listening on port 61504
+1613335112752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613335112775	Marionette	ERROR	[18] No reply from Marionette:Register
+1613335112785	Marionette	INFO	Stopped listening on port 61504
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613335146332	geckodriver	INFO	Listening on 127.0.0.1:61547
+1613335149406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileNSjaAN"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613335152300	Marionette	INFO	Listening on port 61555
+1613335152627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613335152648	Marionette	ERROR	[18] No reply from Marionette:Register
+1613335152658	Marionette	INFO	Stopped listening on port 61555
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]
+1613335170570	geckodriver	INFO	Listening on 127.0.0.1:61593
+1613335173625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\Federico\\AppData\\Local\\Temp\\rust_mozprofileidO0qx"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1613335177106	Marionette	INFO	Listening on port 61601
+1613335177381	Marionette	WARN	TLS certificate errors will be ignored for this session
+1613335177407	Marionette	ERROR	[18] No reply from Marionette:Register
+1613335177419	Marionette	INFO	Stopped listening on port 61601
+JavaScript error: resource://activity-stream/lib/ASRouter.jsm, line 987: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIObserverService.removeObserver]

@@ -1,0 +1,14 @@
+2004-07-20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_arrives_at_ESTEC
+'Jules Verne' arrives at ESTEC
+After a long and complicated journey by air, land and sea, the Automated Transfer Vehicle (ATV) christened Jules Verne arrived at ESTEC in Noordwijk on 15 July. Jules Verne is the first of seven European supply ships for the International Space Station. It will undergo extensive testing at ESTEC over the next six months.
+With flying colours
+This is not the first time that ESTEC has welcomed an ATV. Almost two years ago, a model of Jules Verne was given a thorough checkout by a team of scientists and engineers. The model survived a series of thermal, acoustic and vibration tests carried out at ESA's test facilities.
+This time, it's the turn of the real flight model. Last Tuesday and Wednesday, the ATV's instrumentation and payload bay were flown in two uper Airbus Transporters (better known as Belugas) from Bremen to Schiphol. The two shipments continued their journey by boat to Katwijk, finally arriving at the gates of ESTEC on 15 July.
+Testing
+The ATV will be unpacked and assembled this week. The first tests in ESTEC's new Maxwell electromagnetic radiation chamber will take place in September, followed in October by acoustic testing in the Large European Acoustic Facility (LEAF). The ATV will be subjected to a noise level of 145 decibels (several hundred times louder than a pop concert) in order to see whether the vibration resulting from the massive noise of the Ariane 5 rockets will cause any damage during the launch.
+After the tank leakage tests and extending the solar panels, temperature testing will take place in the new year in the Large Space Simulator. This simulator will give Jules Verne a taste of what it will be like outside the Earth's atmosphere - extremely high and extremely low temperatures in a vacuum.
+Provisioning
+If the ATV comes through all these tests, the space carrier will be shipped to French Guiana and launched a few months later. This launch is the first independent delivery by Europe of food, water, oxygen and scientific experiments to the ISS.
+New provisions will be carried into space at least six times over the next 10 years in a fleet of new ATVs. In all, these craft could transport as much as 7500 kilogrammes, three times more than the capacity of today's supply ship, the Russian Progress.
+Once the ATV has made the three-day journey to the International Space Station, it can remain there for up to six months and serve as extra work space for the permanent crew. Its motors can also be used to boost the space station to a higher orbit. But there's one more job for Jules Verne: it will bring waste material from the space station back towards Earth to be completely incinerated high up in the atmosphere.

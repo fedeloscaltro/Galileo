@@ -1,0 +1,17 @@
+2008-01-30
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Sounding_rockets_set_for_lift-off
+Sounding rockets set for lift-off
+Engineers and scientists at the Esrange launch site near Kiruna, Sweden, are preparing to launch two Texus sounding rockets. Launched one week apart, each rocket will climb to a height of around 250 kilometres before falling back to Earth, providing the experiments on board with approximately 6 minutes of weightlessness.
+Funded by ESA and the German Aerospace Center (DLR), the 15-metre long Texus sounding rocket carries three experiment modules which are typically used to conduct experiments in the fields of biology, fluid physics and materials science.
+Texus 44 is set to lift-off from Esrange at daybreak tomorrow, 31 January 2008. With a total science payload of 272 kg, two experiment modules on the Texus 44 campaign are dedicated to four ESA experiments.
+Metal alloys
+Three of the ESA experiments use the Electromagnetic Levitator (EML). Flown on a previous Texus campaign in December 2005, this refurbished and modified version of the EML will be used to measure the properties of highly-reactive liquid metal alloys.
+EML is part of the Intermetallic Materials Processing in Relation to Earth and Space Solidification project (IMPRESS) – a multi-million Euro materials science project co-funded by ESA and the European Commission.
+The fourth ESA funded experiment on this campaign is in the field of biology. It investigates the influence of weightlessness on the stimulation of thyroid cells from rats by the hormone THS. Control experiments are performed in parallel on ground and in an onboard 1 g centrifuge. This experiment is a continuation of research performed during ESA's Eneide and Esperia missions to the International Space Station.
+Fluid physics
+The Texus 45 launch follows a week later at first light on Thursday 7 February. On board will be an ESA experiment which investigates the stability conditions of a flow of liquid containing air bubbles through an open capillary channel. The other two experiments in the 367 kg payload on the Texus 45 sounding rocket are funded by DLR and deal with fluid physics and biology.
+With two campaigns just a week apart there is a lot of work to be done at Esrange. “We have an ambitious workload for preparation of the two payloads and the rocket motors,” explains Wolfgang Herfs, ESA Sounding Rocket Project Manager. “First we ran tests to check all is working fine before integrating the payload. Today we transferred the payload to the launch tower where the rocket motor was already installed yesterday. Countdown activities will start tomorrow at 04:30 local time.”
+Recovery
+These two campaigns also mark the first flights of a new recovery system developed in Europe. This houses the parachute system which ensures that the experiment payload returns safely to Earth with a velocity of 8 m/s.
+The payload will be recovered and returned to Esrange by helicopter normally within 1 hour after lift-off. There the flight data and samples will be handed over to the science teams for further investigation and analysis.
+The Texus programme is carried out at Esrange jointly by EuroLaunch and EADS-Astrium. Eurolaunch is a cooperation between the Swedish Space Corporation (SSC) and DLR. The Texus 44 campaign is funded by ESA, whilst Texus 45 is funded by DLR.

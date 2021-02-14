@@ -1,0 +1,42 @@
+2009-07-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_and_Thales_Alenia_Space_to_sign_development_contract_for_experimental_reentry_vehicle_media_opportunity
+ESA and Thales Alenia Space to sign development contract for experimental reentry vehicle: media opportunity
+On 20 July, ESA will sign a contract with Thales Alenia Space Italy for the development of the European Experimental Reentry Testbed (Expert).
+Set for launch in 2010, Expert will provide aerothermodynamic tool validation on the basis of actual flight data for a number of physical phenomena encountered by space transportation vehicles during their reentry phase in Earth’s atmosphere. It will also improve European competence in atmospheric reentry and associated technologies.
+Developing improved space transportation systems requires increased confidence in the knowledge of such phenomena and a reduction of the design margins to increase system performance. The availability of detailed experimental data will allow the refinement of the aerodynamic and aerothermodynamic models and project tools.
+Expert is conceived to provide these data through low-cost flight experimentation.
+The Expert vehicle consists of:
+The payload will include a series of scientific flight measurement equipment, including classic and advanced techniques such as temperature, heat-flux and pressure sensors, spectrometers and an infrared camera.
+Such experiments are being developed in cooperation by ESA and a number of scientific institutes across Europe and represent the state of the art in this technology.
+The Expert trajectory and reentry velocity of 5 km/sec have been defined to achieve a flight environment compatible with the generation of the physical phenomena under study while matching the performance envelops of the European wind tunnels, thereby allowing a comparison of ground and flight data.
+The measurements derived from the Expert mission and the design methodologies employed for its development will be of great help for the understanding of the aerothermodynamics and the design of future European atmospheric reentry missions, such as the Advanced Reentry Vehicle (ARV).
+Expert development is being conducted under the responsibility of ESA’s Directorate of Human Spaceflight by an integrated team including specialists from the Directorate of Technical and Quality Management.
+The contract will be signed by Simonetta Di Pippo, ESA Director of Human Spaceflight, and Luigi Pasquali, President and CEO of Thales Alenia Space Italy (TAS-I), at ESA’s centre for Earth observation, ESRIN, in Frascati, Italy. Presentations of the project and its objectives will be made by TAS-I and ESA experts.
+Media representatives wishing to attend this event on 20 July are kindly requested to fill in the registration form and return by fax or email to the ESRIN Corporate Communications Office by 17 July.
+Programme
+10:15 - Arrival of invitees and journalists
+10:30 - Welcome
+10:35 - Address by Mr Pasquali, President and CEO of Thales Alenia Space Italy
+10:45 - Address by Mrs Di Pippo, ESA Director of Human Spaceflight
+10:55 - Expert: the Thales Alenia Space Italy view (Mr Provera, Director of Space Transportation Systems, TAS-I)
+11:10 – Expert: the ESA view (Mr Caporicci, Head of the Transportation and Reentry Division, Human Spaceflight Directorate, ESA)
+11:20 - Contract signature
+11:30 - End of event
+Registration form
+Expert contract signature
+ESA/ESRIN, Magellan meeting room
+Via Galileo Galilei, Frascati (Rome), Italy10:15–11:30 CEST
+First name: _________________________________________
+Surname: _____________________________________________
+Media organisation: ___________________________________
+Address: _____________________________________________
+_____________________________________________________
+Tel: ________________________Fax: _____________________
+Mobile: ___________________ E-mail: ____________________
+[ ] I will be attending the Expert contract signature at ESRIN
+Return by fax or email to:
+Dieter Isakeit
+Head of the ESA/ESRIN Corporate Communication Office
+Communication and Knowledge Department
+Tel: +39 06 94180 950
+Fax: +39 06 94180 952Email: Dieter.Isakeit @ esa.int

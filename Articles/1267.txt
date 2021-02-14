@@ -1,0 +1,21 @@
+2010-09-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/HSF_Directors_Corner/Next_step_for_ESA_s_first_Moon_lander
+Next step for ESA’s first Moon lander
+Mission description: land autonomously with pinpoint precision near the Moon’s south pole, a region full of dangerous boulders and high ridges. The aim of ESA’s proposed precursor is to probe the moonscape’s unknowns and test new technology to prepare for future human landings.
+The first mission to visit the south polar region of the Moon took a significant step forward today when a further study contract was signed with EADS-Astrium in Berlin, Germany.
+The mission aims to land in the mountainous and heavily cratered terrain of the lunar south pole in 2018. The region may be a prime location for future human explorers because it offers almost continuous sunlight for power and potential access to vital resources such as water-ice.
+To reach the surface safely, the lander must precisely navigate its way to a mountain peak or crater rim, carefully avoiding boulders and steep slopes before gently setting down to take in one of the most spectacular views in the Solar System.
+The Moon is a favoured target for the human exploration missions outlined in the ‘Global Exploration Strategy’ by 14 space agencies around the world. The strategy supports international space exploration and calls for further studies of the Moon and Mars – places where humans will one day live and work.
+18-month effort begins in Berlin today
+The contract was signed by Simonetta Di Pippo, ESA’s Director of Human Spaceflight, and Michael Menking of EADS-Astrium, in the presence of Peter Hintze, Parliamentary State Secretary in the German Federal Ministry of Economics and Technology.
+"It is a great pleasure to see progress being made in Europe in the field of space exploration relying on key technologies developed for human spaceflight," affirmed Mrs Di Pippo.
+"As we prepare ourselves to join the US, Russia and Japan in the decision to utilise the International Space Station for 10 more years and beyond," she added, "we are preparing the next steps and we are working to position Europe at the level of its competences and capabilities within the global exploration undertaking.
+"With a strong and successful presence in low orbit, the Moon is the next natural goal on our common path to further destinations.
+"Europe is actively and successfully present in these global projects, like ISS and exploration, which contribute to affirm our role as a modern, dynamic and innovation-driven continent."
+"The proven capabilities of the Automated Transfer Vehicle as a technology demonstration are representative of Astrium’s skills and experience in automated rendezvous and docking procedures," stated Dr Menking, Astrium’s Senior Vice President Orbital Systems and Space Exploration.
+"The concept of the new study is based on the technologies of ATV and this unique expertise will enable us to develop the key technologies; it would not be possible to envisage landing a robotic vehicle on the Moon without them."
+From a design concept to hardware reality
+The start of this ‘Phase-B1’ study is an important milestone because now, after the preliminary planning and feasibility studies, the mission’s design will be continued under the leadership of EADS-Astrium Bremen and some of the key technologies will be developed and tested for the first time.
+First, the most recent topographic data covering the Moon’s south pole will be analysed in detail to find the promising landing sites. The target area is poorly understood and only now are we are beginning to receive the information needed to consider landing and operating a mission there.
+Then, the robotic lander will be designed down to the level of its various subsystems, such as propulsion and navigation.
+The contract will culminate in a ‘Preliminary System Requirements Review’ in 2012, which will provide the basis for the final design of the mission and lander.

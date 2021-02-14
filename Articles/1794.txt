@@ -1,0 +1,9 @@
+2006-07-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_passes_acoustic_test
+Jules Verne passes acoustic test
+Acoustic testing of Jules Verne, the first Automated Transfer Vehicle (ATV), has successfully been completed at ESA's test facilities in Noordwijk, The Netherlands.
+The 11-tonne test configuration of the ATV Flight Model (the actual flight launch mass is 20.5 tonnes) was transferred to the Large European Acoustic Facility (LEAF) with the help of an air cushion transfer pad.
+The ATV, an unmanned vehicle that will deliver supplies to the International Space Station (ISS), will be put into orbit by the European Ariane-5 launcher. Acoustic testing is vital to ensure the ATV can withstand the vibrations caused by the extreme noise levels generated during launch.
+Acoustic vibrations are been used to simulate the stress the ATV will encounter during the first three minutes of launch - due to aero dynamical forces - on top of the powerful European Ariane-5 launcher.
+The whole structure of the ATV, which is the size of a double-decker London bus, will have to withstand an overall sound pressure level of 144 dB with main frequencies between 25Hz and 5kHz. The same amount of acoustic vibrations would be lethal for the human body.
+Over several days different test runs were conducted in the special enclosed facility, LEAF. Dozens of sensors placed in different areas of the ATV have measured and checked its hardware behaviour. Two-dozen technicians and engineers from Prime Contractor EADS Launch Vehicles, EADS Space Transportation, Alcatel Alenia Space (former Alenia Spazio), Dutch Space (acquired by EADS Space), European Test Services (ETS) and ESA coordinated the test runs.

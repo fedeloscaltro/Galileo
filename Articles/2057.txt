@@ -1,0 +1,24 @@
+2003-01-31
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/2003_a_challenging_year_to_build_Jules_Verne
+2003: a challenging year to build Jules Verne
+Today, about 90 percent of the hardware for Jules Verne, Europe’s first Automated Transfer Vehicle (ATV) spaceship that is to fly towards the International Space Station (ISS) in 2007, is already built.
+The different parts and elements of the first in a series of eight ATVs have been manufactured and are progressively being tested and assembled in 10 different European countries including Russia, where the ATV docking mechanism, refuelling system and associated electronics are being produced.
+"2003 is a crucial year for integration and building the real spacecraft. The 20-tonne Jules Verne will be ready a year from now for its final test campaign", said Patrice Amadieu, ESA's ATV Deputy Project Manager.
+The ATV will provide ISS some 7.5 tonnes of equipment, fuel, food, water and air for the Station’s crew. It will also remove waste from the Station and re-boost it to a higher altitude to compensate for atmospheric drag. The ATV, which is considered to be the most complex space vehicle ever developed in Europe, can be launched on any version of the powerful Ariane 5 launcher.
+To keep up with the ATV programme’s heavy schedule, hundreds of technicians and engineers are working - up to two shifts - in several industrial centres across Europe under the supervision of the Prime Contractor EADS Launch Vehicles (France).
+Les Mureaux (F): testing ATV electrical simulator
+In Les Mureaux, at EADS- LV's facilities, 50 km west of Paris, the Electrical Test Model mock-up, which replicates the avionics and the on-board electronics of the ATV, has started its testing in December in the Functional Simulation Facility. This facility includes up to 30 electronics racks. The Functional Simulation Facility is controlled by a team of 20 people and will test the ATV’s electronic ‘brain’ and simulate, through computers, the navigation and flight dynamics during all possible nominal and off-nominal scenarios of the spaceship.
+This key facility, which combines the Electrical Test Model and the Functional Simulation Facility, will permanently be available at Les Mureaux to simulate, on the ground, any orbital scenarios of the 7 ATV missions planned between 2007 and 2013.
+In March, the flight hardware and electronics components of the Russian ATV docking mechanism and refuelling system will also be integrated and tested in the Functional Simulation Facility.
+Torino (I): flight hardware assembly
+In parallel, the flight hardware is being methodically assembled.
+At Alenia Spazio in Turin, (Italy), the ATV pressurised cargo carrier - the forward half of the ATV where the cargo will be stored and where astronauts will be able to work - is taking shape.
+Next June, the Russian systems, built by RSC Energia in Moscow, will be shipped to Turin and integrated to the cargo carrier.
+Once checked, the entire front pressurised module of Jules Verne will be delivered in October to Astrium's Space Infrastructure Division site in Bremen, Germany.
+Bremen (D): integration propulsion bay
+At the Astrium facility in Bremen, the integration work of building the ATV propulsion bay was started in August 2002 and will keep going until September this year.
+The first flight avionics bay, developed and integrated by Astrium in Toulouse (F) will be delivered in August to Bremen facility.
+The mating of the two parts in September will make up the so-called Spacecraft Segment, which includes propulsion systems, electrical power, computers and most of the avionics.
+Noordwijk (NL): testing Jules Verne in November 2003
+The coupling of the two main ATV modules (Spacecraft Segment and Cargo Carrier), scheduled for early November, will create Jules Verne.
+Once transferred to ESA's test facilities in Noordwijk, the Netherlands, in 2004 the ESA spaceship, as a whole, will undergo extensive acoustics, functional and qualification tests before shipment to the launch site in French Guiana in 2007.

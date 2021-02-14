@@ -1,0 +1,24 @@
+2005-12-05
+https://www.esa.int/About_Us/Business_with_ESA/Development_of_Hexapod_reaches_completion
+Development of Hexapod reaches completion
+On 25 November the ESA Hexapod, an external payload pointing system, reached the end of its development phase with the completion of the Flight Acceptance Review at ESA’s European Space Research and Technology Centre, ESTEC, in Noordwijk the Netherlands. The meeting was attended by representatives of ESA, NASA and Alenia Spazio, ESA’s Prime Contractor in the design and development of the Hexapod.
+The Flight Acceptance Review officially brings an end to the development phase, which was initiated at the beginning of 1998, with Alcatel Alenia Space as ESA’s Prime Contractor and Carlo Gavazzi Space as a subcontractor.
+The Hexapod is one of the elements developed by ESA for NASA in return for ISS utilisation rights prior to the launch of the ESA Columbus Laboratory. The other elements are the Microgravity Science Glovebox, which was launched to the ISS on 6 June 2002, three Minus Eighty degrees Laboratory Freezers for the ISS (MELFI), the first flight model of which is awaiting launch on the next Shuttle flight (STS-121) and also modifications to the Columbus Mission Data Base.
+“It’s always a satisfying feeling to see the years spent in development of an advanced piece of scientific space hardware come to fruition”, said Aldo Petrivelli, Head of Mission and Payload Integration and Operations Division for ESA’s Directorate of Human Spaceflight, Microgravity and Exploration Programmes. “We have made significant steps in the design and development of such positioning and pointing systems for space applications due to the commitment and hard work of Alcatel Alenia Space, Carlo Gavazzi Space and ADS Italia who were involved in the design phase of the Hexapod.”
+The Hexapod is a high accuracy pointing system, developed to support ISS external payloads. The flight unit of the Hexapod weighs 116 kg and consists of the Electronic Unit and the Mechanical Assembly. The Electronic Unit handles power distribution, telemetry and telecommand management, data processing, and command and control.
+The Mechanical Assembly includes six linear actuators arranged as three trapezoids and connected to a bottom flange and an upper platform. Varying the lengths of the actuators provides the possibility to control the attitude and position of payloads attached to the upper platform in six degrees of freedom.
+The Hexapod has a pointing accuracy of ± 0.025 of a degree, a pointing stability of 0.0025 deg/sec, a pointing range equivalent to an 8 deg cone, and with an angular pointing rate of at least 1.2 deg/sec. Although originally tailored to meet requirements of NASA’s Stratospheric Aerosol and Gas Experiment (SAGE III), Hexapod can be adapted to support other ISS external payloads, or payloads to be flown on different spacecraft carriers.
+ESA’s development of the Hexapod marks the upgrading of hexapod-based positioning/pointing systems for space applications. The Hexapod is designed for five years of in-orbit operation without maintenance, though users will be able to up-link Hexapod flight-software updates.
+“I’m sure we will see further advancements and a greater use of hexapod-based pointing and positioning systems in the future”, said Dino Brondolo, Director of Infrastructures Programmes at Alcatel Alenia Space. “They hold great potential for use in different space applications such as for target-tracking systems and anti-vibration platforms.”
+With the development of the Hexapod complete, ESA will now authorise Alenia Spazio to put the Hexapod equipment into storage for up to four years. During this time NASA has the right to identify an external payload experiment to replace NASA’s SAGE III experiment which was cancelled. After the four years storage the Hexapod equipment will be delivered to NASA’s Johnson Space Center.
+For more information:
+Aldo Petrivelli
+Head of Mission and Payload Integration and Operations Division
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 4879Tel: +31 71 565 6603
+Dieter Isakeit
+Head of Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5451Fax: +31 71 565 8008

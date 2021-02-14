@@ -1,0 +1,28 @@
+2011-05-04
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Are_you_ready_for_zero_gravity_robotics
+Are you ready for zero gravity robotics?
+There has never been a robot competition like this. ESA is launching the Zero Robotics competition for students, asking them to create rival programs to control miniature satellites. The final tournament is set for the International Space Station!
+This fight is not about muscles and weapons, but about brains, intelligence and agility. These small, bowling-ball-sized spherical satellites are Spheres – Synchronised Position Hold, Engage, Reorient, Experimental Satellites. They are already used by NASA inside the Space Station to test sets of instructions for spacecraft performing autonomous rendezvous and docking.
+Three free-flying spheres work together inside the Space Station. They are self-contained, with their own power, propulsion, computers and navigation.
+The results are important for satellite servicing, vehicle assembly and formation-flying configurations.
+If you think it sounds simple, we encourage you to try!
+Now in Europe: Zero Robotics
+The Zero Robotics competition was created in 2009 by the Space Systems Laboratory of the renowned US Massachusetts Institute of Technology (MIT).
+Building brand-new miniature satellites that meet all the Space Station safety requirements would be expensive and time-consuming, so the competition is about coding: competing sets of commands will be fed into existing satellites and tested in real time on the Station.
+The first competition took place in December 2009.
+In 2010 more than 150 students in 10 teams from schools in the Boston area, where MIT is based, worked for five weeks. After semi-finals on Earth, the winning robots confronted each other in the Space Station in August.
+This year, ESA will expand the competition beyond the US by inviting up to 25 schools from its member states to take part. Each school will be assigned a local Spheres expert, who will be trained at MIT over the summer at ESA’s expense.
+ESA has already selected three hubs in Europe: University of Aachen, Matheon (an initiative between four universities for applied mathematics in Berlin), University of Padova and Politecnico of Torino.
+Each local expert can select up to five local schools to train in Spheres programming. If your school is local to one of the hubs in Europe and are interested in participating, please contact the education team (details below).
+If the pilot proves successful this year, ESA anticipates including larger numbers of participants from all over Europe in the subsequent competitions.
+Three steps to victory
+Spheres is directly linked to the Space Station, which makes it more exciting for the students. Getting aboard the Station will require collaboration between teams from different schools and will involve three phases.
+The first step is a computer simulation of the game played on a server at MIT This will reveal any major mistakes in the coding.
+The next phase is an online game on a 2D platform using real Spheres at MIT's flatbed facility. This is an opportunity for teams to test their algorithms under realistic conditions.
+The final phase is on the Station, where the programs from the winning groups will be uploaded and run in the satellites.
+The competition on the Station will be shown live at ESA’s ESTEC technology centre in the Netherlands.
+Ladies and gentlemen, start your grey cells!
+For further information, please contact:
+Nigel Savage
+Education Team Coordinator
+Directorate of Human Spaceflight and Operationsnigel.savage@esa.int

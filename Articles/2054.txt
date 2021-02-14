@@ -1,0 +1,27 @@
+2003-02-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Space_Shuttle_Columbia_-_Information_Note_No._2
+Space Shuttle Columbia - Information Note No. 2
+ESA INFO 03-2003. Yesterday, 4 February 2003, a memorial ceremony was held at NASA/JSC in the presence of US President G.W. Bush, representatives of the families of the Columbia astronauts, many other dignitaries and representatives of the International Partners. The Head of the European Astronauts Centre, several astronauts, the Houston resident office and ESA staff associated with the STS-107 payloads represented ESA.
+On Thursday 6 February a religious ceremony will be held in the National Cathedral, Washington D.C. International partners of the ISS and other space programme representatives will attend, together with high level representatives of various European governments. The ESA Director General, Antonio Rodotà and Jörg Feustel-Büechl, Director of Human Spaceflight, will represent ESA at the ceremony.
+Failure investigation technical update
+Ron Dittemore, Shuttle Programme Manager, NASA/JSC, relating to the incident on 1 February, reconstructed the final minutes of Shuttle Columbia's flight before communication was lost in a news conference, stating that:
+Mr. Dittemore said more time will be needed to retrieve an additional 32 seconds of data acquired by ground computers after communication was lost with Columbia to see if it is useful to the inquiry.
+Regarding a piece of foam insulation which fell off the External Tank some 80 seconds after launch, he said imagery analysis showed that the foam measured about 50 cm by 40 cm by 15 cm and weighed about 1.2 kg.
+The analyses were based not only on the STS-107 images but also on a similar incident that occurred on Shuttle Atlantis flight in October 2002 (STS-112), on which flight the crew had filmed the External Tank as it separated from the Orbiter during launch.
+The conclusion at that time was that the debris did not represent a threat to the safety of the crew or the vehicle. The analyses will be repeated to determine whether this incident could have been a contributory cause to the eventual failure.
+The collection and assembly of debris continues with special emphasis on any items containing data or records. Each item is analysed to see if it can yield useful information.
+In addition NASA are performing a series of analyses to try to predict the source of the problem. They will determine the amount of wing damage that would be necessary to lead to the un-symmetric drag values experienced during re-entry. They will analyse the amount of thermal protection loss that would have been necessary to lead to the progressive disintegration of Columbia that was experienced.
+ISS status and short term plans
+NASA and the ISS international partners have already begun briefing sessions to assess the status and plans of the ISS.
+The crew are working nominally, and are offloading the Progress re-supply ship which docked successfully at the scheduled time of 14:49 GMT (15:49 CET) yesterday, 4 February.
+All Partners at present strive to achieve that the ISS stays permanently manned.
+Proposals are being developed to look at how the Soyuz and Progress vehicles could best support the station and the options. The Soyuz replacement flights with ESA astronauts on board currently scheduled for April and October are included in the analyses forming part of these ongoing considerations.
+Update of European Science data of STS-107
+First contacts with the operations and science teams of the three successful ESA instruments that transmitted all their telemetry and video data to the ground, revealed great sadness about the tragic end of the STS-107 mission, but great satisfaction with the science data that had been achieved due to the outstanding performance of the crew.
+The Facility for Adsorption and Surface Tension (FAST) which first flew on STS-95 in October 1998 (with US veteran astronaut John Glenn and ESA astronaut Pedro Duque among the crew), performed extremely well. Three experiments were performed sequentially for one German and two Italian investigator groups.
+The COM2PLEX instrument consists of three Loop Heat Pipes provided by three industrial companies in Belgium, France and Germany. Detailed data are available and qualitative analyses indicate improved heat transfer capabilities.
+For all seven flight experiments of the Advanced Respiratory Monitoring System (ARMS) supported by investigator teams from Denmark, Germany, Italy and Sweden, excellent data were received.
+More information on the European instruments and experiments onboard the STS-107 can be found by clicking on the right-hand links.
+For more information, please contact :
+ESA Media Relations Service
+Tel: +33(0)1.53.69.7155Fax: +33(0)1.53.69.7690

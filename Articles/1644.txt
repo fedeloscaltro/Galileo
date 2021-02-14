@@ -1,0 +1,12 @@
+2007-09-25
+https://www.esa.int/Education/Young_Engineers_Satellites/YES2_student_payload_released_from_Foton-M3
+YES2 student payload released from Foton-M3
+The Second Young Engineers’ Satellite (YES2) was activated and separated from the Foton-M3 spacecraft earlier today. The tether deployed for 8.5 km, after which the Fotino capsule was released on its way to Earth.
+“We are very proud of the students' work, although we didn’t reach the full 30 km deployment” said Roger Walker, YES2 project manager for ESA’s Education Office. “The hard work of the YES2 team over the past five years has paid off with this largely successful demonstration.”
+The innovative, hands-on, student mission aimed to demonstrate how a tether can be used to deliver small payloads to Earth without the use of complex, expensive attitude control systems or rocket engines.
+The Fotino capsule was due to be deployed on a 30 km long tether in space, the longest ever. As the tether deployed slower than planned, it reached a length of 8.5 km before a preprogrammed command cut Fotino loose from the spacecraft.
+The orbit of the Fotino is currently being assessed to understand when and where the capsule will return to Earth on its parachute.
+YES2 was one of the ESA-provided payloads on board the Foton-M3 orbital mission. The Foton spacecraft and the piggybacking YES2 payload were launched by a Soyuz rocket from Baikonur, Kazakhstan on 14 September. The YES2 experiment was installed on top of the battery pack of the Foton-M3 spacecraft.
+Background
+The ESA Education Office oversaw the YES2 educational project and is the primary contributor of funding for student organisation and spacecraft hardware. The cost of the launch was covered by the Education Office and the Agency’s Directorate of Human Spaceflight, Microgravity and Exploration.
+Technical support has been given by ESTEC staff in the Directorate of Technical and Quality Management. The project also received valuable support from European industry, notably Delta-Utec Space Research and Consultancy of the Netherlands, the prime contractor. Four university Centres of Expertise contributed significantly to the project: University of Patras, University of Modena, FRC Remagen/ Krefeld University, and Samara State Aerospace University.

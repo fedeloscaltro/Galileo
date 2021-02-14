@@ -1,0 +1,23 @@
+2004-04-02
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/State_of_the_art_in_automatic_rendezvous
+State of the art in automatic rendezvous
+The videometer, a high-tech optical instrument attached to the front of Europe's Automated Transfer Vehicle (ATV) cargo carrier, is based on star sensor technology.
+On a satellite, or on a spacecraft like the ATV (which will have two), a star tracker is able to recognize different constellations in the sky and uses this information to calculate its own orientation in space. The videometer on the ATV will ensure very precise automatic rendezvous with the International Space Station
+Light patterns
+The original idea of the videometer was to add an illuminator, flashing a laser beam in the direction of optical targets.
+The pulsed laser beams emitted by the videometer on the ATV are passively reflected by retroreflectors attached to the outside of the International Space Station (ISS), resulting in unique light patterns.
+In the same way as the star tracker aims at the constellations, the videometer on the ATV analyses the image formed by the pattern of light spots visible on the aft end of the Service Module of the ISS.
+Two sets of different patterns (a large 1.5 m sided triangular shape and a smaller pyramidal shape 8.5 cm in height), each one made by the numerous retroreflectors, will be installed at very precise locations on the Service Module during dedicated spacewalks in summer 2004. An old set of ATV retroreflectors, attached to the Service Module before its launch in 1998, will be brought back to Earth for material analysis.
+Reflection
+Each of the 26 retroreflectors, which looks like a small 2.5 cm cube, has the capability to reflect - like a bicycle 'catadiopter' at night - the laser beam exactly in the direction it was sent from. The precision of these optical devices is such that the reflection of the beam does not deviate by more than 3 mm over a distance of 300 m. This optical guidance system, built in Europe, is a brand new worldwide technology.
+The Jules Verne videometer, called VDM, is designed and manufactured by Sodern, a subsidiary of EADS, in Limeil-Brévannes, a Paris suburb. Tests have shown that the VDM is able to analyse images of its emitted laser beam reflected by retroreflectors identical to the ones that will be installed on the Russian Service Module.
+With a budget of about 7.6 millon Euros covering a two-year period, Sodern has delivered pre-qualification models and the first set of flight-rated videometers.
+Back-up
+Although the videometer, including its software, is expected to be fully qualified by early summer, the two identical 8.2 kg videometer units for Jules Verne have earlier this month been delivered to EADS in Bremen, Germany, ready to be attached to the spacecraft in the near future.
+All ATV spaceships will have two identical videometers, installed 20 cm apart on the front of the ATV. Both are active during rendezvous, with one acting as back-up.
+Real scale tests have been performed and show there is no interference possible between the two rendezvous devices.
+Secondary sensor
+To add redundancy and a safety margin to the critical rendezvous operations, a secondary sensor – called a telegoniometer (TGM), which is totally independent and parallel to the videometer – will also be used. The telegoniometer works like a radar, and will continuously calculate the distance and direction from the ATV to the ISS.
+Like the two videometers, two 13.7 kg TGM (one back-up), located on the ATV front cone, emit laser pulses (at a different wavelength to the videometers) towards the retroflectors on ISS. The travel time of the pulses, which are reflected back at light speed, gives the distance between the two spacecraft.
+The direction from the ATV to the ISS is given by the orientation of the TGMs' two built-in mirrors, which rotate to aim the laser towards the retroreflectors. The distance and direction information from the TGM can be compared to that obtained via image processing using the videometer. However, only the videometer can compute the orientation of the ISS.
+Activated at the same 250 m distance from the ISS, the TGM radar-like pulses provide 10 000 hits per second, whereas the camera-like videometer illuminates its objective from once per second to 10 times per second as it approaches its target.

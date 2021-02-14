@@ -1,0 +1,21 @@
+2008-03-06
+https://www.esa.int/Enabling_Support/Operations/Traffic_jam_in_space_ATV_docking_under_tight_schedule
+Traffic jam in space: ATV docking under tight schedule
+ESA's first Automated Transfer Vehicle (ATV), named Jules Verne, starts its mission on 9 March amidst a busy schedule of space traffic at the International Space Station, allowing only limited docking windows. Before docking, engineers at ESA's ATV Control Centre will take time to demonstrate the vessel's unique capabilities.
+In a rare confluence of missions, two spacecraft - ESA's ATV and NASA's Space Shuttle Endeavour - are scheduled to lift-off on 9 and 11 March, respectively, to dock with the ISS, while a third - Russia's Soyuz - is due to arrive early in April. Endeavour will deliver Japan's 'Kibo' science module and Canada's new Special Purpose Manipulator.
+The heavy traffic comes just a few weeks after NASA's Space Shuttle Atlantis delivered ESA's Columbus science lab to the ISS, on 11 February.
+ATV must patiently wait
+With Endeavour docked to the ISS from 13 March until 24 March for the docked phase of its planned 16-day mission, the ATV cannot dock and must patiently wait in a holding orbit, travelling below the ISS. During this 'phasing' period, the ATV will undergo a series of transfer and phasing manoeuvres to bring it to the right point to begin its docking approach.
+Around 18 March, ATV will enter a 'loitering' phase, located 2000 km in front of the ISS.
+The waiting time will not be wasted as mission controllers at ESA's ATV Control Centre (ATV-CC) will use the time to conduct a crucial set of demonstration rendezvous manouevres, which will provide positive confirmation that the ATV's unique automated, laser-guided docking system works exactly as required. Two 'demo rendezvous' are planned, on 29 and 31 March.
+If all goes well, ATV's actual rendezvous and docking are planned for 3 April.
+Showing ATV's capabilities
+"After launch, we will have an opportunity to show and demonstrate to our ISS partners exactly what the ATV is capable of doing. And we can place ATV in a holding orbit for an extended period, if necessary, before doing the final, actual docking," said Alberto Novelli, ESA's Mission Director at ATV-CC.
+However, after start of the demo rendezvous phase on 29 March, there are only four subsequent days on which the actual docking can take place, if either of the demonstration rendezvous manouevres slip due to unforeseen technical problems.
+One limitation causing this is illumination conditions: astronauts on board Station must not be blinded by sunlight while monitoring the approaching vehicle's progress. "Illumination conditions at the ISS also limit us as to which days we can perform the demo rendezvous, so it's shaping up to be a challenging few weeks," said Novelli.
+Another limitation is caused by more traffic: Russia's Progress M-63 - docked since 7 February - will undock on 7 April and a new Soyuz docking is scheduled for 10 April. Additional limitations on the ATV docking window could come about if Endeavour's launch is delayed or if its docked phase extends past 27 March; last month, Atlantis' docked pahse was extended by one day to facilitate the installation of Columbus.
+Extraordinary time in space
+As a result, in the next few weeks, the actual ATV docking windows are limited to 3, 4, 5 or 6 April, with a further possible day on 21 April - given that both demo rendezvous manouevres have already been successfully completed.
+We face a tight window with European, American, Russian, Canadian and Japanese payloads or vessels in flight.
+"It's an extraordinary time. While we face a tight window, the intense activity at the ISS these weeks - with European, American, Russian, Canadian and Japanese payloads or vessels in flight - highlights the fantastic international character of the Station," said Bob Chesson, ESA's manager for Human Spaceflight Operations.
+He adds that, "ESA mission operations personnel will continue working in close coordination with their Russian and US partners to make ATV a success and get the right spacecraft into the right slot at the right time."

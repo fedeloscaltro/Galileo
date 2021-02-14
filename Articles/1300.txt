@@ -1,0 +1,25 @@
+2010-05-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ESA_giving_a_spare_arm_to_Space_Station
+ESA giving a spare arm to Space Station
+Space Shuttle Atlantis lifted off on Friday evening with an important hardware delivery from Europe to the International Space Station: spare portions of the European Robotic Arm and the first Russian payloads to use the arm.
+The European Robotic Arm (ERA) is the second 'intelligent' robot arm for the International Space Station (ISS). The first, used extensively for ISS assembly for almost 10 years, is Canadarm-2 – an iconic part of the ISS photos.
+The second arm, for launch in 2012, will be based on Russia’s Multipurpose Laboratory Module (MLM), from where it can 'walk' to other locations.
+"Already now more than a third of the pressurised Station elements are built and designed in Europe and European knowhow is keeping Station in operation," says Simonetta Di Pippo, ESA’s Director of Human Spaceflight.
+"Launching the ERA spare arm is an important step in keeping the ability for demanding robotic operations in case of technical failures – these may happen during the prolonged life of the ISS."
+A new ERA in ISS robotics
+ERA will be used to service the Russian segment of the ISS and to transfer small payloads directly to space via MLM’s special airlock, liberating astronauts from time-consuming, fatiguing and potentially hazardous tasks outside the Station.
+The Shuttle’s main cargo is Russia’s Mini Research Module 1 (MRM-1), with ERA’s spare mid-section attached. Hopefully, it will never be needed. Atlantis is also carrying the MLM airlock, a portable work platform and an MLM radiator.
+ERA’s other spare parts can be delivered later on smaller, unmanned craft, if needed, but this long and bulky composite of two limbs and elbow joint needs the Shuttle’s help.
+A walking arm
+The complete operational ERA will be launched in 2012 by a Proton rocket, attached to the MLM.
+ERA consists of two 'end-effectors' – dexterous hands, attaching the arm to the Station and routing power and command links – two wrists, two limbs and an elbow joint, together with electronics and cameras. Both ends can act as either a hand or the base.
+Longer than 11 m, ERA can walk around the ISS under its own control, hand-over-hand between base points. Astronauts can control it from inside or outside the Station.
+European hi-tech
+"The importance of this launch is wider than just the launch of a spare arm without hands," explains Philippe Schoonejans, ERA project manager.
+"The fact that the Russian space agency launches on this flight with MRM-1 several pieces of hardware designed for operation by ERA makes this launch a precursor for the operational phase of ERA."
+ERA was developed by a European consortium led by Dutch Space, with subcontractors in eight countries.
+"The launch of the spare hardware highlights the enormous effort put into the development of the European Robotic Arm by all parties involved over the past years," says Bart Reijnen, CEO of Dutch Space.
+"Looking forward, it is an important milestone towards the peak of the ERA project, the launch of the flight model."
+For more information
+Philippe Schoonejans, ERA Project Manager, ESA
+Tel: +31 (0)71 565 5026Email: Philippe.Schoonejans @ esa.int

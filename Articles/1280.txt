@@ -1,0 +1,22 @@
+2010-07-20
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Challenging_Einstein_on_the_ISS_ACES_takes_a_step_ahead
+Challenging Einstein on the ISS: ACES takes a step ahead
+A fascinating new experiment that will expand the range of research on the International Space Station was given the green light last Friday with the signature of the ACES atomic clock contract.
+The most precise measurement of time yet – in space – will soon be used to probe the principal theories of physics. The appearance of the ACES Atomic Clock Ensemble in Space is deceptively simple but inside it carries two exquisitely complex high-performance atomic clocks: PHARAO and the Space Hydrogen Maser.
+This box-like assembly will be attached to the outside of Europe’s Columbus laboratory in 2014 for at least for two years on the International Space Station (ISS).
+The French PHARAO clock, Projet d’Horloge Atomique par Refroidissement d’Atomes en Orbite, uses laser-cooled caesium atoms. ACES’ second payload is the Swiss Space H-Maser. Together, they will be accurate to about one second over 300 million years.
+They are one of the most challenging ISS experiments: a project that in 2007 scientists of the ESA’s Physical Sciences Working Group considered to be of high importance and priority for physics.
+Mind-boggling problems of time and space
+ACES will test Einstein’s general relativity and alternative theories of gravitation because they attempt to define how time and space are related. This is why measuring time as accurately as possible in space is of extreme interest.
+An atomic clock in space will be able to tackle 'relativistic geodesy', a new kind of Earth monitoring that will be made possible by using extremely precise measurements of Einstein’s 'gravitational redshift'.
+ACES will benefit also metrology – the science of measurement – because highly accurate atomic clocks in space will help in the study of cold-atom physics in microgravity, the comparison of atomic frequency standards, clock synchronisation, the realisation of a global time scale and contribute to International Atomic Time.
+ACES will also contribute to evolutions of the global navigation satellite network and support the use of precision clocks in major Earth science activities.
+High-profile mission for small companies
+The contract for the full development of the ACES payload was signed last Friday between ESA and the prime contractor, Astrium.
+The contract was signed by Simonetta Di Pippo, ESA Director of Human Spaceflight, Alain Charmeau, CEO of Astrium Space Transportation, and Michael Menking, Director of Orbital Systems at Astrium Space Transportations.
+The €35 million deal requires Astrium to deliver the ACES Flight Model and the ground segment by autumn 2013.
+PHARAO is funded by the French space agency, CNES, following the agreement signed with ESA in 2009, while SHM is funded by Switzerland and managed by ESA.
+A large group of subcontractors is involved in this project: Spectratime and APCO from Switzerland, Space Applications Services and Euro Heat Pipes from Belgium, Kayser-Trede, Timetech and Steinbeiss TZR from Germany, EREMS from France, RUAG from Austria and the Czech Space Research Centre.
+For more information please contact:
+Rosario Nasca, ESA
+Tel: +31 71 565 4935Rosario.Nasca@esa.int

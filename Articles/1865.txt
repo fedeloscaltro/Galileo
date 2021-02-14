@@ -1,0 +1,23 @@
+2005-10-07
+https://www.esa.int/About_Us/ESA_Permanent_Mission_in_Russia/Re-entry_technology_demonstrator_launched
+Re-entry technology demonstrator launched
+The Inflatable Re-entry and Descent Technology Demonstrator-2R was launched into a parabolic trajectory by a Russian Volna launcher on 7 October 2005 at 10:30 local time (6 October at 21:30 UT). It was launched into its brief flight from a Russian naval submarine in the Barents Sea in the area of Severomorsk, Russia.
+The Demonstrator was scheduled to land in Kamchatka approximately 30 minutes later at 11:00 local time (02:00 Moscow time, 22:00 UT on 6 October). Received telemetry data confirmed the initial phases of the mission to be nominal. Shortly after the re-entry phase radio contact with the Demonstrator disappeared. Search and recovery activities were initiated, but so far the IRDT has not been retrieved. Efforts to locate it will continue, in cooperation with the Russian military forces.
+An international team developed this project under ESA contract to the European space industry EADS ST as a prime and the Russian NPO-Lavochkin as a major subcontractor. This programme was performed in cooperation with the Russian Federal Space Agency, the Makeev State Rocket Centre, the International Scientific and Technical Centre, the Space Research Institute of the Russian Academy of Sciences, Tsniimash and the Russian Navy.
+Inflatable Re-entry and Descent Technology or IRDT is a new technology, which enables re-entry from orbit and landing without the need of a heavy heat shield or parachute system. The 140 kg system consists of a small ablative nose from which a cone-shaped flexible heat shield inflates to provide thermal protection and braking during re-entry.
+This flexible heat shield is covered by an inner insulating layer protected by a silica-based fabric impregnated with an ablative material in contact with the hot plasma flow. A second inflatable extension of the cone, deployed during subsonic flight, reduces the speed of the Demonstrator to ensure a safe landing.
+Possible appications are envisaged as a means to return equipment and experiments from the International Space Station, or to accommodate probes on spacecraft to Mars. It can also be utilised as a means to carry out atmospheric research and as a means to return launcher upper stages.
+A factsheet with technical and operational information about the IRDT can be downloaded in pdf format: IRDT factsheet »»
+For more information, please contact:
+Dieter Isakeit
+Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5451
+Fax: +31 71 565 8008Dieter.Isakeit@esa.int
+Eike Kircher
+Head of the Basic Technology Research Programme Section
+Directorate of Technical and Quality Management
+Noordwijk (The Netherlands)
+Tel: +31 71 565 6784
+Fax: +31 71 565 3854Eike.Kircher@esa.int

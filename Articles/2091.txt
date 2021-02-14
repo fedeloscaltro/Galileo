@@ -1,0 +1,9 @@
+2002-05-13
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Gardens_in_space
+Gardens in space
+A model of a system for growing plants to plan biological experiments in space has just left the company of Rovsing, in Ballerup near Copenhagen, on its way to ESA’s European Space Research and Technology Centre (ESTEC) in the Netherlands.
+The full name of this experiment reference model is European Modular Cultivation System Experiment Reference Model (EMCS ERM). This will be used at ESTEC to plan and carry out experiments for growing plants in space. Then in 2003 the EMCS Flight Model will be flown to the International Space Station (ISS) where the experiments will be repeated in space.
+A biological laboratory, Biolab SRM (Science Reference Module), is also being developed at Rovsing and after testing at ESTEC the Biolab Flight Model will be sent to the ISS.
+The core of both models is a climate chamber where the humidity and composition of the air, temperature, light, water supply and a number of other parameters will be closely surveyed and regulated. In addition, the Biolab SRM will have a robotic system to allow samples to be taken automatically.
+For the Danish company the main challenge in both projects has been developing the electronics and software needed to regulate the environment in the climate chamber and to collect data for the biological experiments.
+Why does ESA want to grow plants in space? The first reason is purely scientific as new knowledge can be gained about the growth process in plants by growing them under microgravity. The second reason, however, is much more practical; if astronauts are to be sent on long missions, such as an expedition to Mars, they will need to grow their own food in space to ensure their survival.

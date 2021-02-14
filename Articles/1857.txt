@@ -1,0 +1,17 @@
+2005-10-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/Pulmonary_Function_System_More_than_just_a_breath_of_fresh_air
+Pulmonary Function System: More than just a breath of fresh air
+Two and a half months after its arrival at the ISS, the joint ESA/NASA-developed Pulmonary Function System was powered on for the first time on 18 October 2005. The Pulmonary Function System (PFS) is a device that supports a wide range of physiological measurements and experiments.
+Powering the facility on was part of the check out and commissioning procedures of the facility that needed to take place to confirm that all systems were functioning properly. The facility is now ready for on-orbit operations. The procedures were carried out by NASA astronaut and Expedition 12 Commander Bill McArthur, one of the two crew members who are presently on board the station for a six-month stay.
+The Danish organisation Damec, based in Odense, Denmark developed the European PFS elements for ESA and is acting as the Facility Support Centre for European experiments for PFS on behalf of ESA. In its role as the Facility Support Centre Damec was monitoring the check out procedures in real time as they were taking place.
+Data was being received live on ground either via the Damec real time telemetry software or via the US Telescience Support Center through the internet. An initial assessment of this data indicates that all the sub systems of the European elements are working properly. A more detailed analysis of data received online will now take place.
+When the PFS is in service on the ISS it will be able to simultaneously measure six different gases with several measurements being made within a single breath. This will provide detailed information about the subject's lung function, blood flow and entire cardiovascular system.
+The Pulmonary Function System will also have important medical uses here on Earth. PFS is the first flight hardware developed by the ‘Microgravity Facilities for Columbus’ programme as part of the ‘European Physiology Modules Facility’ project, originally planned for installation and launch in the European Columbus laboratory. Due to interest from NASA it received an earlier flight opportunity and was consequently installed in NASA’s own laboratory Destiny.
+The Pulmonary Function System was flown to the ISS as part of the cargo of the STS-114 Discovery mission, which docked with the ISS on 28 July 2005. It was situated in the Human Research Facility rack 2, and carried in the European-built Multi-Purpose Logistics Module, a pressurised cargo module that travels in the Space Shuttle’s cargo bay.
+Once at the ISS, the Human Research Facility rack 2 was installed in an International Standard Payload Rack in the US Destiny laboratory. The two European elements of the PFS consist of the Pulmonary Function Module and the Photoacoustic Analyser Module. The two NASA-developed modules are the Gas Delivery System and the Gas Analyser System for Metabolic Analysis Physiology. These elements can be combined in different configurations to provide a variety of different measurements.
+For more information, please contact:
+Dieter Isakeit
+Erasmus User Centre and Communication Office
+Directorate of Human Spaceflight, Microgravity and Exploration Programmes
+Noordwijk (The Netherlands)
+Tel: +31 71 565 5451Fax: +31 71 565 8008

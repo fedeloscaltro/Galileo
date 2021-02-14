@@ -1,0 +1,25 @@
+2006-11-02
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/International_Space_Station/ANITA_air_quality_monitoring_for_the_International_Space_Station
+ANITA – air quality monitoring for the International Space Station
+The Analysing Interferometer for Ambient Air (ANITA) flight experiment, an ESA developed technology demonstrator for monitoring the quality of the air inside manned space vehicles, is being delivered to NASA for final launch preparation during November 2006.
+Once launched on the Automatic Transfer Vehicle ‘Jules Verne’, ANITA will fly onboard the International Space Station (ISS). It will be accommodated in an EXPRESS rack in the US Destiny laboratory. ANITA will remain on orbit for six months, with an initial commissioning and science phase of ten days. Subsequently it will be considered to be an ISS system element.
+The air quality of any manned spacecraft needs to be continuously monitored in order to safeguard the health of the crew. The astronauts have to respond rapidly to any accidental release of harmful gaseous contaminants or degradation of the environmental control and life support system. Air quality monitoring grows in importance as mission duration increases.
+Measuring modes
+ANITA is designed to monitor the cabin air for contaminants at concentrations down to the low parts per million (ppm) or high parts per billion (ppb), with high precision. Its fast measurement cycle allows the trend in air quality to be analysed in near real-time.
+In normal operational mode, ANITA automatically monitors the local air by filling its gas cell, measuring the sample and storing the analysis data. The gas cell is then flushed back into the cabin and refilled for the next measurement cycle, each of which takes six minutes. This process is possible since the air sample is physically and chemically unchanged by the measurement.
+If so desired, the crew can also collect air samples at remote locations using a hand pump and sample bags. The sample bags are then manually connected to ANITA’s inlet for analysis.
+Operating principle
+ANITA uses a Fourier Transform Infrared (FTIR) interferometer based on the Michelson principle and supplemented by advanced analysis software. The gas cell is illuminated by an infrared source and the amount of radiation passing through the cell is measured with a room temperature infrared detector. The measurements cover the wavelength range 2.5 to 20 microns (500 to 4000 cm-1).
+The resulting absorption spectra allow individual organic and inorganic contaminants to be identified based on their unique spectral fingerprints. The ‘Lambert-Beer’ law, which relates the attenuation of infrared light passing through the sample cell to gas concentration, is applied to calculate the concentrations of the individual contaminants.
+To counter possible changes in the instrument, including ageing effects, background measurements are taken periodically by measuring the intensity of the infrared source through the gas cell at low pressure.
+Owing to the high degree of spectral overlapping for the different contaminants, combined with measurement noise and imperfections, the identification and quantification process requires advanced software.
+The ANITA will be calibrated on the ground before launch. However, if the actual air contaminants and/or the concentrations are outside the calibration range, the calibration models can be updated on-ground and uploaded to ANITA.
+During the mission the measurement results are not visible to the crew and will be further processed on ground by the ANITA team.
+During operation on ISS, ANITA requires no consumables and no services except electrical power.
+Mission objectives
+The main objectives of the flight experiment are to:
+The identification and quantification objective covers the background gases – water, carbon monoxide, carbon dioxide and methane – currently measured on ISS using NASA’s Major Constituent Analyser (MCA). In addition, it covers 28 organic and inorganic trace contaminants including formaldehyde, perfluoropropane, ammonia, and three siloxanes, which are currently not measured onboard. Homonuclear diatomic gases such as oxygen, nitrogen and hydrogen do not have infrared absorption fingerprints and cannot be detected using FTIR spectrometry.
+Industrial team
+ANITA is an ESA-NASA cooperative programme. The flight experiment has been developed under ESA contract by Kayser-Threde GmbH (Germany), the instrument Prime Contractor and hardware developer, and SINTEF (Norway), responsible for the gas analysis software and instrument calibration.
+For further information concerning scientific and technical matters, contact Gijsbert Tan, Life Support and Environmental Control Section, ESA-ESTEC.
+For programmatic matters, contact Martin Zell, Research Operations Department, Directorate of Human Spaceflight, Microgravity and Exploration, ESA-ESTEC.

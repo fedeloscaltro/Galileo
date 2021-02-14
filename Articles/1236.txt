@@ -1,0 +1,33 @@
+2011-02-03
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Europe_s_ATV_space_ferry_ready_for_launch
+Europe’s ATV space ferry ready for launch
+ESA PR 6-2011 - ESA’s latest Automated Transfer Vehicle is ready for launch to the International Space Station on Tuesday, 15 February at 22:08 GMT from Europe’s Spaceport in Kourou, French Guiana. The unmanned spaceship will deliver essential supplies and reboost the Station during its mission lasting three and half months.
+The launch will be covered live from Kourou for broadcasters and on the Web, and celebrated at a launch event in Bremen, Germany.
+Europe’s second ATV
+Johannes Kepler is the first operational ATV, following the highly successful Jules Verne qualification flight in 2008. With a total mass of over 20 tonnes, it is the heaviest payload ever launched by Europe.
+ATV is a highly sophisticated spacecraft, combining an autonomous free-flying platform, a manoeuvrable space vehicle and – when docked – a space station module.
+To achieve an automated docking under the very tight safety constraints imposed by human spaceflight rules, ATV carries high-precision navigation systems, highly redundant flight software and a fully autonomous collision-avoidance system with its own independent power supplies, control and thrusters.
+About 10 m high with a diameter of 4.5 m, ATV includes a 45-cubic m pressurised module and a Russian docking system, similar to those used on the Soyuz manned ferries and the Progress resupply ships.
+With its solar wings deployed, ATV spans 22 m. Almost three times larger than Russia’s Progress, it can also deliver about three times the cargo load.
+Propellant and cargo for the ISS
+On this first operational mission, ATV-2 is carrying over 7 tonnes of payload, including 4534 kg of propellant for International Space Station (ISS) reboost and attitude control.
+Once docked to the ISS, this propellant will be used by ATV’s own thrusters to raise the Station’s orbit periodically in order to compensate for the natural decay caused by atmospheric drag.
+It may also be used to move the ISS out of the way of potentially dangerous space debris that comes too close to the manned space complex.
+ATV’s payload includes almost 1600 kg of dry cargo, 850 kg of propellant for Russia’s Zvezda module and 100 kg of oxygen.
+Before leaving the ISS, in June, Johannes Kepler will be filled with waste bags and unwanted hardware by the crew. It will then be deorbited over the Southern Pacific Ocean and perform a controlled reentry to burn up harmlessly in the atmosphere.
+Exceptionally, no drinking water will be delivered because there is already plenty aboard the ISS. The water tanks will, though, be filled with liquid waste from the Station before departure.
+ATV Johannes Kepler is named after the famous German astronomer and mathematician who lived in the 16th and 17th centuries. He first depicted the movement of planetary bodies in elliptical orbits, thus paving the way for Isaac Newton’s theory of gravitation.
+It is the second in a series of five spaceships developed as Europe’s contribution to the operational costs of the ISS. Astrium Space Transportation is prime industrial contractor, leading a team of more than 30 contractors in 10 European countries.
+Covering the launch
+ESA TV is providing extensive coverage of the ATV mission. Several stories featuring the latest images and interviews from Kourou will be released on ESA TV’s FTP server and via satellite on the Europe by Satellite (EbS) service. Already available are two Video News Releases covering the ATV-2 mission, with shots of the launch campaign in Kourou, and interviews in English, German, French and Swedish. The launch will be transmitted live from Kourou in cooperation with Arianespace. Later in the month, the docking with the ISS will also be available live via satellite. All details will be found on ESA TV’s site: television.esa.int.
+The latest high-resolution images can be found by registering on ESA’s Photo Library for Professionals: www.esa-photolibrary.com/
+Questions on images for media can be directed to esa.photolibrary@esa.int
+Attending the launch event in Bremen
+In cooperation with EADS Astrium and the German Aerospace Center (DLR), a media event for the launch will take place in Bremen, Germany. The briefing will begin at 17:00 and include visits to the ATV-3 and ATV-4 cleanrooms.
+Media wishing to attend the event must register via mail to: visits.bremen@astrium.eads.net
+More information about the event can be obtained by contacting EADS Astrium Communication, Ms Caroline Strothmann at +49 4215 394301.
+For further information, please contact:
+ESA Media Relations Office
+Communication Department
+Tel: + 33 1 53 69 72 99
+Fax: + 33 1 53 69 76 90email: media@esa.int

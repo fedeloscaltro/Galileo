@@ -1,0 +1,26 @@
+2002-02-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mission_Odissea_-_F._De_Winne_-_english/ESA_s_glovebox_is_integrated_within_MPLM-Leonardo_ready_for_launch_to_the_ISS
+ESA's 'glovebox' is integrated within MPLM-Leonardo ready for launch to the ISS
+The development of ESA's Microgravity Science Glovebox (MSG) is now complete. On 20 February the Acceptance Review by ESA/NASA authorized the transfer of the science facility from the prime contractor Astrium to ESA and then the handover to NASA for the final part of the launch preparation. Today the facility was integrated within the Multi-purpose Pressurised Logistics Module - MPLM-Leonardo.
+This module will later move into the Shuttle cargo bay in preparation for the STS-111 UF2 mission to the International Space Station, scheduled to take place on 2 May 2002.
+US Destiny Laboratory
+The MSG will be the first European rack facility to be launched to the ISS. It has been built for NASA for a projected operational use of ten years and will initially form part of the US Destiny Laboratory equipment but could be moved later to ESA's Columbus Laboratory. ESA will have utilization rights over this facility and will pre-screen European proposed experiments that could be accommodated by it.
+The MSG will enable astronauts on board the ISS to perform a wide variety of materials, combustion, fluids and biotechnology experiments as well as investigations in the microgravity environment. It can also accommodate minor repairs and servicing of hardware requiring a controlled working environment.
+'Fastest' rack in testing
+Since the delivery of the MSG from Astrium (Bremen, Germany) to NASA’s Kennedy Space Center (KSC) back in October 2001, the development of the facility has involved a long and complex verification process. This included off-line tests at the Payload Rack Check-out Unit (PRCU) which is located in the Space Station Processing Facility.
+The PRCU provides high fidelity electrical/mechanical simulation of the in-orbit resources available at rack level. During this testing, the MSG was still under the direct control of Astrium who shared test responsibility with the NASA MSFC team. The off-line tests were very successful; indeed MSG was the 'fastest' rack to go through software related tests. Off-line testing was concluded just before the end of 2001.
+Setting the standard
+On 8 January online tests began, these were performed at the Payload Test Control System (PTCS). This facility is similar to the PRCU but the operations control is from a remote user room, rather than via direct rack access. It allows for end-to-end testing including the verification of the operational procedures.
+The MSG is the first European rack facility to have completed the verification programme for this class of payloads, becoming the precursor and the reference for the future development of ISS payloads.
+For further information, please contact:
+Media Relations Office
+ESA- Head Office, Paris, France
+Tel: +33.1. 53.69.7299Fax: +33.1. 53.69.7690
+Lina De Parolis
+MSG & Cryosystem Project Manager
+ESA-ESTEC, Noordwijk, Netherlands
+Tel: +31. 71. 565.4128Fax: +31 71. 565.6603
+Martin Zell
+Head of Fluid Physics & LSE
+Astrium GmbH, Friedrichshafen, Germany
+Tel: +49. 75. 45. 82963Fax: +49. 75. 45. 84429

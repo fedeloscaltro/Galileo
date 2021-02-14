@@ -1,0 +1,25 @@
+2011-06-20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/i_Johannes_Kepler_i_has_left_the_Station
+Johannes Kepler has left the Station
+Europe’s Johannes Kepler ATV cargo ferry undocked from the International Space Station today at 14:46:30 GMT (16:46:30 CEST). The craft is now leaving the orbital outpost far behind and will end its mission on Tuesday evening as a shooting star over the Pacific Ocean.
+After spending almost four months as an important part of the International Space Station, ESA’s second Automated Transfer Vehicle is ending its days as a rubbish truck – another critical role because the 1200 kg of waste bags and discarded equipment cannot just be thrown out of the Station.
+The crew closed the hatches between the two vehicles on Sunday afternoon at 15:30 GMT (17:30 CEST).
+Undocking came today, with ATV’s thrusters gently increasing the distance from the outpost, towards a path leading to its deliberate destruction. Before the undocking, all electrical and data connections between the two spacecraft were disconnected at 14:39 GMT (16:39 CEST).
+ATV Johannes Kepler delivered more than seven tonnes of dry cargo, propellants and air in February.
+ATV’s last major job was to boost the complex to a higher orbit. The vehicle also assisted Station attitude control several times during its mission.
+Fireball over the Pacific
+Tomorrow, Johannes Kepler will fire its engines twice to descend from orbit.
+The first burn, at 17:07 GMT (19:07 CEST), will drop it towards Earth. The second burn, at 20:52 GMT (22:52 CEST), will direct it precisely towards its South Pacific target.
+This area is used for controlled reentries of spacecraft because it is uninhabited and outside shipping lanes and airplane routes. Extensive analysis by ESA specialists will ensure that the trajectory stays within safe limits.
+The same area was also used for the descents of ATV-1 in September 2008 and Russia’s Mir space station in 2001.
+Air and sea traffic has been warned and a no-fly zone will prevent any accidents.
+The 14-tonne ATV is now empty of hazardous materials and it will almost completely burn up – like a meteor, hitting the atmosphere at high speed.
+Each year, about 40 000 tonnes of meteoroids and interplanetary dust fall to Earth with no ill effect.
+The freighter will hit the outer layers of the atmosphere at an altitude of about 100 km. It will start tumbling at about 20:24 GMT (22:24 CEST), disintegrate, burn and any remains will strike the ocean at around 20:59 GMT (22:59 CEST).
+Only a few hardy pieces might survive the fiery reentry and splash harmlessly into the ocean.
+Last call home
+The last moments of Johannes Kepler will be carefully captured by its Reentry Breakup Recorder, collecting information on its position, attitude, temperature, pressure and other aspects of its breakup.
+The 9 kg ‘black box’ will start recording automatically for ATV’s last five minutes.
+It will then be jettisoned, protected by its own heatshield. At an altitude of 18 km it will transmit the stored data via the Iridium satphone system for analysis. The recorder will not be recovered.
+Some aspects of controlled destructive entries are still not well known so all in-situ measurements are welcome.
+Similar recorders may be used in future on satellites and spacecraft like black boxes on aircraft.

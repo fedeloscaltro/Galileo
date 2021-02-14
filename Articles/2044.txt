@@ -1,0 +1,27 @@
+2003-03-31
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Failure_investigation_technical_update_Space_Shuttle_Columbia_Info_note_no._4
+Failure investigation technical update:
+Space Shuttle Columbia – Info note no. 4
+ESA INFO 07-2003. The Columbia Accident Investigation Board (CAIB) continues their work into the investigation of the accident and a number of hearings are now being held in public.
+The chairman of the NASA Columbia Task Force (the body that supports the CAIB) gave a detailed briefing a few days ago to ESA and the other International Partners on the status to date.
+Over 40,000 lbs of debris have been recovered, representing 20% of the total Shuttle mass. However, nothing has yet been recovered west of Texas despite the fact that there is filmed evidence that debris had fallen over California. The search for debris in this area still continues.
+The Orbiter Experiments Recorder is the latest piece of important equipment to be found. This is a magnetic tape recorder that records data from various sensors during ascent and re-entry, which had not been tele-metered down to the ground. The recorder is currently at the Kennedy Space Centre and undergoing analyses.
+Positive evidence has also been found that a piece of debris, about 30 cm x 15 cm, had separated from the Shuttle on Flight Day 2 and had re-entered the atmosphere 3 days later. This was discovered from radar plot searches carried out after the accident.
+Extensive analysis of the aerodynamic behaviour of the Orbiter during its descent has taken place. Synthesis of the data indicates that there was already some form of damage at the point of ‘entry interface’ and there is evidence of gas (plasma) entering the left wing several minutes before loss of signal.
+There is evidence also of much greater damage having occurred 2-3 minutes before loss of signal. During this time, Columbia was rolling on its longitudinal axis in an anti-clock-wise motion and yawing to the left.
+Wind tunnel and thermal analyses have been conducted to show that shock interactions over a damaged left wing could produce similar temperatures as have been indicated by Columbia’s sensors, and that plasma flow through the natural vents of the wings and, eventually, the main landing gear wheel well, would lead to similar temperature excursions in that location as had been measured.
+Attention still focuses on the shedding of insulation foam from the External Tank during lift-off, and impacting the left wing as being a significant contributory event to the accident.
+The left wing main landing gear door has not yet been found, but all six tyres and two of the landing gears.
+The External Tank team is looking at improved foam adhesion and the feasibility of an on orbit inspection and repair capability for external Orbiter surfaces for future Shuttle missions.
+Also under investigation are improvements in the photographic coverage of critical mission events and alternative trajectory options for minimising re-entry heating.
+ISS status and short term plans
+All international partners involved in the ISS agree that the station should remain permanently manned.
+Discussions are currently underway with regard to the Shuttle’s return to flight and a specialised ‘Return to Flight’ team has been established by NASA.
+It has been agreed in principle that given the temporary grounding of the Shuttle fleet, the permanent crew should be reduced to two. This would come into effect from April 2003 when the next Soyuz flight would be used for a crew rotation.
+Agreements have been reached between ESA and Rosaviakosmos with respect to the scheduled Soyuz flights of ESA astronauts Pedro Duque and André Kuipers. Duque will now fly in October/November this year and Kuipers will fly in April/May 2004.
+The present three ISS crew members continue to focus on routine maintenance of the station systems and a survey of the station using the Canadarm2 robotic arm.
+ESA’s Microgravity Science Glovebox is again in operation. This allows the crew to carry out experimentation in a number of fields of research, including materials and fluid science, combustion, crystal growth and biotechnology.
+A detailed logistics plan covering the rest of 2003 and 2004 has been developed, including the role of ESA’s Automated Transfer Vehicle (ATV). The ATV is expected to be launched in September 2004 for the re-supply and re-boosting of the ISS.
+For further information, please contact:
+ESA Media Relations Service
+Tel: +33(0)1.53.69.7155Fax: +33(0)1.53.69.7690

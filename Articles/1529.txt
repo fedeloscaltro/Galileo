@@ -1,0 +1,10 @@
+2008-03-30
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/Jules_Verne_receives_go_for_next_step
+Jules Verne receives go for next step
+International Space Station managers have today given the go-ahead for Jules Verne ATV to proceed with the second of two demonstration days in the lead up to a first ISS docking attempt later in the week. On Monday, Demonstration Day 2 will see ATV approach to within 11 m of the ISS.
+"Having tested very successfully on Saturday the first part of the rendezvous, in particular using the relative GPS between that on Jules Verne and on the Russian Service Module of the ISS, we now have the go-ahead to the test the second part of the rendezvous which uses the optical sensors." said John Ellwood, ESA’s ATV Project Manager. "This will be very interesting, but we have a lot of confidence based on the great performance of Jules Verne during the first demonstration day."
+The first demonstration day proves Jules Verne ATV can perform relative navigation with the ISS using relative GPS to successfully and safely manoeuvre the spacecraft to a point located 3.5 km behind the ISS and at the same orbital altitude.
+Jules Verne ATV performed flawlessly during the manoeuvres, moving to within visible distance of the Space Station. Saturday’s demonstration also confirmed Jules Verne is able to establish a continuous two-way data link with the ISS.
+Demonstration Day 1 ended with an Escape command sent from the ATV Control Centre in Toulouse, France, successfully sending Jules Verne ATV away from the Space Station.
+During Demonstration Day 2, scheduled to start at 14:26 CEST (12:26 UT) on Monday 31 March, Jules Verne ATV will approach to a point just 11 m away from the docking port on the Russian Service Module Zvezda. ATV will also navigate for the first time using a laser-based optical system.
+Data collected during Demonstration Day 2 will be made available to ISS managers for their go-ahead to proceed with a first docking attempt on Thursday. Jules Verne ATV is scheduled to dock with ISS at 16:41 CEST (14:41 UT) on 3 April.

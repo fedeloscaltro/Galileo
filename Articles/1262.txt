@@ -1,0 +1,22 @@
+2010-10-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Facing_the_radiation_dangers_of_interplanetary_travel
+Facing the radiation dangers of interplanetary travel
+In principle, with enough money and expertise, it should be possible to build and fly a manned spacecraft to Mars and return safely to Earth. However, nobody knows yet how to deal with the dangerous cosmic radiation that floods through space.
+On Earth, our planet’s mass, atmosphere and magnetic field protect us from hazardous space radiation. Even astronauts on the International Space Station are flying within Earth’s magnetic field, shielded from most of the radiation.
+Our Sun is a strong source of radiation, a gigantic fusion reactor constantly sending out charged protons and other atomic particles and occasionally erupting like a volcano, throwing out intense, dangerous bursts of radiation.
+There are also powerful heavy ions coming from our galaxy, the Milky Way, which carry billions of times more energy than those from radioactivity on Earth.
+This galactic cosmic radiation is dangerous in itself, but when it smashes into spacecraft walls the shower of secondary particles can make the astronauts’ living quarters even more hazardous than being outside.
+Affecting us already
+Space radiation is a danger to the satellites we are using now. The energetic particles degrade solar panels and penetrate metal walls, threatening short-circuits and other severe electronic malfunctions. Some 12 satellites are known to have been lost because of solar storms.
+For humans, it seems safe enough if we stay close to Earth. Astronauts show no major radiation effects apart from a slightly elevated incidence of eye cataracts.
+Leaving Earth’s protection, however, means exposing astronauts to the severe galactic and solar radiation. Even staying on Mars is dangerous. The red planet has almost no protective magnetic field and the surface is bathed in high levels of radiation.
+Understanding how genetic material is modified through the protracted radiation exposure of a long interplanetary journey is important because it could raise the risk of cancer or cardiovascular disease later in life.
+Remarkably, an astronaut’s central nervous system also seems sensitive to radiation: brain functions such as cognitive processes and behaviour could be affected.
+Countermeasures against these dangers of deep space travel must be studied, including shielding materials and possible medical treatments.
+Do it with the accelerator
+ESA is launching an Announcement of Opportunity to study the effects of radiation exposure in a particle accelerator. The accelerator can create particles energetic enough to simulate the radiation environment of interplanetary space.
+ESA has been supporting accelerator research into the biological effects of space radiation since 2008. Scientists in ESA’s participating Member States are invited to propose investigations for a second round of experiments using the facility of the Gesellschaft für Schwerionenforschung, Darmstadt, Germany.
+For more information about the experiment requirements, please consult the full Announcement here. The deadline for the letters of intent is 12 November. There will be a proposal workshop at GSI in Darmstadt on 24 November. The proposals are due 17 January 2011.
+For more information, please contact:
+Oliver Angerer
+Tel: +31 71 565 3728Email: radbio@esa.int

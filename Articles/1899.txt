@@ -1,0 +1,30 @@
+2005-04-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Europe_goes_back_to_Mars
+Europe goes back to Mars
+PR 19-2005. European space scientists have strongly recommended a mission equipped with a Rover as the next scientific mission to Mars as part of the European Space Agency’s Aurora programme of planetary exploration.
+The mission would conduct a detailed analysis of the Martian environment and search for traces of past or present life. A launch in June 2011, followed by a two year journey, would arrive on the Red Planet in June 2013. A detailed proposal will be prepared for consideration by ESA member states at the Agency’s Council Meeting at Ministerial Level in December 2005.
+The recommendation was made by European scientists at an international space workshop held at Aston University, Birmingham, England on the 6th and 7th April 2005. The ESA workshop, hosted by the UK’s Particle Physics and Astronomy Research Council (PPARC), brought together space scientists and agency officials from Europe, Canada, North America and the international space community in order to debate robotic mission options up to 2013 in the first phase of the Aurora programme.
+Three candidate missions were considered: BeagleNet, ExoMars and its variant ExoMars-Lite. Consideration was also given to the preparatory activities needed to develop a sustainable, long-term Mars Exploration programme and how efforts to 2011 address the requirements of a Mars Sample Return (MSR) mission within an overall Aurora roadmap.
+Following scientific and technology presentations of each candidate mission an evaluation process was undertaken by the scientists measured against key criteria. The outcome and consensus of the workshop recommended a mission which blended key technologies and objectives from each of the candidate missions as the first robotic mission in the Aurora programme. This recommendation will form the basis of a detailed proposal by the scientific community to be considered at the ESA’s Council Meeting at Ministerial Level in December 2005.
+The recommended mission will consist of a Soyuz launcher to deliver a probe which includes at least one Rover for scientific exploration of the Martian environment. Telecommunications (data relay) between the probe and Earth will be achieved via NASA orbiting spacecraft. The Rover would be equipped with a suite of scientific instruments designed to search for traces of past or present life on Mars; to characterise the shallow subsurface water/geochemical composition and its vertical distribution profile; and to identify surface and environmental hazards to future human missions.
+Taking into account the exciting and scientifically intriguing results from ESA’s Mars Express orbiter the recommended mission will also incorporate instruments to specifically measure seismic phenomena which could be caused by volcanoes, hydrothermal activity or Marsquakes. The Rover will also contain a drill capable of penetrating the surface to a depth of 2m and a Beagle 2 type life marker experiment such as a Gas Analysis Package (GAP) capable of studying stable isotopes in the atmosphere, rocks, and soil. The entry, descent and landing system (EDLS) will utilise key technologies involving airbags and possibly retrorockets.
+To be launched by a Soyuz Fregat 2b vehicle in June 2011 from ESA’s spaceport at Kourou in French Guiana the probe and Rover would arrive on the surface of Mars in June 2013 after a two year voyage.
+Looking beyond 2011 the scientists confirmed their commitment to collaborating in an international Sample Return Mission in 2016 (which would include sample acquisition and handling, mobility and planetary protection), as a logical sequence to the recommended mission in the future roll out of ESA’s Aurora programme.
+Commenting on the workshop Prof. Jean Pierre Swings, Chair of ESA's Exploration Programme Advisory Committee, said, "This workshop has brought an extremely wide range of scientists together from a diverse range of disciplines to recommend what will be a tremendously exciting mission for European space. It builds upon the success of ESA’s Mars Express whilst driving new technologies that will form the foundation for the future development of the Aurora programme".
+In terms of UK involvement Dr. Mark Sims, University of Leicester and Chair of PPARC’s Aurora Advisory Committee was buoyant, "This is a great result for European planetary exploration with significant involvement for the UK. The UK community has worked hard to ensure that the Aurora programme reflects the scientific and industrial expertise we have in the UK and the recommended mission builds upon the heritage of Beagle 2 and Huygens. We look forward to making major contributions to this scientific mission of discovery to the Red Planet".
+Notes to Editors
+For further information, please contact :
+Peter Barratt
+PPARC Head of Communications
+Tel: +44 [0] 1793 442025
+Mobile: + 44 [0]7879 602899Email: peter.barratt@pparc.ac.uk
+Franco Bonacina
+European Space Agency
+Spokesman and Head of Media Relations Division
+Tel: +33 1 5369 7713
+Fax: + 33 1 5369 7690Email: franco.bonacina@esa.int
+Piero Messina
+European Space Agency
+Aurora Programme Communication
+Tel: +33 1 5369 7410
+Fax: +33 1 5369 7601Mobile: +33 6 8771 5126

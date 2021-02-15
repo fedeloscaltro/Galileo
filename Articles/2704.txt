@@ -1,0 +1,20 @@
+iews-9 -32
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Technology
+Technology
+ESA has a rich history of testing and demonstrating new technologies on the International Space Station. The outpost flies in vacuum unprotected by Earth’s atmosphere and offers a gruelling test-bed for high-tech experiments.
+Experiments into remote operations, energy efficiency and maritime surveillance will not only help make the planet a better place but pave the way for future space exploration.
+Remote control
+To turn remotely operated robots into a standard tool for space missions, ESA is connecting astronauts on the Space Station with machines on Earth. ESA’s Meteron project (Multipurpose End-To-End Robotic Operations Network) uses the Space Station as a testbed for future missions to the Moon and Mars.
+While orbiting Earth astronauts operate ESA’s Eurobot prototype in the Netherlands using screens and a joystick.
+Engineers are working to create a system that allows the crew to control a robot and feel what the robots touch. A first step is improving human-robot control with the Haptics experiment.
+Haptics is testing vibration technology in space to see how astronauts will react to feelings of touch being relayed from a robot to their hands. This technology can be used on Earth for remote surgery or for operating robots in dangerous environments.
+ESA tested pioneering augmented-reality devices on the International Space Station to free astronauts from consulting manuals and their hands to focus on the job. The first operations took place already in 2009, when ESA astronaut Frank de Winne used the Wearable Augmented Reality hardware inside Columbus. He was able to find and follow the procedures to replace a filter in the European lab without consulting bulky manuals.
+The device has a partially transparent viewing screen that uses voice-control to display 3D images and data. This hardware shows great possibilities as a hands-free computer reference aid for astronauts, combining multiple technologies such as object and speech recognition, bar-code reading and augmented reality. It holds possibilities for non-space applications that require dependability and ruggedness such as fire fighting.
+Monitoring sea traffic
+Outside Europe's space laboratory Columbus the Vessel ID system monitors ships and is the marine equivalent of air traffic-control systems.
+A satellite receiver identifies ships on the open seas within the field of view of the Space Station. On a good day, around 400 000 position reports are received from more than 22 000 ships.
+This experiment is part of ESA’s goal to develop a global maritime surveillance, for the security of people and infrastructure at sea, but also to help officials enforce environmental treaties such as fishing or preservation areas.
+Imaging technology
+ESA has developed and tested 3D technology on the International Space Station from as early as 2003. Getting 3D hardware to work well in microgravity is challenging but the experience is helping to improve virtual reality simulators and to share an astronaut’s view of the Space Station.
+ESA’s 3D video camera has taken high-definition recordings of life on the station to share with people on Earth.
+The NightPod Tracking Device has been on the Station since 2012. A night-time camera aid for astronauts has a two-way nodding mechanism to track points on Earth. Installed in the Cupola observation module it allows astronauts to take high-definition pictures of Earth, especially at night for scientists, education and for everybody to enjoy.

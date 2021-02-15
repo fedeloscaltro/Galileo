@@ -1,0 +1,17 @@
+views-33-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Mars_sample_return
+Mars sample return
+Missions to Mars have made many exciting discoveries that have transformed our understanding of the planet, but the next step is to bring samples to Earth for detailed analysis in sophisticated laboratories.
+Orbiters, landers and rovers sent to Mars carry compact equipment and instruments that limit the science that can be achieved on any given mission. Studying Mars samples on Earth will allow scientists to share resources and send samples to the best laboratories around the world for analysis – laboratories so complicated and heavy they would be impossible to take to Mars.
+Here, they can be analysed by the most sophisticated equipment and techniques, in turn allowing scientists to verify results independently. In addition, as our equipment improves and new advances are made, samples can be reanalysed and new information extracted – as continues to happen on lunar samples brought to Earth in the 1960s and 1970s.
+Bringing Mars to Earth
+Bringing samples from Mars is the logical next step for robotic exploration and it will require multiple missions that will be more challenging and more advanced than any robotic missions before. Accomplishments in robotic exploration in recent years have increased confidence in success – multiple launches will be necessary to deliver samples from Mars.
+ESA is working with NASA to explore mission concepts for an international Mars Sample Return campaign between 2020 and 2030.
+Three launches will be necessary to accomplish landing, collecting, storing and finding samples and delivering them to Earth.
+NASA’s Mars 2020 mission will explore the surface and rigorously document and store a set of samples in canisters in strategic areas to be retrieved later for flight to Earth.
+Two subsequent missions are foreseen to achieve this next step.
+A NASA launch will send the Sample Return Lander mission to land a platform near the Mars 2020 site. From here, a small ESA rover – the Sample Fetch Rover – will head out to retrieve the cached samples.
+Once it has collected them in what can be likened to an interplanetary treasure hunt, it will return to the lander platform and load them into a single large canister on the Mars Ascent Vehicle (MAV). This vehicle will perform the first liftoff from Mars and carry the container into Mars orbit.
+ESA’s Earth Return Orbiter will be the next mission, timed to capture the basketball-size sample container orbiting Mars. The samples will be sealed in a biocontainment system to prevent contaminating Earth with unsterilised material before being moved into an Earth entry capsule.
+The spacecraft will then return to Earth, where it will release the entry capsule for the samples to end up in a specialised handling facility.
+ESA and NASA are exploring the concepts for these missions, with ESA assessing the Sample Fetch Rover and Earth Return Orbiter. These will provide input to ESA’s 2019 council at ministerial level, where approval will be sought for the missions.

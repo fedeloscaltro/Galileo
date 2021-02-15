@@ -1,0 +1,11 @@
+2016-03-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Landing_site
+Landing site
+The ExoMars 2022 mission will land in the Oxia Planum region on Mars, following the recommendation of the Landing Site Selection Working Group in 2018
+Oxia Planum contains one of the largest exposures of rocks on Mars that are around 3.9 billion years old and clay-rich, indicating that water once played a role here. The site sits in a wide catchment area of valley systems with the exposed rocks exhibiting different compositions, indicating a variety of deposition and wetting environments.
+A period of volcanic activity may have covered early clays and other aqueous deposits, offering preservation for biosignatures against the planet’s harsh radiation and oxidation environment, and have been exposed by erosion only within the last few hundred million years.
+During the selection process the criteria included both scientific and engineering factors. For example, the rover should land at a scientifically interesting site or find one within a 1 km drive from the touchdown point. Numerous targets should also be accessible along a typical 2 km traverse planned for the nominal mission of 218 martian days (each 24 hours 37 minutes).
+At the same time, engineering and operational constraints are needed to ensure the safe entry, descent and landing of the entry module. These include a relatively low-lying site, in order that the module passes through enough atmosphere for the completion of key events such as parachute opening and deceleration. The horizontal and vertical wind speeds expected during the descent must also be also considered.
+Knowledge of how the terrain slopes over various scales is important, because the lander uses radar to monitor its velocity and altitude. Slopes can alter the degree of certainty in the measured distance to the ground, with implications for fuel consumption and landing. Steep slopes and boulders taller than 35 cm – the clearance beneath the landing module – need to be avoided, although the rover will be able to navigate around local hazards after egress.
+More about...
+Choosing a landing site

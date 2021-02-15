@@ -1,0 +1,8 @@
+iews-9 -73
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/TGO_s_orbit_around_Mars
+TGO's orbit around Mars
+While Schiaparelli was landing on Mars, TGO conducted a critical engine burn with its main engine – the Mars Orbit Insertion manoeuvre. This slowed TGO sufficiently to be captured into an initial orbit, and lasted for over two hours. It was the second time that ESA has placed a spacecraft into orbit around the Red Planet.
+The initial highly eccentric orbit took TGO four martian days to complete one revolution, with its altitude above Mars varying between a few hundred kilometres at its closest point and nearly 100 000 km at its furthest.
+In January 2017 TGO’s orbit was adjusted to an inclination of 74°, which is optimised for its science and radio relay missions, and it will moved from a 4-day to a 1-day orbit.
+During 2017 it used sophisticated aerobraking techniques – the first time ESA has done so to attain a science orbit around another body in our Solar System – to steadily lower itself to a circular, 400 km orbit.
+With aerobraking, the TGO solar array will experience tiny amounts of drag owing to the wisps of martian atmosphere at very high altitudes, which will slow the craft and lower its orbit. While aerobraking takes time, it uses very little fuel and will itself provide scientific insight into the dynamics of Mars’ atmosphere.

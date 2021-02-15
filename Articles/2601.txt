@@ -1,0 +1,10 @@
+views-64-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Trace_Gas_Orbiter_instruments
+Trace Gas Orbiter instruments
+The main objectives of the Trace Gas Orbiter (TGO) mission are to search for evidence of methane and other trace atmospheric gases that could be signatures of active biological or geological processes on Mars.
+TGO has four suites of science instruments: ACS (Atmospheric Chemistry Suite), CaSSIS (Colour and Stereo Surface Imaging System), FREND (Fine Resolution Epithermal Neutron Detector) and NOMAD (Nadir and Occultation for MArs Discovery).
+ACS and NOMAD, comprising three spectrometers each and covering complementary wavelengths, are charged with taking a detailed inventory of Mars’ atmospheric trace gases, and will monitor seasonal changes in the atmosphere’s composition and temperature in order to create detailed atmospheric models. The instruments also have the capability to detect minor atmospheric constituents that may exist but have yet to be detected.
+To complement these measurements, CaSSIS will image and characterise features on the martian surface that may be related to trace-gas sources such as volcanoes.
+Meanwhile, FREND will map subsurface hydrogen to a depth of one metre to reveal deposits of water-ice hidden just below the surface, which, along with locations identified as sources of the trace gases, could influence the choice of landing sites of future missions.
+More about...
+TGO’s missionTGO’s instruments

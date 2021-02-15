@@ -1,0 +1,22 @@
+iews-2 -88
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Luna
+Luna
+ESA is working with the Russian space agency Roscosmos to go to the Moon on their Luna missions. Three Luna missions, two landers and one orbiter, are planned for the next years and European technology, science and infrastructure will be part of the adventure.
+When Luna-25 lands on the Moon, it will image the terrain with a European Pilot-D camera built specifically for landing. The data collected by this camera will be used to prepare for ESA’s next challenge: landing on the Moon with high-precision and avoiding hazards using European technology.
+Two years after Luna-25, the Luna-26 orbiter will be sent to lunar orbit for remote scientific measurements and as a possible communications relay for the next lander mission. It will transmit data back to ground stations on Earth, including ESA’s ground station network.
+Piloting Luna-27 with precision
+The Luna-27 lander will be launched one year after Luna-26 and will be larger than its predecessor Luna-25. It will fly to a challenging landing site closer to the lunar south pole using a European system called Pilot as its main navigation system.
+This optical navigation system will process images of the lunar surface using a powerful computer on the spacecraft. Similarly to facial recognition software on a mobile phone, but infinitely more difficult in space, the system will identify landmarks such as craters during descent and match them with a set of landmarks stored in a database on the spacecraft.
+Pilot will also use the motion of the terrain observed by the camera to improve estimates of the lander’s velocity.
+Avoiding hazards at touchdown
+Two minutes before touchdown, the landing site will come into Luna-27’s field of view and the Pilot computer will begin its detailed analysis of the terrain. Think of automatic car parking but travelling at huge speeds. Also, the parking place is on the Moon, at dusk, without headlights and with no second chance.
+At this stage, the camera will be complemented by a scanning lidar sensor, which uses laser pulses to reconstruct the terrain’s topography.
+While the camera needs light to capture images of the Moon, lidar is unaffected by the harsh lighting conditions in the south pole region. Similar technology was demonstrated when the last European Automated Transfer Vehicle docked with the International Space Station in 2015. Laser beams scan the view and report to a computer, allowing the spacecraft to avoid hazards and choose the ideal landing or docking approach.
+Many questions need to be answered by Pilot’s computer algorithms. Is the designated landing site sunlit or in the shade? Are there large boulders, craters or slopes that could threaten a safe touchdown? Is there enough fuel left to change course and reach a safer site?
+Prospecting the Moon
+The main goal of the Luna-27 lander is to study the composition of the soil near the lunar south pole. Water is a key target: there may be concentrations of frozen water at or below the surface.
+There are vast unexplored regions on the Moon. Prospect will allow scientists to better understand the terrain and prepare missions in which lunar soil can be used to create oxygen or fuel for example.
+Once settled peacefully on the surface of the Moon, Luna-27 will deploy the European Prospect drill that will search for water ice and other chemicals under the surface, together with another Russian instrument. Operating at temperatures of –150 °C and drilling over one metre down, Prospect first needs to penetrate the frozen surface.
+Prospect includes a miniature laboratory to analyse the soil samples retrieved by the drill. Precise measurements will help unearth the secrets of Moon’s history and indicate whether future explorers could use lunar resources on their missions to help set up a lunar base.
+The lunar south pole region is of great interest to lunar researchers and explorers because the low angle of the Sun over the horizon leads to areas of partial or even complete shadow. These shadowed areas and permanently dark crater floors, where sunlight never reaches, are believed to hide water ice and other frozen substances that could be used to produce resources such as oxygen and propellant in the future.
+Answering questions such as how much water is present and how accessible it is will help plan future missions involving the use of local resources.

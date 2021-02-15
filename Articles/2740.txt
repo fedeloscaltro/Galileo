@@ -1,0 +1,7 @@
+iews-8 -82
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/ATV_training
+ATV training
+The Automated Transfer Vehicle (ATV), 20 tonnes and the size of a double-decker London bus, is the largest spacecraft ever built in Europe. The unmanned vehicle will be used to ferry cargo to the International Space Station and to raise its orbit. Astronauts and cosmonauts have to undergo numerous in-depth training sessions to learn how to operate ATV in orbit.
+To be able to implement an ATV training class at the European Astronaut Centre (EAC) in Cologne, Germany, you need just four essential ingredients:
+These four ingredients thrown into one training pot and carefully stirred, result in an intricate ATV training schedule at EAC, divided into two one-week training modules.
+Features of ATV training:

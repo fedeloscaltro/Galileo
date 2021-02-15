@@ -1,0 +1,10 @@
+iews-1 -92
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/How_ExoMars_2016_got_to_Mars
+How ExoMars 2016 got to Mars
+The ExoMars 2016 mission was launched on a four-stage Proton-M/Breeze-M rocket, provided by Roscosmos, from Baikonur on 14 March 2016. About ten-and-a-half hours after launch, the spacecraft separated from the rocket and deployed its solar wings.
+After separation, command and control of the spacecraft was carried out by ESA’s mission control teams at ESOC, supported by experts from flight dynamics, ground stations and software systems.
+In the first six weeks following launch the spacecraft was commissioned, when all the systems and instruments are checked out and verified. Then it entered the cruise phase. At the end of July the Trace Gas Orbiter carried out one of the most critical activities during its cruise to Mars: a very large engine burn that changed its direction and speed to intersect the Red Planet on 19 October.
+Critical arrival activities began on 16 October. Prior to dispatching Schiaparelli, TGO has to perform a slew, rotating about its axes to a specific orientation in space. About 12 hours after Schiaparelli separated, TGO will fired its engine to raise its trajectory to several hundred kilometres above the planet. Otherwise, like Schiaparelli, it would also enter the atmosphere.
+Thus Schiaparelli entered the atmosphere and carried out its descent and landing sequence on Mars on 19 October, while TGO entered orbit around the Red Planet.
+More about...
+How Schiaparelli will land on Mars How TGO will go into orbit

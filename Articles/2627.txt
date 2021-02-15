@@ -1,0 +1,25 @@
+iews-7 -31
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Facts_about_the_Soyuz
+Facts about the Soyuz
+ESA astronaut André Kuipers shared a ride with his crewmates Oleg Kononenko and Don Pettit in a Soyuz TMA-M spacecraft. The capsule was boosted into space on a Soyuz FG rocket from the Baikonur Cosmodrome in Kazakhstan. The launch took place during the night, just one hour after sunset, from the Gagarin pad, the same site that launched the first human into space half a century ago.
+“I have to assist commander Oleg Kononenko from the left seat when approaching the ISS. I really enjoy manoeuvring the capsule together and docking smoothly with the Station. Even during the simulations, my heart beats faster and I feel my adrenaline rising,” said André before launch.
+Soyuz rockets are the longest-serving route to space. The design goes back to the Vostok launcher, which was used for the first manned spaceflight in 1961 to carry the Russian cosmonaut Yuri Gagarin.
+The Soyuz spacecraft shares the same name as its launcher – which means ‘union’– and can manoeuvre, rendezvous and dock in orbit. With a height of 1.85 m, André fit in the third of the TMA-M series, the latest upgrade to Russia’s legendary manned vehicles.
+The ‘digital Soyuz’
+The modernised Soyuz was used for qualification tests, including verification of the manual control modes. The new displays made it easier for the crew to manoeuvre the spacecraft.
+It is informally known as the ‘digital Soyuz’, referring to the advanced flight control computer that replaces the one that had been used on it for more than 30 years.
+Obsolete pieces were replaced with new-generation devices and the total mass has been reduced by 70 kg. Systems introduced in this round of modifications are meant to pave the way for the development of a new manned vehicle.
+Each Soyuz spacecraft remains docked to the ISS for about six months to serve as a lifeboat. If necessary, Soyuz vehicles can change their docking location to clear the occupied docking port for another approaching supply craft.
+Modules
+Orbital ModuleIt is used only in space and acts as living quarters, with hygiene and sleeping facilities. Astronauts will spend two days inside it before docking.
+Descent ModuleThis is the only module to return to Earth and is therefore designed to resist the aerodynamic stresses of reentry into the atmosphere.
+Soyuz-FG Launcher characteristics
+Diameter: 10.3 m
+Total launch mass: 310 t
+Launch performance payload: 7150 kg
+Propellant mass: 157 tHeight: 49.5 m
+Soyuz TMA-20 Spacecraft dimensions
+Diameter: 2.7 m
+Total launch mass: 7.1 t
+Length: 7 m
+Width (solar array deployed): 10.7 mVolume: 7.2 m³

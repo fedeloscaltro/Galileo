@@ -1,0 +1,18 @@
+iews-0 -17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Exposure_to_space_and_Mars
+Exposure to space and Mars
+Aside from the lack of pressure and oxygen in the vacuum of space, temperatures vary dramatically because there is no atmosphere to protect and insulate against the full spectrum of the Sun’s rays. Until recently, scientists always assumed that no life could survive in these conditions.
+However, ESA research has found life that can survive spaceflight. Both lichen and small organisms called tardigrades or ‘water bears’ have spent months outside the International Space Station and have returned to Earth alive and well.
+This research has far-reaching implications: life can travel unprotected through the Solar System.
+During the Futura mission a third set of samples were set outside of the Station. Small samples are stored in separate modules in the Expose rack.
+For its third sortie, Expose has an extra type of accommodation: by adding UV filters and regulating the pressure in some of the modules, some samples will be subjected to Mars and Moon-like conditions. How will these chemicals and extremophiles – lifeforms that can live in extreme environments – fare after a year in open space?
+The following experiments are part of Expose:
+Biomex
+This set of experiments will expose a number of biological molecules such as pigments and parts of cells to space or environments similar to those found on the surface of Mars and our Moon. The data on these samples will help future exploration of our Solar System.
+A secondary objective is to see if any extremophiles will survive a year in similar conditions as found on the Moon and Mars.
+Boss
+Most bacteria do not live on their own, but grouped together in biofilms. The Biofilm Organisms Surfing Space – Boss – experiment will expose biofilms to vacuum to see if power by numbers can withstand space.
+Bacteria in biofilms are notoriously tough and able to withstand more than other small organisms such as plankton. This research will shed light on the origin of life in the Universe.
+Photochemistry on the Space Station
+Most life on Earth relies on the Sun in some way for energy, and laboratories all over the world study how solar rays are absorbed and processed. These studies are missing an element of our Sun’s rays, however. Our atmosphere blocks light from the lower end of the spectrum – below 200 nanometres – and recreating these wavelengths in a laboratory is difficult.
+This experiment will test organic compounds and biochips to see how they react to solar rays that we do not experience on Earth at the only place possible – outside of our atmosphere. The results will help in designing biochips for missions to Mars as well as shed light on how organic matter exists on comets, meteorites, Mars and other places without a protective atmosphere.

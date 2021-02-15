@@ -1,0 +1,19 @@
+iews-8 -15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Meteron_space_internet_to_control_rovers
+Meteron: space internet to control rovers
+Space is such a harsh place for humans and machines that future exploration of our Solar System will most likely involve sending robotic explorers to “test the waters” on uncharted planets before sending humans. The Multi-Purpose End To End Robotics Operations Network, or Meteron, project is preparing for that future.
+Landing humans on a distant object is one thing, but they will also need the fuel and equipment to work and return to Earth when done. Sending robots to scout landing sites and prepare habitats for humans is more efficient and safer, especially if the robots are remotely controlled by astronauts who can react and adapt to situations better than computer minds.
+Radio signals take up to 12 minutes to reach nearest neighbour Mars, so it could take 24 minutes before an operator would know how a robot reacted to a new command. To overcome this problem, ESA is preparing to have astronauts control robots on the surface as they orbit a planet in their spacecraft.
+Meteron is developing the communication networks, robot interfaces and hardware to operate robots from a distance in space. The International Space Station is used as testbed, with astronauts controlling rovers on Earth.
+Space internet
+The first step to controlling robots from space requires a form of Internet to send commands and receive information back.
+A new network protocol called the Disruption Tolerant Network assures correct operation even in less-than-ideal conditions.
+This protocol stores commands if a signal is lost and forwards them once communication is returned over extremely long distances.
+Watch, feel and react
+Being able to send commands is one thing, but deciding how is another challenge the Meteron team are working on. Before using the Space Station’s external robotic arm, astronauts need time to set up its workstation. Operation requires two people – far from ideal in a scenario where swarms of planetary rovers with multiple arms need to be controlled to perform science or build space bases.
+Meteron is testing ways of interacting with robots from afar that allow an astronaut to send commands, observe reactions by controlling accompanying ‘video-rovers’ and interrupt when necessary.
+Improving interaction further will require feedback of what a robot experiences, extending from visual displays to sensory feedback – a remote sense of touch. This is extremely important in determining the amount of force needed for the most complex tasks, such as picking up rock samples or installing equipment: most people can tie their shoes without looking, but not on a cold winter night with numb fingers.
+Harnessing reliable feedback, an astronaut controller could automatically adjust the force their robot needs to do very fine, precise work, offering truly remote hands to do the ‘dirty work’ safely.
+On Earth
+Research into controlling robots from afar with robust communications has great potential for use on Earth.
+Finding earthquake survivors, investigating nuclear fallout or scientific expeditions to the bottom of our oceans or volcanoes would all benefit from robotic explorers controlled over the Disruption Tolerant Network.

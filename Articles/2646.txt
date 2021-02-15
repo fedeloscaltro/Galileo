@@ -1,0 +1,24 @@
+iews-5 -74
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/Facts_about_the_Soyuz
+Facts about the Soyuz
+ESA astronaut Paolo Nespoli shared a ride with his crewmates Dmitri Kondratiev and Catherine Coleman in a Soyuz TMA spacecraft that boosted into space on a Soyuz FG rocket from the Baikonur Cosmodrome in Kazakhstan.
+Inside the spacecraft, Paolo was the prime flight engineer. Seated to the left of commander Dmitri Kondratiev, the European astronaut assisted him in flying the vehicle up to orbit and then to the Station.
+For more than 40 years, Soyuz rockets have been launched into space – they are the longest-serving route to space. The design goes back to the Vostok launcher, which was used for the first manned spaceflight in 1961, carrying Yuri Gagarin.
+The Soyuz spacecraft can manoeuvre, rendezvous and dock in orbit. This was the 20th in the TMA series, which allows a greater height and weight range for the three astronauts (the ‘A’ stands for anthropometric).
+With a height of 1.88 m, Paolo is one of the tallest members of the European Astronaut Corps and he will use the space inside the capsule to the last centimetre.
+Each Soyuz spacecraft remains docked to the International Space Station for about six months to serve as a lifeboat. If necessary, Soyuz vehicles can change their docking location to clear the occupied docking port for another approaching supply craft.
+The latest version of Soyuz Paolo flew in was the TMA-M. It had new, fully digital flight computers and systems. Weighing less than the previous equipment, it allowed Soyuz to carry more payload.
+Modules
+Orbital ModuleThis spherical module is used only in space and acts as living quarters, with hygiene and sleeping facilities. The orbital flight phase before docking usually lasts two days.
+Descent ModuleThis is the only module to return to Earth and so is designed to resist the aerodynamic stresses of reentry into the atmosphere. The module descends slowly under a parachute and lands on the steppes of Kazakhstan, within reach of recovery helicopters.
+Three individually moulded crew seats are situated at the bottom of the spacecraft’s interior, below the instrument panel. Their shock-absorbing material softens the landing, together with retro-rockets slowing the speed just before touchdown.
+Soyuz-FG Launcher characteristics
+Diameter: 10.3 m
+Total launch mass: 310 t
+Launch performance payload: 7150 kg
+Propellant mass: 157 tHeight: 49.5 m
+Soyuz TMA-20 Spacecraft dimensions
+Diameter: 2.7 m
+Total launch mass: 7.1 t
+Length: 7.2 m
+Width (solar array deployed): 10.6 mVolume: 7.2m³

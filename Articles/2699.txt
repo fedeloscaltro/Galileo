@@ -1,0 +1,11 @@
+iews-3 -85
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Plants
+Plants
+Cultivating plants for food was a significant step in the history of mankind. Growing plants for food in space and on other planets will be necessary for exploration of our Universe.
+Stems and leaves grow towards the light and against gravity, while roots follow gravity. What role does gravity play in this process and what can we learn from growing plants in weightlessness? Which unknown aspects of plants will be discovered by this kind of research?
+Research in space focuses on the Arabidopsis thaliana plant, a model plant used as a reference for biologists. It has already been shown that plants 'feel' gravity at a cellular level, mainly in cells located at the tip of the root. Experiments on the International Space Station are investigating how this process works, from the primary step of sensing gravity to investigating how the whole plant responds.
+One of the experiments flown on the Space Station, GRAVI-1, looked at the smallest level of gravity a plant can sense. The results imply that plant's sense of gravity is amplified, because they react to very-low gravity levels.
+The Tropi experiments used weightlessness to examine how plants react to different light wavelengths. On Earth this research is not possible because gravity skews the results. The experiment showed that they react strongly to red light – a throwback from ancient genes that may still exist and influence modern plants.
+Hormones play a central role in plant development and observing how plants react to the stress of altered gravity is providing clues as to how these hormones influence plant behaviour.
+Further ESA experiments using plants are set to head to the International Space Station. This research is providing basic information to prepare humans harvesting crops from space gardens on long trips from Earth. Closer to home, the information is helping us to create more efficient greenhouses, with plants that can grow in areas with little space or light.
+ESA has a dedicated facility on the Space Station to grow seedlings for several days with proper light and nutrients. In addition parabolic flights are run each year offering high-quality research studying the effects of rapid changes in gravity on plant growth.

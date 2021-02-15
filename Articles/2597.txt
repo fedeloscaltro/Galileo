@@ -1,0 +1,4 @@
+iews-2 -64
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/What_is_a_trace_gas
+What is a trace gas?
+A trace gas makes up less than 1% by volume of a planet’s atmosphere. Trace gases in the martian atmosphere include methane, water vapour, nitrogen dioxide and acetylene. Although making up a very small amount of the overall atmospheric inventory, methane in particular holds key clues to the planet’s current state of activity.

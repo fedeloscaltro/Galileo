@@ -1,0 +1,11 @@
+views-59-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_2022_rover
+ExoMars 2022 rover
+A European rover is part of the 2022 mission of the ExoMars programme that will also deliver a Russian surface platform to Mars.
+The rover will be the first mission to combine the capability to move across the surface and to study Mars at depth.
+It will collect samples with a drill down to a depth of 2 m and analyse them with next-generation instruments in an onboard laboratory. Underground samples are more likely to include biomarkers, since the tenuous martian atmosphere offers little protection from radiation and photochemistry at the surface.
+The primary objective is to land the rover at a site with high potential for finding well-preserved organic material, particularly from the very early history of the planet.
+The rover is expected to travel several kilometres during its mission.
+More about...
+ExoMars rover mission
+Rover instrumentsRover drill

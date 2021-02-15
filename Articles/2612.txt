@@ -1,0 +1,15 @@
+iews-6 -51
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Mars500/The_isolation_facility
+The isolation facility
+The Mars500 isolation facility in which the crew was based was located in a special building on the IBMP site in Moscow. This building comprised of the isolation facility itself, as well as the operations room, technical facilities and offices.
+The layout of the isolation facility comprised of four hermetically sealed interconnected habitat modules, in addition to one external module, which was used to simulate the 'Martian surface'. The total volume of the habitat modules is 550 m3.
+The individual modules were as follows:
+Medical module
+The medical module was 3.2x11.9 m and housed two medical berths, a toilet and equipment for routine medical examinations and telemedical, laboratory and diagnostic investigations. If a crewmember became ill, he was isolated and treated here.
+Habitable module
+This module was the main living quarters for the crew. The 3.6x20 m module comprised of six individual compartments for the crewmembers, a kitchen-dining room, a living room, the main control room and a toilet. The individual compartments (bedrooms), which were 2.8-3.2 m2 had a bed, a desk, a chair and shelves for personal belongings.
+Mars landing module simulator
+The Mars landing module simulator was only used during the 30 day 'Mars orbiting' phase. The 6.3x6.17 m module accommodated up to three crewmembers and had 3 bunk beds, 2 workstations, a toilet, a control and data collection system, a video control and communications system, gas analysis system, air-conditioning and ventilation system, sewage system and water supply, and a fire alarm and suppression system.
+Storage module
+This 3.9x24 m module was divided into four compartments:
+The technical installations included all necessary equipment for running the study (communications and control, ventilation and air supply, water supply, electrical installations, sewerage, air and water quality monitoring and partial recycling, medical equipment, fire and other safety monitoring systems, emergency equipment, etc.). The crew stayed in those modules under conditions of artificial atmospheric environment at normal barometric pressure.

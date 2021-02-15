@@ -1,0 +1,27 @@
+iews-4 -25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/Blue_Dot_key_dates_and_facts
+Blue Dot key dates and facts
+Mission
+Expeditions 40/41 to the International Space Station
+Launch site
+Baikonur, Kazakhstan
+Spacecraft
+Soyuz TMA-13M
+Space Station launch designation
+39s
+Launch date
+28 May 2014 19:57 GMT (21:57 CEST; 29 May 01:57 local time)
+Launcher
+Soyuz-FG
+Docking
+01:44 GMT (03:44 CEST), six hours after launch
+Hatch open
+03:52 GMT (05:52 CEST), 90 minutes after docking
+Landing
+10 November 03:58 GMT (04:58 CET)
+Mission duration
+166 days
+Crew
+Maxim Suraev, Roscosmos
+Gregory Reid Wiseman, Flight Engineer, NASA
+Alexander Gerst, Flight Engineer, ESA

@@ -22,7 +22,11 @@ def main():
     for filename in os.listdir("Articles"):     # iterate on every file in the directory of articles
         with open("Articles/"+filename, 'r', encoding='utf-8') as file:
             article_date = file.readline().replace("\n", "")    # extract the date from the file
-            article_date = datetime.datetime.strptime(article_date, "%Y-%m-%d")     # convert the string in a date obj
+            try:
+                article_date = datetime.datetime.strptime(article_date, "%Y-%m-%d")     # convert the string in a date obj
+            except (ValueError):
+                article_date = datetime.datetime.strptime("1970-01-02", "%Y-%m-%d")
+            
             path = file.readline()
             title = file.readline()
             article_content = ""

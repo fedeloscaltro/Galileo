@@ -1,0 +1,12 @@
+iews-9 -36
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Radiation
+Radiation
+Away from Earth’s atmosphere, the International Space Station is exposed to the hostile environment of space. This orbital location has advantages: it makes the outpost a precious platform for observing the Sun and cosmic radiation over a long period of time.
+Outside Earth’s protective atmosphere, radiation is everywhere: high-energy particles from the Sun, protons, electrons and ions are attracted by Earth’s magnetic field while cosmic rays bombard us from beyond the Solar System.
+Radiation levels in space are up to 15 times higher than on Earth and radiation can have severe health consequences for astronauts as well as damage materials, electronic components and solar cells. The International Space Station's shell does offer some protection.
+Understanding radiation, its interaction with the Station and its impact on humans is important for long-duration flights beyond Earth. Several experiments have been monitoring radiation across the entire Station to help scientists understand it and develop efficient shielding.
+Here comes the sun
+The Sun is our star, our main source of light and energy. Only by analysing solar activity in more detail can we hope to understand the physical mechanisms at work in this gigantic fusion reactor.
+Instruments that make up ESA’s Solar facility on the Columbus module have been studying the Sun’s irradiation with extreme accuracy across most of its spectral range since 2008.
+Scientific data from Solar are helping scientists improve climate models and sharpen future climate forecasts. Its instruments will help build an even more detailed picture of sunspots, flares and our star’s magnetic field. Scientists also hope to better distinguish between the Sun’s impact and human influence on Earth’s climate.
+The data from this experiment can aid satellite design to prolong their life. The readings will contribute to more accurate navigation data, as well as more precise satellite and space-debris orbit predictions.

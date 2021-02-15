@@ -1,0 +1,17 @@
+iews-8 -16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/Exposure_to_space_and_Mars
+Exposure to space and Mars
+Aside from the lack of pressure and oxygen in the vacuum of space, temperatures vary dramatically because there is no atmosphere to protect and insulate against the full spectrum of the Sun’s rays. Until recently, scientists always assumed that no life could survive in these conditions.
+But ESA research has found life that can survive spaceflight. Both lichen and small organisms called tardigrades or ‘water bears’ have spent months attached to the outer shell of the International Space Station and have returned to Earth alive and well. This research has far-reaching implications. For example, life could perhaps travel through our Solar System.
+ESA has a long history of experiments exposing  life to the harsh conditions of space. Satellites carrying microorganisms and organic chemicals are the only way to experiment with the space environment. The International Space Station offers a practical permanent laboratory for exobiology research and multiple experiments have submitted life forms to the daunting environment outside our protective atmosphere.
+During the Blue Dot mission a third set of samples was installed outside the Station. These organic chemicals and organisms will have a third-class ticket on the orbital outpost – stuck on the outside. Small samples are stored in separated modules in a case called the Expose facility. Expose-R2 was installed on the Russian part of the Station during a spacewalk.
+By adding UV filters and regulating the pressure in some of the modules, some samples are subjected to Mars- and Moon-like conditions. How will these chemicals and extremophiles – lifeforms that can live in extreme environments – fare after a year’s deep-space travel?
+The following experiments are part of Expose-R2.
+Biomex
+This set of experiments expose a number of biological molecules such as pigments and parts of cells to space or environments similar to those found on the surface of Mars and our Moon. The data on these samples will help future exploration of our Solar System.
+A secondary objective is to see if any extremophiles will survive a year in similar conditions as the Moon and Mars.
+Boss
+Most bacteria do not live on their own but grouped together in biofilms. The Biofilm Organisms Surfing Space experiment will expose biofilms to vacuum to see if power by numbers can withstand space.
+Bacteria in biofilms are notoriously tough and able to withstand more than other small organisms such as plankton. This research will shed light on the origin of life in the Universe.
+Photochemistry on the Space StationMost life on Earth relies on the Sun in some way for energy and laboratories all over the world study how solar rays are absorbed and processed. These studies are missing an element of our Sun’s rays, however. Our atmosphere blocks light from the lower end of the spectrum – below 200 nm – and recreating these wavelengths in a laboratory is difficult.
+This experiment tests organic compounds and biochips on the Expose facility to see how they react to solar rays that we do not experience on Earth at the only place possible: outside our atmosphere. The results will help to design biochips for missions to Mars as well as shed light on how organic matter survives on comets, meteorites, Mars and other places without a protective atmosphere.

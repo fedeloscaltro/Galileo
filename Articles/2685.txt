@@ -1,0 +1,5 @@
+iews-7 -35
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lessons_online/A_space_compass
+A space compass
+A space compass is a multimedia lesson on rotational mechanics for upper secondary students (17-19 years old) focused on the rotational motion of rigid bodies and gyroscopic effects in a weightless environment. The lesson contains embedded video clips recorded on board the ISS and on ground.
+You can download the zipped lesson [Format: Power Point presentation (10.9 MB)] by clicking here.

@@ -1,0 +1,20 @@
+iews-2 -47
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Biology
+Biology
+Triplelux-B
+This experiment uses ESA’s Biolab facility in the Columbus laboratory on the International Space Station. Flying to space is harmful to living beings and on a cellular level radiation takes its toll while weightlessness seems to impair immune systems.
+Triplelux aims to understand the negative mechanisms at a cellular level by clearly separating the effects of microgravity from other factors in spaceflight. Cells from the immune system called leukocytes absorb bacteria as a first line of defence against infections. In a cellular process called phagocytosis, the leukocytes envelop a foreign body and then zap it with oxygen to finish it off. In this experiment, leukocytes will be observed as they ingest a safer stand-in for bacteria called Zymosan, a harmless molecule that triggers similar immune responses.
+Triplelux looks at immune cells from three sources (rats, bacteria and mussels) and exposes them to weightlessness, normal gravity on Earth and simulated gravity in space. ESA’s Kubik centrifuge on the Station spins the samples while in space so they feel the equivalent force of gravity.
+After 90 minutes the samples are frozen at –80°C in one of the Station’s scientific freezers before their trip back to Earth for analysis.
+Triplelux-A examines immune cells called macrophages from rats to see how they respond to Zymosan. Triplelux-B is the second part of this experiment series, which analyses haemocyte cells from the common blue mussel.
+Running these experiments should show once and for all whether it is microgravity, radiation or a combination of these factors that influence these aspects of immune systems during spaceflight.
+The findings will help to safeguard astronaut health and people on Earth with similarly weakened immune systems such as sufferers of Chronic Granulomatous Disease.
+Seedling Growth-2
+Most plants need light to grow but plants on the International Space Station adapt to living with 16 sunrises and sunsets each day under artificial light. Finding alternatives to sunlight is important because more countries rely on greenhouses for fresh produce.
+This experiment analyses how Arabidopsis Thaliana reacts to red light and microgravity. Arabidopsis Thalianais is a common plant found all over Europe, Asia and Africa. Biologists know this species well because it was the first plant to have its entire DNA sequenced.
+Previous ESA research on the Space Station showed that plants can sense ‘gravity’ at very low levels. This experiment will introduce an extra element of red light to discover how it influences plant growth.
+Better understanding of this plant has increased our knowledge of plants in general. This experiment will help to understand how the plant reacts to light and gravity, which will improve our crops in space and on Earth.
+Stem cell differentiation
+Stem cells hold enormous potential for living beings because they can develop into any cell in your body. A stem cell can grow to become a piece of bone, an eye or a piece of brain. Naturally, these cells captivate scientists because they could greatly help repairing our bodies if their power can be harnessed.
+In this experiment, frozen stem cells from mice embryos will spend six months to three years in space in Japan’s Kibo laboratory. On return to Earth they will be implanted into a living mouse to give birth normally.
+Researchers hope to improve their understanding of how radiation and weightlessness affect stem cells. In particular, this research focuses on the stem cells involved in the process of bone loss in space.

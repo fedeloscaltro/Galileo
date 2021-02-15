@@ -1,0 +1,5 @@
+iews-6 -10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astrolab/Complex_plasma_physics
+Complex plasma physics
+PK-3+Plasma is the most disordered and ubiquitous state of matter in our Universe, being composed of charged electrons and ions. An important area of research within this field is the study of complex plasmas enriched with micro-particles. This component adds special properties to the plasma, making it possible to undertake fundamental investigations under weightless conditions. In addition to the benefits of increased understanding of fundamental physics, this research has applications across many scientific disciplines such as plasma processing and fluid dynamics.
+The PK-3 Plus facility carries out research on complex plasmas under weightless conditions over a broad range of fundamental parameters. The experiment was built under the responsibility of the German Aerospace Center, DLR and replaced the PK-3 (PKE-Nefedov) facility, which was in use on the ISS since March 2001.

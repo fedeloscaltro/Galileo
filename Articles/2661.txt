@@ -1,0 +1,29 @@
+iews-4 -25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Futura_key_dates_and_facts
+Futura key dates and facts
+Mission
+Expeditions 42/43 to the International Space Station
+Launch site
+Baikonur, Kazakhstan
+Spacecraft
+Soyuz TMA-15M
+Launch
+41s
+Launch date
+23 November 21:01 GMT (22:01 CET; 24 November 03:59 local time)
+Launcher
+Soyuz-FG
+Docking
+Six hours after launch at 02:49 GMT (03:49 CET)
+Hatch opening
+90 minutes after docking at 05:00 GMT (06:00 CET)
+Return to Earth
+Leaving the International Space Station at 11 June 2015 10:20 GMT (12:20 CEST)
+Touchdown
+Three hours after leaving the International Space Station at 13:44 GMT (14:44 CEST)
+Mission duration
+199 full days
+Crew
+Samantha Cristoforetti, ESA
+Anton Shkaplerov, Roscosmos
+Terry Virts, NASA

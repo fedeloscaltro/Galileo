@@ -1,0 +1,17 @@
+iews-5 -75
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Sounding_rockets
+Sounding rockets
+Rocketing to weightlessness
+What goes up must come down. But what if during the journey you could research metal furnaces or biological processes free of gravity’s effects?
+Sounding rockets launch experiments to the edge of space before falling back to Earth. These flights can carry 100-kg experiments up to 750 km high with up to 13 minutes of microgravity included in the ticket.
+Once the rocket motors shut off, the experiments enter freefall, even though at this point they are still heading upwards. On the downward arc parachutes deploy and gravity takes over once again, lowering the experiments to the ground with impact speeds of around 8 m/s.
+ESA has used sounding rockets for over 30 years to investigate phenomena under microgravity from Esrange in northern Sweden.
+Experiments are held in circular containers with diameters of up to 60 cm. The containers are held by elastic dampers to reduce launch vibrations.
+A service module sends data and receives commands from mission control to keep everything on course while sending video to ground stations.
+The separation module detaches from the experiments when the rocket motors kick out and a recovery system deploys the parachute from the nosecone. The functional modules are reused from one flight to the next.
+The experiment modules can be reused if experiments require repeated runs in microgravity with new samples or under different conditions. The combination of standard and modular blocks gives sounding rocket programmes strong reliability and flexibility.
+As data from the experiments are sent during flight to ground stations, researchers can follow the course of their experiments live and even change parameters while in flight.
+At launch the rockets produce a peak of around 12 g and further vibrations last for about 45 sec, the time needed for the complete burn of the rocket motors.
+The experiment modules are transported back to the launch site by helicopter as quickly as possible.
+State-of-the-art facilities are available at Esrange for the scientific teams. The laboratories include microscopes, centrifuges and incubators so investigators can prepare and analyse their experiments around flight.
+Sending your experiment to the edge of space is easier than you might think – contact us for more information.

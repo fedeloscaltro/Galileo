@@ -1,0 +1,12 @@
+iews-8 -17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Moving_on_Mars
+Moving on Mars
+The ExoMars mission will see Rosalind Franklin the rover land on the Red Planet in 2023. Rosalind the rover has six wheels and a unique way of moving across the Red Planet. Each wheel pair is suspended on a pivoted bogie so each wheel can be steered and driven independently.
+The first challenge after arriving at Mars is moving off the Kazachok landing platform onto the martian soil. Should the platform land on a slope, Rosalind the rover is designed to negotiate steep inclines on one of the lander’s two exit ramps.
+Once on the surface of the Red Planet, the rover will be able to move across many types of terrain – from fine-grained soil to large boulders and slopes.
+Rovers on Mars have previously been caught in sand, and turning the wheels dug them deeper – just like a car stuck in mud or snow. To avoid this, Rosalind the rover has a unique locomotion mode called ‘wheel walking’.
+Similar to leg movements, wheel-walking articulates motion around the axes and adjusts the rover height and angle with respect to the surface. This motion gives very good traction in soft soils and high slopes, such as dunes.
+Thanks to a triple-bogie locomotion system, the rover is able to overcome obstacles as large as its wheels. The flexible metallic wheels, equipped with springs, allow the rover to achieve smoother movement and better grip when navigating an obstacle. The rover uses inclinometers and gyroscopes to enhance its motion control.
+Two cameras at the top of the rover’s mast allow Rosalind Franklin to see in three dimensions to identify rocks and slopes in front of it – much like humans and other animals use their two eyes. This also allows the navigation system to take account of, and correct for, any wheel slippage.
+The rover is designed to calculate navigation solutions autonomously and safely travel approximately 100 m per sol, or martian day.
+Rosalind the rover is expected to travel several kilometres during the mission.

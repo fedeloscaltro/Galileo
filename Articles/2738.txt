@@ -1,0 +1,15 @@
+views-96-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astronauts/Increment-specific_training
+Increment-specific training
+As soon as an astronaut is assigned to a mission, the 'Increment-Specific Training' starts (increment is jargon for the time period between the exchange of crews on board the ISS, you could call it 'mission-specific training').
+During this 18-month training phase the astronauts learn everything they need to know for their mission. All crewmembers, prime and backup crews, selected for the spaceflight will train together.
+This is important not only because the crewmembers have to get to know each other (later they will spend about half a year together in the enclosed environment of the ISS), but they also learn to work together efficiently as a team and according to the distributed roles and responsibilities that they are assigned to.
+The crew tasks on the ISS are individually tailored, always considering the particular astronaut’s experience and professional background.
+Crew qualification levels
+In general three crew qualification levels are defined; user level, operator level and specialist level. For every onboard system a set of minimum qualifications needed to safely operate and maintain the system is pre-defined (e.g. one specialist, one operator and one user).
+Each crewmember, while being specialist for some systems, will be operator or only user for other systems. Consequently, the training programme for each crewmember is individually tailored to his or her set of tasks and pre-defined qualification levels.
+Increment Specific Training also includes training to deal with off-nominal situations, failure analysis and recovery/repair activities.
+Astronauts learn how to run the experiments scheduled for their mission, and they are trained to dock new modules to the Station, in case new elements are added to the ISS during their mission.
+ISS replica
+The increment training phase also includes the multi-segment training, which is implemented in the ‘Space Station Training Facility’ at NASA's Johnson Space Center, in Houston, the United States. This training facility is a replica of the whole ISS in which the astronauts can train for emergency situations that affect the whole Station.
+Shortly before flight the training departments of all five international ISS partners have to provide a written statement in which they declare that all crewmembers have successfully completed the crew training and that - from a training perspective – they are ready to fly to the ISS.

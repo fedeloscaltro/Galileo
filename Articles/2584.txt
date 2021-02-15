@@ -1,0 +1,9 @@
+iews-5 -19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars_mission
+ExoMars mission
+Europe’s next mission to Mars will deliver a rover equipped with a scientific laboratory as part of the ExoMars programme, which will also land a Russian surface platform. This ExoMars mission is being built by ESA in cooperation with Russia’s Roscosmos space agency.
+The ExoMars Trace Gas Orbiter satellite is a recent addition to ESA’s Mars satellites. Orbiting Mars since 2016, it is detecting methane in the atmosphere as another a clue to past life. It will also act as a communication relay for the ExoMars rover and surface platform.
+After cruising for more than eight months to the Red Planet, the descent module will enter the atmosphere and decelerate using two parachutes and thrusters to land. The rover will roll off the descent module to drill and analyse what it finds in the search for evidence of past life. The rover will be the first mission to move across the surface and study Mars at depth. The operational lifetime is specified at 218 solar days (2.7% longer than a day on Earth).
+ExoMars will collect drill samples to a depth of 2 m and analyse them with next-generation instruments in its miniature laboratory. Underground samples are more likely to include signs of past life because the atmosphere offers little protection from radiation and sunlight at the surface.
+The rover will land at a site with high potential for finding well-preserved organic material, particularly from the very early history of the planet. It will travel several kilometres scouting from the landing area for interesting places to drill.
+More information about the ExoMars rover can be found on its dedicated home on the ESA webpage.

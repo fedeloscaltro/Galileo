@@ -1,0 +1,10 @@
+views-72-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Schiaparelli_s_instruments
+Schiaparelli's instruments
+Schiaparelli collected data during its six-minute descent through the atmosphere, but unfortunately was not able to operate from the surface.
+AMELIA took measurements using the spacecraft engineering sensors, while COMARS+ monitored the pressure, surface temperature and heat flux on the back cover of Schiaparelli as it passed through the atmosphere. A descent camera (DECA) would have imaged the landing site as it approached the surface.
+On the surface the DREAMS (Dust Characterisation, Risk Assessment, and Environment Analyser on the Martian Surface) package would have operated. It consisted of a suite of sensors to measure the wind speed and direction (MetWind), humidity (DREAMS-H), pressure (DREAMS-P), atmospheric temperature close to the surface (MarsTem), the transparency of the atmosphere (Solar Irradiance Sensor, SIS), and atmospheric electrification (Atmospheric Radiation and Electricity Sensor; MicroARES).
+Schiaparelli would have obtained the first measurements of electric fields on the surface of Mars that, combined with measurements of the concentration of atmospheric dust, would have provided new insights into the role of electric forces on dust lifting, the trigger for dust storms.
+A compact array of laser retroreflectors was also attached to Schiaparelli, with the intention that future Mars orbiters could laser-locate the module.
+More about...
+Schiaparelli's mission Schiaparelli’s instruments

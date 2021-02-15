@@ -1,0 +1,18 @@
+ews- v-94
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/Getting_supplies
+Getting supplies
+Running a microgravity laboratory that is also home to its six technician–astronauts requires planning and supplies. Delivering all of the food, water, fuel, experiments, samples and clothes and departing with finished experiments or waste is done by five different unmanned space ferries. During ESA astronaut Alexander Gerst’s Blue Dot mission, four of these spacecraft visited the outpost and Alexander trained for all of their arrivals.
+Automated Transfer Vehicle
+The Automated Transfer Vehicle (ATV) is the largest ESA spacecraft ever launched. The fifth in the series, ATV Georges Lemaître, was also the last. The 20-tonne freighter approached and docked automatically with the Space Station under Alexander’s watchful eye and was monitored on Earth by the ATV control centre in Toulouse, France.
+Once attached, Alexander was the assigned ‘loadmaster’ responsible for unloading and cataloguing more than 2000 kg of equipment. One item was highly anticipated: the electromagnetic levitator, a miniature furnace for unique research into metal super-alloys.
+Georges Lemaître can boost its host’s orbit – the Station gradually loses altitude as it circles our planet; it would eventually fall back to Earth without regular boosts. If needed, ATV can even push the Station out of the way of space debris on a collision-course.
+After around six months, ATV Georges Lemaître will leave the Station packed with waste. The last ATV promises to go out with a flash, following a slow reentry so that astronauts can observe from above as it burns up harmlessly in Earth’s atmosphere.
+Progress
+The Progress spacecraft are the Russian counterpart to ATVs and are the only other spacecraft to dock autonomously with the Station. Progress spacecraft are adapted from the Soyuz that flew Alexander and crewmates to the Station. Progress and ATV connect with the Station’s Russian docking ports.
+Progress bring over 2000 kg to the Station and two arrived during the Blue Dot mission.
+Dragon
+The Dragon spacecraft, built by Space-X, are part of the US commercial space programme and the first commercial spacecraft to dock with the orbital outpost. One Dragon arrived during Alexander’s stay: Dragon-4 in June 2014. Dragon is the smallest spacecraft to arrive with supplies but it has an important trick up its sleeve: it is the only spacecraft aside from Soyuz that returns to Earth. For this reason, Dragon is used to return experiment samples back to the scientists on Earth when needed.
+Cygnus
+Cygnus is a commercial spacecraft built by Orbital Sciences. Although of different designs, Dragon and Cygnus share mission profiles. Both fly close to the Station to be captured by the outpost’s robotic arm for berthing. Alexander is trained to grapple both spacecraft and move them safely into contact with his orbiting home with the 20 m-long robotic arm Canadarm-2.
+Cygnus and Dragon both stay attached for about a month. At the end of its mission, Cygnus does not return to Earth but burns up in the atmosphere like ATV and Progress.
+Cygnus has the same tried and proven outer shell as many other Space Station structures. Columbus, Harmony, Unity and ATV’s ‘skin’ was designed and built in Turin, Italy. Cygnus-2 was launched to the International Space Station on 13 July and left the outpost 16 August 2014.

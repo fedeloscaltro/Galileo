@@ -1,0 +1,33 @@
+iews-6 -28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/Materials
+Materials
+Micast
+MICAST-2 uses ESA’s Materials Science Laboratory in the US laboratory Destiny. Nothing less than a miniature metal furnace in space, the Materials Science Laboratory can heat samples to 1400°C before letting the metals solidify. ESA astronaut Alexander Gerst took over collecting data for the MICAST-2 experiment from colleague astronauts by installing cartridges with aluminium–silicon and aluminium–silicon–iron cast alloys.
+The alloys are heated and solidified to study the microscopic structure of the resulting metal. A rotating magnetic field can be applied to increase the mixing. The goal is to understand the microstructure of alloys and how this changes under different casting conditions.
+Researchers are particularly interested in controlling tree-like microstructures called dendrites that form during the solidification process. Controlling the number of dendrites in a metal can change properties such as elasticity.
+Researchers examine growth patterns and evolving microstructures as samples of metallic alloys crystallise. The results will complement computer simulations and help to produce more efficient aluminium alloys for the transport industry.
+CETSOL-2
+Cetsol-2 uses the same facility as MICAST-2 but focuses on how cooling aluminium alloys in specific areas and adding microparticles can improve the result.
+Aluminium is used in many products, from car engines to industrial machines but casting strong forms is heavily influenced by temperature differences during the cooling process. In a single block of cast aluminium, the strength, elasticity and resistance can differ because the aluminium does not cool uniformly.
+This problem has been known for years but an effective computer model to use as a basis for improving the process has been missing.
+In addition to looking at temperature, CETSOL-2 observes how adding microparticles can help. Like adding raisins to a cake-mix, adding small particles to a metal can improve the result. Called ‘grain refiners’ by metallurgists, these grains improve the metals properties but CETSOL-2 will help to understand how.
+SETA-2
+SETA-2 looks at eutectic compositions of aluminium–magnesium–silicon alloys. Depending on the mixture of elements in an alloy, it will solidify at different temperatures. When a mix of elements solidifies at the lowest temperature, it is known as a eutectic composition.
+This experiment is similar to CETSOL-2 and MICAST-2 but aims to understand the processes for eutectic alloys in particular. Knowledge of these types of alloys will improve the casting process on Earth.
+MAGVECTOREarth’s magnetic field is constantly flowing around us and influencing our daily lives. Aside from protecting us from solar winds, it also makes a compass work and it helps birds to find their destination when migrating. This same force can interact and interfere with equipment and experiments on the International Space Station.
+MAGVECTOR investigates how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above the conductor, the researcher will gain insight into how the magnetic field influences how conductors work.
+This research will not only help improve future Space Station experiments and electrical experiments but it could offer insights into how magnetic fields influence electrical conductors in general – the backbone of our technology.
+SODI‐DCMIX
+Fluids and gases are never at rest, even if they appear to be when viewed by the naked eye. But molecules are constantly moving and colliding even though there is no microscope powerful enough to see it. Scientists are interested in observing and measuring these movements because they reveal important, practical information such as how heat spreads in a fluid and how quickly fluids mix.
+Creating accurate models of how fluids heat is harder than it might seem. School physics classes can work out how long it would take to boil a litre of water, but what if the water were mixed with oil or a multitude of different liquids? Measuring liquid mixtures at rest is not always possible on Earth because heavier elements in a mixture will follow gravity and sink to the bottom.
+A mixture on the International Space Station is free from the constraints of gravity and will not separate. SODI-DCMIX exploits this fact to record temperatures of mixtures in space using optical techniques to understand how molecules move in liquids. This experiment was a continuation for Blue Dot from previous missions.
+FASTER
+Every cook knows the problem when concocting a salad dressing: getting the oil and vinegar to mix nicely requires the right ingredients and plenty of vigorous stirring. This is because vinegar and oil dressings do not mix, but end up in an emulsion – small droplets of vinegar suspended in oil.
+Studying the underlying physics of emulsions on Earth is difficult because gravity pulls them apart. Leave a salad dressing overnight and the next day the oil and vinegar will have separated, gravity pulling the heavier oil to the bottom of the mix.
+Emulsions in food, cosmetics and pharmaceuticals often need to be stable for long periods of time. Who would want to eat a mayonnaise with all oil and egg yolk separated? On the other hand, it can be necessary to separate or destabilise fluid emulsions like crude oil.
+FASTER is is linked to FASES and performed on ESA’s Columbus laboratory, examining emulsion stability and the characteristics of emulsion droplets, without gravity getting in the way of the observations. An accurate model of emulsion dynamics would be used by industry to improve their products.
+SPACETEX
+Astronauts exercise 90 minutes a day to stay fit and preserve their bones and muscle while they live in space. After a heavy workout the first thing people do is have a shower but this is not an option for astronauts – they have to rely on wet-wipes.
+To make matters worse, as gravity does not influence heat transfer in space, astronauts often report getting hot and sweating more during exercise. The SpaceTex experiment assesses two new fabrics to improve heat transfer and sweat absorption during exercise. The fabrics were also chosen for their antibacterial properties.
+After exercise, Alexander Gerst filled in a short questionnaire to assess how comfortable the clothes are. When finished, his clothes were stored in a bag and returned to Earth to analyse the odour and air quality.
+The results will be of interest to future astronauts who will smell less and exercise more comfortably, as well as sportswear manufacturers hoping to improve their products.

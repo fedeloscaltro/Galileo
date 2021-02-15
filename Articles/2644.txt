@@ -1,0 +1,6 @@
+iews-6 -12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/A_3D_experience
+A 3D experience
+Paolo opened a new window to the Station through stereoscopic eyes. While stereo vision floods the cinemas, the European astronaut used a novel, ESA-developed 3D camera to show unprecedented views of the International Space Station.
+The Erasmus Recording Binocular 2 (ERB-2) was conceived by the Directorate of Human Spaceflight and developed by Cosine Research from Leiden, the Netherlands, and Techno System Development in Naples, Italy.
+ERB-2 takes advantage of high-definition optics and advanced electronics to provide a vastly improved 3D video effect for mapping the Station. The almost-like-real 3D images increases our whole viewing experience and can also be used in supporting science operations.

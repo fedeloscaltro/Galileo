@@ -1,0 +1,18 @@
+iews-4 -99
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Life_support
+Life support
+Spaceship Earth offers all we need to live alongside the plants and animals of our planet. When exploring our Solar System, it would be ideal if we could take Earth’s ecosystem with us to survive and feel comfortable in the harsh vacuum of space. Obviously, this is impractical but can we scale down our ecosystem to provide our travel needs?
+ESA’s Micro-Ecological Life Support System Alternative team, or MELiSSA for short, is looking at doing just that. By finely tuning how microbiological cells, chemicals, catalysts, algae, bacteria and plants interact we could process waste to deliver never-ending fresh supplies of oxygen, water and food.
+Drinking water on the International Space Station is already processed from urine, condensation and other sources but the system still needs regular refills and fresh filters.
+A closed life-support system would need to recycle air, water and waste while producing drinking water and food. ESA is making huge steps in this area.
+Understanding and recreating an ecosystem in which humans can survive could benefit people who live in less affluent places where water or even clean air is sparse – regardless of whether these people are colonising a distant planet or living in a desert on Earth.
+Aquatic inspiration
+To create this closed-loop system, ESA turned to an ecosystem based on lakes. Using resources from biology, microbiology and chemistry, researchers have already booked many successes, and some of the spin-offs are more down-to-Earth than you might think.
+Looking for organisms that could be harvested for food, the MELiSSA team came across a bacterium that cut levels of LDL cholesterol – the ‘bad’ cholesterol. The bacterium is now being further investigated as a possible medicine.
+As a food, it turned out to be less interesting than algae, but the nifty bacterium does has another trick up its sleeve: it has proven its worth as a major part of the MELiSSA loop for organic waste and water recycling.
+Another spin-off is helping create sparkling wine. A sensor developed by MELiSSA controls the fermentation and monitors biological processes. The same technology is being used to control the growth of the yeast that produces alcohol and carbon dioxide bubbles in your glass.
+Next steps
+ESA is testing closed-loop life-support systems on Earth and in space. A pilot plant in Barcelona, Spain, aims to support a number of rats indefinitely in a comfortable habitat – a complete ecosystem shut off from our environment created with one purpose: to keep the rats healthy and happy. This facility is the first step to a system that could support humans in space.
+Experiments are also planned on the International Space Station because nobody knows how some of the organisms in the MELiSSA system will grow in space. A series of experiments will fly Arthrospira bacteria and cultivate them in the Biolab facility in ESA’s Columbus laboratory to see how they adapt to weightlessness.
+From there, the system of bacteria could be enlarged to supply oxygen to a test subject while feeding on the exhaled carbon dioxide.
+In this way MELiSSA’s recycling loop will be progressively tested in space to increase the degree of closure in the ecosystem. The system will become more and more self-sustained so that astronauts on long-duration missions can reduce their dependency on costly supplies from Earth.

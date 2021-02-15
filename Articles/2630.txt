@@ -1,0 +1,22 @@
+ews- v-85
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Way_back_to_Earth
+Way back to Earth
+After living and working on the ISS for 193 days, spanning both Expeditions 30 and 31, André returned to the Soyuz capsule with his crewmates. The spacecraft undocked from the Station on 1 July 2012. The closure of the Soyuz hatch signaled the end of the PromISSe mission, and the astronauts landed back on Earth only a few hours later.
+Reentry and landing on the steppes of Kazakhstan is a relatively quick procedure, taking no longer than three and a half hours. Shortly after undocking, the Soyuz spacecraft separates into its three parts. The orbital and service modules burn up on reentry in the denser layers of Earth’s atmosphere.
+The descent module rotates and places the strongest parts of the heatshield towards the reentry direction, so that it can absorb most of the heat. Reentry occurs at an altitude of approximately 120 kilometres, when the speed is reduced dramatically and the crew is pushed back into their seats by a force of 4–5 g. This is equivalent to four to five times their own body weight.
+The parachutes and the Soyuz’s shock-absorbing seats soften the landing, together with retro-rockets firing just before touchdown. The descent module usually touches down at a speed of less than 2 metres per second, or around 5 km per hour.
+After landing, the crew deploy a communication antenna, so that the rescue teams can pinpoint their precise location. The Soyuz capsule is not reusable.
+Once retrieved from their landing site, André was taken directly back to Houston from Baikonur, for rehabilitation and post-flight body data collection.
+Undocking and landing timeline
+00:00 min – Separation commandSeparation command to begin opening hooks and latches, which hold the Soyuz spacecraft on a docking port on the Space Station
++00:03 min – Separation from ISSHooks opened. Soyuz begins physical separation from the docking compartment at 0.1 m/s.
++00:06 min – Separation burn from ISSA 15-second separation burn when the Soyuz is about 20 m from the Station
++02:29 min – Deorbit burnWhen the Soyuz is at a distance of about 19 km from the ISS, the engines fire for almost five minutes
++02:57 min – Separation of modulesThe unoccupied Orbital Module separates from the Descent Module and burns up on reentry into the atmosphere
++03:00 min – Entry InterfaceThe Soyuz reaches Entry Interface at 122 km altitude
++03:08 min – Opening parachutes
+Parachutes are commanded to deploy:
+1. Two pilot parachutes.
+2. Drogue chute. It slows the spacecraft’s descent from a rate of 230 m/s to 80 m/s.3. Main parachute. It slows the Soyuz to a descent rate of 7.2 m/s. The Soyuz descends at an angle of 30 degrees to cool, then the main parachute shifts it to a straight vertical descent.
++03:22 min – Soft landing engine firingSix soft-landing engines fire to slow the vehicle’s descent rate to 1.5 m/s just 1 m above the ground
++03:23 min – TouchdownSoyuz lands on Earth

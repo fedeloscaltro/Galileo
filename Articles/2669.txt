@@ -1,0 +1,22 @@
+iews-1 -20
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Electromagnetic_levitator
+Electromagnetic levitator
+The Futura mission was the first to use the Electromagnetic Levitator on the International Space Station in ESA’s Columbus laboratory. This furnace can heat metals to 2000°C and then cool them rapidly. Blacksmiths have been using this technique for centuries to create steel tools and weapons by heating, hammering and quenching in water. This process freezes the steel’s structure and causes it to be hard and stay sharp.
+Understanding the underlying physics is complicated and factors such as gravity and the mould used to hold the metal in place influence the process, making it difficult to get to the fundamentals. Observing liquid metals cooling in weightlessness removes the complexity to reveal the core process of physics. The electromagnetic Levitator takes things a step further and suspends the metals in mid-air as they melt and solidify.
+ESA astronaut Samantha Cristoforetti loaded the unit with cartridges holding the metals. The microgravity furnace takes care of the rest, processing the metals and recording data automatically.
+The metals can be heated in a vacuum or in a gas. A high-speed camera records the forging and sensors record the temperature and other variables. The metals formed are retrieved and returned to Earth for further analysis.
+The Electromagnetic Levitator arrived at the Station on Europe’s ATV Georges Lemaître freighter and was installed by ESA astronaut Alexander Gerst.
+Coolcop
+Most of the metals we use are not pure, but an alloy of different materials. By combining different metals, materials can be concocted that offer the best of their component parts. The stainless steel used in most knives and forks is actually an alloy of one part chromium to 10 parts steel that renders the alloy more resistant to corrosion.
+Super-alloys using the latest space technology are now being used in smartphones and jet engines, but ESA is always looking for better, lighter, stronger and cheaper materials. Some metals and materials do not mix easily.
+Coolcop investigates cobalt and copper, two metals that do not mix easily on Earth. By observing the process in the Electromagnetic Levitator and looking specifically at surface tension, scientists and ESA’s industrial partners hope to improve casting processes on Earth.
+Magnephas
+This experiment uses the Electromagnetic Levitator’s high-speed camera to observe magnetic alloys such as iron, cobalt and nickel. Of particular interest for this experiment is the instant when a material reaches a new state such as liquid or solid.
+Metcomp
+Metcomp investigates how weightlessness affects the metallic structure of a nickel–titanium alloy. When particles come into contact with a liquid they can be pushed away or engulfed by the liquid, like a ball floating on the sea. Depending on the size of an incoming wave, the ball could be pushed forwards like a surfer or submerged by the water. On an atomic scale, a similar process occurs with metals as they come into contact with other liquid metals. Understanding this process could lead to more exotic metal alloys or improve existing complex alloys.
+Nequisol
+Nequisol focuses on the microscopic structure of nickel–aluminium and aluminium–copper alloys as they form around a needle inserted when they are in liquid form. The alloys will grow like sugar crystals on a stick, and scientists are eager to assess the speed of growth in weightlessness.
+Semitherm
+This experiment looks closer at a material that made mobile technology ubiquitous: silicon–germanium semiconductors. These computer chips are found in almost all smartphones and creating the chips requires forming the alloy at specific temperatures. Semitherm is set to investigate the underlying properties of a mix of silicon and germanium as it melts in microgravity to see how weightlessness affects the results.
+Thermolab
+The last Electromagnetic Levitator experiment on the Futura mission will improve models to help industrial casting and solidification techniques. Thermolab investigates the temperature and physical properties of industrial alloys in weightlessness in their liquid state. Industrial partners are keen to know more as the results could help them create existing alloys quicker, cheaper and with less waste.

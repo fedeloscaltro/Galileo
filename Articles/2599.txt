@@ -1,0 +1,46 @@
+views-71-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_Factsheet
+ExoMars Factsheet
+Name: ExoMars
+Mission: To address the question ofwhether life has ever existed on Mars. ExoMars consists of two missions: the Trace Gas Orbiter plus an Entry, Descent and Landing Demonstrator Module, Schiaparelli, launched in 2016, and the second, featuring a rover and surface science platform, which will follow in 2020.
+Launch date: 14 March 2016
+Launch vehicle: Proton-M/Breeze-M
+Launch mass: 4332 kg (including fuel) comprising the orbiter (3732 kg, including 113.8 kg science payload) and Schiaparelli (577 kg)
+Dimensions: Orbiter: 3.5 x 2 x 2 m with 17.5 m solar arrays tip-to-tip; Schiaparelli: 1.65 m diameter (2.4 m with heat shield)
+Journey and arrival milestones:
+Launch date: 14 March
+Mid-course correction: 28 July
+Schiaparelli–TGO separation:16 October 2016
+TGO manoeuvre: 17 October 2016
+Orbiter insertion into Mars orbit:19 October 2016
+Schiaparelli entry, descent and landing: 19 October 2016
+Aerobraking: March 2017 - March 2018Science phase begins: March 2018
+TGO instruments:
+ACS: Atmospheric Chemistry Suite
+CaSSIS: Colour and Stereo Surface Imaging System
+FREND: Fine Resolution Epithermal Neutron Detector NOMAD: Nadir and Occultation for MArs Discovery
+Schiaparelli instruments:
+AMELIA: Atmospheric Mars Entry and Landing Investigation and Analysis
+COMARS+: Combined Aerothermal and Radiometer Sensors instrumentation package
+DeCa: Descent Camera
+INRRI: INstrument for landing-Roving laser Retroreflector InvestigationsDREAMS: Dust Characterisation, Risk Assessment, and Environment Analyser on the Martian Surface
+Rover instruments:
+Adron: a neutron spectrometer
+CLUPI: Close-UP Imager
+ISEM: Infrared Spectrometer for ExoMars
+Ma_MISS: Mars Multispectral Imager for Subsurface Studies
+MicrOmega: visible plus infrared imaging spectrometer
+MOMA: Mars Organic Molecule Analyser
+PanCam: Panoramic Camera
+RLS: Raman SpectrometerWISDOM: Water Ice and Subsurface Deposit Observation On Mars
+Partnerships:ExoMars is a cooperation between ESA and Roscosmos. Roscosmos is providing the Proton rockets, contributions to the scientific payload, the surface platform, and ground station support. The industrial teams behind the missions involve companies across more than 20 countries, led by the prime contractor, Thales Alenia Space Italia. The rover is developed under the leadership of Airbus DS, UK.
+Mission facts:
+-ExoMars gets its name from the term ‘exobiology’, the study of life beyond Earth.
+-Trace gases make up less than 1% of the total atmospheric inventory of a planet.
+-Mars trace gases include methane, water vapour and nitrogen dioxide. Although only present in a small quantity, methane in particular holds key clues to the planet’s current state of activity.
+-TGO will detect a wide range of atmospheric trace gases with an improved accuracy of three orders of magnitude compared to previous measurements.
+-Schiaparelli will arrive at Mars during the global dust storm season, providing new insights into the role of electric forces on dust lifting, the mechanism that initiates dust storms.
+-Schiaparelli’s heat shield surface temperature during entry will reach approximately 1500°C.
+-Schiaparelli’s descent camera is the flight spare of the visual monitoring camera that flew on Herschel.
+-TGO’s successful arrival at Mars will mark the second time that ESA has placed a spacecraft into orbit around the Red Planet.
+-TGO will act as a relay for the 2020 rover mission.

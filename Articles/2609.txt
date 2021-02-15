@@ -1,0 +1,8 @@
+iews-1 -44
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Surface_platform
+Surface platform
+While the rover will drive away from the surface platform to perform scientific investigations within several kilometres of the landing site, the platform will remain stationary and will investigate the local surface environment for its normal mission lifetime of one Earth year.
+The main science priorities for the platform are context imaging of the landing site, long-term climate monitoring, and atmospheric investigations. Sensors and instruments will also study the subsurface water distribution at the landing site, investigate the exchange of volatiles between the atmosphere and the surface, monitor the radiation environment and compare it with measurements made with the radiation dosimeter on the Trace Gas Orbiter, and carry out geophysical investigations of the planet’s internal structure.
+The platform is the responsibility of Roscosmos and the Space Research Institute of Russian Academy of Sciences (IKI). It will include two European-led instruments, and four European sensor packages to be included in two Russian-led instruments.
+More about...
+Surface platform mission and instruments

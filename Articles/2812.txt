@@ -1,0 +1,22 @@
+iews-7 -17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Concordia/Experiments_2012-2013
+Experiments 2012-2013
+Psychology questionnaires
+Regular questionnaires are given to the winter crew to collect general data on mood and state of mind. The questionnaire takes around 45 minutes to complete and can be used as reference for other experiments.
+Mission Execution Crew Assistant
+The Mission Execution Crew Assistant is ESA’s long-term goal to develop an electronic partner to rely on in unexpected and complex situations. The computer will know how astronauts feel and deliver information tailored to their state of mind, even suggesting they conduct a procedure on another day if they are not in the right mood or if they need more training.
+Concordia is used to test theories on how isolation and stress can influence teamwork and information processing. Crewmembers play simple games to see if information can be extracted on their state of mind. In another experiment, crewmembers have to work together to learn tasks such as first aid techniques. By setting goals together and sharing progress, motivation and memory might increase.
+Team performance task
+Similar to the Mission Execution Crew Assistant games, this task has Concordia crewmembers play in groups of three to pull a coloured blob to the bottom of the screen. Resources are limited and winning requires working with the other players. This experiment tries to judge social cohesion and cooperation between team members as well as charting how it changes over time
+Mono metabolism
+How does mood influence how the body deals with food? Crewmembers will take a picture of the food they eat and write a dietary log for two days each month. In addition to the psychological questionnaires, scientists hope to understand if feeling happy or sad changes how the body deals with energy needs.
+Sleep apnea
+While we sleep our brain continues to control muscles to keep breathing. In some people that reflex stops working, making them breathe irregularly when asleep. This problem is called central sleep apnea and causes intermittent breathing and snoring. Living with less oxygen, as all Concordia crew do, increases central sleep apnea. Research on sleeping crewmembers will help to understand the ailment and benefit people suffering from the same problems in less extreme environments.
+Cardio-posture
+How does our posture change in relation to changes in how blood circulates? Living in Concordia changes the way our cardiovascular system – the distribution of blood – and researchers are interested to know if this changes how crew stand and sit. This experiment looks at how crewmembers’ posture shifts over time living on Concordia. Postures are analysed as they sit and stand on sensitive pads with their eyes open and closed. Combined with data on their cardiovascular system, researchers will look at related changes.
+Microbial experiments
+What are the best materials to build spacecraft? Aside from properties such as weight, strength and resistance, astronauts need a healthy environment free of harmful bacteria and mould. People living in close quarters invariably attract uninvited guests, however. Russia’s Mir space station had problems with fungi and mould growing on its walls at the end of its 15-year life.
+ESA is keen on knowing which materials are best suited and is testing over 20 different materials in Concordia. Plaques containing samples of metals and plastics are hung up in various places in the research base. After the winter they will be retrieved and analysed for microbial growths.
+Coala
+Coala aims to assess moods by interpreting video diaries. Knowing how someone feels is important for mission controllers and experiments. However, ask someone how they feel and they will never reply objectively. Presently, the best way of judging someone’s state of mind is through lengthy questionnaires.
+A more efficient way to assess mood would be to look at external signs. Coala aims to analyse speech patterns such as tone of voice, intonation, use of grammar and speed of speech. Crewmembers regularly record a video diary of their life in Concordia as well as narrate a paragraph from a fairy tale . By looking at changes in the way they talk into the camera and comparing these with results from standard questionnaires, researchers hope to develop software that can analyse speech automatically.

@@ -1,0 +1,14 @@
+iews-6 -11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/Environment
+Environment
+The Blue Dot mission continued long-standing experiments on the International Space Station into the space environment
+DOSIS-3D
+Radiation levels in space are up to 15 times higher than on Earth. As soon as humans leave the protective shield that is Earth’s atmosphere, space radiation becomes a serious concern.
+DOSIS-3D helps to understand space radiation and how it penetrates the Space Station walls. Active and passive radiation detectors are used to map radiation in all modules.
+The European Columbus laboratory is monitored by 11 passive dosimeters. The dosimeters are about the size of a pack of playing cards and attached to the walls of Columbus with Velcro. The detectors record how much radiation has been absorbed in total during the period they are in space.
+This experiment has been monitoring radiation levels for a number of years and after each six-month crew rotation, the detectors are replaced to record changes in radiation. Alexander Gerst removed the old set of dosimeters from Columbus, pack them for return to Earth, and stick a new set to the walls.
+In addition to the passive detectors, DOSIS-3D uses active dosimeters that measure fluctuations in radiation levels over time. Data from all Station partners is shared to create as complete a picture of space radiation as possible.
+SOLAR
+SOLAR is a combination of instruments placed on the outside of Europe’s Columbus laboratory which together measure the Sun’s output with unprecedented accuracy from the infrared to the ultraviolet.
+SOLAR is run automatically from the ground and uses its sensors to measure the Sun’s temperature. The Sun is an enormous ball of fusion and the source of energy for most of life on Earth. The more we understand our Sun, the better we can protect life on Earth and our satellites in space.
+To predict how the Sun will behave, scientists create complex computer models to build a virtual star. With more data, scientists can fine-tune their models.

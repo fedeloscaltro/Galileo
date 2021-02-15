@@ -1,0 +1,38 @@
+iews-3 -80
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Lessons_online/A_drop_of_water
+A drop of water
+Introduction
+Water is the most common substance on the surface of the Earth. Without it life could not exist. Your body is about 70% water.Water can exist in 3 states:
+How does the state of water change?When ice is gently warmed, it starts to melt and changes to liquid. When you continue to heat, at around 100° Celsius, it changes to a gas.
+Why does this happen?Water is a molecule with the chemical formula H2O, two hydrogen atoms attached to one oxygen atom. The particles in the solid ice are tightly packed together and joined by chemical bonds called hydrogen bonds. All the time they are vibrating. When you heat the ice the energy you put in makes the vibrations get bigger. Some of the bonds are broken and the particles are free to move around a little - this is when ice becomes a liquid. As more heat is applied, the particles get enough energy to break all their bonds and escape as a gas or steam.
+Properties of water
+The physical property of matter which describes how closely packed the individual particles of the substance are, is called Density.
+Density (D) is a measure of the amount of material (mass or m) in a given space (volume or V) and is expressed as a ratio:
+D = m/V.The difference in the densities of Earth’s matter is what drives ocean currents, wind and plate tectonics.
+Usually the density of matter increases as it changes from a gas to a liquid, and again as it changes from a liquid to a solid. Density also increases as temperature decreases, because the lowering temperature causes less vibration of the atoms. As the atoms don’t move around as much they pack more closely or densely together. Water, however is different! Water has some very unusual physical and chemical properties which makes it one of the most important substances on our planet.
+Watch the video recording of ESA astronaut Frank De Winne perform some demonstrations to show how water behaves in conditions of weightlessness on the International Space Station. Educators can use this clip together with the lesson notes below to allow young children to compare how water behaves on Earth and in Space.
+1. Solid water – how unusual is this solid!
+Why is solid water (ice) unusual?You would expect that a solid substance like ice would sink. However, you know that when you place some ice cubes in your drink, it floats. Fill a plastic bottle with water and close the top. Place it in the freezer and see what it looks like the next day. You will notice that the top may pop off and the bottle of water looks like it has expanded.
+The solid form of water (ice) is LESS dense than the liquid form. The density of pure water at four degrees Celsius is 1.0g/cm cubed, while the density of ice at zero degrees Celsius is only 0.92 g/cm cubed. Liquid water and ice have different densities because in ice, the molecules are further apart, filling more space than in a molecule of liquid water.
+In Space: Frank takes a small chunk of ice and places it inside a drop of water. What happens to the ice inside the water drop? Does it float or sink or do something else?
+Answers:On the International Space Station, everything is in FREEFALL and so there seems to be no force of GRAVITY. Gravity is what keeps us from floating away here on Earth. If you throw something it will always land on the ground. Ouch!
+This attraction of pulling everything toward the earth is called Gravitational Force. So just like the astronauts (and anything that isn’t tied down firmly!) everything will float on the ISS. Even water. The ice will not float or sink but simply move around the water drop.
+2. Polarity of water
+Water is a dipolar molecule.Water has the chemical formula H2O which is two hydrogen atoms attached to one oxygen atom. A water molecule has no overall charge. But there is a slight negative charge in the region of the oxygen atom and a slight positive charge near the hydrogen atoms. This is called a dipole. The overall charge on the water molecule is nil. The positive charges and negative charges are equal so they cancel each other out.
+Demonstrating the dipole nature of water
+Materials:
+Method:
+On the International Space station, Frank De Winne uses a piece of plastic (instead of a rod) to create some charge (e.g. Positive + charge). By rubbing this plastic on his clothing, he causes positive charge to build up on the surface. By bringing it closer to the water drop, the charge on the plastic will attract the opposite charge on the water molecules (the negative charge from the Oxygen).
+Thinking question:Why can’t Frank have a stream of water on the ISS? What happens to the drop of water when he brings the plastic closer to it?
+Answer:The rod or ruler will attract the stream towards it as there is a positive charge on the rod and it will attract the negative charge on the water molecule.
+As Frank brings the plastic close to the water the drop should move around as he moves the charged plastic around. The negative charged oxygen will be attracted to the positive charge on the charged plastic.
+Frank cannot use a stream of water on the ISS because everything floats (is in free fall) and the water can easily get into electrical equipment and cause damage. The water has to come from a special drinking water bag and needs to be mopped up afterwards.
+3. Solubility of water
+Water has a very important property of being able to dissolve many solids and gases. What happens when you add sugar (a solid) to your coffee? Sugar is said to be soluble in water. Some things are insoluble (will not dissolve). Can you think of any? Water is clear so when you dissolve something in it, the water can change colour.
+To try: What dissolves?
+Materials:sugar cube, salt grains, instant coffee and coffee grounds, small pieces of wood (shavings, hay), small shavings of plastic, candle shavings, glass jars, spoon or stirrer, source of water and place to dispose of the waste.
+Method:
+On Earth, we can see clearly if something dissolves especially if it has a colour. It seems to ‘disappear’ into the water. When we add it to our tea/coffee, it tastes sweet (DO NOT TASTE ANYTHING in the classroom!).
+In Space, where the conditions are different than on Earth, would sugar also dissolve in tea? We know everything floats but would the sugar just float around in the water or will it actually dissolve?
+Frank will try to dissolve sugar in his tea container. What do you think would happen if the water was warmer? Or stirred? Astronauts get special bags which contain tea and sugar. They need to add warm water and shake the bag to dissolve the sugar and mix the tea together. How will Frank know his tea is sweet?
+Answer:Frank tastes his tea and it is sweet so sugar does actually dissolve in water in space.

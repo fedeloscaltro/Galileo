@@ -1,0 +1,25 @@
+ews- v-95
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Testing_technology
+Testing technology
+Space is a harsh place for humans and for machines. Space hardware has to stand up to the rigours of open space as well as being lightweight and safe. The International Space Station is an ideal testbed for new technologies, either for future use in space or for applications in demanding places on Earth.
+ESA astronaut Samantha Cristoforetti ran these experiments during her Futura mission provided by Italy’s ASI space agency.
+Haptics-1
+Haptics-1 is an experiment that fits in the vision of astronauts controlling planetary explorers from orbit. Ideally, astronauts circling a planet would have as much feedback as possible to help control the robots exploring below them. An important aspect of this is ‘haptic’ feedback – transferring touch and vibrations. Most people can tie their shoelaces with their eyes closed, but try doing it when your hands are numb.
+This is because your brain processes the feeling of touch and takes that into account when handling objects. Generally, a soft, fragile object is handled with more care than a hard one, and by judging how the object feels you automatically adjust your grip.
+Haptics-1 is looking at developing robots that transmit touch information to the astronaut, but until now nobody has checked to see how people in space respond to force feedback. Will astronauts feel and react the same as on Earth to generated vibrations? How will the feedback feel in space, where the feedback joystick has to be strapped to their bodies to prevent them floating away?
+A simple joystick can move left or right. Behind the scenes, intricate servo-motors provides counterforce or vibrations. Samantha used the joystick to test the limits of feeling in experiments similar to the classic game Pong.
+Wise-Net
+This experiment places low-power sensors in ESA’s Columbus laboratory to form a wireless network that monitors environmental factors such as temperature, pressure and humidity.
+The goal is to see if small amounts of energy could be harvested from inside the Station from the light, airflows or differences in temperature.
+A modification of Wise-Net could be applied to humans: sensors on a patient’s body could provide continuous vital-sign monitoring to nurses and doctors in hospitals.
+Vessel-ID system
+Large marine vessels continuously send information on their speed, location and direction. The Automatic Identification System has been around for decades to help harbour authorities direct ships near ports and avoid collisions. The system uses basic VHF radio signals and was designed before satellites existed, so it is used only near land. This means that ships are on their own in open waters. Ships can receive signals from each other but in the middle of the Pacific Ocean nobody is monitoring their location.
+Vessel ID is an ESA satellite receiver that is the marine equivalent of air traffic control systems. By capturing the radio waves in space from the Automatic Identification System, it tracks ships on the open seas. The system itself does not need to be adapted but as it was not designed for global coverage from space a technology demonstration is needed to test receiving and processing the signals. Nobody knew how many ships continue to broadcast identification on the open seas, nor how many have antennas that beam their identification up to space as well as over land.
+On a good day, around 400 000 position reports are received from more than 22 000 ships. If all goes well, global maritime surveillance using dedicated satellites could be in sight, much like there is for air traffic.
+With global tracking of ships, collisions could be avoided, piracy and smuggling would be easier to combat, protected areas such as coral reefs could be enforced, and less-polluting shipping lanes could be defined.
+For this experiment, Samantha did not do anything – the receiver is outside the Columbus module and data are automatically collected and transmitted to Earth for analysis.
+LIRIS
+ESA’s ATV Georges Lemaître space freighter was launched to the International Space Station during ESA astronaut Alexander Gerst’s Blue Dot mission. The fifth and final supply ship tested new rendezvous sensors.
+The LIRIS demonstrator – short for Laser InfraRed Imaging Sensors – on the last ATV is the first step towards an ‘uncooperative rendezvous’ in space.
+On future missions, infrared cameras and lidar sensors – the light equivalent of radar – would scan the targets while onboard computers process the data using new guidance navigation and control software.
+ESA has set its sights on allowing future spacecraft to rendezvous with ‘uncooperative’ targets, such as orbiting debris or a Mars sample capsule and this technology demonstration is an important step towards such missions.

@@ -1,0 +1,15 @@
+ews- v-81
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Environment
+Environment
+The Futura mission continued long-standing experiments on the International Space Station.
+DOSIS-3D
+Radiation levels in space are up to 15 times higher than on Earth. As soon as we leave our protective atmosphere, space radiation becomes a serious concern.
+DOSIS-3D helps to understand space radiation and how it penetrates the Space Station walls. Active and passive radiation detectors are being used to map the radiation in all of the Station’s modules.
+Europe’s Columbus laboratory is monitored by 11 passive dosimeters. The dosimeters are about the size of a pack of playing cards and attached to the walls of Columbus with Velcro. They record how much radiation has been absorbed in total during the period they are in space.
+This experiment has been monitoring radiation levels for a number of years and after each six-month crew rotation the detectors are replaced to record changes in radiation. ESA astronaut Samantha Cristoforetti removed the old set of dosimeters from Columbus, pack them for return to Earth, and stick a new set to the walls.
+In addition to the passive detectors, DOSIS-3D uses active dosimeters that measure fluctuations in radiation levels over time. Data from all Station partners are shared to create as complete a picture of space radiation as possible.
+Solar
+Solar is a combination of instruments placed on the outside of Europe’s Columbus laboratory that together measure the Sun’s output with unprecedented accuracy, from the infrared to the ultraviolet.
+Solar is run automatically from the ground and uses its sensors to measure the Sun’s temperature. This is an exciting time for the scientists behind Solar as they expect the Sun to be at the peak of its 11-year cycle.
+The Sun is the source of energy for most life on Earth and it dominates our daily lives. The more we understand our Sun, the better we can protect life on Earth and our satellites in space.
+To predict how the Sun will behave, scientists create complex computer models to build a virtual star. With more data, scientists can fine-tune their models. These models are an important step towards understanding humankind’s impact on Earth’s climate.

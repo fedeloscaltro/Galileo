@@ -1,0 +1,14 @@
+iews-6 -60
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Drop_towers
+Drop towers
+Jumping out of a plane or falling down a liftshaft have one thing in common: you experience weightlessness until you hit the ground. Drop towers exploit this fact of nature to offer researchers brief periods of microgravity for experiments.
+From the moment an experiment is let go at the top of a drop tower until it hits the padded ground beneath, the experiment is free of the influences of gravity.
+These short bouts of microgravity are open to scientists from all over the world and offer an economical alternative to spaceflight that can be used at any time of the year.
+ESA uses the Zarm drop tower in Bremen, Germany. The 146 m-tall concrete tower is a landmark on the Bremen University campus.  Over 5000 experiments have been dropped since its inauguration in 1990.
+Zarm delivers 4.74 seconds of near-weightlessness up to three times a day. The microgravity time can be doubled using a catapult system. From the bottom, the catapult propels experiments upwards to fall back.
+The drop tube stands free of the outer structure. This allows the exterior to vibrate from strong winds while the inner drop tube and the experiments inside are guaranteed to be free of vibrations.
+The experiment capsules have a diameter of 80 cm and a length of up to 2.4 m. The capsules are closed under pressure by an aluminium cover. The drop-tube itself is evacuated to reduce air drag during the fall.
+Eighteen pumps take around 90 minutes to remove all the air from the 1700 m3 towers – around the same as pumping out a two-storey house.
+During the 110 m of free fall the experiments are subjected to 0.000001 the gravity normally felt on Earth. The weightlessness is ended by polystyrene beads breaking the container’s fall. It then takes 20 minutes to flood the drop tower with air before researchers can retrieve their experiment.
+ESA runs a yearly ‘Drop Your Thesis’ campaign for university students to experiment with the drop tower.
+Researchers and university students are welcome to drop everything and submit proposals for research.

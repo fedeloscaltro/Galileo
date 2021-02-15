@@ -1,0 +1,15 @@
+iews-4 -12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Materials
+Materials
+SODI-DCMIX
+Fluids and gases are never at rest, even if they appear to be when viewed by the naked eye. But molecules are constantly moving and colliding even though there is no microscope powerful enough to see the phenomenon. Scientists are interested in observing and measuring these movements because they reveal important, practical information such as how heat spreads in a fluid and how quickly fluids mix.
+Creating accurate models of how fluids heat is harder than it might seem. School physics classes can work out how long it would take to boil a litre of water, but what if the water were mixed with oil or a multitude of different liquids? Measuring liquid mixtures at rest is not always possible on Earth because heavier elements in a mixture will follow gravity and sink to the bottom.
+A mixture on the International Space Station is free from the constraints of gravity and will not separate. SODI-DCMIX exploits this fact to record temperatures of mixtures in space using optical techniques to understand how molecules move in liquids. This experiment is a continuation for the Futura mission from previous missions.
+PK-4
+Plasma is a state of matter when a gas is ionised – the atoms are electrically charged, with either a positive or negative charge. Our Sun consists of plasma; closer to home, lightning is a form of plasma and plasma technology is, for example, used in neon lamps.
+PK-4 is examining complex plasmas that include microscopic dust particles. On Earth, investigating plasmas with microparticles is very difficult and sometimes impossible as gravity pulls on the particles and distort readings, which is where the International Space Station steps in.
+PK-4 is a fundamental science experiment to understand how our world works. Previous research into plasma has resulted in new ways of fighting bacteria and lighting your house – who knows what the future will bring when we understand plasma better?
+MAGVECTOR
+Earth’s magnetic field is constantly flowing around us and influencing our daily lives. Aside from protecting us from solar winds, it is makes a compass work and it helps birds to find their destination when migrating. This same force can interact and interfere with equipment and experiments on the International Space Station.
+MAGVECTOR investigates how Earth’s magnetic field interacts with an electrical conductor. Using extremely sensitive magnetic sensors placed around and above the conductor, the researcher will gain insight into how the magnetic field influences how conductors work.
+This research will not only help improve future Space Station experiments and electrical experiments but it could offer insights into how magnetic fields influence electrical conductors in general – the backbone of our technology.

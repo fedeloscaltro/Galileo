@@ -1,0 +1,20 @@
+iews-9 -38
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Lesson_plan_for_use_with_the_ISS_Education_Kit_on_the_web
+Lesson plan for use with the ISS Education Kit on the web
+Topic: GRAVITATION & WEIGHTLESSNESS
+Lesson 1 - Discover Gravity (about 2 hrs)
+Lesson 2 - Free fall (about 2 hrs)Lesson 3 - Weightlessness (about 2hrs)
+School level: Students in the age range 14 - 16 years old
+Prerequisites: Solutions to simple equations, square roots, order of magnitude, IS units, uniform and accelerated motion, acceleration of gravity at Earth's surface, kinematics of circular motion (not mandatory).
+Objectives: The lesson is meant to lead the students from the discovery and understanding of the Law of Universal Gravitation, to the knowledge and understanding of its consequences on the motion of bodies nearby massive celestial bodies and of the weightlessness conditions produced in free falling environments like the ISS. With this purpose the lesson exploits the content, the multimedia materials and the interactive exercises of the ISS Education Kit on the Web eventually accessible in 12 languages from the weblink : http://www.esa.int/issedukit.
+The lesson is meant as a guideline for teachers, that are requested anyway to customize the lessons to the interest, knowledge and skills of their students.
+Materials: Blackboard, computer for the teacher with digital projector, multimedia lab with internet connection and one computer for each student (or groups of max 3), specific worksheets for each lesson, materials for experiments (see description in individual lessons)
+Lesson structure: The lessons are structured so that the multimedia, interactive exercises and the content of the ISS Education Kit on the Web (KoW) are used as a support for learning about gravity and its effect on the motion of bodies, with the aim of introducing weightlessness and the weightlessness environment of the ISS.
+The lesson plan offers a backbone and some suggestions, but there is still lot of space for ‘customization’ by the teacher. The length of each lesson can vary depending on the level and the depth of the content provided. This structure can also be used for demonstrating the use of the of the KoW.
+The lessons are structured as an alternation of brainstorming/ discussions in the classroom, experiments/exercises performed by single students and teacher lessons/recapitulation.
+DOWNLOAD LESSON PLANS:
+Lesson 1 - Discover Gravity > download »»
+Lesson 2 - Free fall > download »»Lesson 3 - Weightlessness > download »»
+Extra material Lesson 3:
+NASA resource: Creating microgravity > download »»
+NASA resource: Inertial balance > download »»NASA resource: Falling weight apparatus > download »»

@@ -1,0 +1,17 @@
+ews- v-46
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/PromISSe/Support_from_the_ground
+Support from the ground
+A worldwide network of control centres follows the life and work on the Station. These centres monitored every single thing during the PromISSe mission, ranging from the visiting spacecraft to experiments being performed in the Columbus module. In case of changes or any malfunctions, the control centres are on the front line to take the necessary measures.
+Researchers from all over Europe can follow experiments in space from the several User Support and Operation Centres (USOCs) that ESA has in Europe or even directly from their workplaces. Their efforts are channelled through the Columbus Control Centre in Oberpfaffenhofen, near Munich in Germany.
+This centre’s main functions are to command and control the Columbus laboratory systems, to coordinate operations and to operate the European ground communications network. There is also a weekly conference with the Space Station to check the status of science experiments.
+The User Support and Operation Centres are based in national centres distributed throughout Europe. These centres are responsible for the use and implementation of European payloads on board the Station.
+The Automated Transfer Vehicle Control Centre (ATV-CC) is the direct link to ATV-3 in orbit. Although docking with the ISS is fully automatic, ATV-CC is able to direct the approaching and separation of Edoardo Amaldi from the ISS.
+Every week, the EAC Crew Medical Support Office had a conference with André Kuipers to check his health in space. The team provided guidance and advice for all medical procedures, inflight fitness and countermeasures.
+Launch sites
+Soyuz TMA-3M: Baikonur Cosmodrome, KazakhstanATV-3: Kourou, French Guiana
+European control centres
+Columbus Control Centre: Oberpfaffenhofen, Germany
+ATV Control Centre: Toulouse, FranceEAC Crew Medical Support Office: Cologne, Germany
+ISS international control centres
+NASA Mission Control Center: Houston, United States
+Roscosmos Flight Control Centre: Korolev, RussiaCanadian Space Agency Mission Control Centre: Quebec, Canada

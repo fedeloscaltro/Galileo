@@ -6,6 +6,19 @@ options = Options()
 options.headless = True  # set the option "headless" for the web driver
 driver = wd.Firefox(options=options)  # configure webdriver to use Firefox browser
 
+def more_articles(p):
+    driver.get(p)
+    content = driver.page_source
+    soup = bs(content, "html.parser")
+    tmpArticles = []
+
+    print(p)
+    for a in soup.find_all(class_="btn", href=True):
+        if a.text and "/Science_Exploration/Human_and_Robotic_Exploration/" in a['href']:
+            tmpArticles.append("https://www.esa.int" + a['href'])
+
+    return tmpArticles
+
 
 def esa_scraper(p):
     """Function used to scrape and find the articles indexed in the ESA web pages
@@ -114,27 +127,28 @@ def main():
 
     esa_counter = 36  # index used to set the max page of ESA articles
     space_com_counter = 9  # index used to set the max page of Space.com articles
-
+    """
     for k in range(esa_counter):
         links_articles.extend(
             esa_scraper(root_esa + str(k * 50)))  # adding the links retrieved from the first "i" ESA pages
-
+    """
     sub_cat = {"Exploration/": 5, "Exploration/ExoMars/": 2, "Mars500/": 3, "PromISSe/": 1, "MagISStra/": 2,
                "Futura/": 1, "Education/": 5, "Research/": 9, "Astronauts/": 9, "Blue_Dot/": 1, "AstroLab/": 2,
-               "OasISS_Mission/": 2, "Exploration/Orion/": 1}
+               "OasISS_Mission/": 2, "Exploration/Orion/": 1, "concordia/": 1}
 
-    esa_iteration(sub_cat, root_esa, links_articles)
+    # esa_iteration(sub_cat, root_esa, links_articles)
 
-    for cat in sub_cat:
-        links_articles.extend(
-            esa_scraper(root_esa.replace("(archive)/", cat) + "(archive)/"))
-
-    links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the Blue Origin page
-
+    #for cat in sub_cat:
+    links_articles.extend(
+        esa_scraper(root_esa.replace("(archive)/", "Concordia/") + "(archive)/"))
+        
+    links_articles.extend(more_articles(root_esa.replace("(archive)/", "Concordia/")))
+    # links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the Blue Origin page
+    """
     for k in range(1, space_com_counter+1):
         links_articles.extend(
             space_com_scraper(root_space_com + str(k)))  # adding the links retrieved from the first "i" Space.com pages
-
+    """
     write_to_file(links_articles, links_file)   # create or update links file
 
 

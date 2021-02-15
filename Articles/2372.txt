@@ -1,0 +1,28 @@
+2016-12-06
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_orbiter_images_Phobos
+ExoMars orbiter images Phobos
+The ExoMars Trace Gas Orbiter has imaged the martian moon Phobos as part of a second set of test science measurements made since it arrived at the Red Planet on 19 October.
+The Trace Gas Orbiter (TGO), a joint endeavour between ESA and Roscosmos, made its first scientific calibration measurements during two orbits between 20 and 28 November.
+Example data from the first orbit were published last week, focusing on Mars itself. During the second orbit, the instruments made a number of measurements of Phobos, a 27×22×18 km moon that orbits Mars at a distance of only 6000 km.
+The camera imaged the moon on 26 November from a distance of 7700 km, during the closest part of the spacecraft’s orbit around Mars. TGO’s elliptical orbit currently takes it to within 230–310 km of the surface at its closest point and around 98 000 km at its furthest every 4.2 days.
+A colour composite has been created from several individual images taken through several filters. The camera’s filters are optimised to reveal differences in mineralogical composition, seen as ‘bluer’ or ‘redder’ colours in the processed image.
+An anaglyph created from a stereo pair of images captured is also presented, and can be viewed using red–blue 3D glasses.
+“Although higher-resolution images of Phobos have been returned by other missions, such as ESA’s Mars Express and NASA’s Mars Reconnaissance Orbiter, this provided a good test of what can be done with our data in a very short time,” says Nick Thomas, principal investigator of the CaSSIS camera team at the University of Bern.
+“The images have given us a lot of useful information about the colour calibration of the camera and its internal timing.”
+Two other instruments also made calibration measurements of Phobos, and the teams are analysing their data.
+“We’re very happy with the results of both test science orbits and will be using these calibration data to improve our measurements once we begin the main science mission later next year,” adds Håkan Svedhem, ESA’s TGO Project Scientist.
+The focus of the mission now returns to preparations for aerobraking required to bring the spacecraft towards its near-circular science orbit by the end of 2017. More details on the upcoming operations will be provided soon.
+TGO’s main scientific goal is to make a detailed inventory of rare gases that make up less than 1% of the atmosphere’s volume, including methane, water vapour, nitrogen dioxide and acetylene.
+Of high interest is methane, which on Earth is produced primarily by biological activity, and to a smaller extent by geological processes such as some hydrothermal reactions.
+The spacecraft will also seek out water or ice just below the surface, and will provide colour and stereo context images of surface features, including those that may be related to possible trace gas sources.
+TGO will also act as a data relay for present and future landers and rovers on Mars, including the second ExoMars mission that will feature a rover and surface science platform, and which is scheduled for launch in 2020.
+For more information, please contact:
+Nicolas Thomas
+Center for Space and Habitability, University of BernEmail: nicolas.thomas@space.unibe.ch
+Håkan Svedhem
+ESA ExoMars TGO Project ScientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

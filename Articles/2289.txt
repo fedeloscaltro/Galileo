@@ -1,0 +1,28 @@
+2014-05-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Blue_dot/The_voyage_home
+The voyage home
+ESA astronaut Alexander Gerst, Russian commander Maxim Suraev and NASA astronaut Reid Wiseman returned to their Soyuz TMA-013M spacecraft and lifeboat at the end of their 166-day mission on the International Space Station. The ride home is even shorter than the ride to the Station, taking less than four hours from undocking to landing in the steppes of Kazakhstan.
+Shortly after undocking, Soyuz separates into its three main parts. The orbital and service modules burn up on reentry in the denser layers of Earth’s atmosphere. The descent module turns to position its heatshield towards the direction of reentry, so that it can handle the 1600°C temperatures caused by friction with our atmosphere.
+Reentry starts at an altitude of about 120 km, when their cruising speed of 28 800 km/h is reduced dramatically and the crew are pushed back into their seats with a force of 4–5 g. This is equivalent to four to five times their own body weight.
+Parachutes deploy to reduce speed even more and the astronauts sit in custom-fitted seats that absorb the shock of impact. At the last moment, retrorockets fire before touchdown to limit the landing speed to around 5 km/h.
+After landing, the crew deploy a communication antenna so that the rescue teams can pinpoint their location, but search and rescue teams are often already onsite to retrieve the space voyagers.
+The spacecraft is cramped and astronauts return to Earth in a weakened state so pulling the crew out of their capsule one by one can take some time.
+Landing timeline
+Soyuz leaves the Station
+00:00 separation command
+Separation command to begin opening the hooks and latches that hold Soyuz on the Station docking port
++00:03 separation from Station
+Hooks opened. Soyuz begins physical separation from the docking compartment at 0.1 m/s
++00:06 separation burn from Station
+A 15-second separation burn when the Soyuz is about 20 m from the Station
++02:29 deorbit burn
+When Soyuz is about 19 km from the Station, the engines fire for almost five minutes
++02:57 separation of modules
+The unoccupied Orbital Module separates from the Descent Module and burns up on reentry
++03:00 Entry Interface
+The Soyuz reaches Entry Interface at 122 km altitude
++03:08 parachutes open
+Parachutes are deployed:
+1. Two pilots
+2. Drogue slows the descent from 230 m/s to 80 m/s
+3. Main slows the Soyuz to 7.2 m/s. The Soyuz descends at an angle of 30º to cool, then the main parachute shifts it to a straight vertical descent

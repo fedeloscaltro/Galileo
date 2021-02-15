@@ -1,0 +1,49 @@
+2012-02-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/ATV/ATV-3_musical_greeting
+ATV-3 musical greeting
+More ATV videos
+ATV-3 is named after the Italian physicist and spaceflight pioneer Edoardo Amaldi. A founding father of the European Space Research Organisation – precursor of ESA – and the European Organization for Nuclear Research (CERN), Amaldi is famous for being part of the group that discovered slow neutrons.
+This third vessel in the ATV series is the first to have been processed and launched within the target rate of one per year.
+This marks the start of ATV as an annual production-line supply vehicle for the Space Station, positioning Europe as an essential partner in operating the orbital outpost.
+The next ATVs, Albert Einstein and Georges Lemaître, will follow in 2013 and 2014.
+The spaceship will deliver essential supplies and propellant as well as reboost the Station’s altitude.
+At more than 20 tonnes, the highly sophisticated spacecraft is the heaviest payload ever launched by Europe. It combines an autonomous free-flying platform, a manoeuvrable space vehicle and – when docked – a Space Station module.
+To achieve an automated docking under the very tight safety constraints imposed by human spaceflight rules, ATV carries high-precision navigation systems, highly redundant flight software and a fully independent and autonomous collision-avoidance system with its own power supplies, control and dedicated thrusters.
+The Space Station depends on regular deliveries of experiment equipment and spare parts, as well as food, air and water for its crew.
+Since 2008, every year and a half, an ATV has delivered about 6 tonnes of cargo some 400 km above Earth.
+After launch on an Ariane 5 from Europe’s Spaceport in French Guiana, ATV automatically navigates to a precision docking with the Station’s Russian Zvezda module.
+It remains attached to the ISS for up to six months before reentering the atmosphere and deliberately burning up together with several tonnes of Station waste.
+About 10 m long and with a diameter of 4.5 m, ATV incorporates a 45-cubic metre pressurised module and a Russian docking system, similar to those used on the Soyuz manned ferries and the Progress supply ships.
+With its solar wings deployed, ATV spans 22 m. Almost three times larger than Russia’s Progress, it can also deliver about three times the cargo load.
+Propellant and cargo for the Station
+ATV is the largest supply ship to travel to the International Space Station since the US Space Shuttle fleet was retired last year. ATV-3 will deliver 4395 kg of propellant, oxygen, air and water to the Station.
+Once docked, the propellant will be used by ATV’s own thrusters to raise the Station’s orbit periodically to compensate for the natural decay caused by atmospheric drag.
+ATV can also be used to move the Station out of the way of potentially dangerous space debris that come too close to the manned space complex.
+Before leaving the Station, Edoardo Amaldi will be filled with waste bags and unwanted hardware by the crew.
+It will then be deorbited over the southern Pacific Ocean to burn up harmlessly in the atmosphere.
+Astrium is the industrial prime contractor, leading a team of more than 30 contractors in 10 European countries. The ATV Control Centre is located in Toulouse, France, on the premises of the French Space Agency, CNES.
+For more information about ATV please visit http://www.esa.int/ATV
+Notes for Editors
+The launch video transmission will be available live on www.esa.int
+Background media briefings
+In France, a pre-launch media encounter will be heldin cooperation with the national space agency, CNES, on 6 March.
+In Spain, a pre-launch media encounter will be held at ESAC, on 9 March,  the day of the launch.More information is available at http://www.esa.es
+Launch events
+Launch events will be organised at the main ESA establishments in France (ESA HQ, Paris), Germany (ESOC, Darmstadt), Italy (ESRIN, Frascati), the Netherlands (ESTEC, Noordwijk), and Spain (ESAC, Madrid).
+Media wishing to attend are invited to contact:
+In addition, in Germany, in cooperation with DLR and EADS Astrium, a launch event for the launch will take place at the Astrium facilities in Bremen.  Media willing to attend must register at : presse@astrium.eads.net.
+More information about the event can be obtained by contacting EADS Astrium Communication, Kirsten Leung at +49 4215 395326.Due to security reasons it is necessary to identify yourself by a valid ID-Card or Passport. Press cards will not be accepted.
+Material for online news sites
+The launch video transmission will be available for all interested online media as an embeddable livestream at http://www.livestream.com/eurospaceagency/
+Online media outlets can find background videos at:
+Still images
+The latest high-resolution still images can be found at:
+Media image queries can be directed to esa.photolibrary@esa.int
+Material for broadcasters
+Leading up to launch day, ESA TV will be providing broadcasters with a series of video news releases and B-rolls featuring all aspects of the mission.
+The launch will be transmitted live from Kourou via satellite. Alldetails can be found on ESA TV’s site at: http://television.esa.int
+For further information, please contact:
+ESA Media Relations Office
+Communication Department
+Tel: + 33 1 53 69 72 99
+Fax: + 33 1 53 69 76 90Email: media@esa.int

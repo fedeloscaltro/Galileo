@@ -1,0 +1,19 @@
+2016-07-28
+https://www.esa.int/Enabling_Support/Operations/Engine_burn_gives_Mars_mission_a_kick
+Engine burn gives Mars mission a kick
+Following a lengthy firing of its powerful engine this morning, ESA’s ExoMars Trace Gas Orbiter is on track to arrive at the Red Planet in October.
+ExoMars made its first critical manoeuvre since its 14 March launch this morning, firing its engine for 52 minutes to help it intercept Mars on 19 October.
+ExoMars, a joint mission with Russia’s Roscosmos, was launched on 14 March and has already travelled well over half way of its nearly 500 million km journey.
+The ExoMars Trace Gas Orbiter, TGO, is carrying the Schiaparelli entry, descent and landing demonstrator. Upon arrival, Schiaparelli will test the technology needed for the 2020 rover to make a controlled landing, while its parent craft will brake into an elliptical orbit around Mars.
+Over the following months, TGO will shave the outer reaches of the atmosphere to lower its orbit. Its final circular orbit at about 400 km altitude will allow it to begin its five-year scientific mission in December 2017.
+TGO will analyse rare gases in the planet’s atmosphere, especially methane, which on Earth may indicate either active geological or biological processes.
+Lining up to intercept Mars
+Today’s deep-space firing began automatically at 09:30 GMT (11:30 CEST), after commands to orient itself and ignite the 424 N main engine were uploaded on Tuesday.
+The manoeuvre was closely monitored by ESA’s mission control in Darmstadt, Germany, who followed the craft’s signals via the highly sensitive radio dish at New Norcia, Australia.
+“The engine provides about the same force as that needed to lift a 45 kg weight in a fitness studio, and it ran for about 52 minutes, so that’s quite a significant push,” says Silvia Sangiorgi, deputy spacecraft operations manager.
+The firing was planned well in advance, and its duration was carefully calculated to minimise fuel consumption for the overall set of cruise and Mars capture manoeuvres. These include a second burn on 11 August and smaller ‘trim’ manoeuvres on 19 September and 14 October.
+A brief burn was made on 18 July to test the engine for the first time. The performance that day was not as expected because of a misconfiguration, so a repeat test was done on 21 July, which ran perfectly.
+“Today’s burn was the biggest of the four planned that will enable ExoMars to intercept Mars and precisely deliver the Schiaparelli lander on 19 October onto Meridiani Planum, a large, flat region near the equator,” says flight operations director Michel Denis.
+Calculating today’s burn was done with the assistance of an ultra-precise navigation technique that pinpoints the craft’s position to within 1000 m at a distance of 150 million km from Earth.
+In addition to the firing slots available in September and October, which will provide final fine adjustments to the trajectory before the separation of Schiaparelli on 16 October, ExoMars must also raise its orbit on 17 October and manoeuvre into Mars orbit on 19 October.
+Teams have been using the relatively quiet cruise phase to test spacecraft systems, including the Schiaparelli lander and the radio unit that will be used to relay data from rovers on Mars, and to check TGO’s four science instruments.

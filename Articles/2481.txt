@@ -1,0 +1,15 @@
+2014-07-25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Timely_arrival_of_Pharao_space_clock
+Timely arrival of Pharao space clock
+ESA has welcomed the arrival of Pharao, an important part of ESA’s atomic clock experiment that will be attached to the International Space Station in 2016.
+Delivered by France’s CNES space agency, Pharao is accurate to a second in 300 million years, which will allow scientists to test fundamental theories proposed by Albert Einstein with a precision that is impossible in laboratories on Earth.
+Time is linked to gravity and, for example, passes faster at the top of Mount Everest than at sea level. These effects have been proved in experiments on Earth but the Atomic Clock Ensemble in Space, ACES, will make more precise measurements as it flies 400 km high on humanity’s weightless laboratory.
+Comparing clocks under different gravity levels allows researchers to test Einstein’s theories on space–time and other theories in fundamental physics.
+To achieve its accurate timekeeping, the Pharao space clock uses lasers to cool caesium atoms down to  –273°C, close to absolute zero.
+Internet of clocks
+Accurate timekeeping is vital for pinpointing our location, secure banking and fundamental science, but it is not easy to compare data from the many atomic clocks on Earth.
+ACES is more than just one clock in space. Pharao will be accompanied by the Space Hydrogen Maser, which uses a different technique to keep track of time. This clock uses hydrogen atoms as a frequency reference and offers better stability but for a shorter time.
+By coupling the two clocks, ACES will provide the scientists with a unique, highly stable time reference in space.
+The project will link together atomic clocks in Europe, USA, Japan and Australia with their space counterparts via microwave and optical links to create an ‘internet of clocks’ and to deliver precise timekeeping.
+Connecting all these clocks is a significant part of ACES, with France’s Cadmos User Support and Operations Centre taking responsibility for operating the instruments on the Station.
+ESA astronaut Thomas Pesquet will be on the orbital outpost when ACES arrives in 2016. Using the Station’s robotic arm, the 375 kg payload will be installed on a platform outside Europe’s Columbus space laboratory.

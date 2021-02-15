@@ -1,0 +1,6 @@
+2010-12-17
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/MagISStra/Temporary_loss_of_communication_now_restored
+Temporary loss of communication, now restored
+Communications were briefly disrupted yesterday evening between the Mission Control Center in Moscow (MCC-M) and the Soyuz TMA-20 carrying NASA astronaut Cady Coleman, Russian cosmonaut Dmitri Kondratyev and ESA's Paolo Nespoli to the International Space Station. Communication has been restored, and the crew never was in danger, NASA reports.
+MCC-M has limited contact with Soyuz only over Russian ground stations, and some of the communications passes were disrupted because a cut cable between MCC-M and Russian ground sites prevented voice communications, command and some telemetry data from being relayed to MCC-M from Soyuz through the Russian ground stations. The ground stations always had communications with the Soyuz, and MCC-M was able to call the ground sites and gain communications with the Soyuz that way.
+At 20:48 CET on Thursday, the Soyuz crew completed the DV-3 burn to adjust their trajectory toward the International Space Station. The crew reports the burn was nominal, and we have confirmed it was a good burn. The Soyuz is scheduled to dock with the space station at 21:12 CET Friday.

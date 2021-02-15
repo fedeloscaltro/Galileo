@@ -1,0 +1,31 @@
+2018-03-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/First_test_success_for_largest_Mars_mission_parachute
+First test success for largest Mars mission parachute
+The largest parachute ever to fly on a Mars mission has been deployed in the first of a series of tests to prepare for the upcoming ExoMars mission that will deliver a rover and a surface science platform to the Red Planet.
+The spacecraft that will carry them is due for launch in July 2020, with arrival at Mars in March 2021. The rover will be the first of its kind to drill below the surface and determine if evidence of life is buried underground, protected from the destructive radiation that impinges the surface today.
+A carrier module will transport the rover and the science platform to Mars within a single aeroshell. A descent module will separate from the carrier shortly before reaching the atmosphere, whereupon a heatshield, parachutes, thrusters and damping systems will reduce the speed, delivering them safely to the surface.
+The focus of the latest test, conducted in sub-zero conditions in Kiruna, Sweden earlier this month, was the 35 m-diameter second main parachute. The test demonstrated the deployment and inflation of the parachute with its 112 lines connected to a drop test vehicle, via the deployment of a smaller 4.8 m-wide pilot chute.
+The complete parachute system, totaling some 195 kg, is stowed in a dedicated canister. The second main parachute of 70 kg is folded with its 5 km of cords in a precise way – a process that takes around three working days – to ensure it is extracted properly.
+The assembly was lofted 1.2 km above the ground with a helicopter, and the sequence initiated after the vehicle was released. About 12 seconds after the pilot chute was inflated, the second parachute release was triggered.
+GoPro cameras on the 500 kg test vehicle looked up at the parachute inflation, and onboard equipment sent telemetry in real time as it descended in about two and a half minutes to the ground.
+“The successful deployment of our large ExoMars parachute using a smaller pilot chute and its subsequent stable descent without damage, is a major milestone for the project,” says ESA’s Thierry Blancquaert.
+“It was a very exciting moment to see this giant parachute unfurl and deliver the test module to the snowy surface in Kiruna, and we’re looking forward to assessing the full parachute descent sequence in the upcoming high-altitude tests.”
+That testing will see the equipment dropped from a stratospheric balloon from nearly 30 km, to more accurately represent the low atmospheric pressure on Mars – a vital aspect when considering parachute inflation.
+The subsequent tests will also investigate the full parachute deployment sequence, which comprises two main parachutes, each with a pilot chute.
+The dual parachute approach accommodates the much heavier descent module of the ExoMars 2020 mission – some 2000 kg compared with nearly 600 kg of the previous mission.
+The first main parachute is a 15 m-wide ‘disc–gap band’ chute of the same design as deployed on the ExoMars 2016 mission and ESA’s Huygens probe that landed on Saturn’s moon Titan in 2005. It will open while the module is still travelling at supersonic speed, and will be jettisoned prior to the deployment of the second pilot chute and second main parachute once at subsonic speeds.
+The second main parachute has a ring-slot design, which increases drag at lower speeds.
+During the latter stage of descent the aeroshell’s front heatshield will be discarded, and the landing platform will be released for its final descent.
+The platform will then deploy ramps for the rover to drive down and on to Mars to begin its exciting science exploration mission.
+The rover will receive commands and relay its scientific data to Earth through the ExoMars Trace Gas Orbiter, which arrived at Mars in 2016 and recently completed a year-long aerobraking campaign to reach its near-circular science orbit – the heaviest spacecraft to ever achieve orbit using this technique.
+The orbiter’s main role is to search the atmosphere for trace gases that may be linked to active biological or geological processes.
+The ExoMars programme is a joint endeavour between ESA and Roscosmos.
+The low-altitude test of the large parachute manufactured by Arescosmo was carried out by Vorticity Ltd at the Swedish Space Corporation Esrange facility. The test was performed under supervision of Thales Alenia Space France as responsible for the Parachute Assembly System, Thales Alenia Space Italy as the ExoMars Prime contractor, and ESA.
+For more information, please contact:
+Thierry Blancquaert
+ESA ExoMars Carrier Module and Descent Module ManagerEmail: Thierry.Blancquaert@esa.int
+Markus Bauer
+ESA Science Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

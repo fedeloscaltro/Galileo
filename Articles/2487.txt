@@ -1,0 +1,22 @@
+2011-06-29
+https://www.esa.int/Enabling_Support/Space_Engineering_Technology/Expert_s_reentry_flap_endures_hot_baptism
+Expert’s reentry flap endures hot baptism
+A spacecraft control flap designed for the super-heated hypersonic fall through Earth’s atmosphere has come through testing in the world’s largest plasma wind tunnel to be ready for its first flight next year.
+This flap and its advanced sensors are destined to fly on ESA’s Expert – the European Experimental Reentry Testbed – a blunt-nosed capsule being shot up to the edge of space next spring on a Russian Volna rocket to gather data on atmospheric reentry at 5 km/s.
+Expert carries experimental side flaps to help show that they can steer larger ESA reentry vehicles such as the IXV Intermediate eXperimental Vehicle in 2013.
+“This flap is fitted with a variety of instruments, including cameras, pressure monitors and an ultraviolet spectrometer to gather data during the hottest two minutes of Expert’s 15-minute flight,” explained Jan Thoemel, Expert Project Scientist.
+“We needed to prove this instrumentation will indeed function as planned, and check our mathematical modelling was accurate. “This meant recreating the extreme environment of atmospheric reentry down on the ground.”
+Italy’s Scirocco plasma wind tunnel in Capua, near Naples, is one of the few sites worldwide where such testing is possible.
+Named for the hot Mediterranean wind and operated by the CIRA aerospace research centre, Scirocco runs vast amounts of power through an arc heater, heating up air into a blowtorch-like plasma that jets through its 2 m-diameter tunnel.
+Its arc heater was taken up to 10 000ºC with 38 MW of electricity, creating a plasma flow seven times the speed of sound and bringing the temperature of the flap up to 1200ºC.
+Identical to the flight version, the test flap is made from heat-resistant ceramics. Its instruments include a miniature infrared camera provided by RUAG Space Switzerland and pressure and high-temperature sensors developed by the German Aerospace Center DLR and CIRA.
+“After years of preparation we performed four test runs on 13 April, comfortably exceeding the heat loads we anticipate the flap will encounter during its spaceflight aboard Expert,” explained Jan.
+“Each test reached 1.75 times the flight heat load, amounting to seven times the flight heat load overall.
+“Despite this, our instrumentation performed excellently, validating it for actual flight.
+“In the months that followed we’ve been comparing the test results to our software models to highlight any discrepancies, as a way of improving the computational fluid dynamics design tools used for Expert.”
+Running on the equivalent energy consumption of a small town, Scirocco’s construction was co-funded by ESA and the Italian Ministry for University and Research, with ‘wind-on’ occurring in March 2001.
+The facility serves a wide variety of customers worldwide. Its operator CIRA is playing a wider role in preparing for Expert’s flight.
+“This test campaign represented a particular challenge because it was approaching the limits of the facility’s capabilities,” explained Giulano Marino of CIRA.
+“Many new components had to be installed first, requiring extensive testing, but the results speak for themselves.”
+The Scirocco testing was funded through ESA’s Basic Technology Research Programme, which supports new technology development.
+The Expert capsule, studded with around 150 different sensors, is due to fly in spring 2012, sea-launched from a Russian submarine for recovery on Russia’s Kamchatka peninsula.

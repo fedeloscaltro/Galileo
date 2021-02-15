@@ -1,0 +1,31 @@
+2016-10-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/What_to_expect_from_Schiaparelli_s_camera
+What to expect from Schiaparelli’s camera
+As the ExoMars Schiaparelli module descends onto Mars on 19 October it will capture 15 images of the approaching surface. Scientists have simulated the view we can expect to see from the descent camera.
+Schiaparelli will separate from its mothership, the Trace Gas Orbiter, on 16 October, with some six million km still to travel before entering the atmosphere of Mars at 14:42 GMT three days later.
+Its descent will take just under six minutes, using a heatshield, parachute, thrusters and a crushable structure for the landing.
+Schiaparelli is primarily a technology demonstrator to test entry, descent and landing technologies for future missions and is therefore designed to operate for a only few days.
+The small surface science package will take readings of the atmosphere, but there is no scientific camera like those found on other landers or rovers – including the ExoMars rover that is planned for launch in 2020.
+The lander does, however, carry ESA’s small, 0.6 kg technical camera, a refurbished spare flight model of the Visual Monitoring Camera flown on ESA’s Herschel/Planck spacecraft to image the separation of the two craft after their joint launch.
+Its role is to capture 15 black and white images during the descent that will be used to help reconstruct the module’s trajectory and its motion, as well giving context information for the final touchdown site.
+The wide, 60º field-of-view will deliver a broad look at the landscape below, to maximise the chances of seeing features that will help to pinpoint the landing site and reveal Schiaparelli’s attitude and position during descent.
+The camera will start taking images around a minute after Schiaparelli’s front shield is jettisoned, when the module is predicted to be about 3 km above the surface. This will result in images covering about 17 sq km on the surface.
+The images will be taken at 1.5 s intervals, ending at an altitude of about 1.5 km, covering an area of roughly 4.6 sq km.
+Then, at an altitude of about 1.2 km, the parachute and rear cover will be jettisoned, and the thrusters ignited. The thrusters will cut out just 2 m above the surface, with the module’s crushable structure absorbing the force of impact.
+Schiaparelli will target the centre of a 100 km x 15 km landing ellipse, in a relatively flat area in Meridiani Planum, close to the equator in the southern hemisphere. This region has been imaged extensively from orbit, including by ESA’s Mars Express and NASA’s Mars Reconnaissance Orbiter.
+To plan for analysing Schiaparelli’s descent, thousands of simulations were made varying the atmospheric conditions and the flight path to the surface. From one such simulation, which touched down at the centre of the landing ellipse, simulated images were then made using data from NASA’s orbiter covering the Meridiani region, as shown here.
+In reality, the altitudes at which images are actually taken may vary somewhat, depending on the atmospheric conditions, the final path through the atmosphere and the speed at which Schiaparelli descends.
+The real images taken on 19 October will be stored in Schiaparelli’s memory before being beamed up to the Mars Reconnaissance Orbiter and downlinked to Earth on 20 October.
+More informationExoMars is a cooperative project between ESA and Roscosmos. It comprises two missions: the Trace Gas Orbiter and the Schiaparelli entry, descent and landing demonstrator module, which were launched on 14 March 2016, and the ExoMars rover and surface platform, scheduled for launch in 2020.
+The first of the real images taken by DECA during Schiaparelli’s descent to the surface on 19 October, are expected to be presented during a press briefing on the morning of 20 October, along with other information confirming the status of the lander, and published on our ESA web channels.
+The camera was built by OIP in Belgium.
+For further information, please contact:
+Detlef Koschny
+DECA team leader, ESAEmail: detlef.koschny@esa.int
+Elliot Sefton-Nash
+ESA planetary scientistEmail: esefton@cosmos.esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

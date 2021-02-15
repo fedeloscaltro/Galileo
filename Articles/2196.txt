@@ -1,0 +1,30 @@
+2019-05-30
+https://www.esa.int/Enabling_Support/Operations/ExoMars_orbiter_prepares_for_Rosalind_Franklin
+ExoMars orbiter prepares for Rosalind Franklin
+On 15 June, the ESA-Roscosmos ExoMars Trace Gas Orbiter (TGO) will follow a different path. An ‘Inclination Change Manoeuvre’ will put the spacecraft in an altered orbit, enabling it to pick up crucial status signals from the ExoMars rover, Rosalind Franklin, due to land on the Red Planet in 2021.
+After completing a complex series of manoeuvres during 2017, ExoMars TGO is now orbiting the Red Planet every two hours, collecting scientific data from NASA’s surface-bound rover and lander, and relaying it back to Earth. At the same time, the orbiter is gathering its own data on the planet’s atmosphere, water abundance and alien surface.
+More than a year before Rosalind even lifts off from Earth’s surface, flight dynamics experts at ESA’s ESOC mission control centre have formulated a long-term plan to ensure ExoMars TGO can communicate with the new ESA rover and surface platform, contained in the entry, descent and landing module.
+Slight changes to a spacecraft’s orbit have a large effect over time, so while the upcoming manoeuvres will only slightly alter TGO’s speed, it will be in the right position to communicate with the then-incoming rover by 2021.
+TGO’s natural motion
+Mars’ uneven gravity field means that TGO’s orbit ‘wanders’, so it gradually rotates around Mars over time. As illustrated in this image, the spacecraft first follows the black path, then the green, then the red – continuing until it completes an entire rotation around the planet every four and a half months.
+To keep in touch with the descent module as it enters the Martian atmosphere, descends, and lands upon its surface, TGO’s orientation needs to change.
+Three manoeuvres in the month of June will alter TGO’s speed, twice by 30.9 metres per second and one final small change of 1.5 metres per second, bringing it slightly closer to the Martian poles.
+Inclined to fly
+Thanks to these manoeuvres, TGO’s path will look more like the second graphic shown here, illustrating ‘snapshots in time’ during the 2021 descent of the new rover.
+The green line represents Rosalind Franklin’s landing approach path.
+The black line shows the TGO orbit with its optimised orientation, two years after the upcoming manoeuvres.
+The red path shows TGO’s original orbit.
+In-phase with Rosalind Franklin
+Once TGO is set to orbit with its new, optimised orientation around Mars, teams on the ground must also ensure it will be on the correct side of the planet when the rover arrives – ‘in phase’ with Rosalind Franklin.
+In February 2021, a small manoeuvre will be performed to ensure TGO is in the right place at the right time for the lander's arrival.
+The result of all these manoeuvres combined can be seen in the third graphic.
+The black line represents TGO’s orbit around Mars at the time Rosalind Franklin begins descending, shown by the green line.
+Blue dots along the orbits of both spacecraft are connected by horizontal lines, illustrating their relative positions at different time intervals, and how they are able to ‘see’ each other at every moment, thus ensuring that radio contact can be maintained.
+Un-phased
+If teams at mission control were to leave ExoMars TGO in its current orbit, without performing any manoeuvres, Mars itself would later get between the orbiting spacecraft and the new Mars explorer.
+In this final graphic, the red line illustrates TGO’s un-phased orbit, and again the green line shows Rosalind Franklin’s entry path and Blue dots represent moments in time for each spacecraft.
+Lines between the dots reveal how in this scenario, Mars would block their view of each other.
+Without phasing the orbiter with the Mars rover, the two craft will remain invisible to each other at the crucial moment when the rover descends to the surface.
+Not only does the foresight and long-term planning of mission experts ensure communication is maintained between two of ESA’s most important Mars missions, it saves fuel – a huge amount of which would be needed to get TGO in the right position in the weeks or even months before the ExoMars rover's arrival.
+Follow the progress of ESA’s ExoMars Trace Gas Orbiter on Twitter, here, and Rosalind Franklin rover, here.
+ESA has demonstrated expertise in studying Mars from orbit, now we are looking to secure a safe landing, to rove across the surface and to drill underground to search for evidence of life. Our orbiters are already in place to provide data relay services for surface missions. The next logical step is to bring samples back to Earth, to provide access to Mars for scientists globally, and to better prepare for future human exploration of the Red Planet. This week we’re highlighting ESA’s contribution to Mars exploration as we ramp up to the launch of our second ExoMars mission, and look beyond to completing a Mars Sample Return mission. Join the conversation online with the hashtag #ExploreFarther

@@ -1,0 +1,15 @@
+2014-12-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Bright_lights_big_cities_at_night
+Bright lights: big cities at night
+As the days grow shorter and the temperatures drop in Europe, test your geography skills in the warmth of your home – while helping scientists to pinpoint light pollution.
+Astronauts circling our planet on the International Space Station take wonderful pictures of Earth and many are fascinated by our brightly lit cities at night. Without humans, Earth would be completely dark at night. Instead, we light up our planet like a fluorescent spider’s web.
+In most countries artificial lights are turned on as the nights get longer. Festive lighting adds charm but for astronomers and ecologists it can be a nuisance. The light from shopping streets and street lighting blocks out the faint lights from distant stars, and city lights can disrupt the lives of nocturnal animals. In addition, streetlights account for a large chunk of a country’s energy consumption.
+The challenge: crowdsourcing identification
+Nearly 500 000 pictures have been taken of Earth at night by astronauts – and the number keeps growing. ESA astronaut Samantha Cristoforetti is continuing the habit during her mission on the Space Station. Not all of these pictures are identified or catalogued and this is where the Cities at Night project is asking for your help.
+The project asks you to identify and tag night-time photos of Earth. Recognising a city is not as easy as it might seem. Astronauts can set their cameras to take pictures automatically while they work on scientific experiments, so they do not always know themselves – and computer programmes cannot help.
+Most people can identify their hometown but would you be able to recognise Liverpool at night if you have never lived there? Researchers need your help to tag images, locate them on a map and provide exact references. Each task has its own web application that runs straight from your browser.
+The applications have a brief tutorial to get you started. Locating cities needs the most work – so get out your atlas and start hunting.
+Understanding the problem with pretty photos
+A large database of pictures of cities at night taken from above offers a wealth of information if correctly identified. As the images span 16 years of astronaut photography from the Station, researchers can chart the development of street lighting over time and compare it with other sources of information such as energy consumption or populations of night animals.
+Another use is to compare city light pollution and energy expenditure across countries. With the cost of street lighting in the EU estimated at €6.8 billion a year, everybody stands to benefit if we know more about which lighting schemes work best.
+You can do your part from the comfort of your own home – scientific research has never been so fun.

@@ -1,0 +1,20 @@
+2016-11-23
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Schiaparelli_landing_investigation_makes_progress
+Schiaparelli landing investigation makes progress
+Good progress has been made in investigating the ExoMars Schiaparelli anomaly of 19 October. A large volume of data recovered from the Mars lander shows that the atmospheric entry and associated braking occurred exactly as expected.
+The parachute deployed normally at an altitude of 12 km and a speed of 1730 km/h. The vehicle’s heatshield, having served its purpose, was released at an altitude of 7.8 km.
+As Schiaparelli descended under its parachute, its radar Doppler altimeter functioned correctly and the measurements were included in the guidance, navigation and control system. However, saturation – maximum measurement – of the Inertial Measurement Unit (IMU) had occurred shortly after the parachute deployment. The IMU measures the rotation rates of the vehicle. Its output was generally as predicted except for this event, which persisted for about one second – longer than would be expected.
+When merged into the navigation system, the erroneous information generated an estimated altitude that was negative – that is, below ground level. This in turn successively triggered a premature release of the parachute and the backshell, a brief firing of the braking thrusters and finally activation of the on-ground systems as if Schiaparelli had already landed. In reality, the vehicle was still at an altitude of around 3.7 km.
+This behaviour has been clearly reproduced in computer simulations of the control system’s response to the erroneous information.
+“This is still a very preliminary conclusion of our technical investigations,” says David Parker, ESA’s Director of Human Spaceflight and Robotic Exploration. “The full picture will be provided in early 2017 by the future report of an external independent inquiry board, which is now being set up, as requested by ESA’s Director General, under the chairmanship of ESA’s Inspector General.
+“But we will have learned much from Schiaparelli that will directly contribute to the second ExoMars mission being developed with our international partners for launch in 2020.”
+“ExoMars is extremely important for European science and exploration,” says Roberto Battiston, President of Italy’s ASI space agency. “Together with all the participating states in the programme, we will work towards the successful completion of the second ExoMars mission.
+“ESA and ASI’s strong partnership will continue to be instrumental in this valuable and exciting European mission.”
+Meanwhile, scientific data from the instruments aboard Schiaparelli during the entry, plus tracking data from the ExoMars Trace Gas Orbiter, Mars Express and India’s Giant Metre Wave Radio Telescope India have been passed to the science teams. These data will contribute to understanding of the Red Planet and especially its atmosphere.
+The Trace Gas Orbiter is starting its first series of science observations since arriving at the Red Planet on 19 October, taking advantage of the initial parking orbit before beginning a long series of aerobraking manoeuvres that will deliver the spacecraft to its operational orbit towards the end of 2017.
+For further information, please contact:
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

@@ -1,0 +1,19 @@
+2019-04-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_carrier_module_prepares_for_final_pre-launch_testing
+ExoMars carrier module prepares for final pre-launch testing
+The module that will carry the ExoMars rover and surface science platform from Earth to Mars has arrived in Italy for final integration preparations.
+The module, along with electrical ground support equipment, shipped from OHB System in Bremen, Germany, arrived on 2 April at Thales Alenia Space in Turin, Italy.
+The mission is the second in the joint ESA-Roscosmos ExoMars programme that is exploring the possibility of whether life has ever existed on Mars.
+The Trace Gas Orbiter is already at Mars, analysing the planet’s atmosphere, and mapping subsurface water. It will also act as a data relay for the next mission, which is scheduled to launch in July 2020, delivering a rover and surface science platform to the Red Planet in March 2021.
+The carrier module also provides the communication link between Earth and the spacecraft, and will support navigation with star trackers and Sun sensors. It also carries propellant required for attitude control and manoeuvres through its 16 20-N thrusters that will use up to 136 kg of hydrazine propellant.
+The landing platform, named Kazachok, also recently arrived in Europe from Russia, while the rover, named after Rosalind Franklin, is being fitted out with its scientific instruments at Airbus in Stevenage, UK.
+“This is an important milestone, as the carrier module is the ‘vessel’ that will take Rosalind Franklin all the way to Mars,” says Thierry Blancquaert, ESA ExoMars spacecraft systems engineering team leader.
+During the nine-month interplanetary journey, the 800-kg carrier module will transport Kazachok and Rosalind the rover within a single, 2-tonne descent module, providing electrical power via a solar array.
+The solar panels will generate about 2 kW of power, up to 400W of which can be provided to the descent module; energy is stored in a 24,4-kg battery.
+“During the cruise to Mars, the Carrier Module provides all resources to the descent module and rover,” says Stéphane Langlois, ExoMars spacecraft systems engineer at ESA.
+“Upon approach to the Red Planet, the carrier module plays a critical role to ensure that the descent module is delivered in the best possible conditions for a successful entry.”
+Telemetry and data will be stored and transmitted via the onboard computer located in the descent module.
+The descent module, which does not produce any power by itself during launch and transfer, will separate from the carrier module shortly before reaching the martian atmosphere. The descent module will deliver the rover and platform safely to the surface while the carrier module will burn up in the atmosphere.
+In the coming months, the carrier module will be mated with the descent module.
+The resulting composite spacecraft will then undergo further testing to ensure it is ‘qualified’ for its launch into the space environment.
+“We are thrilled to see all components finally coming together and we are looking forward to the next phase of testing ahead of launch next year,” says François Spoto, ESA’s ExoMars team leader.

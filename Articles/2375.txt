@@ -1,0 +1,34 @@
+2016-11-18
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ESA_s_new_Mars_orbiter_prepares_for_first_science
+ESA’s new Mars orbiter prepares for first science
+The ExoMars orbiter is preparing to make its first scientific observations at Mars during two orbits of the planet starting next week.
+The Trace Gas Orbiter, or TGO, a joint endeavour between ESA and Roscosmos, arrived at Mars on 19 October. It entered orbit, as planned, on a highly elliptical path that takes it from between 230 and 310 km above the surface to around 98 000 km every 4.2 days.
+The main science mission will only begin once it reaches a near-circular orbit about 400 km above the planet’s surface after a year of ‘aerobraking’ – using the atmosphere to gradually brake and change its orbit. Full science operations are expected to begin by March 2018.
+But next week provides the science teams with a chance to calibrate their instruments and make the first test observations now the spacecraft is actually at Mars.
+In fact, the neutron detector has been on for much of TGO’s cruise to Mars and is currently collecting data to continue calibrating the background flux and checking that nothing changed after the Schiaparelli module detached from the spacecraft.
+It will measure the flow of neutrons from the martian surface, created by the impact of cosmic rays. The way in which they are emitted and their speed on arriving at TGO will tell scientists about the composition of the surface layer.
+In particular, because even small quantities of hydrogen can cause a change in the neutron speed, the sensor will be able to seek out locations where ice or water may exist, within the planet’s top 1–2 m.
+The orbiter’s other three instruments have a number of test observations scheduled during 20–28 November.
+During the primary science mission two instrument suites will make complementary measurements to take a detailed inventory of the atmosphere, particularly those gases that are present only in trace amounts.
+Of high interest is methane, which on Earth is produced primarily by biological activity or geological processes such as some hydrothermal reactions.
+The measurements will be carried out in different modes: pointing through the atmosphere towards the Sun, at the horizon at sunlight scattered by the atmosphere, and looking downwards at sunlight reflected from the surface. By looking at how the sunlight is influenced, scientists can analyse the atmospheric constituents.
+In the upcoming orbits there are only opportunities for pointing towards the horizon or directly at the surface. This will allow the science teams to check the pointing of their instrument to best prepare for future measurements.
+There is the possibility that they might detect some natural nightside airglow – an emission of light in the upper atmosphere produced when atoms broken apart by the solar wind recombine to form molecules, releasing energy in the form of light.
+During the second orbit, the scientists have also planned observations of Phobos, the larger and innermost of the planet’s two moons.
+Finally, the camera will take its first test images at Mars next week. In each of the two orbits, it will first point at stars to calibrate itself for measuring the planet’s surface reflectance.
+Then it will point at Mars.
+Given the current elliptical orbit, the spacecraft will be both closer to and further from the planet than during its main science mission. Closest to the planet, it will be travelling faster over the surface than in its final circular orbit, which presents some challenges in timing when the images should be taken.
+The camera is designed to capture stereo pairs: it takes one image looking slightly forwards, and then the camera is rotated to look ‘back’ to take the second part of the image, in order to see the same region of the surface from two different angles. By combining the image pair, information about the relative heights of the surface features can be seen.
+Next week, the camera team will be checking the internal timing to help programme commands for future specific scientific observations. The high speed and changing altitude of the elliptical orbit will make stereo reconstruction challenging, but the team will be able to test the stereo rotation mechanism and the various different camera filters, as well as how to compensate for spacecraft orientation with respect to the ground track.
+There are no specific imaging targets in mind, although near the closest approach of the first orbit the orbiter will be flying over the Noctis Labyrinthus region and it will attempt to obtain a stereo pair. In the second orbit, it has the opportunity to capture images of Phobos.
+Ultimately, the camera will be used to image and analyse features that may be related to the trace gas sources and sinks, to help better understand the range of processes that may be producing the gases. The images will also be used for looking at future landing sites.
+“We’re excited we will finally see the instruments perform in the environment for which they were designed, and to see the first data coming back from Mars,” says Håkan Svedhem, ESA’s TGO Project Scientist.
+After this brief science instrument demonstration period, which also serves as a test for relaying this data back to Earth, along with data from NASA’s Curiosity and Opportunity rovers, the focus turns back to operations and the preparations required to for aerobraking next year.
+For further information, please contact:
+Håkan Svedhem
+ESA ExoMars TGO Project ScientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

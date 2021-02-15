@@ -1,0 +1,18 @@
+2016-10-07
+https://www.esa.int/Enabling_Support/Operations/Schiaparelli_readied_for_Mars_landing
+Schiaparelli readied for Mars landing
+This week, the commands that will govern the Schiaparelli lander’s descent and touchdown on Mars were uploaded to ESA’s ExoMars spacecraft, enroute to the Red Planet.
+The Trace Gas Orbiter has been carrying the Schiaparelli entry, descent and landing demonstrator since launch on 14 March. Upon arrival on 19 October, Schiaparelli will test the technology needed for Europe’s 2020 rover to land, while its parent craft brakes into an elliptical orbit around Mars.
+This week’s uploading was conducted by the Orbiter team working at ESA’s mission control in Darmstadt, Germany, and marked a significant milestone in readiness for arrival.
+Schiaparelli’s operations are governed by time-tagged stored commands, ensuring that the lander can conduct its mission even when out of contact with any of the Mars orbiters that will serve as data relays.
+Automated operation also ensures that the lander will revive from its power-saving sleep periods on the surface in time for communication links.
+Telling Schiaparelli what to do
+The commands were uploaded in two batches. The first, containing the hibernation wake-up timers and the surface science instrument timeline, was uploaded on 3 October. The second, containing the rest of the mission command sequence, was uploaded to the module on 7 October.
+“Uploading the command sequences is a milestone that was achieved following a great deal of intense cooperation between the mission control team and industry specialists,” says Orbiter flight director Michel Denis.
+One of the most crucial moments will be the moment of landing, set for 14:48:11 GMT (16:48:11 CEST) on 19 October. Now that this time has been fixed, the rest of the commands will play out in sequence counting down or up.
+During landing, these commands include ejecting the front and back aeroshells, operating the descent sensors, deploying the braking parachute and activating three groups of hydrazine thrusters to control its touchdown speed.
+A radar will measure Schiaparelli’s height above the surface starting at about 7 km. At around 2 m, Schiaparelli will briefly hover before cutting its thrusters, leaving it to fall freely.
+Once safely on the surface, the timeline will operate the science instruments for a planned two days – and possibly longer.
+The science activities are designed to make the most of the limited energy available from the batteries, so they will be performed in set windows rather than continuously – typically, for six hours each day.
+The timeline will also switch on the module’s transmitter during a series of fixed slots to send recorded data up to ESA and NASA orbiters passing overhead, which will then transmit the data to Earth.
+These relay slots include 32 by NASA craft: 18 by the Mars Reconnaissance Orbiter, eight by Odyssey and six by Maven. ESA’s Mars Express will make 14 overflights.

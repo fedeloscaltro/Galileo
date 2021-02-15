@@ -1,0 +1,21 @@
+2013-06-10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Space_droids_calling
+Space droids calling
+Secondary-school students can play the ultimate robot game: the annual Zero Robotics tournament turns the International Space Station into a playing field for European students to control minisatellites with self-developed software.
+Controlling volleyball-sized satellites in space is not easy. Spheres − short for Synchronised Position Hold, Engage, Reorient, Experimental Satellites – move around the International Space Station using 12 jets powered by compressed gas.
+These autonomous robot satellites have their own power, propulsion and navigation. To master the Spheres, students must write code to fulfil a mission. The details of this year’s mission will be revealed in September.
+This is the third time European contenders have the chance to run their commands in space. The goal of this tournament is to build engineering skills for students, such as problem solving, software operations and teamwork.
+From virtual to orbital
+Just as in any international competition, the road to the finals is long and challenging. The contest starts with simulation competitions of increasing difficulty held online.
+Competitors can create and visualise their code to get ready for the game from a web browser and free of charge.
+Finalists from the online simulation will see their commands run by the Spheres satellites on the International Space Station transmitted live from space. Each finalist will be composed of a three-team alliance from different European countries.
+The final event will take place in January 2014 with the US teams at the Massachusetts Institute of Technology (MIT) and the European teams at ESA´s ESTEC Space Research and Technology Centre in Noordwijk, the Netherlands.
+Join the game
+The 2013 ESA High School Tournament registration is open to secondary-school students from ESA member states until September. Teams must consist of between three and ten students.
+Find a mentor, register and start preparing your tactics!
+Key dates
+ESA’s 20 Member States are Austria, Belgium, Czech Republic, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Luxembourg, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland and the UK.
+For further information, please contact:
+Nigel Savage
+Head of Education Unit
+Directorate of Human Spaceflight and OperationsEmail: nigel.savage@esa.int

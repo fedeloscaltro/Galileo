@@ -1,0 +1,41 @@
+2015-11-27
+https://www.esa.int/Science_Exploration/Space_Science/European_payload_selected_for_ExoMars_2018_surface_platform
+European payload selected for ExoMars 2018 surface platform
+Two European instruments and four European contributions on two Russian instruments have been selected for the Russian-led science platform that will land on Mars as part of the ESA–Roscosmos ExoMars 2018 mission.
+The first of the two ExoMars mission is in final preparation for launch next March. It consists of the Trace Gas Orbiter, which will investigate the possible biological or geological origins of important trace gases in the martian atmosphere, and Schiaparelli, an entry, descent and landing demonstrator module.
+Schiaparelli will test key landing technologies and provide atmospheric and environmental data important for ESA’s contributions to subsequent missions to Mars.
+The second ExoMars mission, planned for launch in May 2018, comprises a European-led rover that will be the first to combine driving across the martian surface with drilling two metres below the surface, and a stationary surface science platform.
+After landing on Mars in 2019, the rover will descend from the platform via a ramp. Then both will begin their scientific operations.
+The platform is expected to operate for at least one Earth year, imaging the landing site, monitoring the climate, investigating the atmosphere and analysing the radiation environment.
+It will also study the distribution of any subsurface water at the landing site, and perform geophysical investigations of the internal structure of Mars.
+Roscomos and the IKI Space Research Institute of Russian Academy of Sciences had already identified a preliminary payload of instrument packages to fulfil these goals, some of which anticipated the inclusion of European elements.
+Following a call to the European scientific community issued in March 2015, nine proposals were received and assessed. ESA has now approved the selection of six European elements. This includes two fully European-led instruments, and four sensor packages to be included in two Russian-led instruments.
+The two European-led instruments proposed are the Lander Radioscience experiment (LaRa) and the Habitability, Brine Irradiation and Temperature package (HABIT).
+LaRa will reveal details of the internal structure of Mars, and will make precise measurements of the rotation and orientation of the planet by monitoring two-way Doppler frequency shifts between the surface platform and Earth.
+It will also be able to detect variations in angular momentum due to the redistribution of masses, such as the migration of ice from the polar caps to the atmosphere.
+HABIT will investigate the amount of water vapour in the atmosphere, daily and seasonal variations in ground and air temperatures, and the UV radiation environment.
+The four European sensor packages in the two Russian-led instruments will monitor pressure and humidity, UV radiation and dust, the local magnetic field and plasma environment.
+“The surface science platform will serve as a long-lived stationary laboratory to monitor the local environment, which could include passing dust storms, lightning, and space weather effects,” says Jorge Vago, ESA’s ExoMars 2018 project scientist.
+“At the same time, the rover will travel several kilometres to search for traces of past life below the surface. It’s a very powerful combination of instruments.”
+Last month, the Landing Site Selection Working Group recommended the Oxia Planum region for further detailed evaluation for consideration as the primary landing site for the 2018 mission.
+A further recommendation was made to also consider Oxia Planum as one of the two candidate landing sites for the backup launch opportunity in 2020, with a second to be selected from Aram Dorsum and Mawrth Vallis.
+All three sites bear evidence of having been influenced by water in the past, and are likely representative of global processes operating in the Red Planet's early history.
+ESA and Roscosmos will take a final decision on the landing site about six months before launch.
+Notes for Editors:
+The ExoMars 2018 surface science platform payload is listed here.
+The mission will be launched on a Russian Proton rocket from Baikonur Cosmodrome in Kazakhstan. An ESA module  will carry the surface platform and rover during the nine-month cruise to Mars. A descent module provided by Roscosmos with contributions by ESA will deliver the platform and rover to the surface. Roscosmos and IKI are responsible for the surface platform, with ESA contributions. The rover is provided by ESA, with Russian contributions.
+For further information, please contact:
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer[@]esa.int
+Jorge Vago
+ESA ExoMars 2018 project scientist
+Scientific Support Office
+Directorate of Science and Robotic Exploration
+Tel: +31 71 565 5211 / +31 6 27 65 87 70Email: jorge.vago[@]esa.int
+Luigi Colangeli
+ESA Coordinator for the Scientific ProgrammeEmail: luigi.colangeli[@]esa.int
+Rolf de Groot
+ESA Coordinator for Robotic ExplorationEmail: Rolf.de.Groot[@]esa.int

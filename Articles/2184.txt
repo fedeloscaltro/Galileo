@@ -1,0 +1,40 @@
+2020-06-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_spots_unique_green_glow_at_the_Red_Planet
+ExoMars spots unique green glow at the Red Planet
+ESA’s ExoMars Trace Gas Orbiter has detected glowing green oxygen in Mars’ atmosphere – the first time that this emission has been seen around a planet other than Earth.
+On Earth, glowing oxygen is produced during polar auroras when energetic electrons from interplanetary space hit the upper atmosphere. This oxygen-driven emission of light gives polar auroras their beautiful and characteristic green hue.
+The aurora, however, is just one way in which planetary atmospheres light up. The atmospheres of planets including Earth and Mars glow constantly during both day and night as sunlight interacts with atoms and molecules within the atmosphere. Day and night glow are caused by slightly different mechanisms: night glow occurs as broken-apart molecules recombine, whereas day glow arises when the Sun’s light directly excites atoms and molecules such as nitrogen and oxygen.
+On Earth, green night glow is quite faint, and so is best seen by looking from an ‘edge on’ perspective – as portrayed in many spectacular images taken by astronauts aboard the International Space Station (ISS). This faintness can be an issue when hunting for it around other planets, as their bright surfaces can drown it out.
+This green glow has now been detected for the first time at Mars by the ExoMars Trace Gas Orbiter (TGO), which has been orbiting Mars since October 2016.
+“One of the brightest emissions seen on Earth stems from night glow. More specifically, from oxygen atoms emitting a particular wavelength of light that has never been seen around another planet,” says Jean-Claude Gérard of the Université de Liège, Belgium, and lead author of the new study published in Nature Astronomy.
+“However, this emission has been predicted to exist at Mars for around 40 years – and, thanks to TGO, we’ve found it.”
+Jean-Claude and colleagues were able to spot this emission using a special observing mode of the TGO. One of the orbiter’s advanced suite of instruments, known as NOMAD (Nadir and Occultation for Mars Discovery) and including the ultraviolet and visible spectrometer (UVIS), can observe in various configurations, one of which positions its instruments to point directly down at the martian surface – also referred to as the ‘nadir’ channel.
+“Previous observations hadn’t captured any kind of green glow at Mars, so we decided to reorient the UVIS nadir channel to point at the ‘edge’ of Mars, similar to the perspective you see in images of Earth taken from the ISS,” adds co-author Ann Carine Vandaele of the Institut Royal d'Aéronomie Spatiale de Belgique, Belgium, and Principal Investigator of NOMAD.
+Between 24 April and 1 December 2019, Jean-Claude, Ann Carine and colleagues used NOMAD-UVIS to scan altitudes ranging from 20 to 400 kilometres from the martian surface twice per orbit. When they analysed these datasets, they found the green oxygen emission in all of them.
+“The emission was strongest at an altitude of around 80 kilometres and varied depending on the changing distance between Mars and the Sun,” adds Ann Carine.
+Studying the glow of planetary atmospheres can provide a wealth of information about the composition and dynamics of an atmosphere, and reveal how energy is deposited by both the Sun’s light and the solar wind – the stream of charged particles emanating from our star.
+To better understand this green glow at Mars, and compare it to what we see around our own planet, Jean-Claude and colleagues dug further into how it was formed.
+“We modelled this emission and found that it’s mostly produced as carbon dioxide, or CO2, is broken up into its constituent parts: carbon monoxide and oxygen,” says Jean-Claude. “We saw the resulting oxygen atoms glowing in both visible and ultraviolet light.”
+Simultaneously comparing these two kinds of emission showed that the visible emission was 16.5 times more intense than the ultraviolet.
+“The observations at Mars agree with previous theoretical models but not with the actual glowing we’ve spotted around Earth, where the visible emission is far weaker,” adds Jean-Claude. “This suggests we have more to learn about how oxygen atoms behave, which is hugely important for our understanding of atomic and quantum physics.”
+This understanding is key to characterising planetary atmospheres and related phenomena – such as auroras. By deciphering the structure and behaviour of this green glowing layer of Mars’ atmosphere, scientists can gain insight into an altitude range that has remained largely unexplored, and monitor how it changes as the Sun’s activity varies and Mars travels along its orbit around our star.
+“This is the first time this important emission has ever been observed around another planet beyond Earth, and marks the first scientific publication based on observations from the UVIS channel of the NOMAD instrument on the ExoMars Trace Gas Orbiter,” highlights Håkan Svedhem, ESA’s TGO Project Scientist.
+“It demonstrates the remarkably high sensitivity and optical quality of the NOMAD instrument. This is especially true given that this study explored the dayside of Mars, which is much brighter than the nightside, thus making it even more difficult to spot this faint emission.”
+Understanding the properties of Mars’ atmosphere is not only interesting scientifically, but is also key to operate the missions we send to the Red Planet. Atmospheric density, for example, directly affects the drag experienced by orbiting satellites and by the parachutes used to deliver probes to the martian surface.
+“This type of remote-sensing observation, coupled with in situ measurements at higher altitudes, helps us to predict how the martian atmosphere will respond to seasonal changes and variations in solar activity,” adds Håkan. “Predicting changes in atmospheric density is especially important for forthcoming missions, including the ExoMars 2022 mission that will send a rover and surface science platform to explore the surface of the Red Planet.”
+More information
+“Detection of green line emission in the dayside atmosphere of Mars from NOMAD-TGO observations” by J.-C. Gérard et al. (2020) is published in Nature Astronomy.
+ExoMars is a joint endeavour of the European Space Agency and Roscosmos.
+The NOMAD experiment is led by the Royal Belgian Institute for Space Aeronomy (IASB‐ BIRA), assisted by Co‐PI teams from Spain (IAA‐CSIC), Italy (INAF‐IAPS), and the United Kingdom (Open University). This project acknowledges funding by the Belgian Science Policy Office, with the financial and contractual coordination by the European Space Agency Prodex Office, by the Spanish MICINN through its Plan Nacional, as well as by UK and Italian Space Agencies.
+For more information, please contact:
+Jean-Claude Gérard
+Laboratory for Planetary and Atmospheric Physics (LPAP)
+Université de Liège, BelgiumEmail: JC.Gerard@uliege.be
+Ann Carine Vandaele
+ExoMars TGO NOMAD Principal Investigator
+Institut Royal d'Aéronomie Spatiale de Belgique
+Brussel, BelgiumEmail: a-c.Vandaele@aeronomie.be
+Håkan Svedhem
+ESA TGO Project Scientist
+ESA/ESTEC, The NetherlandsEmail: H.Svedhem@esa.int
+ESA Media RelationsEmail: media@esa.int

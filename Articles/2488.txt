@@ -1,0 +1,18 @@
+2011-03-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/SOLAR_three_years_observing_and_ready_for_solar_maximum
+SOLAR: three years observing and ready for solar maximum
+Europe’s Columbus research module has been part of the International Space Station for three years now. During that time, its external SOLAR package has been faithfully monitoring the energy flowing from the Sun.
+The Sun does not always shine with unchanging power: its output varies minutely over the period of about 11 years known as the ‘solar cycle’. In principle, these fluctuations can affect us on Earth.
+Building a picture of the interaction between the solar flux and Earth’s atmosphere is essential for understanding our atmosphere, its chemistry and climatology – and how the Sun is contributing to climate change.
+In addition, precise measurements of the solar flux contribute to our understanding of solar and stellar physics.
+This information also feeds into our designs for future satellites, prolonging their lives in orbit by withstanding the harsh battering from radiation.
+Likewise, it will improve the accuracy of navigation data, as well as helping to forecast the orbits of satellites and dangerous debris.
+Three in one
+The SOLAR package of three complementary instruments is measuring the Sun’s output across most of the electromagnetic spectrum. It can track 99% of the emitted energy.
+In order to make its observations undisturbed by our bright planet, SOLAR is mounted on the top face of the Columbus External Payload Facility, pointing away from Earth.
+The package is operated remotely by ground controllers without the need for any effort from the astronauts aboard the Station. During the three years in orbit, exposed to the most severe of environmental conditions, it has never needed any maintenance by spacewalkers.
+During Space Shuttle mission STS-122 in February 2008, spacewalking astronaut Stanley Love moved SOLAR from the Shuttle Atlantis payload bay and installed it on Columbus.
+SOLAR was designed to operate for 18 months, with the possibility of extending its mission by up to three years. After that, it should have been returned to Earth, but its smooth operation and flow of valuable data prompted the scientists to request an even longer mission.
+The robustness of the design has now allowed ESA to extend its operation to at least 2013.
+Over the last three years, the SOLAR science teams have gathered precious data during the minimum of solar activity. This minimum phase has been unusual: pronounced, long and with a dearth of sunspots in comparison to other cycles.
+The project’s extension is allowing scientists to observe the increase in solar activity towards the expected peak in mid-2013.

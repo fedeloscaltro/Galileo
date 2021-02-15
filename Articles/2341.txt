@@ -1,0 +1,34 @@
+2003-09-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ESA_awards_the_first_Aurora_mission_design_contracts
+ESA awards the first Aurora mission design contracts
+A major milestone in ESA’s long-term Aurora Programme of solar system exploration has been passed with the announcement of the winners of competitive contracts for two of the programme’s key robotic missions – ExoMars and the Earth re-entry vehicle demonstrator.
+Alenia Spazio (Italy), Alcatel Space (France) and EADS Astrium (France) are heading the three industrial teams selected to carry out a full mission design for ExoMars, the Aurora exobiology mission to Mars.
+At the same time, two industrial teams, headed by EADS LV (Launch Vehicles) of France and Surrey Satellite Technology Limited (SSTL) of the United Kingdom respectively, have been selected for the pre-development phase (officially known as Pre-Phase A) of the EVD mission.
+“Following the Invitations To Tender for these contracts, issued in April-May 2003, there was an overwhelming and enthusiastic response from industry,” said Bruno Gardini, Aurora Project Manager.
+“We were delighted by the number and the excellence of the proposals received,” he added. “It was also pleasing to see that many of them included new innovative ideas from industry.”
+ExoMars
+The ExoMars mission, to be launched in 2009, is the first of the major Flagship missions in the Aurora Programme. It includes an orbiter and a descent module that will land a large (200 kg), high-mobility rover on the surface of Mars. After delivery of the lander/rover, the ExoMars orbiter will also operate as a data relay satellite between the Earth and the vehicle on the Martian surface.
+The primary objective of the ExoMars rover will be to search for signs of life, past or present, on the Red Planet. Additional measurements will be taken to identify potential surface hazards for future human missions, to determine the distribution of water on Mars and to measure the chemical composition of the surface rocks.
+Three parallel Phase A studies for the ExoMars Mission will be carried out by industrial teams that include companies from ESA Member States and Canada:
+The contracts cover the design of the entire ExoMars mission, from launch, through the long interplanetary voyage to the landing of the rover on the planet.
+“This is an exciting landmark for the Aurora Programme, since these are the first contracts dedicated to mission development rather than technical studies,” said Gardini.
+“With the participation of all major European aerospace companies, the proposed concepts will make the best use of their extensive experience, gathered over many years, in the design and development of interplanetary missions,” he said.
+“The studies will also bring to fruition several years of efforts from national and international programmes in investigating and planning Mars missions.
+“From the quality of the proposals, the agency is very confident that the technical baseline will be fully consolidated by the end of the Phase A studies and that the spacecraft design will then be defined to a level of detail commensurate with a prompt start of Phase B.”
+Depending on the availability of funding, the Phase B studies for ExoMars are planned to start in 2004.
+Earth re-entry vehicle demonstrator
+The second Aurora Flagship mission is a Mars Sample Return mission planned for 2011. Its main goal will be the retrieval of rock samples from the Martian surface and subsurface for subsequent analysis in laboratories on Earth.
+In order to ensure the success of this challenging mission, a number of new technologies will have to be developed and tested. Conceived as a small technology-driven Arrow-class mission, the Earth re-entry vehicle demonstrator will be used to validate the design of the small Mars sample return capsule that will bring back the precious samples of Martian soil.
+The Earth re-entry vehicle demonstrator is expected to be launched in 2007. The baseline mission foresees the insertion into a highly elliptical Earth orbit of a small spacecraft carrying a re-entry capsule. In order to reproduce the final phase of a typical Mars return mission, the capsule will then carry out a ballistic re-entry into Earth’s atmosphere at speeds of up to 45,000 km/h.
+Two industrial teams have been selected for the parallel Earth re-entry vehicle demonstrator mission Pre-Phase A studies. The concept presented by the industrial team, under the leadership of EADS LV (France) with the participation of OHB System (Germany) and Plansee (Austria) is solidly based on the experience of past projects.
+The industrial team led by SSTL (UK), a company well known for its experience in small highly integrated spacecraft, has devised a very innovative concept well adapted for a small technology mission. The participation of highly specialised companies, Fluid Gravity Engineering (UK), Kayser Threde GmbH (D) and Vorticity Ltd. (UK) ensures an excellent coverage of the mission’s most critical technologies.
+“The expectations are for highly competitive and exciting Pre-Phase A studies,” said Gardini.
+The next Aurora contract for Phase A studies will concern the Mars Sample Return mission. Industrial proposals were submitted on 1 August and the evaluation is nearly completed. The names of the selected companies are expected to be announced in early October.
+For further information contact:
+Bruno Gardini
+Aurora Project Manager
+ESTEC
+Noordwijk
+The Netherlands
+Tel: +31-71-565-3849
+Fax: +31 71-565-8018E-mail: Bruno.Gardini@esa.int

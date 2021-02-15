@@ -1,0 +1,21 @@
+2011-01-25
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/How_to_land_humans_on_an_asteroid
+How to land humans on an asteroid
+After a year of intensive studies, young engineers from Europe faced an unusual but challenging task on the future space exploration: can you safely transport humans to a near-Earth asteroid in an international endeavour?
+The virtual mission was called AENEA – Human Exploration of a Near Earth Asteroid – and it came to completion last week during the fifth international Master SEEDS (Space Exploration and Development Systems) event at ESTEC, in Noordwijk, The Netherlands.
+ESA supported this academic course to educate young engineers for industries that wish to establish their role in the international space arena.
+The day before their presentations, the pupils had the opportunity to visit many of the ESTEC facilities and found the state-of-the-art Concurrent Design Facility particularly relevant to their mission design.
+Their presentations was preceded with an overview of ESA exploration activities – the Lunar Lander, Advanced Reentry Vehicle and Expert – by the head of Transportation and Exploration, Bruno Gardini.
+ESA astronaut Frank De Winne, the first European commander of the International Space Station, also took to the stage and presented a well-received overview of his OasISS mission.
+It was not an easy task to design a mission to transport humans safely to a near-Earth asteroid, performing extravehicular activities on its surface, scientific experiments and technological tests to extend the scientific knowledge and capabilities in space exploration and utilisation.
+“The students have matured over the one-year period and developed a professional capability to handle engineering problems with a system mind”, said the SEEDS Educational Project Manager, Prof. Ernesto Vallerani.
+“Now they are prepared to enter the industrial world with specific competences, engaged in advance space activities.”
+A multisite study
+A number of elements were identified and developed to accomplish AENEA’s overall mission requirements.
+A few of the elements were studied in detail: mission analysis, robotic system, communications, guidance navigation control, heavy launch vehicles, transportation modules, reaction control cystems and crew habitation systems.
+Work on this mission design was performed in each of the three locations (Germany, France and Italy) under the close supervision of their professors and experts from industry as well as academia.
+The type of work the students performed was equivalent to pre-Phase-A, leading to the definition of a space infrastructure to support the exploration mission objectives.
+For the duration of their studies, the students attended preparatory courses in Torino: “Understanding Space: Introduction to Space basic Concepts” and “Learning Space Systems: Fundamentals of Space Engineering”. They undertook an intensive period of preliminary design and subsequently engaged in six months of project work in Toulouse, Bremen and Torino.
+Thanks to this course, young and enthusiastic people from Europe have found a role in the international space exploration initiative. Their reinforced engineering skills are needed to develop the space systems and to follow in the footsteps of their older colleagues.
+Video feed of the presentation can be seen here.
+Contact for further information

@@ -1,0 +1,10 @@
+2004-07-01
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/7th_Student_Parabolic_Flight_Campaign_Day_1_and_2_Space_GreenHouse
+7th Student Parabolic Flight Campaign Day 1 and 2: Space GreenHouse
+Team 1002 - Universitat Politècnica de Catalunya On 29 June, after almost seven months of hard work, we left Barcelona to join the 7th Student Parabolic Flight Campaign. After a six-hour drive (including the time we lost trying to find the site!) we arrived at the Novespace facilities in Bordeaux, France.
+We reported to the reception, and then prepared to unpack the experiment from the car. Lucky it is not very big - we were exhausted...
+With our experiment we are studying the water propagation of an irrigation system under weightless conditions. Almost every component we use is recycled. Our rack, with two lexan boxes, has already flown on two parabolic campaigns. The two 3-D arrays of sixty homemade humidity sensors were built using borrowed Lego pieces and CD boxes. There is also a device to measure electrical continuity in cellulose depending on the humidity.
+Signal processing circuitry, including an accelerometer and a microcontroller, also come from another project. A compact flash memory, which has been taken from one of our digital cameras, will collect the data we receive from the sensors and accelerometer.
+The whole system is powered using an old mobile battery. We received an anonymous donation of veterinary syringes for our water containing system, whilst our water injection system is also made from borrowed Lego pieces.
+After arrival we did our best to assemble the experiment. Eventually we left for our accommodation to get some well-earned rest.
+The second day, 30 June, we are putting the last touches to our experiment, just to make sure it is ready for flight. Later we will upload it to the plane for testing tomorrow... and then... weightlessness is getting closer!

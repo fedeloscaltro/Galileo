@@ -1,0 +1,30 @@
+2015-09-18
+https://www.esa.int/Science_Exploration/Space_Science/ExoMars_2016_targets_March_launch_window
+ExoMars 2016 targets March launch window
+A problem recently discovered in two sensors in the propulsion system of the entry, descent and landing demonstrator module has prompted the recommendation to move the launch of the ExoMars 2016 mission, initially foreseen in January, to March, still within the launch window of early 2016.
+ExoMars is a joint endeavour between ESA and Russia’s Roscosmos space agency. The recommendation was made in full coordination between the two agencies and will be finally endorsed by a joint steering board on 24 September. (Update 25 September: the March launch window was formally confirmed with a baseline launch on 14 March.)
+The Schiaparelli module will prove key technologies to demonstrate Europe’s capability to make a controlled landing on Mars.
+The 600 kg Schiaparelli will ride to Mars on the Trace Gas Orbiter, which will subsequently enter orbit around the Red Planet to begin its five-year mission of studying atmospheric gases potentially linked to present-day biological or geological activity.
+Schiaparelli will separate from the orbiter three days before they reach Mars, entering the atmosphere at 21 000 km/h. Following aerobraking in the upper atmosphere and a parachute phase, a liquid-propellant thruster system will brake the module to less than 5 km/h at a height of about 2 m above the surface.
+At that moment, the thrusters will be switched off and the lander will drop to the ground, where the impact will be cushioned by a crushable structure built into the module.
+Less than eight minutes will elapse between the moment when Schiaparelli enters the atmosphere to its landing on Mars in a region known as Meridiani Planum.
+However, a defect was recently found in two pressure transducers mounted in the propulsion system.
+“A failure in the production process of the pressure transducers has been identified and this leads to concerns about leakage, which represents a major risk to a successful landing on Mars,” says Don McCoy, ESA ExoMars Project Manager.
+“ESA has decided not to accept this risk and to remove both units from the landing module, the knock-on effect being that we can no longer maintain the January 2016 launch window and will instead move to the back-up launch window in March.
+“We are pleased to have identified the issue in good time, and are focusing all our efforts to launch on 14 March.”
+The sensors are not part of the control loop necessary for landing, but would rather have gathered ancillary data for monitoring the system. In order to meet the new launch window, the decision was made to remove the parts, rather than replace them.
+The later window is open 14–25 March and, thanks to the relative orbital positions of Earth and Mars, the mission will still arrive at Mars in October, just as if launched in January.
+A set of scientific sensors on Schiaparelli will collect data on the atmosphere during the entry and descent, and its instruments will perform local environment measurements at the landing site.
+Continue reading below
+However, because Schiaparelli is primarily aimed at demonstrating technologies needed for landing in preparation for future missions, the scientific phase is limited: the module is planned to operate on the surface for only a short time, powered by batteries.
+Schiaparelli will remain a target for future laser ranging studies, as it carries a reflector designed for this purpose.
+The Trace Gas Orbiter, along with other ESA and NASA missions already orbiting Mars, will provide communications support from Schiaparelli during descent and on the surface, relaying the data back to Earth.
+Subsequently, the orbiter will begin its programme of extensive scientific observations, while also acting as a data relay for future missions. These include ExoMars 2018, which will see a rover and an instrumented platform on the surface.
+Both ExoMars missions will be launched on Russian Proton rockets from Baikonur in Kazakhstan.
+For further information, please contact:
+Markus Bauer
+ESA Science and Robotic Exploration Communication Office
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954Email: Markus.Bauer@esa.int
+Rolf de Groot
+ESA Coordinator for Robotic ExplorationEmail: Rolf.de.Groot@esa.int

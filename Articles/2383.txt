@@ -1,0 +1,23 @@
+2016-10-14
+https://www.esa.int/Enabling_Support/Operations/Ready_for_the_Red_Planet
+Ready for the Red Planet
+Next week, ESA’s ExoMars has just a single chance to get captured by Mars’ gravity. The spacecraft and the mission controllers who will make it so are ready for arrival.
+The ExoMars Trace Gas Orbiter is on a multiyear mission to understand the methane and other gases in Mars’ atmosphere at low levels and could be evidence for possible biological or geological activity.
+The 3.7 tonne mothership is carrying the 577 kg Schiaparelli lander that will test key technologies in preparation for ESA's 2020 rover mission.
+The pair have almost completed their 496 million km journey, and are now speeding towards a critical stage: releasing the lander on Sunday and the lander’s descent and touchdown next Wednesday, at the same time as the main craft begins circling the planet.
+“They are now on a high-speed collision course with Mars, which is fine for the lander – it will stay on this path to make its controlled landing,” says flight director Michel Denis at mission control in Darmstadt, Germany.
+“However, to get the mothership into orbit, we must make a small but vital adjustment on 17 October to ensure it avoids the planet. And on 19 October it must fire its engine at a precise time for 139 minutes to brake into orbit.
+“We get just a single chance.”
+Realtime mission control
+Following months of intensive simulations, the team is now changing to ‘real-time/full-time’ shifts, and will work in the main control room from tomorrow.
+The team will oversee separation, set for 14:42 GMT (16:42 CEST) on Sunday, the adjustment 12 hours later to avoid hitting Mars and, finally, the main engine burn starting at 13:05 GMT (15:05 CEST) on Wednesday.
+A last pre-arrival correction was made this morning at 08:45 GMT (10:45 CEST) to ensure the craft is perfectly lined up for separation and arrival. The thruster burn delivered a tiny kick of 1.4 cm/s – all that was needed after an earlier series of extremely precise adjustments in July and September (see “Engine burn gives Mars mission a kick”).
+“This week, we uploaded the commands to fully charge the lander’s batteries and prepare the orbiter’s data-handling system as well as power- and thruster system for separation and the subsequent trajectory tweak,” says spacecraft operations manager Peter Schmitz.
+“Next week, before the big burn, we will place it into a special ‘failop’ mode to minimise any risk that an onboard glitch could interfere with the firing of the engine, which absolutely must happen at the planned time for us to get into orbit.”
+Mission controllers have daily, hours-long communication slots with ExoMars booked via ESA and NASA tracking stations, which are providing main and redundant data links, especially during the most critical moments.
+Preparing on Earth for missions at Mars
+Preparing for Mars arrival has involved years of careful work by teams across ESA in cooperation with experts from European industry.
+The mission control team is actually a ‘team of teams’ comprising specialists in operations, flight dynamics, ground stations, and software and systems. They work in tight coordination to operate the current fleet of spacecraft, while developing the systems and procedures to be used for future ESA missions, including BepiColombo, Solar Orbiter and Juice.
+The centre is also mission control for ESA’s first Mars mission, Mars Express, which arrived at the Red Planet in 2003. It is playing a crucial role in the arrival of ExoMars, recording signals from the lander during descent (see “A little help from friends”).
+“After many simulations and given the extensive experience our teams have gained through interplanetary missions like Mars Express, Rosetta and Venus Express, I am very confident about orbital insertion,” says Rolf Densing, ESA’s Director of Operations.
+“The spacecraft is in great shape, the teams are ready to return to Mars and we’re looking forward to a smooth arrival next week.”

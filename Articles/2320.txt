@@ -1,0 +1,14 @@
+2009-08-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/OasISS_Mission/Frank_De_Winne_s_diary_-_Wednesday_12_August_2009
+Frank De Winne’s diary - Wednesday 12 August 2009
+Sometimes things breakdown here in space and – like on Earth – they have to be fixed.
+The toilet in the American Destiny module – officially known as the Waste and Hygiene Compartment (WHC) – became 'blocked' during the recent visit of seven astronauts to the International Space Station with Space Shuttle Endeavour (see 5 August diary entry). Together with Mike Barratt and our Russian commander, Gennadi Padalka, we managed to fix it. Fortunately I had some spare time to work on the repair. We replaced a pump, a filter, a control panel and a container that catches fluids.
+There is a second toilet on the ISS in the Russian Zvezda module and there's also one in the Space Shuttle. Of course a toilet works slightly differently here in space compared to down on Earth. In weightlessness the toilet uses an air flow.
+The WHC separates liquid and solid waste and is part of a unique recycling system here on the Station called the Water Recovery System (WRS). Using this, urine and other waste water is recycled into drinking water.
+This kind of system will be very important in the future when we send human missions to Mars. They won't be able to receive new supplies from Earth, as we can here on the ISS.
+Like on 29 July when the Progress M-67, a Russian unmanned cargo spacecraft, docked with the Station. The Progress will remain docked until the end of September, when, filled with Station waste, it will be undocked and sent to burn up in the Earth's atmosphere, acting as a cosmic rubbish bin.
+One of the highlights of my mission so far has been the relocation of the Pressurized Mating Adapter 3 (PMA-3) from one side of the Unity module to the other on 7 August.
+The ISS has three of these PMA adapters. PMA-3 is used to dock Space Shuttles with the Station. The first two PMA adapters were launched in 1998, the third in 2000.
+The relocation of PMA-3 was needed in preparation for the arrival of the new Tranquility module that is scheduled for launch in February next year.
+My Canadian crewmate Bob Thirsk and I used Canadarm2 to perform this six-hour long manoeuvre. This robotic arm is part of the Canadian contribution to the ISS programme. It was launched to the ISS in 2001 and is a more advanced version of the original robotic arm made for the Space Shuttle.
+Fully extended, the arm measures nearly 18 metres in length and it has seven motorised 'joints'. We will also use it when the Japanese H-II Transfer Vehicle (HTV) cargo spacecraft arrives at the ISS in September. Using the robotic arm, we will grab hold of the HTV and then to dock it to the Harmony module.

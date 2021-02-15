@@ -1,0 +1,27 @@
+2017-02-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Science_checkout_continues_for_ExoMars_orbiter
+Science checkout continues for ExoMars orbiter
+Next week, the ExoMars orbiter will devote two days to making important calibration measurements at the Red Planet, which are needed for the science phase of the mission that will begin next year.
+The Trace Gas Orbiter (TGO), a joint endeavour between ESA and Roscosmos, arrived at Mars on 19 October. During two dedicated orbits in late November, the science instruments made their first calibration measurements since arriving at Mars. These included images of Mars and one of its moons, Phobos, and basic spectral analyses of the martian atmosphere.
+At that time, the orbiter was in a highly elliptical path that took it from between 230 and 310 km above the surface to around 98 000 km every 4.2 days.
+The main science mission will only begin once it reaches a near-circular orbit about 400 km above the planet’s surface after a year of ‘aerobraking’ – using the atmosphere to gradually brake and change its orbit.
+Earlier this year, in preparation for the aerobraking phase, TGO conducted a series of manoeuvres to shift its angle of travel with respect to the planet’s equator to almost 74º. This raised it from a near-equatorial arrival orbit to one that flies over more of the northern and southern hemispheres.
+This inclination will provide optimum coverage of the surface for the science instruments, while still offering good visibility for relaying data from current and future landers – including the ExoMars rover scheduled for launch in 2020.
+Now, before the year-long aerobraking phase begins on 15 March, the science teams once again have the opportunity to make important calibration measurements, focusing mainly on tests to check the pointing and tracking of the instruments, but this time from the new orbit.
+The spacecraft’s new one-day orbit takes it from 37 150 km at its farthest and to within about 200 km of the planet’s surface at its closest approach, which will also allow some of the closest images of the mission to be obtained.
+TGO’s two spectrometer suites will make some preliminary calibration observations on 28 February and 1 March while the spacecraft’s instruments are facing towards Mars, with the main campaign taking place 5–7 March, covering two complete orbits of the planet.
+During the main campaign, the spectrometers will be able to test another operational mode, such as scanning towards the horizon at sunlight scattered by the atmosphere.
+By looking at how the sunlight is influenced by the atmosphere, scientists will be able to analyse the atmospheric constituents of Mars – TGO’s main science goal.
+Indeed, TGO is tasked with making a detailed inventory of the atmosphere, particularly those gases that are present only in trace amounts. Of high interest is methane, which on Earth is produced primarily by biological activity or geological processes such as some hydrothermal reactions.
+The spacecraft will also seek out water or ice just below the surface, and will provide colour and stereo context images of surface features, including those that may be related to possible trace gas sources.
+During the upcoming observations, and in addition to pointing directly at the planet’s surface, the camera will also take important dark sky and star field calibration measurements.
+Meanwhile TGO’s neutron detector will be on throughout the two orbits in order to calibrate the background flux.
+“It’s great we have the opportunity to squeeze in these important observations during this very busy time preparing for the year-long aerobraking phase,” says Håkan Svedhem, ESA’s TGO project scientist. “While the aerobraking is taking place, the science teams will be able to use these essential calibration measurements to best prepare for the start of the main mission when we arrive in our science orbit next year.”
+For more information, please contact:
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int
+Håkan Svedhem
+ESA ExoMars TGO Project ScientistEmail: hakan.svedhem@esa.int

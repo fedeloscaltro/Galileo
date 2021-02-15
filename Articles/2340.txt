@@ -1,0 +1,23 @@
+2003-11-12
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ESA_s_first_step_towards_Mars_Sample_Return
+ESA’s first step towards Mars Sample Return
+What is the next best thing to humans landing on Mars and exploring the wonders of the Red Planet? The answer: touching, imaging and analysing carefully preserved samples of Martian rock in a state-of-the-art laboratory on Earth.
+If all goes according to plan, this is exactly what ESA’s long-term Aurora Programme of solar system exploration will achieve a decade from now, when the first samples of Mars material will be sealed in a special capsule and returned to Earth for analysis.
+The first step towards making this great leap in human knowledge a reality was taken at the end of October with the announcement of the winners of competitive contracts for the Mars Sample Return (MSR) mission, the second Flagship robotic mission to be proposed as part of Aurora.
+The parallel contracts for the Phase A studies that will carry out a full mission design iteration for the MSR have been placed with two industrial teams.
+One team, headed by Alenia Spazio (Italy), includes Alcatel (France), Dutch Space (Netherlands), ELV (Italy) and MDR (Canada). The other team, headed by EADS Astrium (UK), includes Astrium SAS (France), EADS ST (France), Galileo Avionica (Italy), RAL (UK), SAS (Belgium), SENER (Spain) and Utopia Consultancies (Germany).
+“The industrial proposals received were of outstanding quality, reflecting the enthusiasm and the commitment of the industrial teams who prepared them,” said Bruno Gardini, Aurora Project Manager.
+Bringing Mars back to Earth
+As currently envisaged, the MSR will be a two-stage endeavour. First, a spacecraft that includes a return capsule will be launched in 2011 and inserted into orbit around Mars. Two years later, a second spacecraft carrying a descent module and a Mars ascent vehicle (MAV) will be launched on a similar trajectory.
+During its final approach to Mars, the descent module/MAV will be released and make a controlled landing on the planet. A robotic drill will then collect a soil sample from a depth of 1½ to 2 metres and seal it inside a small canister on the ascent vehicle. Other samples of Martian soil and air may also be gathered and stored inside the canister.
+Carrying its precious samples, the MAV will lift off from the surface, then rendezvous and dock with the spacecraft in Martian orbit. After receiving the canister loaded with Martian rocks, the spacecraft will return to Earth with the re-entry capsule containing the samples and send it plummeting into the atmosphere.
+Slowed by a parachute or inflatable device, the capsule will make a fairly gentle touchdown before recovery teams retrieve the container from the landing site and deliver it to a planetary protection facility where the samples will be removed to await analysis by eager scientists. The design of the capsule will ensure that the structural integrity of the sample container remains intact, even if the parachute fails to open and a crash landing occurs.
+“The Mars Sample Return mission is one of the most challenging missions ever considered by ESA,” said Gardini. “Not only does it include many new technologies and four or five different spacecraft, but it is also a mission of tremendous scientific importance and the first robotic mission with a similar profile to a possible human expedition to Mars.”
+A number of the critical technologies required for the success of this ambitious endeavour have yet to be developed in Europe, e.g. re-entry of spacecraft arriving from deep space at high velocity. As a preliminary stage in developing a vehicle capable of bringing back samples from Mars, it was considered necessary to develop this re-entry capability and to demonstrate its maturity as part of the Aurora programme. Feasibility studies for a dedicated Arrow mission, known as the Earth re-entry Vehicle Demonstrator (EVD), were recently announced.
+In the same way, testing of the complex rendezvous and docking techniques will be carried out as an experiment on the ExoMars mission, the first Flagship mission of the Aurora Programme. The Phase A industrial study contracts for the ExoMars mission began in September.
+For further information contact:
+Bruno Gardini
+Aurora Project Manager
+ESTEC
+The Netherlands
+Tel: +31-71-565-3849E-mail: Bruno.Gardini@esa.int

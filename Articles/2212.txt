@@ -1,0 +1,29 @@
+2017-03-16
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_science_checkout_completed_and_aerobraking_begins
+ExoMars: science checkout completed and aerobraking begins
+The ExoMars Trace Gas Orbiter has completed another set of important science calibration tests before a year of aerobraking gets underway.
+The mission was launched a year ago this week, and has been orbiting the Red Planet since 19 October. During two dedicated orbits in late November, the science instruments made their first calibration measurements since arriving at Mars.
+The latest tests were carried out 5–7 March from a different orbit, and included checking procedures associated with taking images and collecting data on the planet’s atmosphere.
+For example, the Nadir and Occultation for Mars Discovery (NOMAD) instrument made test observations to help determine the best settings to make future measurements of trace gases in the atmosphere.
+Methane in particular is of high interest. On Earth it is produced primarily by biological activity, and to a smaller extent by geological processes, such as some hydrothermal reactions. Understanding how the Red Planet’s methane is produced therefore has extremely exciting implications.
+NOMAD also had the opportunity to test joint measurements with the Atmospheric Chemistry Suite, which together will take highly sensitive measurements of the atmosphere to determine its constituents.
+Meanwhile, the FREND detector continued to collect more on the flow of neutrons from the surface. Eventually, these data will be used to identify sites where water or ice might be hidden just below the surface.
+The high-resolution Colour and Stereo Surface Imaging System was commanded to take a number of images, including star calibrations, and several pointing at Mars.
+An example is presented here, taken just as the orbiter was crossing the boundary between day and night, over the southern hemisphere.
+“These dress rehearsals enable our science teams to fine-tune their data acquisition techniques including pointing commands, iron out any software bugs, and get used to working with the data, well in advance of the start of the main mission starting next year,” says Håkan Svedhem, ESA’s project scientist. “What we’re seeing so far is really promising for our science goals.”
+Starting next year, the craft will make its observations from a near-circular 400 km-altitude orbit, circling the planet every two hours.
+It is currently in a one-day, 200 x 33 000 km orbit but will use the atmosphere to adjust the orbit gradually by ‘aerobraking’. It will repeatedly surf in and out of the atmosphere at closest approach, pulling down its furthest point over the course of the year.
+Earlier this week, the first commands for aerobraking were uploaded, ready to be executed starting yesterday. Over the next few weeks it will make seven engine burns that will adjust its orbit as part of a ‘walk-in’ period before the main aerobraking. This will first see the closest point of the orbit reduced to about 113 km.
+“It’s not ESA’s first experience with aerobraking, but it is the first time we’ve used this technique to achieve a planned science orbit, repeating it for such a long duration,” says flight director Michel Denis.
+“The mission controllers have worked intensively with our flight dynamics experts to prepare for this challenging phase – we’re go for aerobraking.
+“We’ll closely monitor the solar array temperature and the acceleration of the spacecraft, not only during the first few passages through the atmosphere but throughout the rest of 2017, and adjust the trajectory as needed.”
+The final orbit is also designed for relay and communications with rovers and landers on the surface. In particular it will act as a relay for the 2020 ExoMars mission of a stationary surface platform and a rover.
+ExoMars is a joint endeavour between ESA and Roscosmos.
+For further information, please contact:
+Håkan Svedhem
+ESA ExoMars TGO Project ScientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

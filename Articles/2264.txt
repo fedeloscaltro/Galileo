@@ -1,0 +1,13 @@
+2014-10-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Futura/Getting_supplies
+Getting supplies
+Running a microgravity laboratory that is also home to its six researcher-astronauts requires careful planning and supplies. Delivering all the food, water, fuel, experiments, samples and clothes, and departing with finished experiments or waste is done by five different types of unmanned space ferries. Three of them were berthed to the outpost during ESA astronaut Samantha Cristoforetti’s Futura mission – and she was trained to handle all of them.
+Automated Transfer Vehicle
+The Automated Transfer Vehicle (ATV) was ESA’s largest spacecraft. The fifth in the series, ATV Georges Lemaître, was also the last. Samantha had the honour of monitoring the departure of this 20-tonne freighter while the ATV control centre in Toulouse, France issued commands.
+Georges Lemaîtres could boost its host’s orbit – the Station gradually loses altitude as it circles our planet. Without regular boosts it would eventually fall back to Earth. If necessary, ATV could even push the Station out of the way of space debris.
+Once detached from the Station, Europe’s final ATV burnt up harmlessly over the Pacific Ocean.
+Progress
+The Progress spacecraft are the Russian counterpart to ATVs and is the only other spacecraft to dock autonomously with the Station. Progress resembles the Soyuz that will fly Samantha and her colleagues to the Station – they are adapted from the crewed vehicle. Progress and ATV connect with the Russian docking ports on the Station.
+Progress delivers more than 2000 kg each time, and two were scheduled during the Futura mission.
+Dragon
+Dragon, built by Space-X, was the first commercial vessel to dock with the orbital outpost. It is the smallest to deliver supplies but they have an important feature: they are the only vehicle other than Soyuz that returns to Earth. Dragon returns experiment samples such as Samantha’s blood or saliva back to scientists as needed.

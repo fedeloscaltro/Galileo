@@ -1,0 +1,26 @@
+2016-03-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_on_its_way_to_solve_the_Red_Planet_s_mysteries
+ExoMars on its way to solve the Red Planet’s mysteries
+The first of two joint ESA-Roscosmos missions to Mars has begun a seven-month journey to the Red Planet, where it will address unsolved mysteries of the planet’s atmosphere that could indicate present-day geological – or even biological – activity.
+The Trace Gas Orbiter and the Schiaparelli entry, descent and landing demonstrator lifted off on a Proton-M rocket operated by Russia’s Roscosmos at 09:31 GMT (10:31 CET) this morning from Baikonur, Kazakhstan.
+Following separation of Proton’s first and second stages, the payload fairing was released. The third stage separated nearly 10 minutes after liftoff.
+The Breeze-M upper stage, with ExoMars attached, then completed a series of four burns before the spacecraft was released at 20:13 GMT (21:13 CET).
+Signals from the spacecraft, received at ESA’s control centre in Darmstadt, Germany via the Malindi ground tracking station in Africa at 21:29 GMT (22:29 CET), confirmed that the launch was fully successful and the spacecraft is in good health.
+The orbiter’s solar wings have also now unfolded and the craft is on its way to Mars.
+“It’s been a long journey getting the first ExoMars mission to the launch pad, but thanks to the hard work and dedication of our international teams, a new era of Mars exploration is now within our reach,” says Johann-Dietrich Woerner, ESA’s Director General.
+“I am grateful to our Russian partner, who have given this mission the best possible start today. Now we will explore Mars together.”
+Igor Komarov, General Director of the Roscosmos State Space Corporation,  adds, “Only the process of collaboration produces the best technical solutions for great research results. Roscosmos and ESA are confident of the mission’s success.”
+“We’re not only looking forward to the world-class science data that this mission will return, but it is also significant in paving the way for the second ExoMars mission, which will move our expertise from in-orbit observations to surface and subsurface exploration of Mars,” says Alvaro Giménez, ESA’s Director of Science.
+The Trace Gas Orbiter (TGO) and Schiaparelli will travel to Mars together before separating on 16 October at distance of 900 000 km from the planet.
+Then, on 19 October, Schiaparelli will enter the martian atmosphere, descending to the surface in just under six minutes.
+Schiaparelli will demonstrate key entry, descent, and landing technologies for future missions, and will conduct a number of environmental studies during its short mission on the surface.
+For example, it will obtain the first measurements of electric fields on the surface of Mars that, combined with measurements of the concentration of atmospheric dust, will provide new insights into the role of electric forces on dust lifting – the trigger for dust storms.
+Meanwhile, on the same day, TGO will enter an elliptical four-day orbit around Mars, taking it from about 300 km at its nearest to around 96 000 km at its furthest point.
+After a year of complex ‘aerobraking’, manoeuvres during which the spacecraft will use the planet’s atmosphere to lower its orbit slowly to a circular 400 km, its scientific mission to analyse rare gases in the atmosphere will begin.
+Of particular interest is methane, which on Earth, points to active geological or biological processes.
+One of the mission’s key goals is to follow up on the methane detection made by ESA’s Mars Express in 2004 to understand the processes at play in its generation and destruction, with an improved accuracy of three orders of magnitude over previous measurements.
+TGO will also image features on the martian surface that may be related to trace-gas sources such as volcanoes. In addition, it will be able to detect buried water-ice deposits, which, along with locations identified as sources of the trace gases, could influence the choice of landing sites of future missions.
+The orbiter will also act as a data relay for the second ExoMars mission, comprising a rover and stationary surface science platform, which is scheduled for launch in May 2018, arriving in early 2019.
+For further information, please contact:
+ESA Media Relations Office
+Tel: +33 1 53 69 72 99Email: media@esa.int

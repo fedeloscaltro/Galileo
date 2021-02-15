@@ -1,0 +1,8 @@
+2016-06-27
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Orion/Critical_design_milestone_for_Orion_s_European_service_module
+Critical design milestone for Orion’s European service module
+ESA and NASA completed the Orion spacecraft European Service Module Critical Design Review on 16 June. The European Service Module will power NASA’s Orion spacecraft beyond the Moon in late 2018.
+With the Critical Design Review finished, building and assembly of the qualification models and flight hardware can start according to the final design. ESA is targeting shipment of the service module to NASA’s Kennedy Space Center in Florida in April 2017.
+No showstoppers were identified or raised during the design review but the meeting identified areas where additional analysis and work will be required. The results will be presented later to the review board.
+“We are satisfied with the outcome of the review and recognise the excellent work performed in the last years by the European industry consortium led by Airbus under ESA management with the support of NASA and Lockheed Martin. The schedule remains a challenge that we are eager to continuing tackling,” says ESA’s Philippe Deloo, project manager for the European Service Module.
+The design is based on ESA’s Automated Transfer Vehicle, which flew five unmanned supply missions to the International Space Station between 2008 and 2015. It will provide electricity, propulsion, water, oxygen and nitrogen and thermal control. The unmanned Exploration Mission-1 will send a human-rated spacecraft further than any other before, past the Moon and back to Earth. The first crewed mission, Exploration Mission-2, is planned for launch as early as 2021.

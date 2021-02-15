@@ -1,0 +1,23 @@
+2016-03-12
+https://www.esa.int/Enabling_Support/Operations/Mission_control_ready_for_Mars_launch
+Mission control ready for Mars launch
+ESA’s mission control conducted the dress rehearsal for the ExoMars launch today, an important final step in preparing the ground teams and systems for the 14 March departure to the Red Planet.
+Next Monday, the ESA–Roscosmos ExoMars 2016 mission is set to lift off from Baikonur Cosmodrome in Kazakhstan on a Russian Proton rocket, marking the start of a seven-month journey to the Red Planet (follow live updates; more information on ExoMars).
+Today, the ‘team of teams’ comprising the flight engineers and specialists at ESA’s ESOC control centre in Darmstadt, Germany, who will fly the ExoMars orbiter, performed the dress rehearsal, a crucial final step before any launch.
+The realistic, eight-hour practice began at 02:00 GMT (03:00 CET) to conform to the tight schedule of the Roscosmos launch team at Baikonur.
+Rehearsing for final countdown
+In Darmstadt, mission controllers worked in the centre’s Main Control Room, using the actual mission control systems and ground tracking stations that will be employed on launch day and during flight, stepping through the preflight procedures while following the minute-to-minute network countdown to the moment of liftoff.
+Teams established a live data connection with TGO on top of the Proton rocket in Baikonur, and could receive telemetry and other status data from the spacecraft, which was also undergoing its own preflight software loading and countdown rehearsal.
+“Today’s rehearsal is one of the final steps in being ready to go – we do a similar dress rehearsal for every launch,” says Paolo Ferri, Head of Mission Operations.
+“It’s a milestone that caps off several years of preparation for any complex mission – designing, building and testing the ground systems, preparing the flight operations procedures and then finally an intensive period of team training.”
+Specialists from areas such as flight dynamics, ground stations, ground software and systems also took part in the rehearsal, sitting in their own control rooms and working together via voice and data loops between each other and to the launch control centre at Baikonur and the ground stations.
+Representatives from Thales Alenia Space, leading the European industrial grouping that built ExoMars and Schiaparelli, and from ESA’s ExoMars project office, also took part.
+Twelve missions in space and nine in preparation
+Readying to conduct the ExoMars mission comes at a time when ESA’s operations teams are seeing an historically high level of activity.
+Twelve missions, for a total of 17 spacecraft, are now in flight, spanning science, Earth observation, orbiting observatories and Europe’s Galileo and Copernicus programmes, while nine new missions are being prepared.
+“In 2016, at least five new missions are expected to be launched – a record for ESOC – plus two spectacular interplanetary highlights in the autumn: ExoMars arrival at Mars, and the controlled impact of Rosetta on its comet,” says Rolf Densing, ESA’s Director for Operations and head of the ESOC centre.
+“I am very proud of the long, hard work by everyone; the ground systems are ready, the tracking stations are ready and the teams are ready for the journey to Mars.
+“We’re looking forward to a smooth launch on Monday and to an excellent start for this key mission.”
+On 14 March, lift off is set for 09:31 GMT (10:31 CET), and the orbiter is expected to send its first signals to Earth around 12 hours after launch, at 21:28 GMT (22:28 CET).
+ExoMars comprises the Trace Gas Orbiter (TGO) and the Schiaparelli entry, descent and landing demonstrator.
+TGO will study atmospheric trace gases, such as methane. Schiaparelli carries sensors to evaluate the lander’s performance as it descends, and others to study the environment at the landing site.

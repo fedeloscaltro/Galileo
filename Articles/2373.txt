@@ -1,0 +1,34 @@
+2016-11-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/First_views_of_Mars_show_potential_for_ESA_s_new_orbiter
+First views of Mars show potential for ESA’s new orbiter
+ESA’s new ExoMars orbiter has tested its suite of instruments in orbit for the first time, hinting at a great potential for future observations.
+The Trace Gas Orbiter, or TGO, a joint endeavour between ESA and Roscosmos, arrived at Mars on 19 October. Its elliptical orbit takes it from 230–310 km above the surface to around 98 000 km every 4.2 days.
+It spent the last two orbits during 20–28 November testing its four science instruments for the first time since arrival, and making important calibration measurements.
+Data from the first orbit has been made available for this release to illustrate the range of observations to be expected once the craft arrives into its near-circular 400 km-altitude orbit late next year.
+TGO’s main goal is to make a detailed inventory of rare gases that make up less than 1% of the atmosphere’s volume, including methane, water vapour, nitrogen dioxide and acetylene.
+Of high interest is methane, which on Earth is produced primarily by biological activity, and to a smaller extent by geological processes such as some hydrothermal reactions.
+The two instruments tasked with this role have now demonstrated they can take highly sensitive spectra of the atmosphere. During the test observations last week, the Atmospheric Chemistry Suite focused on carbon dioxide, which makes up a large volume of the planet's atmosphere, while the Nadir and Occultation for Mars Discovery instrument homed in on water.
+They also coordinated observations with ESA’s Mars Express and NASA’s Mars Reconnaissance Orbiter, as they will in the future.
+Complementary measurements by the orbiter’s neutron detector, FREND, will measure the flow of neutrons from the planet’s surface. Created by the impact of cosmic rays, the way in which they are emitted and their speed on arriving at TGO points to the composition of the surface layer, in particular to water or ice just below the surface.
+The instrument has been active at various times during the cruise to Mars and on recent occasions while flying close to the surface could identify the relative difference between regions of known higher and lower neutron flux, although it will take several months to produce statistically significant results.
+Similarly, the instrument showed a clear increase in neutron detections when close to Mars compared to when it was further away.
+The different capabilities of the Colour and Stereo Surface Imaging System were also demonstrated, with 11 images captured during the first close flyby on 22 November.
+At closest approach the spacecraft was 235 km from the surface, and flying over the Hebes Chasma region, just north of the Valles Marineris canyon system. These are some of the closest images that will ever be taken of the planet by TGO, given that the spacecraft’s final orbit will be at around 400 km altitude.
+The camera team also completed a quick first test of producing a 3D reconstruction of a region in Noctis Labyrinthus, from a stereo pair of images.
+Although the images are impressively sharp, data collected during this test period will help to improve the camera’s onboard software as well as the quality of the images after processing.
+“We are extremely happy and proud to see that all the instruments are working so well in the Mars environment, and this first impression gives a fantastic preview of what’s to come when we start collecting data for real at the end of next year,” says Håkan Svedhem, ESA’s TGO Project Scientist.
+“Not only is the spacecraft itself clearly performing well, but I am delighted to see the various teams working together so effectively in order to give us this impressive insight.
+“We have identified areas that can be fine-tuned well in advance of the main science mission, and we look forward to seeing what this amazing science orbiter will do in the future.”
+Notes for Editors
+More information about the imaging campaign is available in the University of Bern’s press release “CaSSIS sends first images from Mars orbit”
+More information about NOMAD’s first observations is available via the press release “NOMAD's first view of the martian atmosphere”
+More information about ACS and FREND’s observations are available via the IKI ExoMars website (in russian)
+A graphic summarising when the TGO instruments were operating during the 20–24 November orbit is provided below.
+For more information, please contact:
+Håkan Svedhem
+ESA ExoMars TGO Project ScientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

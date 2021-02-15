@@ -1,0 +1,11 @@
+2006-07-02
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Astrolab/Live_coverage_Launch_Astrolab_Mission
+Live coverage: Launch Astrolab Mission
+The launch of Space Shuttle Discovery on flight STS-121 is scheduled for 20:38 CEST (18:38 UT) on 4 July. You can follow the countdown to launch live on ESA Television and via webstreaming on the Internet.
+ESA Television
+Follow the launch via satellite with ESA TV. Between 20:15-21:15 CEST (18:15-19:15 UT) ESA TV will provide a re-broadcast of NASA TV showing the final minutes before lift-off of Space Shuttle Discovery.
+Satellite parameters ESA TV:
+Eutelsat Atlantic Bird at 12.5 degrees WestTransponder F5, channel 1 (SCPC) horizontal, F=12643 MHz, SR=6.1113 Ms/sec, FEC=3/4
+Webstreaming via NASA TV
+NASA TV will begin webstreaming coverage of the launch countdown at 16:00 CEST (14:00 UT).
+Go to NASA TV webstream »»

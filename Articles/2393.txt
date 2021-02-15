@@ -1,0 +1,19 @@
+2016-03-23
+https://www.esa.int/Enabling_Support/Operations/ExoMars_performing_flawlessly
+ExoMars performing flawlessly
+Following a spectacular liftoff, ESA’s ExoMars Trace Gas Orbiter is performing flawlessly en route to the Red Planet.
+The ESA–Roscosmos ExoMars Trace Gas Orbiter (TGO) and the Schiaparelli entry, descent and landing demonstrator are well on their way following the 14 March launch from Baikonur Cosmodrome in Kazakhstan.
+After a raucous 10 minute ascent, the three-stage Proton-M rocket delivered the Breeze-M upper stage and its ExoMars payload into an initial parking orbit.
+Following four crucial engine burns in the next 10 hours, Breeze-M released ExoMars into its interplanetary path to Mars, achieving a departure speed accurate to within just 1.5 m/s.
+“We had an extremely precise orbital injection thanks to Proton–Breeze and our Russian colleagues, and we are now well on our way to Mars,” says ESA flight director Michel Denis.
+“After the critical first few days in space, TGO is performing flawlessly. Over the next two weeks we will continue to check and commission its systems, including the power, communications, startrackers, and guidance and navigation system.”
+Schiaparelli, which is hitching a ride to Mars with TGO, will also be thoroughly checked in the coming weeks.
+Starting in April, the ExoMars team at ESA’s mission control centre in Darmstadt, Germany, will work with the science teams to start switching on and commissioning the craft’s scientific instruments.
+NASA’s Electra radio relay will also be switched on and checked next month.
+In June, the science control centre at ESA’s establishment near Madrid, Spain, will start working with the instrument teams at their various institutes, and the Roscosmos science operations centre, to perform a mid-cruise checkout of TGO’s instruments.
+Not many problems to solve
+In the only problem seen so far, the team noted some hours after establishing a communication link that the temperature of the main engine, to be used later during the cruise and at Mars arrival, had started to rise more than expected.
+In consultations with engineers from Thales Alenia Space France, TGO’s prime contractor, it was determined that simply adjusting the craft’s orientation in space by a few degrees so that the engine nozzle was no longer directly facing the Sun would do the trick. It did.
+“It’s obvious that the European industry who built ExoMars has done an excellent job,” says Michel.
+By Thursday evening, 17 March, the mission control team had declared the ‘Launch and Early Orbit Phase’ – one of the most critical periods in any mission’s life – complete, and finished work in the main control room in Darmstadt.
+From now on, routine operations will be handled from a smaller room, where space and facilities will be shared with other interplanetary missions.

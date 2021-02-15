@@ -1,0 +1,20 @@
+2004-10-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Research/Building_on_past_research_the_Erasmus_Experiment_Archive
+Building on past research: the Erasmus Experiment Archive
+Earlier this year ESA's Directorate of Human Spaceflight launched the Erasmus Experiment Archive (EEA). A web-based application containing records of all ESA funded or co-funded microgravity experiments since 1971. Built and maintained by the Erasmus User Centre, the archive is a rich source of information for scientists and general public alike.
+The EEA, which replaces ESA's Microgravity Database (MGDB), covers European experiments conducted during Space Shuttle missions, on Space Stations, retrievable capsules, drop-towers, parabolic flights and sounding rockets.
+Records
+At present the database holds around 1200 records, with an anticipated growth of 100 records per year. Each new record is created by a curator in close cooperation with the scientists, who review all information before it is made available online. Records are enriched by the inclusion of multimedia content such as images, graphs and videos.
+Via a simple graphical interface, users can browse records grouped by research platform, scientific discipline, year and country of origin. Alternatively they can retrieve information directly using a full-text search.
+Access
+Accessible from any PC connected to the Internet, the EEA is essentially open to anyone who wants to discover more about European microgravity research. However, a main function of the archive is as a resource for scientists.
+Opportunities to take part in microgravity research are limited, so scientists want to make the most of an opportunity when it comes along.
+"The EEA gives scientists access to carefully indexed details of all previous experiments", explains EEA project manager Massimo Sabbatini. "Learning from the experiences of others, the scientists can improve their own experiment and make sure it performs as well as possible. The information in the database may even provide inspiration for new experiments."
+By facilitating contact between scientists who can help each other, or have shared interests, the archive is also intended as a starting point for new national or international scientific communities.
+International effort
+The EEA is part of a joint international effort with the American and Japanese space agencies, NASA and JAXA. Each agency individually maintains a database with details of their own microgravity research.
+Records from the three separate databases are brought together in a powerful tool called the Microgravity International Distributed Experiment Archives (Microgravity IDEA). Using one search interface, Microgravity IDEA provides the user with access to all microgravity experiments from all three agencies.
+The future
+Six months after the launch of the Erasmus Experiment Archive, feedback from the users is very positive.
+"The web-based interface is particularly appreciated," says Sabbatini. "One of our main tasks for the immediate future is to make sure that all the records are complete. Longer term we want to add more and more multimedia content. The experience of using the EEA should be as rich as possible. Think of a fluid science experiment: you don't just want to read about the phenomenon. You want to see it."
+Visit the Erasmus Experiment Archive

@@ -1,0 +1,23 @@
+2018-05-29
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Red_Planet_rover_set_for_extreme_environment_workout
+Red Planet rover set for extreme environment workout
+A representative model of the ExoMars rover that will land on Mars in 2021 is beginning a demanding test campaign that will ensure it can survive the rigours of launch and landing, as well as operations under the environmental conditions of Mars.
+ExoMars is a joint endeavour between ESA and Roscosmos, with the Trace Gas Orbiter already at Mars and beginning its science mission to look for atmospheric gases that may be linked to active geological or biological processes. The orbiter will relay the data collected by the rover back to Earth, a capability already demonstrated with communications relays to NASA’s rovers currently on Mars.
+The ExoMars rover will be the first of its kind to drill below the surface – down to 2 m – and determine if evidence of life is buried underground, protected from the destructive radiation that impinges the surface today.
+Like any space mission, the rover’s mechanical structure, along with its electrical and thermal components and its interfaces with the scientific instruments, have to be tested to check they can survive their journey in space and operations at the destination.
+As such the rover ‘structural and thermal model’ was recently transferred from Airbus Defence and Space in Stevenage, UK, to the Airbus site in Toulouse, France. This week, the model will be shaken on a vibration table to ensure it can survive the intense juddering as the Proton rocket carries it into space.
+Furthermore, the rover model will be subjected to the shocks associated with entering another planet’s atmosphere at high speed and as parachutes open, and finally the touchdown onto the Red Planet’s surface.
+Two months of thermal tests will follow under Mars atmosphere conditions, to qualify the rover for being able to withstand the frigid temperatures and large daily temperature variations on Mars.
+The tests will be conducted in a chamber to simulate the low atmospheric pressure of Mars – less than 1% of Earth’s average sea level pressure – and its carbon dioxide-rich atmosphere. The rover will also need to operate at temperatures down to –120ºC. A closed compartment inside the rover, where martian soil samples will be analysed, will be thermally controlled to maintain temperatures between +20ºC and –40ºC.
+The current test campaign is expected to last until the beginning of August 2018. The rover model will then move to Lavochkin, Moscow, where it will be sealed inside a replica descent module and again subjected to vibration, shock and thermal tests.
+Another test model will soon start an eight month-long campaign focusing on the rover’s movements and navigation over a variety of different ground types, ranging from fine-grained soil to larger boulders.
+The mission will travel to Mars inside an aeroshell, with the rover mounted on a surface science platform. Once safely delivered to the Red Planet’s surface, the landing platform will deploy its solar panels and ramps, and within a few days the rover will drive off the platform and begin its exciting exploration of Mars.
+“This campaign kicks off a series of tests that will verify the mechanical and thermal design of the ExoMars rover, essential preparation that brings us a step closer to roving on the Red Planet,” says Pietro Baglioni, ESA ExoMars rover team leader.
+For further information, please contact:
+Pietro Baglioni
+ESA ExoMars rover team leaderEmail: Pietro.Baglioni@esa.int
+Markus Bauer
+ESA Science Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

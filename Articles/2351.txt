@@ -1,0 +1,32 @@
+2002-10-11
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/Liftoff_for_Aurora_Europe_s_first_steps_to_Mars_the_Moon_and_beyond
+Liftoff for Aurora: Europe’s first steps to Mars, the Moon and beyond
+ESA PR 64-2002. Step by step, the European Space Agency’s new Aurora space exploration programme is beginning to take shape. This ambitious programme, started by ESA in January 2002, sets out a strategy over the next 30 years for Europe’s robotic and human exploration of Mars, the Moon, and even beyond to the asteroids.
+On Monday 7 October, the Aurora Board of Participants met at ESA Headquarters in Paris and approved the start of assessment studies for the first four robotic missions in the programme.
+These assessments involve studies of two Flagship missions, which are major milestones to advance the scientific and technical knowledge in preparation for a human mission; and two Arrow missions, which are typically less complex and cheaper technology missions intended to reduce the risk involved in the more complex Flagship flights.
+The approved Flagship mission studies are:
+The Exo-Mars mission
+The Exo-Mars mission will characterize the Martian biological environment before landings by other spacecraft or humans take place. Data from the mission will provide invaluable input to broader studies of Exobiology – the search for life beyond Earth.
+A Mars Orbiter will deliver a descent module from Martian orbit. The descent module will deliver a rover to a specified location using an inflatable aerobraking device or a parachute system. The rover, powered by conventional solar arrays, will be capable of travelling a few kilometres across the Martian surface. Its payload of about 40 kg will include a drilling system, as well as a sampling and handling device integrated with the package of scientific instruments.
+The Rover navigation system, including optical sensors, onboard software, autonomous operation capability and the life-detecting payload, is a significant technological challenge in which Europe and Canada can bring to fruition years of technology development within ESA and at national level.
+This mission will also be studied as a possible data relay system for the Mars Netlander mission led by the French Centre National d’Etudes Spatiales (CNES).
+The Mars Sample Return mission
+A composite vehicle will carry into a Mars orbit both a descent module and an Earth re-entry vehicle. The descent module will carry to the surface of Mars a landing platform equipped with a sample collecting device and an ascent vehicle. A modest landing accuracy is expected to be sufficient for a mission bringing back the first ever sample of Martian soil.
+The ascent vehicle will carry a small canister containing the sample into a low altitude circular Mars orbit (e.g. 150 km) for a rendezvous with the Earth re-entry vehicle.
+This spacecraft will then deliver the re-entry capsule containing the sample on a ballistic trajectory into the Earth’s atmosphere. A parachute (or inflatable device) landing system will ensure a safe landing.
+A Mars Sample Return mission requires a number of enabling technologies, which are not yet (or not fully) available in Europe. This concerns mainly the landing system, the ascent vehicle, the rendezvous system in Mars orbit and the Earth re-entry vehicle/ capsule.
+These technologies will be developed during two precursor Arrow missions:
+Earth re-entry vehicle/capsule
+The envisaged mission will use a small spacecraft in a highly elliptical Earth orbit. The vehicle will be propelled towards the Earth under conditions similar to those that would be experienced by an interplanetary return capsule. This mission is a necessary preparatory step for the first Mars Sample Return Mission.
+Mars Aerocapture demonstrator
+A small mission with the specific goal of validating technology that can slow a spacecraft and allow it to enter orbit around Mars by using friction with the planet’s upper atmosphere. This will later be applied in a future Flagship mission, and eventually to the human mission elements.
+Notes for Editors:
+The robotic missions mentioned above constitute the first stepping stones toward the end goals of the Aurora programme, and they will allow a range of activities to start in earnest, from mission specific technology work to scientific preparation.
+Two main phases are foreseen for the long-term programme. The first phase in 2005-2015 is aimed at gathering the knowledge and developing and demonstrating technologies required for a human mission on Mars and Moon, eventually leading to a decision about whether to proceed with such a mission.
+This initial phase will be followed in 2015-2030 by a second phase dedicated to development, verification and implementation of the European elements of the human mission, which is expected to be an international endeavour.
+As currently envisaged, the main milestones of the Aurora programme are: two Mars Sample Return missions (2011-2017); the decision to go ahead with a human mission (2015); a robotic outpost on Mars and possible human mission to the Moon (2020 - 2025); and a human mission to Mars (2025 - 2030).
+The newly approved studies will help clarify feasibility and mission requirements and open the way to the early phase of the industrial work in 2003. These missions were identified by the Exploration Programme Advisory Committee (EPAC) from a number of proposals collected throughout Europe and Canada in 2001, and recommended to the Member States for endorsement. The EPAC is constituted of independent scientific and technical advisors to the ESA Director General.
+The results will be presented to the Member States in December 2002 for approval to proceed into industrial Phase A studies.
+For further information, please contact :
+ESA Media Relations Service
+Tel: +33(0)1.53.69.7155Fax: +33(0)1.53.69.7690

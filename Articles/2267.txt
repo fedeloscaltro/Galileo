@@ -1,0 +1,13 @@
+2014-07-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Wake_up_robot
+Wake up, robot
+Code, play and command your space droid – students across Europe can bring a squadron of minisatellites to life on the International Space Station as the ultimate space robot game.
+For the fourth year, the Zero Robotics tournament will turn the Station into a gaming arena for European secondary-school pupils. The competition challenges youngsters to write instructions that control volleyball-sized satellites through a virtual field mined with obstacles.
+The Spheres − short for Synchronised Position Hold, Engage, Reorient, Experimental Satellites – obey remote commands and can hover around the weightless Station using their own power, propulsion and navigation.
+The tournament is not only about writing code. Participants must solve problems, apply their maths and physics knowledge and work in teams to achieve success.
+European contenders should start working now on self-developed software and plan their strategy for the competition, ready for when the final details of the mission are unveiled in September.
+May the code be with you
+The contest starts with online simulations of increasing difficulty. Competitors can create and visualise their code to get ready for the game from a web browser and free of charge.
+After playing against other teams in simulation rounds to build the highest scores, finalists will see their commands ruling the Spheres on the Space Station. ESA astronaut Samantha Cristoforetti will support the European teams, running the live competition from the front line on the orbital outpost.
+The finals will take place in January, with the US teams at the Massachusetts Institute of Technology and the European teams at ESA’s Technical Centre, ESTEC, in Noordwijk, the Netherlands.
+Join the game...

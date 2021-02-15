@@ -1,0 +1,26 @@
+2016-10-21
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Mars_Reconnaissance_Orbiter_views_Schiaparelli_landing_site
+Mars Reconnaissance Orbiter views Schiaparelli landing site
+NASA’s Mars Reconnaissance Orbiter has identified new markings on the surface of the Red Planet that are believed to be related to ESA’s ExoMars Schiaparelli entry, descent and landing technology demonstrator module.
+Schiaparelli entered the martian atmosphere at 14:42 GMT on 19 October for its 6-minute descent to the surface, but contact was lost shortly before expected touchdown. Data recorded by its mothership, the Trace Gas Orbiter, are currently being analysed to understand what happened during the descent sequence.
+In the meantime, the low-resolution CTX camera on-board the Mars Reconnaissance Orbiter (MRO) took pictures of the expected touchdown site in Meridiani Planum on 20 October as part of a planned imaging campaign.
+The image released today has a resolution of 6 metres per pixel and shows two new features on the surface when compared to an image from the same camera taken in May this year.
+One of the features is bright and can be associated with the 12-m diameter parachute used in the second stage of Schiaparelli’s descent, after the initial heat shield entry. The parachute and the associated back shield were released from Schiaparelli prior to the final phase, during which its nine thrusters should have slowed it to a standstill just above the surface.
+The other new feature is a fuzzy dark patch roughly 15 x 40 metres in size and about 1 km north of the parachute. This is interpreted as arising from the impact of the Schiaparelli module itself following a much longer free fall than planned, after the thrusters were switched off prematurely.
+Estimates are that Schiaparelli dropped from a height of between 2 and 4 kilometres, therefore impacting at a considerable speed, greater than 300 km/h. The relatively large size of the feature would then arise from disturbed surface material. It is also possible that the lander exploded on impact, as its thruster propellant tanks were likely still full. These preliminary interpretations will be refined following further analysis.
+A closer look at these features will be taken next week with HiRISE, the highest-resolution camera onboard MRO. These images may also reveal the location of the front heat shield, dropped at higher altitude.
+Since the module’s descent trajectory was observed from three different locations, the teams are confident that they will be able to reconstruct the chain of events with great accuracy. The exact mode of anomaly onboard Schiaparelli is still under investigation.
+The two new features are located at 353.79 degrees east longitude, 2.07 degrees south latitude on Mars. The position of the dark mark shows that Schiaparelli impacted approximately 5.4 km west of its intended landing point, well within the nominal 100 x 15 km landing ellipse.
+Meanwhile, the teams continue to decode the data extracted from the recording of Schiaparelli descent signals recorded by the ExoMars TGO in order to establish correlations with the measurements made with the Giant Metrewave Radio Telescope (GMRT), an experimental telescope array located near Pune, India, and with ESA’s Mars Express from orbit.
+A substantial amount of extremely valuable Schiaparelli engineering data were relayed back to the TGO during the descent and is being analysed by engineers day and night.
+The ExoMars TGO orbiter is currently on a 101 000 km x 3691 km orbit (with respect to the centre of the planet) with a period of 4.2 days, well within the planned initial orbit. The spacecraft is working very well and will take science calibration data during two orbits in November 2016.
+It will then be ready for the planned aerobraking manoeuvres starting in March 2017 and continuing for most of the year, bringing it into a 400-km altitude circular orbit around Mars.
+The TGO will then begin its primary science mission to study the atmosphere of Mars in search of possible indications of life below the surface, and to act as a telecommunications relay station for the ExoMars 2020 rover and other landed assets.
+For further information, please contact:
+Thierry Blancquaert
+ExoMars EDM ManagerEmail: Thierry.Blancquaert@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

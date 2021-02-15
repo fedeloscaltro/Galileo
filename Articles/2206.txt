@@ -1,0 +1,29 @@
+2018-04-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_returns_first_images_from_new_orbit
+ExoMars returns first images from new orbit
+The ExoMars Trace Gas Orbiter has returned the first images of the Red Planet from its new orbit.
+The spacecraft arrived in a near-circular 400 km altitude orbit a few weeks ago ahead of its primary goal to seek out gases that may be linked to active geological or biological activity on Mars.
+The orbiter’s Colour and Stereo Surface Imaging System, CaSSIS, took this stunning image, which features part of an impact crater, during the instrument’s test period. The camera was activated on 20 March and was tested for the start of its main mission on 28 April.
+“We transmitted new software to the instrument at the start of the test phase and after a couple of minor issues, the instrument is in good health and ready to work,” says the camera’s principal investigator, Nicolas Thomas from the University of Bern in Switzerland.
+The image captures a 40 km-long segment of Korolev Crater located high in the northern hemisphere. The bright material on the rim of the crater is ice.
+“We were really pleased to see how good this picture was given the lighting conditions,” says Antoine Pommerol, a member of the CaSSIS science team working on the calibration of the data. “It shows that CaSSIS can make a major contribution to studies of the carbon dioxide and water cycles on Mars.”
+The image is assembled from three images in different colours that were taken almost simultaneously on 15 April.
+“We aim to fully automate the image production process,” says Nick. “Once we achieve this, we can distribute the data quickly to the science community for analysis.”
+The team also plans to make regular public releases.
+The orbiter’s camera is one of four instruments on the Trace Gas Orbiter, or TGO, which also hosts two spectrometer suites and a neutron detector.
+The spectrometers began their science mission on 21 April with the spacecraft taking its first ‘sniff’ of the atmosphere. In reality, the sniffing is the spectrometers looking at how molecules in the atmosphere absorb sunlight: each has a unique fingerprint that reveals its chemical composition.
+A long period of data collection will be needed to bring out the details, especially for particularly rare – or not even yet discovered – ingredients in the atmosphere. Trace gases, as hinted at from their name, are only present in very small amounts: that is, less than one percent of the volume of the planet’s atmosphere. In particular, the orbiter will seek evidence of methane and other gases that could be signatures of active biological or geological activity.
+The camera will eventually help characterise features on the surface that may be related to trace gas sources.
+“We are excited to finally be starting collecting data at Mars with this phenomenal spacecraft,” says Håkan Svedhem, ESA’s TGO project scientist. “The test images we have seen so far certainly set the bar high.”
+The ExoMars programme is a joint endeavour between ESA and Roscosmos. The Trace Gas Orbiter is the first of two missions in the programme: the next is scheduled for launch in 2020 and will comprise a rover and a surface science platform. TGO will act as a communication relay for both. It proved this capability earlier this week in the first of a series of relay communications with NASA’s Curiosity rover, highlighting the cooperation between ESA and NASA to maintain a communications infrastructure around Mars for future missions.
+For further information, please contact:
+Nicolas Thomas
+University of Bern, Switzerland
+Tel: +41 631 4406Email: nicolas.thomas@space.unibe.ch
+Håkan Svedhem
+ESA TGO project scientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

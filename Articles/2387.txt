@@ -1,0 +1,14 @@
+2016-08-11
+https://www.esa.int/Science_Exploration/Space_Science/Mars_Express/Spotlight_on_Schiaparelli_s_landing_site
+Spotlight on Schiaparelli’s landing site
+Schiaparelli, the Entry, Descent and Landing Demonstrator Module of the joint ESA/Roscosmos ExoMars 2016 mission, will target the Meridiani Planum region for its October landing, as seen in this mosaic created from Mars Express images.
+The landing ellipse, measuring 100 x 15 km, is located close to the equator, in the southern highlands of Mars. The region was chosen based on its relatively flat and smooth characteristics, as indicated in the topography map, in order to satisfy landing safety requirements for Schiaparelli.
+NASA’s Opportunity rover also landed within this ellipse near Endurance crater in Meridiani Planum, in 2004, and has been exploring the 22 km-wide Endeavour crater for the last five years. Endeavour lies just outside the south-eastern extent of Schiaparelli’s landing ellipse.
+The region has also been well studied from orbit and is shown to host clay sediments and sulphates that were likely formed in the presence of water. Indeed, a number of water-carved channels are also clearly visible, in particular in the southern portion of the image.
+Dune fields are seen inside a number of the craters in the region, and along with the dark deposits surrounding them, are likely shaped by wind and dust storms.
+Although Schiaparelli’s main task is to demonstrate technologies needed to safely land on Mars, its small suite of scientific instruments will also record the wind speed, humidity, pressure and temperature at its landing site.
+It will also obtain the first measurements of electric fields on the surface of Mars that, combined with measurements of the concentration of atmospheric dust, will provide new insights into the role of electric forces in dust lifting, the trigger for dust storms.
+Schiaparelli is riding to Mars on board the ExoMars Trace Gas Orbiter. The mission launched on a Proton rocket from Baikonur on 14 March, and is on course for a 19 October rendezvous with the Red Planet.
+Schiaparelli will separate from its mothership on 16 October; three days later, it will use a combination of a heat shield, a parachute, a propulsion system and a crushable structure to slow down during its six-minute descent to the surface of Mars.
+ESA’s Mars Express, which has been in orbit at the Red Planet since 2003, is among the fleet of orbiters that will act as a data relay during Schiaparelli’s short battery-powered mission on the surface.
+Images acquired with the Mars Express High Resolution Stereo Camera on 23, 26 and 29 August 2005, and 1 August 2010, were used to compile the four-image colour mosaic featured in this release.

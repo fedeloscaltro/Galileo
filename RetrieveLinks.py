@@ -95,6 +95,12 @@ def write_to_file(links_articles, file_name):
         write_to_file(links_articles, file_name)    # recall the function to write for the first time the file
 
 
+def esa_iteration(dic_cat, root, links_articles):
+    for cat in dic_cat:
+        for k in range(dic_cat[cat]):
+            links_articles.extend(esa_scraper(root.replace("(archive)/", cat) + "(archive)/" + str(k * 50)))
+
+
 def main():
     """Main function to start the whole scraping action"""
 
@@ -112,6 +118,16 @@ def main():
     for k in range(esa_counter):
         links_articles.extend(
             esa_scraper(root_esa + str(k * 50)))  # adding the links retrieved from the first "i" ESA pages
+
+    sub_cat = {"Exploration/": 5, "Exploration/ExoMars/": 2, "Mars500/": 3, "PromISSe/": 1, "MagISStra/": 2,
+               "Futura/": 1, "Education/": 5, "Research/": 9, "Astronauts/": 9, "Blue_Dot/": 1, "AstroLab/": 2,
+               "OasISS_Mission/": 2, "Exploration/Orion/": 1}
+
+    esa_iteration(sub_cat, root_esa, links_articles)
+
+    for cat in sub_cat:
+        links_articles.extend(
+            esa_scraper(root_esa.replace("(archive)/", cat) + "(archive)/"))
 
     links_articles.extend(bo_scraper(root_bo))  # adding the links retrieved from the Blue Origin page
 

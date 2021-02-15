@@ -1,0 +1,8 @@
+2004-04-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Delta_Mission/Super_energy_saving_lamps_one_step_closer_to_consumer
+Super energy saving lamps one step closer to consumer
+The energy saving plasma lamps, developed by Philips and Eindhoven Technical University, have been successfully tested on board the International Space Station.
+According to head scientist Gerrit Kroesen from Eindhoven Technical University, the success of this experiment was in part thanks to the sharp feedback provided by ESA astronaut André Kuipers. "I am very pleased that we were able to conduct this experiment on a human spaceflight. It wouldn't have worked without the tireless André Kuipers."
+After a shaky start to the ARGES experiment, which was conducted in the Microgravity Science Glovebox (MSG) within the American Destiny module, proceedings were quickly back on track. By the end of the weekend one hundred percent scientific success was achieved.
+ARGES looks at the instability of ten energy saving plasma lamps. On Earth the gases in the lamp start to rotate in a spiral. The experiment aims to discover if this is the case in weightlessness. Kroesen: "We received the first results directly from André via a radio link-up. It was apparent that in space the gases didn't start to rotate, this wasn't what we had expected."
+The full results of the plasma lamp tests will return to Earth together with André Kuipers in the Soyuz TMA-3 on 30 April. Kroesen expects to be able to use the findings of this experiment to improve the plasma lamps: "This experiment brings us one step closer to selling these super energy saving lamps to the consumer".

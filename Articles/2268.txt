@@ -1,0 +1,14 @@
+2014-05-05
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Ham_video_premiers_on_Space_Station
+Ham video premiers on Space Station
+Astronauts on the International Space Station can now talk with people on Earth with video using simple transmitters. ‘Ham TV’ has been set up in ESA’s Columbus laboratory and already used for talking with ground control.
+Amateur radio enthusiasts have been able to poll astronauts circling our planet using standard radio equipment since the Station was inaugurated in 2000. Radio signals easily reach the orbital outpost flying 350 km above us on sets readily available to radio enthusiasts.
+The new Ham TV adds a visual dimension, allowing an audience on the ground to see and hear the astronauts.
+The hardware, developed by Kayser Italia, with off-the-shelf components assembled by the Amateur Radio on the International Space Station organisation was sent to the Station on Japan’s space freighter in August last year and connected to an existing S-band antenna on Columbus.
+NASA astronaut Mike Hopkins had the honour of being the first to commission the unit and broadcast over Ham TV. He had a video chat with three ground stations in Italy: Livorno, Casale Monferrato and Matera. The crew finished commissioning the set-up on 12 April for general use.
+Just like standard television, the video signal is one way. The astronauts cannot see their audience but they will still be able to hear them over the traditional amateur radio on the Station.
+Contacts are brief – the connection requires direct line of sight and the Station’s 28 800 km/h means it quickly passes through the field of view of amateur stations.
+ESA has provided five ground antennas and equipment to the Amateur Radio on the International Space Station organisation to receive video from the Station. These stations can be transported easily and positioned to follow the laboratory as it flies overhead. Linked together in this way, the stations can supply up to 20 minutes of contact at a time.
+Ham TV will add to ham radio for space educational purposes, offering schoolchildren the chance to talk and see astronauts in space with simple equipment.
+Anybody can still hail the Station via radio and, if an astronaut floats by the always-on receiver, they might just pick up and answer the call.
+For more information on how to get involved and organise an educational event, contact the Amateur Radio on the International Space Station organisation.

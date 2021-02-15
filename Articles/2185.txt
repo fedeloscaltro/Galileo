@@ -1,0 +1,33 @@
+2020-05-15
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_rover_upgrades_and_parachute_tests
+ExoMars rover upgrades and parachute tests
+The second ExoMars mission, scheduled for launch to the Red Planet in 2022, is taking advantage of the extra time to upgrade some of the rover’s instruments and get ready for the next parachute high-altitude drop tests.
+The new launch date on the horizon is allowing more margin for replacements and repairs to the ExoMars Rosalind Franklin rover.
+The solar panels that will help the rover survive the cold Martian nights will gain in strength. After some cracks were detected during the environmental tests earlier this year, new fasteners will be installed to reinforce the interface between panels and holding brackets at the Airbus facilities in Stevenage, in the UK.
+The flight model of the rover remains at Thales Alenia Space in Turin, Italy, for routine maintenance operations, such as battery charge and cleanliness checks.
+Strict microbiological controls are key to make sure that ExoMars does not introduce terrestrial contamination to the Red Planet. This is to comply with the stringent planetary protection requirements and to avoid false positives in the scientific measurements – what scientists call ‘forward contamination’.
+Scientists and engineers are looking into replacing the secondary electronics box on the Mars Organic Molecule Analyser, MOMA, an instrument capable of detecting organic molecules and investigate the potential origin, evolution and distribution of life on Mars.
+The infrared spectrometer that will analyse minerals on the surface, ISEM, might also be replaced with a spare model with better performance.
+One of the cameras on top of the rover’s drill designed to acquire high-resolution and colour images of the rocks and soil around the rover – the Close-Up Imager, CLUPI – is having a software upgrade.
+“The instruments were already in great shape, but having found the time to make these improvements is fantastic for our scientific mission on Mars,” says Jorge Vago, ESA’s ExoMars project scientist.
+These or any other improvements will only be carried out depending on the potential science benefits for the mission, but also weighing up the risk of breaking something else during the adjustments.
+“It is a delicate job to disassemble and carefully reassemble the rover. Any further changes imply more testing, and the teams need to ensure enough time margins so as not to put the 2022 launch in jeopardy,” says Albert Haldemann, ESA's ExoMars payload and AIV manager.
+Parachutes ready for drop tests
+New deployment bags for the parachutes of the ExoMars mission are cleared to go for final high-altitude drop tests. However, travel restrictions in response to the coronavirus pandemic have forced to postpone these tests from May to September 2020 at the earliest.
+The dynamic extraction test campaign was a success. The updated design with eased lines and canopy exit proved to avoid tears at extraction velocities of 200 km/h, similar to the high speeds at which the parachutes will be pulled from their bags during the descent towards the surface of Mars.
+“The meticulous folding of each parachute inside its bag is essential to guarantee a correct deployment,” explains Thierry Blancquaert, ExoMars spacecraft systems engineering team leader.
+Just the folding of the second main parachute, which with 35 m of diameter will be the largest to ever fly on Mars, takes over three days.
+A total of six ground-based tests saw the clean extraction of the parachutes from their bags, with no frictional damage, during a test campaign between November 2019 and January 2020 at NASA’s Jet Propulsion Laboratory in California, US.
+These tests followed the high-altitude drop tests in 2019, during which critical damage to both parachute canopies was observed.
+The two parachutes – each with its own pilot chute for extraction – are key to slow the ExoMars descent module before landing on the Red Planet. In just six minutes, the module goes from around 21 000 km/h during atmospheric entry to a soft landing at the surface.
+Flawless release
+The high-speed tests mimicked the extraction velocity the parachutes will experience during the descent phase, just a couple of minutes before touchdown. A compressed air cannon shot the bag horizontally, releasing the parachute as it will happen during the mission.
+“The extraction takes a split second, it all happens very quickly,” says Thierry.
+ESA benefitted from NASA’s hands-on parachute experience. The cooperation gave Europe access to special test equipment at the Jet Propulsion Laboratory, and the opportunity to run several dynamic extraction tests on a quick turnaround.
+“It was a real challenge to organise this campaign so quickly with all the industry partners involved. The support provided by NASA was excellent and instrumental to the successful validation of our new parachute deployment bags,” adds Thierry.
+Flying higher
+The next step, high-altitude drop tests at a test range in Oregon, US, will have to wait until the end of September 2020. This type of tests requires complex logistics and strict weather conditions for flight safety.
+The test parachute embedded into its canister and mounted onto a drop test vehicle will be lifted to an altitude of nearly 30 km with a stratospheric helium balloon. This drop test vehicle will be released by telecommand and freefall until the test parachute sequence starts in pressure conditions similar to diving into the thin martian atmosphere.
+These tests should demonstrate the capability of the main parachutes to deploy smoothly from their bags and to sustain the inflation loads without tearing.
+About ExoMars
+The ExoMars programme is a joint endeavour between the Roscosmos State Corporation and ESA. Apart from the 2022 mission, it includes the Trace Gas Orbiter launched in 2016. The TGO is already both delivering important scientific results obtained by its own Russian and European science instruments and relaying data from NASA’s Curiosity Mars rover and InSight lander. The module will also relay the data from the ExoMars 2022 mission once it arrives at Mars.

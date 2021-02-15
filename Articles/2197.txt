@@ -1,0 +1,26 @@
+2019-05-08
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_laboratory_passes_Red_Planet_simulation
+ExoMars laboratory passes Red Planet simulation
+A key set of scientific instruments developed for the ExoMars rover Rosalind Franklin passed tests last month to ensure compatibility with the martian environment.
+The rover’s Analytical Laboratory Drawer (ALD) flight model completed its thermal and vacuum sessions in Turin, Italy, at a Thales Alenia Space facility.
+The ExoMars rover will be the first of its kind to both roam the Mars surface and to study it at depth. Rosalind Franklin will drill down to two metres into the surface to sample the soil, analyse its composition and search for evidence of past – and perhaps even present – life hidden underground.
+A miniature laboratory inside the rover will analyse the samples and send data and images back to Earth to the scientific community, eager to learn more about our neighbouring planet.
+Under the hood
+The ExoMars rover ALD system is designed by Thales Alenia Space in Turin and carries a set of four complex mechanisms developed by OHB in Munich, Germany, that can process and supply soil samples to three scientific instruments. Dedicated control electronics and a thermal control system will keep the system working and operating at the required temperatures while preserving the Mars samples and possible traces of organic molecules.
+The instruments will make a detailed study of the composition and chemistry of the soil samples collected by the rover’s drill. Following a process similar to a factory floor, once acquired from the drill, samples are dropped into a crushing station and pulverised. The fine powder is then dosed and moved on to the next area for precise distribution – either on a refillable container or in thumb-sized ovens where the specimens are analysed.
+The Analytical Laboratory Drawer houses three instruments to search for signs of life on Mars.
+The MicrOmega instrument uses visible and infrared light to characterise minerals in the samples; a Raman spectrometer (developed by INTA) uses a laser to identify mineralogical composition and lastly a combination of a Laser Desorption Mass Spectrometer and a Gas Chromatograph (part of the Mars Organics Molecule Analyser, MOMA) will study and identify soil chemistry. The most scientifically interesting samples, will be dosed into the MOMA ovens. The ALD has 31 ovens, where samples can be heated and the vapour and gases emitted will be analysed with gas chromatography techniques to look for traces of organic compounds.
+Roving laboratory
+The instruments must work with the highest level of precision in an environment that is far from the pristine interiors common in laboratories on Earth. Rosalind Franklin can expect harsh days and nights on Mars with temperatures dropping to –120°C outside, and –60°C inside the rover.
+“The ALD behaved well with good results from both mechanisms and instruments during operations,” says Frédéric Didot, ESA ExoMars ALD system engineer.
+“The Mars environment tests were performed according to the project’s schedule thanks to the effort and dedication of industry and instrument teams supporting this amazing project.”
+The Exomars mission is in its final stages of preparation, the landing platform was delivered by Roscosmos’ prime contractor Lavochkin from Moscow to Turin in March. The ALD Flight Model having now passed these martian simulation tests is shipping to the UK for an arrival at an Airbus site in Stevenage on 8 May where it will be integrated with the rover.
+Notes for editors
+The ExoMars programme is a joint endeavour between ESA and Roscosmos. Thales Alenia Space is prime contractor on both ExoMars missions, 2016 and 2020, at the head of a large industrial consortium. For the 2020 mission, Leonardo will provide the soil sample drill, OHB the carrier module and various rover instruments, while the rover, named after Rosalind Franklin, is supplied by Airbus Defense & Space. NPO Lavochkin will build the descent module and its landing platform.
+For more information, please contact:
+Frédéric Didot
+ESA ExoMars ALD system engineerEmail: frederic.didot@esa.int
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954Email: markus.bauer@esa.int

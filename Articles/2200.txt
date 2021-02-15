@@ -1,0 +1,24 @@
+2019-03-26
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Mars_calling
+Mars calling
+An exciting new competition is giving citizens of planet Earth the opportunity to get their voices to Mars in the next phase of the ExoMars programme. The ExoMars rover and platform will launch to the Red Planet in 2020.
+The joint ESA-Roscosmos mission will investigate, among other things, signs of lightning on Mars using a scientific instrument mounted on the Kazachok surface platform, which arrived to Europe from Russia this week for final assembly. Now your voice can be a part of the mission.
+Lightning strikes?
+Researchers want to investigate the existence of lightning discharges on Mars by measuring fluctuations in the electromagnetic field within the range of audible frequencies. Other observations have shown that lightning exists on Jupiter, Saturn, Uranus and Neptune, but Mars is still unknown.
+While the Rosalind Franklin rover explores its surroundings at the landing site, Oxia Planum, the Czech-made electromagnetic wave analyser, that is part of the MAIGRET instrument mounted on the Kazachok platform, will scan for electromagnetic frequencies that are typical of lightning discharges. In addition to listening for lightning, the platform will also study the climate, atmosphere, radiation, and the possible presence of subsurface water ice in the landing site and surrounding areas.
+Ondrej Santolik, principal investigator for the instrument explains: “We need to store test data on the instrument’s memory chip to transmit back to Earth and verify the functionality of the instrument –rather than include arbitrary wave forms, we decided to use the opportunity as a public outreach event.”
+Jorge Vago, ESA’s ExoMars rover project scientist adds, “The competition does not affect the mission and is a creative way to verify the instrument's functionality, we hope it will inspire many to join our voyage in the search for signs of life on Mars.”
+The deadline for entry is 20 April 2019. Submit and vote for your favourites at mars.vesmir.cz. A public voting system is in place to guide the selection of winners.
+The memory chip will store 11 30-second sound bites to travel to Mars, but only one will be chosen to be broadcast back to Earth. Once the test sound has been transmitted back to Earth as radio waves, it will be analysed to confirm the equipment is ready to start performing its scientific tasks.
+The Call from Mars project was created thanks to the cooperation of the scientists with the Czech science journal Vesmír.
+For further information, please contact:
+Jorge Vago
+ESA ExoMars 2020 project scientist
+Tel: +31 71 565 5211
+Mob: +31 6 27 65 87 70Email: jorge.vago@esa.int
+Ondrej Santolik
+Department of Space Physics, Institute of Atmospheric Physics, Czech Academy of Sciences
+Tel: +420 731 478 881Email:  os@ufa.cas.cz
+Daniel Rodionov
+Roscosmos ExoMars 2020 project scientist
+Space Research Institute of the Russian Academy of Sciences (IKI), Moscow, RussiaEmail: rodionov@iki.rssi.ru

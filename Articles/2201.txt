@@ -1,0 +1,35 @@
+2019-03-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/InSight_lander_among_latest_ExoMars_image_bounty
+InSight lander among latest ExoMars image bounty
+Curious surface features, water-formed minerals, 3D stereo views, and even a sighting of the InSight lander showcase the impressive range of imaging capabilities of the ExoMars Trace Gas Orbiter.
+The ESA-Roscosmos Trace Gas Orbiter, or TGO, launched three years ago today, on 14 March 2016. It arrived at Mars on 19 October that year, and spent over a year demonstrating the aerobraking technique needed to reach its science orbit, starting its prime mission at the end of April 2018.
+Hello, InSight
+Amongst a new showcase of images from the spacecraft’s Colour and Stereo Surface Imaging System, CaSSIS, is an image of NASA’s InSight lander – the first time a European instrument has identified a lander on the Red Planet.
+Insight arrived on Mars on 26 November 2018 to study the interior of the planet. Images of the lander have already been returned by NASA’s Mars Reconnaissance Orbiter; these are the first images from TGO.
+The panchromatic image presented here was captured by CaSSIS on 2 March 2019, and covers an area of about 2.25 x 2.25 km. At that time, InSight was hammering a probe into the surface in order to measure heat coming from inside the planet.
+The CaSSIS view shows InSight as a slightly brighter dot in the centre of the dark patch produced when the lander fired its retro rockets, just before touchdown in the Elysium Planitia region of Mars, and disturbed the surface dust. The heat shield released just before landing can also be seen on the edge of a crater, and the backshell used to protect the lander during descent is also identified.
+“The ExoMars Trace Gas Orbiter is being used to relay data from InSight to Earth,” says Nicolas Thomas, CaSSIS Principal Investigator, from the University of Bern in Switzerland. “Because of this function, to avoid uncertainties in communications, we had not been able to point the camera towards the landing site so far – we had to wait until the landing site passed directly under the spacecraft to get this image.”
+CaSSIS is expected to provide additional support to the InSight team by observing the surface of Mars in the area surrounding the lander. If the seismometer picks up a signal, the source might be a meteorite impact. One of CaSSIS’s tasks will be to help search for the impact site, which will allow the InSight team to better constrain the internal properties of Mars near the landing site.
+The image of InSight also demonstrates that CaSSIS will be able to take pictures of the future ExoMars mission. The mission comprises a rover – named Rosalind Franklin – together with a surface science platform, and is due to be launched in July 2020, arriving at Mars in March 2021. TGO will also act as the data relay for the rover.
+Science showcaseAlso released today is a selection of images capturing the impressive science capabilities of CaSSIS, ranging from high-resolution views of intriguing surface features and images that highlight the diversity of minerals on the surface, to 3D stereo views and digital terrain models.
+The images selected include detailed views of layered deposits in the polar regions, the dynamic nature of Mars dunes, and the surface effects of converging dust devils. The stereo images bring the scenes alive by providing an extra insight into elevation differences, which is essential for deciphering the history in which different layers and deposits were laid down
+Colour-composite images are processed to better highlight the contrast of surface features. Combined with data from other instruments, this allows scientists to trace out regions that have been influenced by water, for example. These images can also be used to help guide surface exploration missions and provide broader regional context for landers and rovers.
+“The InSight landing site image is just one of many really high quality images that we have been receiving,” adds Nicolas. “All of the images we’re sharing today represent some of the best from the last few months. We’re also really pleased with the digital terrain models.”
+“This stunning image showcase really demonstrates the scientific potential we have with TGO’s imaging system,” says Håkan Svedhem, ESA’s TGO project scientist. “Over the course of the mission we’ll be able to investigate dynamic surface processes, including those that might also help to constrain the atmospheric gas inventory that TGO’s spectrometers have been analysing, as well as characterise future landing sites.”
+Click here for the full image gallery.
+Notes for editors
+The images have been produced by teams from the University of Bern, Switzerland; the University of Arizona, USA; and INAF-Padova, Italy.
+Read the University of Bern press release here
+For more information, please contact:
+Nicolas Thomas
+CaSSIS Principal Investigator
+Center for Space and Habitability (CSH)
+University of Bern, Switzerland
+Phone: +41 31 631 44 06Email: nicolas.thomas@space.unibe.ch
+Håkan Svedhem
+ESA TGO project scientist
+European Space AgencyEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science Programme Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954Email: markus.bauer@esa.int

@@ -1,0 +1,30 @@
+2018-04-09
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/ExoMars_poised_to_start_science_mission
+ExoMars poised to start science mission
+The ExoMars orbiter will soon begin its search for gases that may be linked to active geological or biological activity on the Red Planet.
+The Trace Gas Orbiter has reached its final orbit after a year of ‘aerobraking’ that ended in February. This exciting operation saw the craft skimming through the very top of the upper atmosphere, using drag on its solar wings to transform its initial highly elliptical four-day orbit of about 200 x 98 000 km into the final, much lower and near-circular path at about 400 km.
+It is now circling Mars every two hours and, after calibration and installation of new software, it will begin routine scientific observations.
+“This is a major milestone for our ExoMars programme, and a fantastic achievement for Europe,” says Pia Mitschdoerfer, Trace Gas Orbiter mission manager.
+“We have reached this orbit for the first time through aerobraking and with the heaviest orbiter ever sent to the Red Planet, ready to start searching for signs of life from orbit.”
+“We will start our science mission in just a couple of weeks and are extremely excited about what the first measurements will reveal,” says Håkan Svedhem, the orbiter’s project scientist.
+“We have the sensitivity to detect rare gases in minute proportions, with the potential to discover if Mars is still active today – biologically or geologically speaking.”
+The primary goal is to take a detailed inventory of trace gases – those that make up less than 1% of the total volume of the planet’s atmosphere. In particular, the orbiter will seek evidence of methane and other gases that could be signatures of active biological or geological activity.
+On Earth, living organisms release much of the planet’s methane. It is also the main component of naturally occurring hydrocarbon gas reservoirs, and a contribution is also provided by volcanic and hydrothermal activity.
+Methane on Mars is expected to have a rather short lifetime – around 400 years – because it is broken down by ultraviolet light from the Sun. It also reacts with other species in the atmosphere, and is subject to mixing and dispersal by winds. That means, if it is detected today, it was likely created or released from an ancient reservoir relatively recently.
+Previous possible detections of methane by ESA’s Mars Express and more recently by NASA’s Curiosity rover have been hinted at, but are still the subject of much debate.
+The Trace Gas Orbiter can detect and analyse methane and other trace gases even in extremely low concentrations, with an improved accuracy of three orders of magnitude over previous measurements. It will also be able to help distinguish between the different possible origins.
+The four instruments will make complementary measurements of the atmosphere, surface and subsurface. Its camera will help to characterise features on the surface that may be related to trace-gases sources.
+Its instruments will also look for water-ice hidden just below the surface, which along with potential trace gas sources could guide the choice for future mission landing sites.
+It will also soon start providing communication relay for NASA’s Opportunity and Curiosity rovers, ahead of the arrival of NASA’s InSight lander later this year, and for the ExoMars rover and surface science platform in March 2021.
+Preliminary relay tests with NASA’s rovers were conducted in November 2016, shortly after the orbiter’s arrival at Mars. Eventually, it will provide multiple data relay connections each week.
+The ExoMars programme is a joint endeavour between ESA and Roscosmos.
+For more information, please contact:
+Pia Mitschdoerfer
+ESA TGO mission managerEmail: pia.mitschdoerfer@esa.int
+Håkan Svedhem
+ESA TGO project scientistEmail: hakan.svedhem@esa.int
+Markus Bauer
+ESA Science Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

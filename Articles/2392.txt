@@ -1,0 +1,22 @@
+2016-04-14
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/First_light_for_ExoMars
+First light for ExoMars
+The ESA–Roscosmos ExoMars spacecraft are in excellent health following launch last month, with the orbiter sending back its first test image of a starry view taken en route to the Red Planet.
+In the weeks following liftoff on 14 March, mission operators and scientists have been intensively checking the Trace Gas Orbiter (TGO) and the Schiaparelli entry, descent, and landing demonstrator to ensure they will be ready for Mars in October.
+TGO’s control, navigation and communication systems have been set up, the 2.2 m-diameter high-gain dish is already providing a 2 Mbit/s link with Earth, and the science instruments have undergone initial checks.
+Once orbiting Mars, TGO will embark on a mission to measure the abundance and distribution of rare gases in the atmosphere with its sophisticated sensors. Of particular interest is methane, which could point to active geological or biological processes on the planet.
+Meanwhile, Schiaparelli will demonstrate the technology needed to make a controlled landing on the planet, set for 19 October.
+“All systems have been activated and checked out, including power, communications, startrackers, guidance and navigation, all payloads and Schiaparelli, while the flight control team have become more comfortable operating this new and sophisticated spacecraft,” says Peter Schmitz, ESA’s Spacecraft Operations Manager.
+On 7 April, TGO’s high-resolution camera was switched on for the first time, acquiring its first images of space.
+The view shows a randomly selected portion of the sky close to the southern celestial pole. This image is composed of two frames taken in slightly different directions by using the camera’s rotation mechanism. Subtracting one frame from the other reveals a number of equally offset positive and negative images of stars.
+This shows that the camera and its pointing mechanism are working well.
+“The initial switch-on went quite smoothly and so far things look good,” says Nicolas Thomas from the University of Bern in Switzerland, and camera principal investigator.
+“Although it was not designed to look at faint stars, these first images are very reassuring. Everything points to us being able to get good data at Mars.”
+Once at Mars, it will study surface features – including those that may be related to gas sources such as volcanoes.
+The trace gas sensors, along with the atomic particle detector that will be able to detect buried water-ice deposits, were also all switched on for the first time last week, and science teams obtained first test data.
+Engineers have also begun an intensive series of checks on Schiaparelli’s flight systems and instruments.
+While primarily a technology demonstrator, Schiaparelli will conduct a number of environmental studies during its short mission on the surface of Mars. For example, it will make the first measurements of electric fields that, combined with measurements of the concentration of atmospheric dust, will provide new insights into the role of electric forces on dust lifting – a possible trigger for dust storms.
+It will also take a handful of images during its six-minute descent to the surface.
+“TGO and Schiaparelli instruments are all working well, and the science teams that operate them will continue calibration and configuration checks while en route to Mars to ensure they are ready for the exciting mission that lies ahead,” says Håkan Svedhem, ESA’s ExoMars 2016 project scientist.
+One upcoming milestone is a major course correction in July, which will line the spacecraft up for arrival at Mars on 19 October.
+As of today, one month following launch, TGO and Schiaparelli have completed more than 83 million km of their 500 million km journey to Mars.

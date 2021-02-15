@@ -1,0 +1,39 @@
+2017-03-28
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/Final_two_ExoMars_landing_sites_chosen
+Final two ExoMars landing sites chosen
+Two ancient sites on Mars that hosted an abundance of water in the planet’s early history have been recommended as the final candidates for the landing site of the 2020 ExoMars rover and surface science platform: Oxia Planum and Mawrth Vallis.
+A primary technical constraint is that the landing site be at a suitably low level, so that there is sufficient atmosphere to help slow the landing module’s parachute descent.
+Then, the 120 x 19 km landing ellipse should not contain features that could endanger the landing, the deployment of the surface platform ramps for the rover to exit, and driving of the rover. This means scrutinising the region for steep slopes, loose material and large rocks.
+Oxia Planum was selected in 2015 for further detailed evaluation. Although not yet complete, the investigation so far indicates that the region would meet the various constraints. In addition, one other site had to be chosen from Aram Dorsum and Mawrth Vallis.
+After a two-day meeting with experts from the Mars science community, industry, and ExoMars project, during which the scientific merits of the three sites were presented alongside the preliminary compliance status with the engineering constraints, it was concluded that Mawrth Vallis will be the second site to be evaluated in more detail.
+Around a year before launch, the final decision will be taken on which site will become the ExoMars 2020 landing target.
+All of the sites lie just north of the equator, in a region with many channels cutting through from the southern highlands to the northern lowlands. As such, they preserve a rich record of geological history from the planet’s wetter past billions of years ago, and are prime targets for missions like ExoMars that are searching for signatures of past life on Mars.
+Oxia Planum lies at a boundary where many channels emptied into the vast lowland plains and exhibits layers of clay-rich minerals that were formed in wet conditions some 3.9 billion years ago.
+Observations from orbit show that the minerals in Oxia Planum are representative of those found in a wide area around this region, and so would provide insight into the conditions experienced at a global scale during this epoch of martian history.
+Mawrth Vallis is a large outflow channel a few hundred kilometres away from Oxia Planum. The proposed landing ellipse is just to the south of the channel. The entire region exhibits extensively layered, clay-rich sedimentary deposits, and a diversity of minerals that suggests a sustained presence of water over a period of several hundred million years, perhaps including localised ponds.
+In addition, light-toned fractures containing ‘veins’ of water-altered minerals point to interactions between rocks and liquid in subsurface aquifers, and possible hydrothermal activity that may have been beneficial to any ancient life forms.
+Mawrth Vallis offers a window into a large period of martian history that could probe the early evolution of the planet’s environment over time.
+“While all three sites under discussion would give us excellent opportunities to look for signatures of ancient biomarkers and gain new insights into the planet’s wetter past, we can only carry two sites forward for further detailed analysis,” says Jorge Vago, ESA’s ExoMars rover project scientist.
+"Thus, after an intense meeting, which focused primarily on the scientific merits of the sites, the Landing Site Selection Working Group has recommended that Mawrth Vallis join Oxia Planum as one of the final two candidates for the ExoMars 2020 mission.
+“Both candidate sites would explore a period of ancient martian history that hasn’t been studied by previous missions.”
+Efforts will now focus on understanding these two sites in the greatest possible detail. On the science side, this includes identifying specific sites where the rover could use its drill to retrieve samples from below the surface, and to define possible traverses it could make covering up to 5 km from its touchdown point in order to reach the maximum number of interesting sites.
+On the engineering side, teams will continue to map the distribution and sizes of rocks and craters, and to document the angles of local slopes and the coverage of soft ‘sand’, to ensure the landing and traverses across the planet are as safe as possible. A detailed study will now begin for Mawrth Vallis.
+The rover and stationary surface science platform contain suites of instruments that will conduct a thorough analysis of the landing site and its surroundings. While the rover will drive to different locations to analyse the surface and subsurface in search of clues for past life, the stationary platform will provide context imaging at the landing site, and long-term climate monitoring and atmospheric investigations.
+ExoMars, a joint endeavour between ESA and Roscosmos, is a two part mission: the Trace Gas Orbiter arrived at Mars in late 2016, and in addition to its own science mission analysing the atmosphere for rare gases that may be related to biological or geological activity, it will also act as a data relay for the 2020 mission.
+Notes for Editors
+Explore ExoMars landing sites with the interactive tool Where on Mars.
+Detailed descriptions of the three sites considered in the latest meeting are available here:
+Aram Dorsum
+Mawrth VallisOxia Planum
+More information about the Landing Site Selection Working Group is available here.
+For further information, please contact:
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int
+Jorge Vago
+ESA ExoMars 2020 project scientist
+Scientific Support Office,
+Directorate of Science and Robotic Exploration
+Tel: +31 71 565 5211 / +31 6 27 65 87 70Email: jorge.vago@esa.int

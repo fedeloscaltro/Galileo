@@ -1,0 +1,64 @@
+2019-04-10
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Exploration/ExoMars/First_results_from_the_ExoMars_Trace_Gas_Orbiter
+First results from the ExoMars Trace Gas Orbiter
+New evidence of the impact of the recent planet-encompassing dust storm on water in the atmosphere, and a surprising lack of methane, are among the scientific highlights of the ExoMars Trace Gas Orbiter’s first year in orbit.
+Two papers are published in the journal Nature today describing the new results, and reported in a dedicated press briefing at the European Geosciences Union in Vienna.
+A third paper, submitted to the Proceedings of the Russian Academy of Science, presents the most detailed map ever produced of water-ice or hydrated minerals in the shallow subsurface of Mars.
+The joint ESA-Roscosmos ExoMars Trace Gas Orbiter, or TGO, arrived at the Red Planet in October 2016, and spent more than one year using the aerobraking technique needed to reach its two-hour science orbit, 400 km above the surface of Mars.
+“We are delighted with the first results from the Trace Gas Orbiter,” says Håkan Svedhem, ESA’s TGO project scientist.
+“Our instruments are performing extremely well and even within the first few months of observation were already providing exquisite data to a much higher level than previously achieved.”
+TGO’s main science mission began at the end of April 2018, just a couple of months before the start of the global dust storm that would eventually lead to the demise of NASA’s Opportunity rover after 15 years roving the martian surface.
+Spacecraft in orbit, however, were able to make unique observations, with TGO following the onset and development of the storm and monitoring how the increase in dust affected the water vapour in the atmosphere – important for understanding the history of water at Mars over time.
+Exploiting the dust storm
+Two spectrometers onboard – NOMAD and ACS – made the first high-resolution solar occultation measurements of the atmosphere, looking at the way sunlight is absorbed in the atmosphere to reveal the chemical fingerprints of its ingredients.
+This enabled the vertical distribution of water vapour and ‘semi-heavy’ water – with one hydrogen atom replaced by a deuterium atom, a form of hydrogen with an additional neutron – to be plotted from close to the martian surface to above 80 km altitude. The new results track the influence of dust in the atmosphere on water, along with the escape of hydrogen atoms into space.
+“In the northern latitudes we saw features such as dust clouds at altitudes of around 25–40 km that were not there before, and in southern latitudes we saw dust layers moving to higher altitudes,” says Ann Carine Vandaele, principal investigator of the NOMAD instrument at the Royal Belgian Institute for Space Aeronomy.
+“The enhancement of water vapour in the atmosphere happened remarkably quickly, over just a few days during the onset of the storm, indicating a swift reaction of the atmosphere to the dust storm.”
+The observations are consistent with global circulation models. Dust absorbs the Sun’s radiation, heating the surrounding gas and causing it to expand, in turn redistributing other ingredients – like water – over a wider vertical range. A higher temperature contrast between equatorial and polar regions is also set up, strengthening atmospheric circulation. At the same time, thanks to the higher temperatures, fewer water-ice clouds form – normally they would confine water vapour to lower altitudes.
+The teams also made the first observation of semi-heavy water simultaneously with water vapour, providing key information on the processes that control the amount of hydrogen and deuterium atoms escaping to space. It also means the deuterium-to-hydrogen (D/H) ratio can be derived, which is an important marker for the evolution of the water inventory on Mars.
+“We see that water, deuterated or not, is very sensitive to the presence of ice clouds, preventing it from reaching atmospheric layers higher up. During the storm, water reached  much higher altitudes,” says Ann Carine.“This was theoretically predicted by models for a long time but this is the first time we have been able to observe it.”
+Since the D/H ratio is predicted to change with the season and with latitude, TGO’s continued regional and seasonal measurements are expected to provide further evidence of the processes at play.
+Methane mystery plot thickens
+The two complementary instruments also started their measurements of trace gases in the martian atmosphere. Trace gases occupy less than one percent of the atmosphere by volume, and require highly precise measurement techniques to determine their exact chemical fingerprints in the composition. The presence of trace gases is typically measured in ‘parts per billion by volume’ (ppbv), so for the example for Earth’s methane inventory measuring 1800 ppbv, for every billion molecules, 1800 are methane.
+Methane is of particular interest for Mars scientists, because it can be a signature of life, as well as geological processes – on Earth, for example, 95% of methane in the atmosphere comes from biological processes. Because it can be destroyed by solar radiation on timescales of several hundred years, any detection of the molecule in present times implies it must have been released relatively recently – even if the methane itself was produced millions or billions of years ago and remained trapped in underground reservoirs until now. In addition, trace gases are mixed efficiently on a daily basis close to the planet’s surface, with global wind circulation models dictating that methane would be mixed evenly around the planet within a few months.
+Reports of methane in the martian atmosphere have been intensely debated because detections have been very sporadic in time and location, and often fell at the limit of the instruments’ detection limits. ESA’s Mars Express contributed one of the first measurements from orbit in 2004, at that time indicating the presence of methane amounting to 10 ppbv.
+Earth-based telescopes have also reported both non-detections and transient measurements up to about 45 ppbv, while NASA’s Curiosity rover, exploring Gale Crater since 2012, has suggested a background level of methane that varies with the seasons between about 0.2 and 0.7 ppbv – with some higher level spikes. More recently, Mars Express observed a methane spike one day after one of Curiosity’s highest-level readings.
+The new results from TGO provide the most detailed global analysis yet, finding an upper limit of 0.05 ppbv, that is, 10–100 times less methane than all previous reported detections. The most precise detection limit of 0.012 ppbv was achieved at 3 km altitude.
+As an upper limit, 0.05 ppbv still corresponds to up to 500 tons of methane emitted over a 300 year predicted lifetime of the molecule when considering atmospheric destruction processes alone, but dispersed over the entire atmosphere, this is extremely low.
+“We have beautiful, high-accuracy data tracing signals of water within the range of where we would expect to see methane, but yet we can only report a modest upper limit that suggests a global absence of methane,” says ACS principal investigator Oleg Korablev from the Space Research Institute, Russian Academy of Sciences, Moscow.
+“The TGO’s high-precision measurements seem to be at odds with previous detections; to reconcile the various datasets and match the fast transition from previously reported plumes to the apparently very low background levels, we need to find a method that efficiently destroys methane close to the surface of the planet.”
+“Just as the question of the presence of methane and where it might be coming from has caused so much debate, so the issue of where it is going, and how quickly it can disappear, is equally interesting,” says Håkan.
+“We don’t have all the pieces of the puzzle or see the full picture yet, but that is why we are there with TGO, making a detailed analysis of the atmosphere with the best instruments we have, to better understand how active this planet is – whether geologically or biologically.”
+Best map of shallow subsurface water
+While the lively debate on the nature and presence of methane continues, one sure thing is that water once existed on Mars – and still does in the form of water-ice, or as water-hydrated minerals. And where there was water, there might have been life.
+To help understand the location and history of water on Mars, TGO’s neutron detector FREND is mapping the distribution of hydrogen in the uppermost metre of the planet’s surface. Hydrogen indicates the presence of water, being one of the constituents of the water molecule; it can also indicate water absorbed into the surface, or minerals that were formed in the presence of water.
+The instrument’s mapping task will take about one Mars year – almost two Earth years – to produce the best statistics to generate the highest quality map. But the first maps presented based on just a few month’s data already exceed the resolution of previous measurements.
+“In just 131 days the instrument had already produced a map that has a higher resolution than that of the 16 years data from its predecessor onboard NASA’s Mars Odyssey – and it is set to continue getting better,” says Igor Mitrofanov, principal investigator of the FREND instrument at the Space Research Institute, Russian Academy of Sciences, Moscow.
+Aside from the obviously water-rich permafrost of the polar regions, the new map provides more refined details of localised ‘wet’ and ‘dry’ regions. It also highlights water-rich materials in equatorial regions that may signify the presence of water-rich permafrost in present times, or the former locations of the planet’s poles in the past.
+“The data is continually improving and we will eventually have what will become the reference data for mapping shallow subsurface water-rich materials on Mars, crucial for understanding the overall evolution of Mars and where all the present water is now,” adds Igor. “It is important for the science on Mars, and it is also valuable for future Mars exploration.”
+“We have already been enjoying beautiful images and stereo views of Mars thanks to the TGO’s imaging system and now we are delighted to share the first look at data from the other instruments,” concludes Håkan.
+“We have a promising future in contributing to the many fascinating aspects of Mars science, from the distribution of subsurface water, to active surface processes and to the mysteries of the martian atmosphere.”
+Notes for editors
+“Early observations by ExoMars Trace Gas Orbiter show no signs of methane on Mars” by O. Korablev et al, is published in the journal Nature.
+“Martian dust storm impact on atmospheric water and D/H observed by ExoMars Trace Gas Orbiter” by A.C Vandaele et al, is published in the journal Nature.
+“Neutron Mapping of Mars with High Spatial Resolution: First Results of FREND experiment of the ExoMars Project” by I.G. Mitrofanov et al, is accepted for publication in the Proceedings of the Russian Academy of Science, the Branch of Physical Science.
+The results were presented during a press briefing at the EGU General Assembly in Vienna, Austria. Click here for a replay of the briefing.
+For more information, please contact:
+Håkan Svedhem
+ESA ExoMars TGO project scientistEmail:hakan.svedhem@esa.int
+Ann Carine Vandaele
+NOMAD principal investigator
+Royal Belgian Institute for Space Aeronomy, BelgiumEmail: a-c.vandaele@aeronomie.be
+Oleg Korablev
+ACS principal investigator
+Space Research Institute, Russian Academy of Sciences
+Moscow, RussiaEmail:korab@iki.rssi.ru
+Igor Mitrofanov
+FREND principal investigator
+Space Research Institute, Russian Academy of Sciences
+Moscow, RussiaEmail: mitrofanov@np.cosmos.ru
+Markus Bauer
+ESA Science and Robotic Exploration Communication Officer
+Tel: +31 71 565 6799
+Mob: +31 61 594 3 954
+Email: markus.bauer@esa.int

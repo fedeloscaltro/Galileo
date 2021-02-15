@@ -1,0 +1,22 @@
+2001-12-19
+https://www.esa.int/Science_Exploration/Human_and_Robotic_Exploration/Education/Six_EU-prize_winners_visit_ESA_ESTEC
+Six EU-prize winners visit ESA/ESTEC
+From 12-16 November, the ISS User Information Centre at ESTEC (NL) hosted a week-long programme for six winners of the 12th European Union Young Scientists’ Contest.
+EU-contest
+Set up to promote cooperation and interaction between young scientists, the EU Young Scientists’ awards give students the opportunity to compete against the best of their contemporaries at European level. A jury of 15 internationally renowned scientists evaluates the projects, awarding prizes in several different categories. Award winning students are given the opportunity to join research scientists and engineers on projects throughout the European Union.
+Six computer science students
+The six students, who received their award for their projects in computer science, were:
+Gabor Guta (University of Debrecen, Hungary)Stimulator with ultra low noise
+Alberto Calatroni (Politecnico di Milano, Italy)Eurotitrations: a software simulating acid-base titrations
+Vaclav Rehak (Czech Technical University, Czech Republic)Modelling of social phenomena using cellular automata (Prisoners’ Dilemma)
+Nika Beruchashvili (Tbilisi State University, Georgia)Unknown and potential virgin landscapes of Georgia
+Introductory sessions
+The students were introduced to ESA’s activities in human spaceflight and weightlessness. During their week at ESA’s International Space Station User Information Centre they started with introductory sessions on topics such as life and material science, and the challenges of life as an astronaut.
+The students went on to learn about performing experiments in weightlessness. They were first shown OLE, an experiment performed by four Spanish students during ESA’s parabolic flight campaign in May of this year. OLE shows how drops of liquid interact with a liquid surface under various conditions of gravity. Professor Juan Garcia-Ruiz presented his crystallization experiment that looks at how protein crystals grow in weightlessness. The experiment was brought back to Earth from the International Space Station at the end of October with the European astronaut Claudie Haigneré.
+ISS Virtual Reality tour
+The prizewinners had two days of hands-on training in the Columbus Laboratory mock-up. To fully prepare the students they were first introduced to the astronaut training programme and the role of an astronaut in carrying out research. A Virtual Reality tour of the International Space Station gave the group a feel for the environment in which the astronauts live and work.
+Realistic hands-on training
+During the hands-on training, each student performed two experiments. The experiments were run in the Columbus Laboratory mock-up and the results were monitored in the User Home Base.
+The two experiments were:
+To make their experience even more realistic, all communications between the astronauts in the laboratory and the scientists ‘back on Earth’ went via the Cap Com – the communications system used for the ISS.
+By the end of the week the students were able to understand the steps needed to perform their own experiments under weightlessness, be it on a parabolic flight campaign or on the International Space Station. For one week at least, these young scientists turned their dreams into reality.

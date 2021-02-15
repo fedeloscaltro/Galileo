@@ -1,0 +1,29 @@
+2016-06-15
+https://www.esa.int/Enabling_Support/Operations/A_little_help_from_friends
+A little help from friends
+ESA’s first Mars orbiter will provide an important helping hand when the second arrives at the Red Planet in October.
+Following lift off in March, the ExoMars Trace Gas Orbiter (TGO) and the Schiaparelli lander are now enroute to Mars, with arrival set for 19 October.
+Upon arrival, Schiaparelli will demonstrate the technology needed to make a controlled landing.
+Afterwards, once in its working orbit at Mars, TGO will begin analysing rare gases in the planet’s atmosphere, especially methane, which on Earth points to active geological or biological processes.
+But they have to arrive at the planet first, and that’s where the 13 year-old Mars Express will lend a crucial helping hand – or, rather, ear.
+Separation, atmospheric entry, descent, landing
+On 16 October, Schiaparelli will separate and, three days later, descend and land as TGO enters orbit.
+On landing day, ESA’s Mars Express, which has been delivering spectacular science data since 2003, will record signals from Schiaparelli for mission control to confirm a safe arrival and later reconstruct its descent.
+“This will use the Mars Express Melacom communication system, originally carried for communications with the Beagle 2 lander and NASA rovers,” says James Godfrey, Mars Express deputy spacecraft operations manager.
+“This will enable Mars Express to detect and record critical Schiaparelli descent events, such as entry into the atmosphere, parachute deployment, heatshield release, touchdown and start of surface activities.”
+The orbit of Mars Express was adjusted in February for it to be in the right part of the martian sky to hear the signals transmitted from the descending Schiaparelli.
+Tight coordination for Mars landing
+On 19 October, about 80 minutes before landing, Schiaparelli will wake up and a few minutes later begin transmitting a beacon signal.
+Mars Express will already have pointed Melacom’s small antenna to the spot above the planet where Schiaparelli will appear, and will begin recording the beacon, turning to follow the descent path.
+“Recording will continue through touchdown and the first 15 minutes of surface operation, after which Schiaparelli will switch off and Mars Express will stop recording,” says Simon Wood, Mars Express spacecraft operations engineer.
+This will enable Mars Express to detect and record critical Schiaparelli descent events, such as parachute deployment, touchdown and start of surface activities.
+“Then, Mars Express will turn its main antenna towards Earth and begin downloading data that contain the first in-situ confirmation from Mars of Schiaparelli’s arrival and landing.”
+Melacom’s software was recently updated to be compatible with Schiaparelli’s transmitter. On 15 June, it will be tested while flying over NASA’s Curiosity rover, which will transmit a signal similar to Schiaparelli’s.
+Even more friends
+Mars Express won’t be the only set of ‘ears’ listening in to Schiaparelli’s descent that day.
+At Mars, NASA’s Mars Reconnaissance Orbiter will monitor signals from Schiaparelli, but only after landing, as it comes within view.
+TGO, while firing its engine to brake into orbit, will record Schiaparelli’s descent and landing, but these data can only be downloaded some hours later.
+In the following days, Mars Express and NASA’s three orbiters will each serve as data relays, overflying Schiaparelli’s landing site in Meridiani Planum once or twice per day, picking up signals from the lander during its surface mission of two–four days, and relaying them to Earth.
+Mars Express will also contribute to Schiaparelli’s mission with remote-sensing measurements over the landing site for several weeks before.
+“The Mars Express science team is looking forward to TGO’s arrival at Mars, which will allow combining capabilities of both spacecraft in investigating the Red Planet,” says Dmitri Titov, Mars Express project scientist.
+“It’s perhaps fitting that ESA’s newest mission to Mars is being supported by ESA’s oldest, which after 13 years will provide still more valuable service by relaying the news of Schiaparelli’s arrival on the surface,” says Patrick Martin, ESA’s Mars Express mission manager.

@@ -23,7 +23,7 @@ def results():
     # articles, dym = processer(query)  # call the processor on the "query"
 
     ap = [0 for j in range(11)]
-
+    mean_ap = 0
     with open("../benchmark/test_queries", "r") as file:
     	n = 1
     	for q in file.readlines():
@@ -34,12 +34,18 @@ def results():
     		for i in range(11):
     			print(test_ap[i])
     			ap[i] += test_ap[i]
+    		mean_ap += sum(test_ap)/10
     		n += 1
 
+    n -= 1
     for i in range(11):
-    	ap[i] /= n
-
+    	ap[i] /= n    
     print(ap)
+
+    mean_ap /= n
+    print(mean_ap)
+
+    print(n)
 
     return render_template('results.html', context=articles, dym=dym)
 
@@ -81,6 +87,11 @@ def benchmark(articles, query, i):
 				ap[recall] += int(precision)
 	
 	return ap
+
+
+# def DCG():
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)

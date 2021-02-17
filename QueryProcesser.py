@@ -1,6 +1,8 @@
 from whoosh.index import open_dir
 from whoosh.qparser import MultifieldParser, QueryParser, WildcardPlugin, OrGroup
 from whoosh.qparser.dateparse import DateParserPlugin
+from whoosh import scoring
+from whoosh.query import Variations
 import re
 
 
@@ -72,7 +74,7 @@ def processer(query):
 
     # setting the query parse with the specified field of the schema
     parser = MultifieldParser(["title", "content"],
-                              ix.schema, group=OrGroup)
+                              ix.schema, group=OrGroup, termclass=Variations)
     parser.add_plugin(DateParserPlugin(free=True))  # Add the DateParserPlugin to the parser
 
     exp = re.compile("\{.*?\}")

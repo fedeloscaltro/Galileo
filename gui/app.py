@@ -22,41 +22,42 @@ def results():
              'space': request.args.get('Space.com'), 'blue_origin': request.args.get('BlueOrigin'),
              'from': request.args.get('dataInizio'), 'to': request.args.get('dataFine')}
     # articles, dym = processer(query)  # call the processor on the "query"
-
-    ap = [0 for j in range(11)]
-    mean_ap = 0
-    mean_NDCG = 0
-    with open("../benchmark/test_queries", "r") as file:
-    	n = 1
+    
+    ap = [0 for j in range(11)]		# list for average precision at recall level R
+    mean_ap = 0		# MAP
+    mean_NDCG = 0	# NDCG
+    with open("../benchmark/test_queries", "r") as file:	# file containig the queries for testing
+    	n = 1	# number of queries
     	for q in file.readlines():
     		query['text'] = q
-    		print(q)
-    		articles, dym = processer(query)
-    		test_ap, NDCG = benchmark(articles, query, n)
+    		articles, dym = processer(query)	# process the query
+    		test_ap, NDCG = benchmark(articles, query, n)	# retrieve AP and NDCG
     		for i in range(11):
     			print(test_ap[i])
-    			ap[i] += test_ap[i]
-    		mean_ap += sum(test_ap)/10
-    		mean_NDCG += NDCG
+    			ap[i] += test_ap[i]		# sum the values for the AP
+    		mean_ap += sum(test_ap)/10	# sum the values for the MAP
+    		mean_NDCG += NDCG 	# sum the NDCG of each query
     		print(NDCG)
     		n += 1
 
     n -= 1
-    n_th = 4
     for i in range(11):
-    	ap[i] /= (n - n_th)    
+    	ap[i] /= n 	# calculate the AP at each recall level
     print(ap)
 
-    mean_ap /= (n - n_th)
+    mean_ap /= n 	# calculate the MAP
     print(mean_ap)
 
-    mean_NDCG /= (n - n_th)
+    mean_NDCG /= n 	# calculate the mean NDCG
     print(mean_NDCG)
-
+	
     return render_template('results.html', context=articles, dym=dym)
 
 
 def find_nth(haystack, needle, n):
+	"""
+	function used to process the file of test queries
+	"""
     start = haystack.find(needle)
     while start >= 0 and n > 1:
         start = haystack.find(needle, start+len(needle))
@@ -65,9 +66,12 @@ def find_nth(haystack, needle, n):
 
 
 def benchmark(articles, query, i):
+	"""
+	function for calculating the benchmark measures for each query
+	"""
 	ap = [0 for j in range(11)]
-	DCG_dict = {}
-	with open("../benchmark/relevant_documents", "r") as file:
+	DCG_dict = {}	# DCG values of top 10 articles for each query
+	with open("../benchmark/relevant_documents", "r") as file:	# file containing the relevant documents
 		lines = ""
 		for row in file.readlines():
 			lines += row
@@ -81,12 +85,12 @@ def benchmark(articles, query, i):
 
 	relevant_docs = lines.split(',')
 	recall = 0
-	art_cont = 0
-	rel_cont = 0
-	rank_rel = 6
-	c = 1
+	art_cont = 0	# articles counter
+	rel_cont = 0	# relevants counter
+	rank_rel = 6	# actual rank of article (for NDCG)
+	c = 1	# flag
 	GT_DCG = 6
-	for doc in relevant_docs:
+	for doc in relevant_docs:	# set the "ground truth" DCG and values of relevant articles
 		if c > 1:
 			GT_DCG += rank_rel/math.log(c,2)
 		c += 1
@@ -96,8 +100,8 @@ def benchmark(articles, query, i):
 		else:
 			DCG_dict[doc] = rank_rel
 
-	s = 0
-	for i in range(1,11,1):
+	s = 0	# query DCG
+	for i in range(1,11,1):		# calculate the DCG for the articles retrieved
 		if i>len(DCG_dict):
 			break
 		try:
@@ -108,9 +112,9 @@ def benchmark(articles, query, i):
 		except KeyError:
 			continue
 
-	NDCG = s/GT_DCG
+	NDCG = s/GT_DCG		# normalize the DCG by the "ground truth"
 
-	for a in articles:
+	for a in articles:	# calculate the precision at each recall level for each article
 		art_cont += 1
 		for doc in relevant_docs:
 			if a['path'][:-1] == doc:
@@ -119,7 +123,7 @@ def benchmark(articles, query, i):
 				precision = (rel_cont/art_cont) * 100
 				ap[recall] += int(precision)
 	
-	return ap, NDCG
+	return ap, NDCG 	# return the AP and the NDCG
 
 
 if __name__ == "__main__":

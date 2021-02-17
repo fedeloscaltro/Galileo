@@ -2,14 +2,15 @@ import os.path
 
 from whoosh.fields import *
 from whoosh.index import create_in
+from whoosh.analysis import StemmingAnalyzer
 
 
 def main():
     schema = Schema(    # the schema of an indexed file
         date=DATETIME(stored=True),  # date of the article
         path=ID(stored=True),   # url of the article
-        title=TEXT(stored=True, field_boost=2.0),     # title of the article
-        content=TEXT(stored=True)    # content of the article
+        title=TEXT(stored=True, field_boost=2.0, analyzer=StemmingAnalyzer()),     # title of the article
+        content=TEXT(stored=True, analyzer=StemmingAnalyzer())    # content of the article
     )
 
     if not os.path.exists("index"):     # create the directory with the index

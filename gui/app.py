@@ -21,8 +21,9 @@ def results():
     query = {'text': request.args.get('query'), 'esa': request.args.get('ESA'),
              'space': request.args.get('Space.com'), 'blue_origin': request.args.get('BlueOrigin'),
              'from': request.args.get('dataInizio'), 'to': request.args.get('dataFine')}
-    # articles, dym = processer(query)  # call the processor on the "query"
+    articles, dym = processer(query)  # call the processor on the "query"
     
+    """
     ap = [0 for j in range(11)]		# list for average precision at recall level R
     mean_ap = 0		# MAP
     mean_NDCG = 0	# NDCG
@@ -50,19 +51,23 @@ def results():
 
     mean_NDCG /= n 	# calculate the mean NDCG
     print(mean_NDCG)
-	
+	"""
+
     return render_template('results.html', context=articles, dym=dym)
 
+
+# benchmark tools
 
 def find_nth(haystack, needle, n):
 	"""
 	function used to process the file of test queries
 	"""
-    start = haystack.find(needle)
-    while start >= 0 and n > 1:
-        start = haystack.find(needle, start+len(needle))
-        n -= 1
-    return start
+	start = haystack.find(needle)
+	while start >= 0 and n > 1:
+		start = haystack.find(needle, start+len(needle))
+		n -= 1
+
+	return start
 
 
 def benchmark(articles, query, i):

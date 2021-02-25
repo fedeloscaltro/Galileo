@@ -1,19 +1,19 @@
 life on mars
 discover "life form" on mars
 Water in space
-{surface water,RT} AND space
+{water,BT} in space
 Parmitano AND (Expedition 60)
 Parmitano AND missions
 Biden AND NASA
 Biden AND "National Space Council"
 "Moon landing" AND place
-{Lunar reconnaissance Orbiter,RT}
+{lunar landing,NT} "moon landing" AND place
 "Space shuttle program"
-{Space shuttle,RT} AND (Columbia Atlantis)
+{Space shuttle,BT} "space shuttle program"
 Apollo AND missions
 Apollo AND (Armstrong Aldrin)
 "high resolution"
-{image,RT}
+{image,BT} "high resolution"
 "Elon Musk" AND SpaceX AND plan
 "Elon Musk" AND Starship
 Artemis AND (rover Viper)

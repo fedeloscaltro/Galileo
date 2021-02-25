@@ -137,7 +137,7 @@ if __name__ == "__main__":
 
 	plt.rcParams.update({'font.size': 16})
 	x = [i for i in range(1,11,1)]
-	colors = ['green', 'blue', 'black', 'red']
+	colors = ['#FF9E44', '#C06EE2', 'black', '#FF4093']
 	models = ["BM25F", "TF_IDF", "Frequency"]
 	for m in models:
 		AP(m)
